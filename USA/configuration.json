@@ -1,0 +1,101 @@
+{
+  "app": {
+    "city": "San Diego",
+    "dataUrl": "",
+    "activeMeasure": "na"
+  },
+  "locations": [
+    {
+      "name": "Alvarado",
+      "id": "alvarado"
+     },
+     {
+      "name": "Lower Otay",
+      "id": "lower-otay"
+     },
+     {
+      "name": "Miramar",
+      "id": "miramar"
+     }
+  ],
+  "measures": [
+    {
+      "name": "Turbidity",
+      "id": "tu",
+      "limit": 1,
+      "legalLimitText": "-",
+      "average": 0.09,
+      "unit": "ntu"
+    },
+    {
+      "name": "Copper",
+      "id": "cu",
+      "limit": 90,
+      "legalLimitText": "-",
+      "average": 50
+    },
+    {
+      "name": "Lead",
+      "id": "pb",
+      "limit": 10,
+      "legalLimitText": "-",
+      "average": 5
+    },
+    {
+      "name": "Sodium",
+      "id": "na",
+      "limit": 200,
+      "legalLimitText": "-",
+      "average": 99.7
+    },
+    {
+      "name": "Calcium",
+      "id": "ca",
+      "limit": 400,
+      "legalLimitText": "-",
+      "average": 61.5
+    },
+    {
+      "name": "Potassium",
+      "id": "k",
+      "limit": 12,
+      "legalLimitText": "-",
+      "average": 5.2
+    },
+    {
+      "name": "Magnesium",
+      "id": "mg",
+      "limit": 60,
+      "legalLimitText": "-",
+      "average": 26
+    },
+    {
+      "name": "Chloride",
+      "id": "chl",
+      "limit": 240,
+      "legalLimitText": "500 mg/l",
+      "average": 119.8
+    },
+    {
+      "name": "Nitrate",
+      "id": "N",
+      "limit": 10,
+      "legalLimitText": "10 mg/l",
+      "average": 0.4
+    },
+    {
+      "name": "Sulfate",
+      "id": "so4",
+      "limit": 240,
+      "legalLimitText": "500 mg/l",
+      "average": 190.7
+    },
+    {
+      "name": "Hardness",
+      "id": "ca_co3",
+      "limit": 300,
+      "legalLimitText": "-",
+      "average": 276.6
+    }
+  ]
+}
