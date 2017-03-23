@@ -1,0 +1,385 @@
+{ // source https://world.openfoodfacts.org/api/v0/product/3068320084602.json
+    "code": "3068320084602",
+    "product": {
+        "categories_debug_tags": [],
+        "last_image_t": 1486498484,
+        "editors_tags": [
+            "openfoodfacts-contributors",
+            "tacite-mass-editor",
+            "teolemon",
+            "scanbot",
+            "date-limite-app",
+            "openfood-ch-import"
+        ],
+        "packaging_debug_tags": [],
+        "traces": "",
+        "photographers_tags": [
+            "openfoodfacts-contributors",
+            "openfood-ch-import"
+        ],
+        "emb_codes_orig": "",
+        "last_image_dates_tags": [
+            "2017-02-07",
+            "2017-02",
+            "2017"
+        ],
+        "serving_quantity": 0,
+        "traces_tags": [],
+        "labels_hierarchy": [],
+        "editors": [
+            ""
+        ],
+        "languages_codes": {
+            "fr": 2,
+            "de": 1
+        },
+        "last_edit_dates_tags": [
+            "2017-03-23",
+            "2017-03",
+            "2017"
+        ],
+        "quantity": "1.5 l",
+        "additives_tags": [],
+        "countries": "Switzerland, en:france",
+        "purchase_places": "",
+        "created_t": 1401394302,
+        "labels_prev_hierarchy": [],
+        "pnns_groups_1": "Beverages",
+        "languages": {
+            "en:german": 1,
+            "en:french": 2
+        },
+        "sources": [
+            {
+                "url": "https://www.openfood.ch/en/products/4921",
+                "images": [
+                    "2",
+                    "3",
+                    "4"
+                ],
+                "fields": [],
+                "import_t": 1486498484,
+                "id": "openfood-ch"
+            }
+        ],
+        "countries_hierarchy": [
+            "en:france",
+            "en:switzerland"
+        ],
+        "origins": "",
+        "countries_tags": [
+            "en:france",
+            "en:switzerland"
+        ],
+        "ingredients_ids_debug": [],
+        "link": "",
+        "countries_beforescanbot": "Switzerland",
+        "nutrient_levels_tags": [],
+        "product_name_de": "NATÜRLICHES MINERALWASSER",
+        "creator": "openfoodfacts-contributors",
+        "serving_size": "",
+        "last_modified_t": 1490276465,
+        "pnns_groups_2_tags": [
+            "non-sugared-beverages"
+        ],
+        "max_imgid": "4",
+        "image_url": "https://static.openfoodfacts.org/images/products/306/832/008/4602/front_fr.3.400.jpg",
+        "packaging": "",
+        "update_key": "labels20170501",
+        "last_editor": "tacite-mass-editor",
+        "interface_version_modified": "20150316.jqm2",
+        "pnns_groups_2": "Non-sugared beverages",
+        "lc": "fr",
+        "last_modified_by": "tacite-mass-editor",
+        "cities_tags": [],
+        "entry_dates_tags": [
+            "2014-05-29",
+            "2014-05",
+            "2014"
+        ],
+        "correctors_tags": [
+            "teolemon",
+            "date-limite-app",
+            "scanbot"
+        ],
+        "nutrition_data_per": "100g",
+        "additives_old_tags": [],
+        "ingredients_text_debug": "",
+        "nutrition_score_debug": "missing energy",
+        "ingredients_text": "",
+        "labels_tags": [],
+        "product_name_fr": "Eau minérale",
+        "product_name": "Eau minérale",
+        "allergens_hierarchy": [],
+        "ingredients_text_with_allergens_fr": "",
+        "generic_name": "",
+        "states_hierarchy": [
+            "en:to-be-completed",
+            "en:nutrition-facts-to-be-completed",
+            "en:ingredients-to-be-completed",
+            "en:expiration-date-to-be-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-to-be-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-to-be-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-to-be-validated",
+            "en:photos-uploaded"
+        ],
+        "image_front_url": "https://static.openfoodfacts.org/images/products/306/832/008/4602/front_fr.3.400.jpg",
+        "manufacturing_places": "",
+        "nutriments": {},
+        "rev": 12,
+        "no_nutrition_data": "",
+        "manufacturing_places_tags": [],
+        "images": {
+            "front_fr": {
+                "normalize": null,
+                "imgid": "1",
+                "white_magic": null,
+                "rev": "3",
+                "sizes": {
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "200": {
+                        "h": 200,
+                        "w": 150
+                    },
+                    "full": {
+                        "h": 3264,
+                        "w": 2448
+                    },
+                    "400": {
+                        "w": 300,
+                        "h": 400
+                    }
+                },
+                "geometry": "0x0--8--8"
+            },
+            "1": {
+                "uploader": "openfoodfacts-contributors",
+                "uploaded_t": "1469108877",
+                "sizes": {
+                    "full": {
+                        "h": 3264,
+                        "w": 2448
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 75
+                    },
+                    "400": {
+                        "w": 300,
+                        "h": 400
+                    }
+                }
+            },
+            "3": {
+                "sizes": {
+                    "full": {
+                        "h": 1000,
+                        "w": 563
+                    },
+                    "100": {
+                        "w": 56,
+                        "h": 100
+                    },
+                    "400": {
+                        "w": 225,
+                        "h": 400
+                    }
+                },
+                "uploaded_t": 1486498484,
+                "uploader": "openfood-ch-import"
+            },
+            "4": {
+                "uploader": "openfood-ch-import",
+                "uploaded_t": 1486498484,
+                "sizes": {
+                    "400": {
+                        "w": 225,
+                        "h": 400
+                    },
+                    "100": {
+                        "h": 100,
+                        "w": 56
+                    },
+                    "full": {
+                        "w": 563,
+                        "h": 1000
+                    }
+                }
+            },
+            "2": {
+                "uploader": "openfood-ch-import",
+                "sizes": {
+                    "full": {
+                        "w": 563,
+                        "h": 1000
+                    },
+                    "100": {
+                        "w": 56,
+                        "h": 100
+                    },
+                    "400": {
+                        "h": 400,
+                        "w": 225
+                    }
+                },
+                "uploaded_t": 1486498483
+            }
+        },
+        "product_name_debug_tags": [],
+        "lang": "fr",
+        "purchase_places_tags": [],
+        "image_front_thumb_url": "https://static.openfoodfacts.org/images/products/306/832/008/4602/front_fr.3.100.jpg",
+        "informers_tags": [
+            "openfoodfacts-contributors",
+            "teolemon",
+            "date-limite-app",
+            "openfood-ch-import"
+        ],
+        "categories_tags": [
+            "en:beverages",
+            "en:waters",
+            "en:mineral-waters",
+            "en:non-sugared-beverages"
+        ],
+        "languages_hierarchy": [
+            "en:german",
+            "en:french"
+        ],
+        "categories_prev_hierarchy": [
+            "en:beverages",
+            "en:waters",
+            "en:mineral-waters"
+        ],
+        "brands": "Evian",
+        "scans_n": 23,
+        "ingredients_text_with_allergens_de": null,
+        "sortkey": 490276465,
+        "nutrient_levels": {},
+        "languages_tags": [
+            "en:german",
+            "en:french",
+            "en:2",
+            "en:multilingual"
+        ],
+        "debug_param_sorted_langs": [
+            "fr"
+        ],
+        "labels_debug_tags": [],
+        "unique_scans_n": 19,
+        "allergens": "",
+        "brands_tags": [
+            "evian"
+        ],
+        "ingredients_from_palm_oil_tags": [],
+        "categories": "de:Mineralwasser",
+        "unknown_nutrients_tags": [],
+        "expiration_date": "",
+        "ingredients_tags": [],
+        "ingredients_that_may_be_from_palm_oil_tags": [],
+        "allergens_tags": [],
+        "additives_debug_tags": [],
+        "additives_prev_tags": [],
+        "traces_hierarchy": [],
+        "nutrition_grades_tags": [
+            "unknown"
+        ],
+        "complete": 0,
+        "_keywords": [
+            "eau",
+            "minerale",
+            "mineralwasser",
+            "evian"
+        ],
+        "image_thumb_url": "https://static.openfoodfacts.org/images/products/306/832/008/4602/front_fr.3.100.jpg",
+        "code": "3068320084602",
+        "states_tags": [
+            "en:to-be-completed",
+            "en:nutrition-facts-to-be-completed",
+            "en:ingredients-to-be-completed",
+            "en:expiration-date-to-be-completed",
+            "en:packaging-code-to-be-completed",
+            "en:characteristics-to-be-completed",
+            "en:categories-completed",
+            "en:brands-completed",
+            "en:packaging-to-be-completed",
+            "en:quantity-completed",
+            "en:product-name-completed",
+            "en:photos-to-be-validated",
+            "en:photos-uploaded"
+        ],
+        "image_front_small_url": "https://static.openfoodfacts.org/images/products/306/832/008/4602/front_fr.3.200.jpg",
+        "selected_images": {
+            "front": {
+                "display": {
+                    "fr": "https://static.openfoodfacts.org/images/products/306/832/008/4602/front_fr.3.400.jpg"
+                },
+                "thumb": {
+                    "fr": "https://static.openfoodfacts.org/images/products/306/832/008/4602/front_fr.3.100.jpg"
+                },
+                "small": {
+                    "fr": "https://static.openfoodfacts.org/images/products/306/832/008/4602/front_fr.3.200.jpg"
+                }
+            }
+        },
+        "origins_tags": [],
+        "states": "en:to-be-completed, en:nutrition-facts-to-be-completed, en:ingredients-to-be-completed, en:expiration-date-to-be-completed, en:packaging-code-to-be-completed, en:characteristics-to-be-completed, en:categories-completed, en:brands-completed, en:packaging-to-be-completed, en:quantity-completed, en:product-name-completed, en:photos-to-be-validated, en:photos-uploaded",
+        "emb_codes_tags": [],
+        "labels_prev_tags": [],
+        "categories_hierarchy": [
+            "en:beverages",
+            "en:waters",
+            "en:mineral-waters",
+            "en:non-sugared-beverages"
+        ],
+        "pnns_groups_1_tags": [
+            "beverages"
+        ],
+        "image_small_url": "https://static.openfoodfacts.org/images/products/306/832/008/4602/front_fr.3.200.jpg",
+        "ingredients_debug": [],
+        "emb_codes": "",
+        "ingredients_text_fr": "",
+        "stores": "",
+        "stores_tags": [],
+        "packaging_tags": [],
+        "categories_prev_tags": [
+            "en:beverages",
+            "en:waters",
+            "en:mineral-waters"
+        ],
+        "emb_codes_20141016": "",
+        "ingredients_text_with_allergens": "",
+        "generic_name_fr": "",
+        "_id": "3068320084602",
+        "checkers_tags": [],
+        "labels": "",
+        "ingredients": [],
+        "interface_version_created": "20130323.jqm",
+        "id": "3068320084602",
+        "codes_tags": [
+            "code-13",
+            "3068320084602",
+            "306832008460x",
+            "30683200846xx",
+            "3068320084xxx",
+            "306832008xxxx",
+            "30683200xxxxx",
+            "3068320xxxxxx",
+            "306832xxxxxxx",
+            "30683xxxxxxxx",
+            "3068xxxxxxxxx",
+            "306xxxxxxxxxx",
+            "30xxxxxxxxxxx",
+            "3xxxxxxxxxxxx"
+        ]
+    },
+    "status_verbose": "product found",
+    "status": 1
+}

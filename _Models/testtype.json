@@ -1,0 +1,22 @@
+{
+  "Lead (Pb)": "pb",
+  "Specific Conductance (E.C.)": "sp_ec",
+  "filtration_plant": "filtration_plant",
+  "sample_date": "sample_date",
+  "Phosphate, Ortho (as PO4)": "",
+  "Iron (Fe)": "fe",
+  "Copper (Cu)": "cu",
+  "Turbidity": "tu",
+  "Color, Apparent (Unfiltered)": "c_a",
+  "Total Dissolved Solids": "tds",
+  "Potassium (K)": "k",
+  "Nitrate (as N)": "N",
+  "Total Hardness (CaCO3)": "ca_co3",
+  "Chloride": "chl",
+  "Sulfate (SO4)": "so4",
+  "Alkalinity, (Total) (as CaCO3 equivalents)": "alk",
+  "Calcium (Ca)": "ca",
+  "Magnesium (Mg)": "mg",
+  "Sodium (Na)": "na",
+  "Nitrite as N": "ni"
+}
