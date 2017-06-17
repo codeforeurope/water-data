@@ -47,7 +47,7 @@ function getInfo(name, callback) {
         for (var i = 1; i < 9; i++) {
           if(body["ProductLocatie"+i]){
             plants[body["ProductLocatie"+i]] = plants[body["ProductLocatie"+i]] || [];
-            plants[body["ProductLocatie"+i]].push(name);
+            plants[body["ProductLocatie"+i]].push(body.Postcode);
             productlocations.push(body["ProductLocatie"+i]);
           }
           delete body["ProductLocatie"+i];
