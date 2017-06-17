@@ -4,12 +4,16 @@ var fs = require('fs');
 
 var arr = require('./pc4.json');
 var new_array = [];
+var plants = {};
 var errors = [];
 async.map(arr, getInfo, function (e, r) {
   var json = JSON.stringify(new_array,null,2);
   fs.writeFile('zones.json', json, 'utf8', function(err){
-    console.log("finished.");
-    console.log("No evides postalcodes:" + errors.join(","));
+    var json2 = JSON.stringify(plants,null,2);
+    fs.writeFile('plants.json', json2, 'utf8', function(err){
+      console.log("finished.");
+      console.log("No evides postalcodes:" + errors.join(","));
+    });
   });
 });
 
@@ -42,6 +46,8 @@ function getInfo(name, callback) {
         }
         for (var i = 1; i < 9; i++) {
           if(body["ProductLocatie"+i]){
+            plants[body["ProductLocatie"+i]] = plants[body["ProductLocatie"+i]] || [];
+            plants[body["ProductLocatie"+i]].push(name);
             productlocations.push(body["ProductLocatie"+i]);
           }
           delete body["ProductLocatie"+i];

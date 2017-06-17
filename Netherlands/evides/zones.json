@@ -1,18 +1,297 @@
 [
   {
-    "Postcode": "4581",
+    "Postcode": "4525",
     "Hardheid": "8.5",
     "Bron": "Oppervlaktewater",
-    "pc4": 4581,
+    "pc4": 4525,
     "plants": [
       "Braakman"
     ]
   },
   {
-    "Postcode": "4587",
+    "Postcode": "4554",
     "Hardheid": "8.5",
     "Bron": "Oppervlaktewater",
-    "pc4": 4587,
+    "pc4": 4554,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4303",
+    "Hardheid": "13",
+    "Bron": "Duinwater",
+    "pc4": 4303,
+    "plants": [
+      "Haamstede"
+    ]
+  },
+  {
+    "Postcode": "4354",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4354,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "3252",
+    "Hardheid": "14.5",
+    "Bron": "Duinwater",
+    "pc4": 3252,
+    "plants": [
+      "Ouddorp"
+    ]
+  },
+  {
+    "Postcode": "4305",
+    "Hardheid": "13",
+    "Bron": "Duinwater",
+    "pc4": 4305,
+    "plants": [
+      "Haamstede"
+    ]
+  },
+  {
+    "Postcode": "4382",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4382,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4383",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4383,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4416",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4416,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4423",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4423,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4435",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4435,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "3247",
+    "Hardheid": "14.5",
+    "Bron": "Duinwater",
+    "pc4": 3247,
+    "plants": [
+      "Ouddorp"
+    ]
+  },
+  {
+    "Postcode": "4471",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4471,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "3281",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 3281,
+    "plants": [
+      "Berenplaat"
+    ]
+  },
+  {
+    "Postcode": "4522",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4522,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4507",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4507,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4508",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4508,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4561",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4561,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4511",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4511,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4515",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4515,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4532",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4532,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4661",
+    "Hardheid": "8.5",
+    "Bron": "Grondwater",
+    "pc4": 4661,
+    "plants": [
+      "Halsteren"
+    ]
+  },
+  {
+    "Postcode": "4332",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4332,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4323",
+    "Hardheid": "13",
+    "Bron": "Duinwater",
+    "pc4": 4323,
+    "plants": [
+      "Haamstede"
+    ]
+  },
+  {
+    "Postcode": "4328",
+    "Hardheid": "13",
+    "Bron": "Duinwater",
+    "pc4": 4328,
+    "plants": [
+      "Haamstede"
+    ]
+  },
+  {
+    "Postcode": "4365",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4365,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4364",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4364,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "3225",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 3225,
+    "plants": [
+      "Berenplaat"
+    ]
+  },
+  {
+    "Postcode": "4506",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4506,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "3267",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 3267,
+    "plants": [
+      "Berenplaat"
+    ]
+  },
+  {
+    "Postcode": "4589",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4589,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4527",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4527,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4528",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4528,
     "plants": [
       "Braakman"
     ]
@@ -36,48 +315,12 @@
     ]
   },
   {
-    "Postcode": "4561",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4561,
+    "Postcode": "4301",
+    "Hardheid": "13",
+    "Bron": "Duinwater",
+    "pc4": 4301,
     "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4331",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4331,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4531",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4531,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4536",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4536,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4521",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4521,
-    "plants": [
-      "Braakman"
+      "Haamstede"
     ]
   },
   {
@@ -85,141 +328,6 @@
     "Hardheid": "8.5",
     "Bron": "Oppervlaktewater",
     "pc4": 4541,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4554",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4554,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4694",
-    "Hardheid": "8.5",
-    "Bron": "Grondwater",
-    "pc4": 4694,
-    "plants": [
-      "Halsteren"
-    ]
-  },
-  {
-    "Postcode": "4542",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4542,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4302",
-    "Hardheid": "13",
-    "Bron": "Duinwater",
-    "pc4": 4302,
-    "plants": [
-      "Haamstede"
-    ]
-  },
-  {
-    "Postcode": "4328",
-    "Hardheid": "13",
-    "Bron": "Duinwater",
-    "pc4": 4328,
-    "plants": [
-      "Haamstede"
-    ]
-  },
-  {
-    "Postcode": "4339",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4339,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4388",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4388,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4382",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4382,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4565",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4565,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4465",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4465,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "3235",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 3235,
-    "plants": [
-      "Berenplaat"
-    ]
-  },
-  {
-    "Postcode": "3249",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 3249,
-    "plants": [
-      "Ouddorp"
-    ]
-  },
-  {
-    "Postcode": "4584",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4584,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4321",
-    "Hardheid": "13",
-    "Bron": "Duinwater",
-    "pc4": 4321,
-    "plants": [
-      "Haamstede"
-    ]
-  },
-  {
-    "Postcode": "4586",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4586,
     "plants": [
       "Braakman"
     ]
@@ -234,262 +342,55 @@
     ]
   },
   {
-    "Postcode": "4322",
-    "Hardheid": "13",
-    "Bron": "Duinwater",
-    "pc4": 4322,
-    "plants": [
-      "Haamstede"
-    ]
-  },
-  {
-    "Postcode": "4307",
-    "Hardheid": "13",
-    "Bron": "Duinwater",
-    "pc4": 4307,
-    "plants": [
-      "Haamstede"
-    ]
-  },
-  {
-    "Postcode": "4543",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4543,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4327",
-    "Hardheid": "13",
-    "Bron": "Duinwater",
-    "pc4": 4327,
-    "plants": [
-      "Haamstede"
-    ]
-  },
-  {
-    "Postcode": "4334",
+    "Postcode": "4331",
     "Hardheid": "9.5",
     "Bron": "Gemengd grondwater",
-    "pc4": 4334,
+    "pc4": 4331,
     "plants": [
       "Huijbergen en Ossendrecht"
     ]
   },
   {
-    "Postcode": "4383",
+    "Postcode": "4505",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4505,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4339",
     "Hardheid": "9.5",
     "Bron": "Gemengd grondwater",
-    "pc4": 4383,
+    "pc4": 4339,
     "plants": [
       "Huijbergen en Ossendrecht"
     ]
   },
   {
-    "Postcode": "3214",
+    "Postcode": "4529",
     "Hardheid": "8.5",
     "Bron": "Oppervlaktewater",
-    "pc4": 3214,
-    "plants": [
-      "Berenplaat"
-    ]
-  },
-  {
-    "Postcode": "4503",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4503,
+    "pc4": 4529,
     "plants": [
       "Braakman"
     ]
   },
   {
-    "Postcode": "3243",
+    "Postcode": "4581",
     "Hardheid": "8.5",
     "Bron": "Oppervlaktewater",
-    "pc4": 3243,
-    "plants": [
-      "Ouddorp"
-    ]
-  },
-  {
-    "Postcode": "3227",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 3227,
-    "plants": [
-      "Berenplaat"
-    ]
-  },
-  {
-    "Postcode": "4318",
-    "Hardheid": "13",
-    "Bron": "Duinwater",
-    "pc4": 4318,
-    "plants": [
-      "Haamstede"
-    ]
-  },
-  {
-    "Postcode": "3267",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 3267,
-    "plants": [
-      "Berenplaat"
-    ]
-  },
-  {
-    "Postcode": "4522",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4522,
+    "pc4": 4581,
     "plants": [
       "Braakman"
     ]
   },
   {
-    "Postcode": "4539",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4539,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4525",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4525,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4567",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4567,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "3281",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 3281,
-    "plants": [
-      "Berenplaat"
-    ]
-  },
-  {
-    "Postcode": "4515",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4515,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4564",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4564,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4562",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4562,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4475",
+    "Postcode": "4363",
     "Hardheid": "9.5",
     "Bron": "Gemengd grondwater",
-    "pc4": 4475,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4535",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4535,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4352",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4352,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4566",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4566,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4417",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4417,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4696",
-    "Hardheid": "8.5",
-    "Bron": "Grondwater",
-    "pc4": 4696,
-    "plants": [
-      "Halsteren"
-    ]
-  },
-  {
-    "Postcode": "4387",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4387,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "3224",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 3224,
-    "plants": [
-      "Berenplaat"
-    ]
-  },
-  {
-    "Postcode": "4386",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4386,
+    "pc4": 4363,
     "plants": [
       "Huijbergen en Ossendrecht"
     ]
@@ -504,399 +405,21 @@
     ]
   },
   {
-    "Postcode": "4444",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4444,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4571",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4571,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4451",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4451,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4568",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4568,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "3257",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 3257,
-    "plants": [
-      "Ouddorp"
-    ]
-  },
-  {
-    "Postcode": "3247",
+    "Postcode": "3241",
     "Hardheid": "14.5",
     "Bron": "Duinwater",
-    "pc4": 3247,
+    "pc4": 3241,
     "plants": [
       "Ouddorp"
     ]
   },
   {
-    "Postcode": "4575",
+    "Postcode": "4566",
     "Hardheid": "8.5",
     "Bron": "Oppervlaktewater",
-    "pc4": 4575,
+    "pc4": 4566,
     "plants": [
       "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4576",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4576,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4634",
-    "Hardheid": "8.5",
-    "Bron": "Grondwater",
-    "pc4": 4634,
-    "plants": [
-      "Huijbergen"
-    ]
-  },
-  {
-    "Postcode": "4635",
-    "Hardheid": "8.5",
-    "Bron": "Grondwater",
-    "pc4": 4635,
-    "plants": [
-      "Huijbergen"
-    ]
-  },
-  {
-    "Postcode": "4315",
-    "Hardheid": "13",
-    "Bron": "Duinwater",
-    "pc4": 4315,
-    "plants": [
-      "Haamstede"
-    ]
-  },
-  {
-    "Postcode": "4494",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4494,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4501",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4501,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4538",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4538,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4528",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4528,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4537",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4537,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "3284",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 3284,
-    "plants": [
-      "Berenplaat"
-    ]
-  },
-  {
-    "Postcode": "4474",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4474,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4585",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4585,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4513",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4513,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4341",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4341,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4361",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4361,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4401",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4401,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4551",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4551,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4524",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4524,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4411",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4411,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4416",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4416,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4337",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4337,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4532",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4532,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4695",
-    "Hardheid": "8.5",
-    "Bron": "Grondwater",
-    "pc4": 4695,
-    "plants": [
-      "Halsteren"
-    ]
-  },
-  {
-    "Postcode": "3223",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 3223,
-    "plants": [
-      "Berenplaat"
-    ]
-  },
-  {
-    "Postcode": "4434",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4434,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4698",
-    "Hardheid": "8.5",
-    "Bron": "Grondwater",
-    "pc4": 4698,
-    "plants": [
-      "Halsteren"
-    ]
-  },
-  {
-    "Postcode": "4617",
-    "Hardheid": "8.5",
-    "Bron": "Grondwater",
-    "pc4": 4617,
-    "plants": [
-      "Halsteren"
-    ]
-  },
-  {
-    "Postcode": "4435",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4435,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4441",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4441,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4455",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4455,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "3222",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 3222,
-    "plants": [
-      "Berenplaat"
-    ]
-  },
-  {
-    "Postcode": "4433",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4433,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "3221",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 3221,
-    "plants": [
-      "Berenplaat"
-    ]
-  },
-  {
-    "Postcode": "4485",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4485,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4491",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4491,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4508",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4508,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4493",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4493,
-    "plants": [
-      "Huijbergen en Ossendrecht"
     ]
   },
   {
@@ -909,514 +432,10 @@
     ]
   },
   {
-    "Postcode": "4472",
+    "Postcode": "4433",
     "Hardheid": "9.5",
     "Bron": "Gemengd grondwater",
-    "pc4": 4472,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4317",
-    "Hardheid": "13",
-    "Bron": "Duinwater",
-    "pc4": 4317,
-    "plants": [
-      "Haamstede"
-    ]
-  },
-  {
-    "Postcode": "4486",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4486,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "3255",
-    "Hardheid": "14.5",
-    "Bron": "Duinwater",
-    "pc4": 3255,
-    "plants": [
-      "Ouddorp"
-    ]
-  },
-  {
-    "Postcode": "4316",
-    "Hardheid": "13",
-    "Bron": "Duinwater",
-    "pc4": 4316,
-    "plants": [
-      "Haamstede"
-    ]
-  },
-  {
-    "Postcode": "4374",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4374,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4507",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4507,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4645",
-    "Hardheid": "8.5",
-    "Bron": "Grondwater",
-    "pc4": 4645,
-    "plants": [
-      "Huijbergen"
-    ]
-  },
-  {
-    "Postcode": "4505",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4505,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4511",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4511,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "3253",
-    "Hardheid": "14.5",
-    "Bron": "Duinwater",
-    "pc4": 3253,
-    "plants": [
-      "Ouddorp"
-    ]
-  },
-  {
-    "Postcode": "3258",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 3258,
-    "plants": [
-      "Ouddorp"
-    ]
-  },
-  {
-    "Postcode": "4482",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4482,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4357",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4357,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4631",
-    "Hardheid": "8.5",
-    "Bron": "Grondwater",
-    "pc4": 4631,
-    "plants": [
-      "Huijbergen"
-    ]
-  },
-  {
-    "Postcode": "4305",
-    "Hardheid": "13",
-    "Bron": "Duinwater",
-    "pc4": 4305,
-    "plants": [
-      "Haamstede"
-    ]
-  },
-  {
-    "Postcode": "4421",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4421,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4381",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4381,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4335",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4335,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4338",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4338,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4413",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4413,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4415",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4415,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4414",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4414,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4625",
-    "Hardheid": "8.5",
-    "Bron": "Grondwater",
-    "pc4": 4625,
-    "plants": [
-      "Halsteren"
-    ]
-  },
-  {
-    "Postcode": "4484",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4484,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4504",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4504,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4529",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4529,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "3256",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 3256,
-    "plants": [
-      "Ouddorp"
-    ]
-  },
-  {
-    "Postcode": "4574",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4574,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4506",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4506,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4569",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4569,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4589",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4589,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
-    "Postcode": "4614",
-    "Hardheid": "8.5",
-    "Bron": "Grondwater",
-    "pc4": 4614,
-    "plants": [
-      "Halsteren"
-    ]
-  },
-  {
-    "Postcode": "4303",
-    "Hardheid": "13",
-    "Bron": "Duinwater",
-    "pc4": 4303,
-    "plants": [
-      "Haamstede"
-    ]
-  },
-  {
-    "Postcode": "4306",
-    "Hardheid": "13",
-    "Bron": "Duinwater",
-    "pc4": 4306,
-    "plants": [
-      "Haamstede"
-    ]
-  },
-  {
-    "Postcode": "4323",
-    "Hardheid": "13",
-    "Bron": "Duinwater",
-    "pc4": 4323,
-    "plants": [
-      "Haamstede"
-    ]
-  },
-  {
-    "Postcode": "4326",
-    "Hardheid": "13",
-    "Bron": "Duinwater",
-    "pc4": 4326,
-    "plants": [
-      "Haamstede"
-    ]
-  },
-  {
-    "Postcode": "4332",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4332,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4664",
-    "Hardheid": "8.5",
-    "Bron": "Grondwater",
-    "pc4": 4664,
-    "plants": [
-      "Halsteren"
-    ]
-  },
-  {
-    "Postcode": "4351",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4351,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4333",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4333,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4301",
-    "Hardheid": "13",
-    "Bron": "Duinwater",
-    "pc4": 4301,
-    "plants": [
-      "Haamstede"
-    ]
-  },
-  {
-    "Postcode": "4353",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4353,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4363",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4363,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4364",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4364,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4365",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4365,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4373",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4373,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4371",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4371,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4661",
-    "Hardheid": "8.5",
-    "Bron": "Grondwater",
-    "pc4": 4661,
-    "plants": [
-      "Halsteren"
-    ]
-  },
-  {
-    "Postcode": "4336",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4336,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4354",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4354,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4356",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4356,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4384",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4384,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4697",
-    "Hardheid": "8.5",
-    "Bron": "Grondwater",
-    "pc4": 4697,
-    "plants": [
-      "Halsteren"
-    ]
-  },
-  {
-    "Postcode": "4691",
-    "Hardheid": "8.5",
-    "Bron": "Grondwater",
-    "pc4": 4691,
-    "plants": [
-      "Halsteren"
-    ]
-  },
-  {
-    "Postcode": "4389",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4389,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4423",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4423,
+    "pc4": 4433,
     "plants": [
       "Huijbergen en Ossendrecht"
     ]
@@ -1431,111 +450,21 @@
     ]
   },
   {
-    "Postcode": "4437",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4437,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4438",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4438,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4443",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4443,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "3241",
-    "Hardheid": "14.5",
-    "Bron": "Duinwater",
-    "pc4": 3241,
-    "plants": [
-      "Ouddorp"
-    ]
-  },
-  {
-    "Postcode": "4456",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4456,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "3244",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 3244,
-    "plants": [
-      "Ouddorp"
-    ]
-  },
-  {
-    "Postcode": "4453",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4453,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "3245",
-    "Hardheid": "14.5",
-    "Bron": "Duinwater",
-    "pc4": 3245,
-    "plants": [
-      "Ouddorp"
-    ]
-  },
-  {
-    "Postcode": "4461",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4461,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4462",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4462,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4308",
-    "Hardheid": "13",
-    "Bron": "Duinwater",
-    "pc4": 4308,
-    "plants": [
-      "Haamstede"
-    ]
-  },
-  {
     "Postcode": "3248",
     "Hardheid": "14.5",
     "Bron": "Duinwater",
     "pc4": 3248,
     "plants": [
       "Ouddorp"
+    ]
+  },
+  {
+    "Postcode": "4576",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4576,
+    "plants": [
+      "Braakman"
     ]
   },
   {
@@ -1548,10 +477,73 @@
     ]
   },
   {
-    "Postcode": "4464",
+    "Postcode": "4693",
+    "Hardheid": "8.5",
+    "Bron": "Grondwater",
+    "pc4": 4693,
+    "plants": [
+      "Halsteren"
+    ]
+  },
+  {
+    "Postcode": "4698",
+    "Hardheid": "8.5",
+    "Bron": "Grondwater",
+    "pc4": 4698,
+    "plants": [
+      "Halsteren"
+    ]
+  },
+  {
+    "Postcode": "3255",
+    "Hardheid": "14.5",
+    "Bron": "Duinwater",
+    "pc4": 3255,
+    "plants": [
+      "Ouddorp"
+    ]
+  },
+  {
+    "Postcode": "4575",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4575,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4493",
     "Hardheid": "9.5",
     "Bron": "Gemengd grondwater",
-    "pc4": 4464,
+    "pc4": 4493,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4451",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4451,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4485",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4485,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4494",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4494,
     "plants": [
       "Huijbergen en Ossendrecht"
     ]
@@ -1566,21 +558,633 @@
     ]
   },
   {
-    "Postcode": "3252",
-    "Hardheid": "14.5",
+    "Postcode": "4543",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4543,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4484",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4484,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4531",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4531,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4307",
+    "Hardheid": "13",
     "Bron": "Duinwater",
-    "pc4": 3252,
+    "pc4": 4307,
+    "plants": [
+      "Haamstede"
+    ]
+  },
+  {
+    "Postcode": "3257",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 3257,
     "plants": [
       "Ouddorp"
     ]
   },
   {
-    "Postcode": "4325",
+    "Postcode": "4521",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4521,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4326",
     "Hardheid": "13",
     "Bron": "Duinwater",
-    "pc4": 4325,
+    "pc4": 4326,
     "plants": [
       "Haamstede"
+    ]
+  },
+  {
+    "Postcode": "4327",
+    "Hardheid": "13",
+    "Bron": "Duinwater",
+    "pc4": 4327,
+    "plants": [
+      "Haamstede"
+    ]
+  },
+  {
+    "Postcode": "4333",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4333,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4551",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4551,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4564",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4564,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4356",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4356,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4524",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4524,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4386",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4386,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4434",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4434,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4371",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4371,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "3214",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 3214,
+    "plants": [
+      "Berenplaat"
+    ]
+  },
+  {
+    "Postcode": "4413",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4413,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4421",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4421,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "3221",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 3221,
+    "plants": [
+      "Berenplaat"
+    ]
+  },
+  {
+    "Postcode": "4574",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4574,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4437",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4437,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "3235",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 3235,
+    "plants": [
+      "Berenplaat"
+    ]
+  },
+  {
+    "Postcode": "4455",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4455,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4454",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4454,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4436",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4436,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "3223",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 3223,
+    "plants": [
+      "Berenplaat"
+    ]
+  },
+  {
+    "Postcode": "4462",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4462,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4474",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4474,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4464",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4464,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4443",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4443,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4444",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4444,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4614",
+    "Hardheid": "8.5",
+    "Bron": "Grondwater",
+    "pc4": 4614,
+    "plants": [
+      "Halsteren"
+    ]
+  },
+  {
+    "Postcode": "4453",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4453,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "3249",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 3249,
+    "plants": [
+      "Ouddorp"
+    ]
+  },
+  {
+    "Postcode": "4465",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4465,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4504",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4504,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4501",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4501,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4486",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4486,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4542",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4542,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4513",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4513,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4306",
+    "Hardheid": "13",
+    "Bron": "Duinwater",
+    "pc4": 4306,
+    "plants": [
+      "Haamstede"
+    ]
+  },
+  {
+    "Postcode": "4491",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4491,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4664",
+    "Hardheid": "8.5",
+    "Bron": "Grondwater",
+    "pc4": 4664,
+    "plants": [
+      "Halsteren"
+    ]
+  },
+  {
+    "Postcode": "4316",
+    "Hardheid": "13",
+    "Bron": "Duinwater",
+    "pc4": 4316,
+    "plants": [
+      "Haamstede"
+    ]
+  },
+  {
+    "Postcode": "4482",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4482,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4302",
+    "Hardheid": "13",
+    "Bron": "Duinwater",
+    "pc4": 4302,
+    "plants": [
+      "Haamstede"
+    ]
+  },
+  {
+    "Postcode": "4697",
+    "Hardheid": "8.5",
+    "Bron": "Grondwater",
+    "pc4": 4697,
+    "plants": [
+      "Halsteren"
+    ]
+  },
+  {
+    "Postcode": "4535",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4535,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4631",
+    "Hardheid": "8.5",
+    "Bron": "Grondwater",
+    "pc4": 4631,
+    "plants": [
+      "Huijbergen"
+    ]
+  },
+  {
+    "Postcode": "4625",
+    "Hardheid": "8.5",
+    "Bron": "Grondwater",
+    "pc4": 4625,
+    "plants": [
+      "Halsteren"
+    ]
+  },
+  {
+    "Postcode": "4321",
+    "Hardheid": "13",
+    "Bron": "Duinwater",
+    "pc4": 4321,
+    "plants": [
+      "Haamstede"
+    ]
+  },
+  {
+    "Postcode": "4374",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4374,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4387",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4387,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4334",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4334,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4417",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4417,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4537",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4537,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4503",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4503,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4472",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4472,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "3284",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 3284,
+    "plants": [
+      "Berenplaat"
+    ]
+  },
+  {
+    "Postcode": "4571",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4571,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4569",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4569,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4568",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4568,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4567",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4567,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4584",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4584,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4585",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4585,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4586",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4586,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4634",
+    "Hardheid": "8.5",
+    "Bron": "Grondwater",
+    "pc4": 4634,
+    "plants": [
+      "Huijbergen"
+    ]
+  },
+  {
+    "Postcode": "4617",
+    "Hardheid": "8.5",
+    "Bron": "Grondwater",
+    "pc4": 4617,
+    "plants": [
+      "Halsteren"
+    ]
+  },
+  {
+    "Postcode": "4645",
+    "Hardheid": "8.5",
+    "Bron": "Grondwater",
+    "pc4": 4645,
+    "plants": [
+      "Huijbergen"
     ]
   },
   {
@@ -1593,24 +1197,6 @@
     ]
   },
   {
-    "Postcode": "4471",
-    "Hardheid": "9.5",
-    "Bron": "Gemengd grondwater",
-    "pc4": 4471,
-    "plants": [
-      "Huijbergen en Ossendrecht"
-    ]
-  },
-  {
-    "Postcode": "4527",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 4527,
-    "plants": [
-      "Braakman"
-    ]
-  },
-  {
     "Postcode": "4533",
     "Hardheid": "8.5",
     "Bron": "Oppervlaktewater",
@@ -1620,10 +1206,343 @@
     ]
   },
   {
-    "Postcode": "4454",
+    "Postcode": "4318",
+    "Hardheid": "13",
+    "Bron": "Duinwater",
+    "pc4": 4318,
+    "plants": [
+      "Haamstede"
+    ]
+  },
+  {
+    "Postcode": "4691",
+    "Hardheid": "8.5",
+    "Bron": "Grondwater",
+    "pc4": 4691,
+    "plants": [
+      "Halsteren"
+    ]
+  },
+  {
+    "Postcode": "4587",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4587,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4308",
+    "Hardheid": "13",
+    "Bron": "Duinwater",
+    "pc4": 4308,
+    "plants": [
+      "Haamstede"
+    ]
+  },
+  {
+    "Postcode": "4315",
+    "Hardheid": "13",
+    "Bron": "Duinwater",
+    "pc4": 4315,
+    "plants": [
+      "Haamstede"
+    ]
+  },
+  {
+    "Postcode": "4322",
+    "Hardheid": "13",
+    "Bron": "Duinwater",
+    "pc4": 4322,
+    "plants": [
+      "Haamstede"
+    ]
+  },
+  {
+    "Postcode": "4317",
+    "Hardheid": "13",
+    "Bron": "Duinwater",
+    "pc4": 4317,
+    "plants": [
+      "Haamstede"
+    ]
+  },
+  {
+    "Postcode": "4325",
+    "Hardheid": "13",
+    "Bron": "Duinwater",
+    "pc4": 4325,
+    "plants": [
+      "Haamstede"
+    ]
+  },
+  {
+    "Postcode": "4336",
     "Hardheid": "9.5",
     "Bron": "Gemengd grondwater",
-    "pc4": 4454,
+    "pc4": 4336,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4341",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4341,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4357",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4357,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4353",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4353,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4361",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4361,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4389",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4389,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4401",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4401,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4411",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4411,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "3222",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 3222,
+    "plants": [
+      "Berenplaat"
+    ]
+  },
+  {
+    "Postcode": "4414",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4414,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "3224",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 3224,
+    "plants": [
+      "Berenplaat"
+    ]
+  },
+  {
+    "Postcode": "3227",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 3227,
+    "plants": [
+      "Berenplaat"
+    ]
+  },
+  {
+    "Postcode": "3245",
+    "Hardheid": "14.5",
+    "Bron": "Duinwater",
+    "pc4": 3245,
+    "plants": [
+      "Ouddorp"
+    ]
+  },
+  {
+    "Postcode": "3256",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 3256,
+    "plants": [
+      "Ouddorp"
+    ]
+  },
+  {
+    "Postcode": "4475",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4475,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4635",
+    "Hardheid": "8.5",
+    "Bron": "Grondwater",
+    "pc4": 4635,
+    "plants": [
+      "Huijbergen"
+    ]
+  },
+  {
+    "Postcode": "4696",
+    "Hardheid": "8.5",
+    "Bron": "Grondwater",
+    "pc4": 4696,
+    "plants": [
+      "Halsteren"
+    ]
+  },
+  {
+    "Postcode": "4695",
+    "Hardheid": "8.5",
+    "Bron": "Grondwater",
+    "pc4": 4695,
+    "plants": [
+      "Halsteren"
+    ]
+  },
+  {
+    "Postcode": "4694",
+    "Hardheid": "8.5",
+    "Bron": "Grondwater",
+    "pc4": 4694,
+    "plants": [
+      "Halsteren"
+    ]
+  },
+  {
+    "Postcode": "4536",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4536,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4538",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4538,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4539",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4539,
+    "plants": [
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "3258",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 3258,
+    "plants": [
+      "Ouddorp"
+    ]
+  },
+  {
+    "Postcode": "4338",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4338,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4373",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4373,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4335",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4335,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4384",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4384,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "3243",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 3243,
+    "plants": [
+      "Ouddorp"
+    ]
+  },
+  {
+    "Postcode": "3244",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 3244,
+    "plants": [
+      "Ouddorp"
+    ]
+  },
+  {
+    "Postcode": "4441",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4441,
     "plants": [
       "Huijbergen en Ossendrecht"
     ]
@@ -1638,12 +1557,21 @@
     ]
   },
   {
-    "Postcode": "4693",
+    "Postcode": "4562",
     "Hardheid": "8.5",
-    "Bron": "Grondwater",
-    "pc4": 4693,
+    "Bron": "Oppervlaktewater",
+    "pc4": 4562,
     "plants": [
-      "Halsteren"
+      "Braakman"
+    ]
+  },
+  {
+    "Postcode": "4565",
+    "Hardheid": "8.5",
+    "Bron": "Oppervlaktewater",
+    "pc4": 4565,
+    "plants": [
+      "Braakman"
     ]
   },
   {
@@ -1656,19 +1584,55 @@
     ]
   },
   {
-    "Postcode": "3225",
-    "Hardheid": "8.5",
-    "Bron": "Oppervlaktewater",
-    "pc4": 3225,
+    "Postcode": "4352",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4352,
     "plants": [
-      "Berenplaat"
+      "Huijbergen en Ossendrecht"
     ]
   },
   {
-    "Postcode": "4436",
+    "Postcode": "4438",
     "Hardheid": "9.5",
     "Bron": "Gemengd grondwater",
-    "pc4": 4436,
+    "pc4": 4438,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4388",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4388,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4415",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4415,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "3253",
+    "Hardheid": "14.5",
+    "Bron": "Duinwater",
+    "pc4": 3253,
+    "plants": [
+      "Ouddorp"
+    ]
+  },
+  {
+    "Postcode": "4351",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4351,
     "plants": [
       "Huijbergen en Ossendrecht"
     ]
@@ -1678,6 +1642,42 @@
     "Hardheid": "9.5",
     "Bron": "Gemengd grondwater",
     "pc4": 4431,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4461",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4461,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4381",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4381,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4456",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4456,
+    "plants": [
+      "Huijbergen en Ossendrecht"
+    ]
+  },
+  {
+    "Postcode": "4337",
+    "Hardheid": "9.5",
+    "Bron": "Gemengd grondwater",
+    "pc4": 4337,
     "plants": [
       "Huijbergen en Ossendrecht"
     ]
