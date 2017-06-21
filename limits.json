@@ -1,0 +1,46 @@
+[
+  {
+    "name": "US",
+    "limits": [
+      {"max": 200, "uom": "mg_l", "code": "natrium" },
+      {"max": 50, "uom": "mg_l", "code": "nitrate" },
+      {"max": 0, "uom": "mg_l", "code": "fluoride" },
+      {"max": 250, "uom": "mg_l", "code": "chloride" },
+      {"max": 250, "uom": "mg_l", "code": "sulfate" }
+    ],
+    "sources":[
+      "https://www.epa.gov/dwstandardsregulations/secondary-drinking-water-standards-guidance-nuisance-chemicals",
+      "http://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/Chemicalcontaminants.shtml",
+      "http://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/Documents/EDTlibrary/storlist.xls"
+    ]
+  },
+  {
+    "name": "EU",
+    "limits":[
+      {"max": 200, "uom": "mg_l", "code": "natrium" },
+      {"max": 12, "uom": "mg_l", "code": "kalium" },
+      {"max": 400, "uom": "mg_l", "code": "calcium" },
+      {"max": 60, "uom": "mg_l", "code": "nitrate" },
+      {"max": 60, "uom": "mg_l", "code": "magnesium" },
+      {"max": 0, "uom": "mg_l", "code": "fluoride" },
+      {"max": 240, "uom": "mg_l", "code": "chloride" },
+      {"max": 240, "uom": "mg_l", "code": "sulfate" }
+    ]
+  },
+  {
+    "name": "NL",
+    "description": "Extracted from reports by Brabant Water and Dunea, the Netherlands",
+    "limits":[
+      {"max": 200, "uom": "mug_l", "code": "aluminum" },
+      {"max": 10, "uom": "mug_l", "code": "arsine" },
+      {"max": 0.5, "uom": "mg_l", "code": "barium" },
+      {"max": 150, "uom": "mg_l", "code": "natrium" },
+      {"max": 125, "uom": "ms_m", "code": "conductance" },
+      {"max": 150, "uom": "mg_l", "code": "sulfate" },
+      {"max": 150, "uom": "mg_l", "code": "chloride" },
+      {"max": 25, "uom": "deg_c", "code": "watertemperature" },
+      {"min": 2, "uom": "mg_l", "code": "oxygen" },
+      {"max": 1, "uom": "fte", "code": "turbidity" }
+    ]
+  }
+]

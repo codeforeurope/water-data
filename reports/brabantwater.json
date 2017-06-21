@@ -3,15 +3,28 @@
     "name": "Bergen op Zoom 2015",
     "zones": [],
     "year": "2015",
+    "issued": "2015-12-31T23:59:00.000Z",
     "sources": ["https://brabantwater.nl/PompStationInfo/Drinkwaterkwaliteit%20Bergen%20op%20Zoom%202015.pdf"],
-    "observations": []
+    "observations": [
+
+    ]
   },
   {
     "name": "Bergen op Zoom 2016 .Q3 en 4",
     "zones": ["bergen_op_zoom"],
     "year": "2016",
+    "issued": "2016-12-31T23:59:00.000Z",
     "sources": ["https://www.brabantwater.nl/PompStationInfo/Bergen%20op%20Zoom.pdf"],
-    "observations": []
+    "observations": [
+      { "code": "watertemperature", "value":11.72, "min": 11.2, "max": 11.9, "uom": "deg_c", "samples": 6},
+      { "code": "oxygen", "value":9.87, "min": 9.4, "max": 10.5, "uom": "mg_l", "samples": 26},
+      { "code": "turbidity", "value":0.1, "min": 0.1, "max": 0.1, "uom": "ftu", "samples": 27},
+      { "code": "tritium", "value": 3, "uom": "bq_l"},
+      { "code": "chloride", "value": 22, "uom": "mg_l"}
+      { "code": "sulfate", "value": 26, "uom": "mg_l"}
+      { "code": "natrium", "value": 15, "uom": "mg_l"}
+
+    ]
   },
   {
     "name": "Budel 2015",

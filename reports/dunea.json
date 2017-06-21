@@ -4,6 +4,7 @@
     "zones": ["wassenaar","voorschoten","leidschendam_voorburg","zoetermeer","pijnacker_nootdorp","lansingerland","zuidplas","nesselande","den_haag","rijswijk","alphen_aan_de_rijn"],
     "plants": ["scheveningen"],
     "year": "2017",
+    "issued": "2017-03-31T23:59:00.000Z",
     "sources": ["https://www.dunea.nl/documents/10156/13625/Scheveningen+1e+kw+2017+VERZENDFILE.pdf"],
     "observations": []
   },
@@ -12,14 +13,37 @@
     "zones": ["noordwijkerhout","hillegom","lisse","noordwijk","teylingen","katwijk","oegstgeest","leiden"],
     "plants": ["katwijk"],
     "year": "2017",
+    "issued": "2017-03-31T23:59:00.000Z",
     "sources": ["https://www.dunea.nl/documents/10156/13625/Katwijk+1e+kw+2017+VERZENDFILE.pdf"],
-    "observations": []
+    "observations": [
+      { "code": "aluminum", "value":2, "uom": "mug_l"},
+      { "code": "arsine", "value":3, "min":2.8, "max": 3.2, "uom": "mug_l"},
+      { "code": "barium", "value":0.04, "uom": "mg_l"},
+      { "code": "calcium", "value":43, "min":42, "max": 44, "uom": "mg_l"},
+      { "code": "chloride", "value":48, "min":47, "max": 49, "uom": "mg_l"},
+      { "code": "carbondioxide", "value":0.9, "min":0.8, "max": 1.0, "uom": "mg_l"},
+      { "code": "fluoride", "value":0.18, "min":0.18, "max": 0.19, "uom": "mg_l"},
+      { "code": "iron", "value":0.1, "uom": "mg_l"},
+      { "code": "conductance", "value":48.7, "min":47.2, "max": 51.4, "uom": "ms_m"},
+      { "code": "turbidity", "value":0.03, "max": 0.07, "uom": "ftu"},
+      { "code": "bicarbonate", "value":174, "min": 172, "max": 181, "uom": "mg_l"},
+      { "code": "mercury", "value":0.02, "uom": "mug_l"},
+      { "code": "hardness", "value":1.44, "min": 1.42, "max": 1.47,"uom": "mmol_l"},
+      { "code": "magnesium", "value":8.7, "min": 8.2, "max": 9.2,"uom": "mg_l"},
+      { "code": "manganese", "value":0.01, "uom": "mg_l"},
+      { "code": "ammonium", "value":0.02, "uom": "mg_l"},
+      { "code": "nitrite", "value":0.007, "uom": "mg_l"},
+      { "code": "nitrate", "value":5.38,"min": 4.28, "max": 6.65, "uom": "mg_l"},
+      { "code": "oxygen", "value":10.7, "uom": "mg_l"},
+    ]
+
   },
   {
     "name": "Monster 2017",
     "zones": ["den_haag","rijswijk"],
     "plants": ["monster"],
     "year": "2017",
+    "issued": "2017-03-31T23:59:00.000Z",
     "sources": ["https://www.dunea.nl/documents/10156/13625/Monster+1e+kw+2017+VERZENDFILE.pdf"],
     "observations": []
   },
@@ -28,6 +52,7 @@
     "zones": ["wassenaar","voorschoten","leidschendam_voorburg","zoetermeer","pijnacker_nootdorp","lansingerland","zuidplas","nesselande","den_haag","rijswijk","alphen_aan_de_rijn"],
     "plants": ["scheveningen"],
     "year": "2016",
+    "issued": "2016-12-31T23:59:00.000Z",
     "sources": ["https://www.dunea.nl/documents/10156/13625/Scheveningen+jaar+2016.pdf"],
     "observations": []
   },
@@ -36,6 +61,7 @@
     "zones": ["noordwijkerhout","hillegom","lisse","noordwijk","teylingen","katwijk","oegstgeest","leiden"],
     "plants": ["katwijk"],
     "year": "2016",
+    "issued": "2016-12-31T23:59:00.000Z",
     "sources": ["https://www.dunea.nl/documents/10156/13625/Katwijk+jaar+2016.pdf"],
     "observations": []
   },
@@ -44,6 +70,7 @@
     "zones": ["den_haag","rijswijk"],
     "plants": ["monster"],
     "year": "2016",
+    "issued": "2016-12-31T23:59:00.000Z",
     "sources": ["https://www.dunea.nl/documents/10156/13625/Monster+jaar+2016.pdf"],
     "observations": []
   },
@@ -52,6 +79,7 @@
     "zones": ["wassenaar","voorschoten","leidschendam_voorburg","zoetermeer","pijnacker_nootdorp","lansingerland","zuidplas","nesselande","den_haag","rijswijk","alphen_aan_de_rijn"],
     "plants": ["scheveningen"],
     "year": "2015",
+    "issued": "2015-12-31T23:59:00.000Z",
     "sources": ["https://www.dunea.nl/documents/10156/13625/Scheveningen+jaar+2015.pdf"],
     "observations": []
   },
@@ -60,6 +88,7 @@
     "zones": ["noordwijkerhout","hillegom","lisse","noordwijk","teylingen","katwijk","oegstgeest","leiden"],
     "plants": ["katwijk"],
     "year": "2015",
+    "issued": "2015-12-31T23:59:00.000Z",
     "sources": ["https://www.dunea.nl/documents/10156/13625/Katwijk+jaar+2015.pdf"],
     "observations": []
   },
@@ -68,6 +97,7 @@
     "zones": ["den_haag","rijswijk"],
     "plants": ["monster"],
     "year": "2015",
+    "issued": "2015-12-31T23:59:00.000Z",
     "sources": ["https://www.dunea.nl/documents/10156/13625/Monster+jaar+2015.pdf"],
     "observations": []
   },
@@ -76,6 +106,7 @@
     "zones": ["wassenaar","voorschoten","leidschendam_voorburg","zoetermeer","pijnacker_nootdorp","lansingerland","zuidplas","nesselande","den_haag","rijswijk","alphen_aan_de_rijn"],
     "plants": ["scheveningen"],
     "year": "2014",
+    "issued": "2014-12-31T23:59:00.000Z",
     "sources": ["https://www.dunea.nl/documents/10156/13625/Waterkwaliteit+Scheveningen+2014"],
     "observations": []
   },
@@ -84,6 +115,7 @@
     "zones": ["noordwijkerhout","hillegom","lisse","noordwijk","teylingen","katwijk","oegstgeest","leiden"],
     "plants": ["katwijk"],
     "year": "2014",
+    "issued": "2014-12-31T23:59:00.000Z",
     "sources": ["https://www.dunea.nl/documents/10156/13625/Waterkwaliteit+Katwijk+2014"],
     "observations": []
   },
@@ -92,6 +124,7 @@
     "zones": ["den_haag","rijswijk"],
     "plants": ["monster"],
     "year": "2014",
+    "issued": "2014-12-31T23:59:00.000Z",
     "sources": ["https://www.dunea.nl/documents/10156/13625/Waterkwaliteit+Monster+2014"],
     "observations": []
   },
@@ -100,6 +133,7 @@
     "zones": ["wassenaar","voorschoten","leidschendam_voorburg","zoetermeer","pijnacker_nootdorp","lansingerland","zuidplas","nesselande","den_haag","rijswijk","alphen_aan_de_rijn"],
     "plants": ["scheveningen"],
     "year": "2013",
+    "issued": "2013-12-31T23:59:00.000Z",
     "sources": ["https://www.dunea.nl/documents/10156/13625/Scheveningen+jr+2013.pdf"],
     "observations": []
   },
@@ -108,6 +142,7 @@
     "zones": ["noordwijkerhout","hillegom","lisse","noordwijk","teylingen","katwijk","oegstgeest","leiden"],
     "plants": ["katwijk"],
     "year": "2013",
+    "issued": "2013-12-31T23:59:00.000Z",
     "sources": ["https://www.dunea.nl/documents/10156/13625/Katwijk+jr+2013.pdf"],
     "observations": []
   },
@@ -116,6 +151,7 @@
     "zones": ["den_haag","rijswijk"],
     "plants": ["monster"],
     "year": "2013",
+    "issued": "2013-12-31T23:59:00.000Z",
     "sources": ["https://www.dunea.nl/documents/10156/13625/Monster+jr+2013.pdf"],
     "observations": []
   }
