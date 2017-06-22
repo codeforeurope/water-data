@@ -34,7 +34,7 @@
       { "code": "ammonium", "value":0.02, "uom": "mg_l"},
       { "code": "nitrite", "value":0.007, "uom": "mg_l"},
       { "code": "nitrate", "value":5.38,"min": 4.28, "max": 6.65, "uom": "mg_l"},
-      { "code": "oxygen", "value":10.7, "uom": "mg_l"},
+      { "code": "oxygen", "value":10.7, "uom": "mg_l"}
     ]
 
   },
