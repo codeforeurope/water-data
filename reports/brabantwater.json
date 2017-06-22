@@ -20,8 +20,8 @@
       { "code": "oxygen", "value":9.87, "min": 9.4, "max": 10.5, "uom": "mg_l", "samples": 26},
       { "code": "turbidity", "value":0.1, "min": 0.1, "max": 0.1, "uom": "ftu", "samples": 27},
       { "code": "tritium", "value": 3, "uom": "bq_l"},
-      { "code": "chloride", "value": 22, "uom": "mg_l"}
-      { "code": "sulfate", "value": 26, "uom": "mg_l"}
+      { "code": "chloride", "value": 22, "uom": "mg_l"},
+      { "code": "sulfate", "value": 26, "uom": "mg_l"},
       { "code": "natrium", "value": 15, "uom": "mg_l"}
 
     ]
