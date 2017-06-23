@@ -1,25 +1,50 @@
 [
   {
     "name": "Halsteren April 2016",
-    "zones": [],
+    "zones": ["halsteren_1","halsteren_2"],
     "plants": ["halsteren"],
     "year": "2016",
+    "issued": "2016-04-31T23:59:00.000Z",
     "sources": ["https://www.evides.nl/-/media/files/waterkwaliteit/evides-waterkwaliteit-halsteren.pdf"],
-    "observations": []
+    "observations": [
+      { "code": "watertemperature", "value":12.1, "uom": "deg_c"},
+      { "code": "oxygen", "value":9.7, "uom": "mg_l"},
+      { "code": "turbidity", "value":0.05, "uom": "ftu"},
+      { "code": "conductance", "value":33.9, "uom": "ms_m"},
+      { "code": "bicarbonate", "value":179, "uom": "mg_l"},
+      { "code": "calcium", "value":58, "uom": "mg_l"},
+      { "code": "magnesium", "value":3.9, "uom": "mg_l"},
+      { "code": "hardness", "value":1.6, "uom": "mmol_l"},
+      { "code": "ammonium", "value":0.03, "uom": "mg_l"},
+      { "code": "iron", "value":10, "uom": "mug_l"}
+    ]
   },
   {
     "name": "Midden Zeeland April 2016",
-    "zones": [],
+    "zones": ["miden_zeeland"],
     "plants": ["huijbergen","ossendrecht"],
     "year": "2016",
+    "issued": "2016-04-31T23:59:00.000Z",
     "sources": ["https://www.evides.nl/-/media/files/waterkwaliteit/evides-waterkwaliteit-midden-zeeland.pdf"],
-    "observations": []
+    "observations": [
+      { "code": "watertemperature", "value":11.4, "uom": "deg_c"},
+      { "code": "oxygen", "value":8.7, "uom": "mg_l"},
+      { "code": "turbidity", "value":0.05, "uom": "ftu"},
+      { "code": "conductance", "value":41.8, "uom": "ms_m"},
+      { "code": "bicarbonate", "value":222, "uom": "mg_l"},
+      { "code": "calcium", "value":56, "uom": "mg_l"},
+      { "code": "magnesium", "value":3.9, "uom": "mg_l"},
+      { "code": "hardness", "value":1.55, "uom": "mmol_l"},
+      { "code": "ammonium", "value":0.03, "uom": "mg_l"},
+      { "code": "iron", "value":10, "uom": "mug_l"}
+    ]
   },
   {
     "name": "Haamstede April 2016",
-    "zones": [],
+    "zones": ["haamstede"],
     "plants": ["haamstede"],
     "year": "2016",
+    "issued": "2016-04-31T23:59:00.000Z",
     "sources": [
       "https://www.evides.nl/-/media/files/waterkwaliteit/evides-waterkwaliteit-haamstede.pdf",
       "https://www.evides.nl/webapi/v1/postcode/waterkwaliteit?postcode=4321TT"],
@@ -27,9 +52,10 @@
   },
   {
     "name": "Braakman April 2016",
-    "zones": [],
+    "zones": ["braakman"],
     "plants": ["braakman"],
     "year": "2016",
+    "issued": "2016-04-31T23:59:00.000Z",
     "sources": [
       "https://www.evides.nl/-/media/files/waterkwaliteit/evides-waterkwaliteit-braakman.pdf"
     ],
@@ -37,9 +63,10 @@
   },
   {
     "name": "Ouddorp April 2016",
-    "zones": [],
+    "zones": ["ouddorp"],
     "plants": ["ouddorp"],
     "year": "2016",
+    "issued": "2016-04-31T23:59:00.000Z",
     "sources": [
       "https://www.evides.nl/-/media/files/waterkwaliteit/evides-waterkwaliteit-ouddorp.pdf"
     ],
@@ -47,9 +74,10 @@
   },
   {
     "name": "Berenplaat April 2016",
-    "zones": [],
+    "zones": ["berenplaat"],
     "plants": ["berenplaat"],
     "year": "2016",
+    "issued": "2016-04-31T23:59:00.000Z",
     "sources": [
       "https://www.evides.nl/-/media/files/waterkwaliteit/evides-waterkwaliteit-berenplaat.pdf"
     ],
@@ -57,19 +85,32 @@
   },
   {
     "name": "Baanhoek April 2016",
-    "zones": [],
+    "zones": ["baanhoek"],
     "plants": ["baanhoek"],
     "year": "2016",
+    "issued": "2016-04-31T23:59:00.000Z",
     "sources": [
       "https://www.evides.nl/-/media/files/waterkwaliteit/evides-waterkwaliteit-baanhoek.pdf"
     ],
-    "observations": []
+    "observations": [
+      { "code": "watertemperature", "value":10.5, "uom": "deg_c"},
+      { "code": "oxygen", "value":10, "uom": "mg_l"},
+      { "code": "turbidity", "value":0.05, "uom": "ftu"},
+      { "code": "conductance", "value":45.5, "uom": "ms_m"},
+      { "code": "bicarbonate", "value":281, "uom": "mg_l"},
+      { "code": "calcium", "value":47, "uom": "mg_l"},
+      { "code": "magnesium", "value":8, "uom": "mg_l"},
+      { "code": "hardness", "value":1.55, "uom": "mmol_l"},
+      { "code": "ammonium", "value":0.03, "uom": "mg_l"},
+      { "code": "iron", "value":10, "uom": "mug_l"}
+    ]
   },
   {
     "name": "Kralingen April 2016",
     "zones": [],
     "plants": ["kralingen"],
     "year": "2016",
+    "issued": "2016-04-31T23:59:00.000Z",
     "sources": [
       "https://www.evides.nl/-/media/files/waterkwaliteit/evides-waterkwaliteit-kralingen.pdf"
     ],
