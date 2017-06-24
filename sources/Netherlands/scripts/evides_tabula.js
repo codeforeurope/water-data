@@ -162,13 +162,10 @@ fs.readdir(dirPath, function(err, files){
   var status = 0;
   filelist.forEach(function(file){
     parsecsv(file, function(out){
-      //console.log(out);
       var json = JSON.stringify(out,null,2);
       total = total.concat(out);
-      //console.log(out);
       status++;
       if (status === done){
-        console.log(total);
         fs.writeFile('../../../reports/evides.json', JSON.stringify(total, null,2), 'utf8', function(err,result){
            console.log("Write evides.json");
         });

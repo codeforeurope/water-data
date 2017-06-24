@@ -17,8 +17,10 @@ node_modules
 *.iml
 atlassian*
 lang
-OpenStreetMap/osmfilter
-OpenStreetMap/osmconvert
-OpenStreetMap/osmupdate
-OpenStreetMap/*.osm.pbf
-OpenStreetMap/*.osm
+sources/OpenStreetMap/osmfilter
+sources/OpenStreetMap/osmconvert
+sources/OpenStreetMap/osmupdate
+sources/OpenStreetMap/*.osm.pbf
+sources/OpenStreetMap/*.osm
+sources/Netherlands/evides/*.csv
+sources/Netherlands/scripts/*.jar
