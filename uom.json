@@ -16,12 +16,12 @@
     "value": {
       "en": "CFU/100mL",
       "de": "KBE/100mL",
-      "en": "KVE/100mL"
+      "nl": "KVE/100mL"
     },
     "label": {
       "en": "CFU/100mL",
       "de": "KBE/100mL",
-      "en": "KVE/100mL"
+      "nl": "KVE/100mL"
     },
     "definition": {
       "nl": "Kolonievormende eenheden per 100 milliliter",
@@ -171,6 +171,19 @@
     "definition": {
       "en": "Potential of Hydrogen (Acidity)",
       "nl": "Zuurgraad"
+    }
+  }
+  , {
+    "code": "si",
+    "value": {
+      "en": "SI"
+    },
+    "label": {
+      "en": "SI"
+    },
+    "definition": {
+      "en": "Saturation Index",
+      "nl": "Verzadigingsindex"
     }
   }
 ]

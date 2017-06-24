@@ -238,6 +238,68 @@
       "en": "Bicarbonate (HC03)",
       "nl": "Waterstofcarbonaat"
     }
+  }
+  {
+    "code": "pt_co",
+    "standard": "NA",
+    "value": "pt_co",
+    "label": {
+      "en": "Color Intensity (Pt/Co-scale)",
+      "nl": "Kleurintensiteit (Pt/Co-schaal)"
+    }
+  },
+  {
+    "code": "acidity",
+    "standard": "NA",
+    "value": "acidity",
+    "label": {
+      "en": "Acidity",
+      "nl": "Zuurgraad"
+    }
+  },
+  {
+    "code": "saturation",
+    "standard": "NA",
+    "value": "saturation",
+    "label": {
+      "en": "Saturation",
+      "nl": "Verzadiging"
+    }
+  },
+  {
+    "code": "clostridium",
+    "standard": "NA",
+    "value": "clostridium",
+    "label": {
+      "en": "Clostridium perfringens"
+    }
+  },
+  {
+    "code": "enterococci",
+    "standard": "NA",
+    "value": "enterococci",
+    "label": {
+      "en": "Enterococci",
+      "nl": "enterococcen"
+    }
+  },
+  {
+    "code": "e_coli",
+    "standard": "NA",
+    "value": "e_coli",
+    "label": {
+      "en": "Escherichia coli",
+      "nl": "Escherichia coli"
+    }
+  },
+  {
+    "code": "coli",
+    "standard": "NA",
+    "value": "coli",
+    "label": {
+      "en": "Coligroup bacteria",
+      "nl": "Coligroep bacteriën"
+    }
   },
   {
     "code": "silicate",
@@ -252,7 +314,8 @@
     "standard": "NA",
     "value": "trihalomethanes",
     "label": {
-      "en": "Trihalomethanes (THMS)"
+      "en": "Trihalomethanes (THMS)",
+      "nl": "Trihalomethanen"
     }
   }
 ]
