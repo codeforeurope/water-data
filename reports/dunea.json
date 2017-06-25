@@ -1,6 +1,6 @@
 [
   {
-    "name": "Katwijk 1e kw 2017 VERZENDFILE.csv",
+    "name": "Katwijk 1e kw 2017 VERZENDFILE",
     "issued": "2017-03-31T23:59:00.000Z",
     "year": "2017",
     "observations": [
@@ -198,8 +198,8 @@
     ]
   },
   {
-    "name": "Katwijk jaar 2015.csv",
-    "issued": "2016-12-31T23:59:00.000Z",
+    "name": "Katwijk jaar 2015",
+    "issued": "2015-12-31T23:59:00.000Z",
     "year": "2015",
     "observations": [
       {
@@ -396,7 +396,7 @@
     ]
   },
   {
-    "name": "Katwijk jaar 2016.csv",
+    "name": "Katwijk jaar 2016",
     "issued": "2016-12-31T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -569,7 +569,7 @@
     ]
   },
   {
-    "name": "Katwijk jr 2013.csv",
+    "name": "Katwijk jr 2013",
     "issued": "2013-12-31T23:59:00.000Z",
     "year": "2013",
     "observations": [
@@ -760,199 +760,7 @@
     ]
   },
   {
-    "name": "Monster jaar 2015.csv",
-    "issued": "2016-12-31T23:59:00.000Z",
-    "year": "2015",
-    "observations": [
-      {
-        "code": "aluminum",
-        "value": 4.3,
-        "max": 3.4,
-        "min": 5.6,
-        "uom": "mug_l"
-      },
-      {
-        "code": "arsine",
-        "value": 2.8,
-        "max": 2.2,
-        "min": 3.6,
-        "uom": "mug_l"
-      },
-      {
-        "code": "barium",
-        "value": 0.05,
-        "max": 0.04,
-        "min": 0.05,
-        "uom": "mg_l"
-      },
-      {
-        "code": "calcium",
-        "value": 46,
-        "max": 43,
-        "min": 51,
-        "uom": "mg_l"
-      },
-      {
-        "code": "chloride",
-        "value": 51,
-        "max": 45,
-        "min": 61,
-        "uom": "mg_l"
-      },
-      {
-        "code": "carbondioxide",
-        "value": 0.9,
-        "max": 0.5,
-        "min": 1.3,
-        "uom": "mg_l"
-      },
-      {
-        "code": "conductance",
-        "value": 48.6,
-        "max": 46.5,
-        "min": 50.7,
-        "uom": "ms_m"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.23,
-        "max": 0.21,
-        "min": 0.24,
-        "uom": "mg_l"
-      },
-      {
-        "code": "iron",
-        "value": 0.01,
-        "max": 0.01,
-        "min": 0.01,
-        "uom": "mg_l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.03,
-        "max": 0.03,
-        "min": 0.18,
-        "uom": "ftu"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 173,
-        "max": 163,
-        "min": 180,
-        "uom": "mg_l"
-      },
-      {
-        "code": "mercury",
-        "value": 0.02,
-        "max": 0.02,
-        "min": 0.02,
-        "uom": "mug_l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.51,
-        "max": 1.42,
-        "min": 1.63,
-        "uom": "mmol_l"
-      },
-      {
-        "code": "pt_co",
-        "value": 8,
-        "max": 6,
-        "min": 10,
-        "uom": "mg_l"
-      },
-      {
-        "code": "magnesium",
-        "value": 8.6,
-        "max": 8.2,
-        "min": 9.3,
-        "uom": "mg_l"
-      },
-      {
-        "code": "manganese",
-        "value": 0.01,
-        "max": 0.01,
-        "min": 0.01,
-        "uom": "mg_l"
-      },
-      {
-        "code": "natrium",
-        "value": 52,
-        "max": 47,
-        "min": 59,
-        "uom": "mg_l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.02,
-        "max": 0.02,
-        "min": 0.03,
-        "uom": "mg_l"
-      },
-      {
-        "code": "nitrite",
-        "value": 0.007,
-        "max": 0.007,
-        "min": 0.007,
-        "uom": "mg_l"
-      },
-      {
-        "code": "nitrate",
-        "value": 4.04,
-        "max": 1.82,
-        "min": 6.53,
-        "uom": "mg_l"
-      },
-      {
-        "code": "oxygen",
-        "value": 9.5,
-        "max": 8.7,
-        "min": 10.2,
-        "uom": "mg_l"
-      },
-      {
-        "code": "acidity",
-        "value": 8.54,
-        "max": 8.37,
-        "min": 8.71,
-        "uom": "ph"
-      },
-      {
-        "code": "saturation",
-        "value": 0.77,
-        "max": 0.63,
-        "min": 0.91,
-        "uom": "ph"
-      },
-      {
-        "code": "sulfate",
-        "value": 46,
-        "max": 41,
-        "min": 49,
-        "uom": "mg_l"
-      },
-      {
-        "code": "watertemperature",
-        "value": 12.4,
-        "max": 8.5,
-        "min": 16.4,
-        "uom": "deg_c"
-      }
-    ],
-    "sources": [
-      "https://www.dunea.nl/documents/10156/13625/Monster+jaar+2015.pdf"
-    ],
-    "zones": [
-      "den_haag",
-      "rijswijk"
-    ],
-    "plants": [
-      "monster"
-    ]
-  },
-  {
-    "name": "Monster 1e kw 2017 VERZENDFILE.csv",
+    "name": "Monster 1e kw 2017 VERZENDFILE",
     "issued": "2017-03-31T23:59:00.000Z",
     "year": "2017",
     "observations": [
@@ -1144,7 +952,199 @@
     ]
   },
   {
-    "name": "Monster jaar 2016.csv",
+    "name": "Monster jaar 2015",
+    "issued": "2015-12-31T23:59:00.000Z",
+    "year": "2015",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 4.3,
+        "max": 3.4,
+        "min": 5.6,
+        "uom": "mug_l"
+      },
+      {
+        "code": "arsine",
+        "value": 2.8,
+        "max": 2.2,
+        "min": 3.6,
+        "uom": "mug_l"
+      },
+      {
+        "code": "barium",
+        "value": 0.05,
+        "max": 0.04,
+        "min": 0.05,
+        "uom": "mg_l"
+      },
+      {
+        "code": "calcium",
+        "value": 46,
+        "max": 43,
+        "min": 51,
+        "uom": "mg_l"
+      },
+      {
+        "code": "chloride",
+        "value": 51,
+        "max": 45,
+        "min": 61,
+        "uom": "mg_l"
+      },
+      {
+        "code": "carbondioxide",
+        "value": 0.9,
+        "max": 0.5,
+        "min": 1.3,
+        "uom": "mg_l"
+      },
+      {
+        "code": "conductance",
+        "value": 48.6,
+        "max": 46.5,
+        "min": 50.7,
+        "uom": "ms_m"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.23,
+        "max": 0.21,
+        "min": 0.24,
+        "uom": "mg_l"
+      },
+      {
+        "code": "iron",
+        "value": 0.01,
+        "max": 0.01,
+        "min": 0.01,
+        "uom": "mg_l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.03,
+        "max": 0.03,
+        "min": 0.18,
+        "uom": "ftu"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 173,
+        "max": 163,
+        "min": 180,
+        "uom": "mg_l"
+      },
+      {
+        "code": "mercury",
+        "value": 0.02,
+        "max": 0.02,
+        "min": 0.02,
+        "uom": "mug_l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.51,
+        "max": 1.42,
+        "min": 1.63,
+        "uom": "mmol_l"
+      },
+      {
+        "code": "pt_co",
+        "value": 8,
+        "max": 6,
+        "min": 10,
+        "uom": "mg_l"
+      },
+      {
+        "code": "magnesium",
+        "value": 8.6,
+        "max": 8.2,
+        "min": 9.3,
+        "uom": "mg_l"
+      },
+      {
+        "code": "manganese",
+        "value": 0.01,
+        "max": 0.01,
+        "min": 0.01,
+        "uom": "mg_l"
+      },
+      {
+        "code": "natrium",
+        "value": 52,
+        "max": 47,
+        "min": 59,
+        "uom": "mg_l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "max": 0.02,
+        "min": 0.03,
+        "uom": "mg_l"
+      },
+      {
+        "code": "nitrite",
+        "value": 0.007,
+        "max": 0.007,
+        "min": 0.007,
+        "uom": "mg_l"
+      },
+      {
+        "code": "nitrate",
+        "value": 4.04,
+        "max": 1.82,
+        "min": 6.53,
+        "uom": "mg_l"
+      },
+      {
+        "code": "oxygen",
+        "value": 9.5,
+        "max": 8.7,
+        "min": 10.2,
+        "uom": "mg_l"
+      },
+      {
+        "code": "acidity",
+        "value": 8.54,
+        "max": 8.37,
+        "min": 8.71,
+        "uom": "ph"
+      },
+      {
+        "code": "saturation",
+        "value": 0.77,
+        "max": 0.63,
+        "min": 0.91,
+        "uom": "ph"
+      },
+      {
+        "code": "sulfate",
+        "value": 46,
+        "max": 41,
+        "min": 49,
+        "uom": "mg_l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 12.4,
+        "max": 8.5,
+        "min": 16.4,
+        "uom": "deg_c"
+      }
+    ],
+    "sources": [
+      "https://www.dunea.nl/documents/10156/13625/Monster+jaar+2015.pdf"
+    ],
+    "zones": [
+      "den_haag",
+      "rijswijk"
+    ],
+    "plants": [
+      "monster"
+    ]
+  },
+  {
+    "name": "Monster jaar 2016",
     "issued": "2016-12-31T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -1311,7 +1311,7 @@
     ]
   },
   {
-    "name": "Monster jr 2013.csv",
+    "name": "Monster jr 2013",
     "issued": "2013-12-31T23:59:00.000Z",
     "year": "2013",
     "observations": [
@@ -1496,7 +1496,7 @@
     ]
   },
   {
-    "name": "Scheveningen 1e kw 2017 VERZENDFILE.csv",
+    "name": "Scheveningen 1e kw 2017 VERZENDFILE",
     "issued": "2017-03-31T23:59:00.000Z",
     "year": "2017",
     "observations": [
@@ -1697,8 +1697,8 @@
     ]
   },
   {
-    "name": "Scheveningen jaar 2015.csv",
-    "issued": "2016-12-31T23:59:00.000Z",
+    "name": "Scheveningen jaar 2015",
+    "issued": "2015-12-31T23:59:00.000Z",
     "year": "2015",
     "observations": [
       {
@@ -1898,7 +1898,7 @@
     ]
   },
   {
-    "name": "Scheveningen jaar 2016.csv",
+    "name": "Scheveningen jaar 2016",
     "issued": "2016-12-31T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -2074,7 +2074,7 @@
     ]
   },
   {
-    "name": "Scheveningen jr 2013.csv",
+    "name": "Scheveningen jr 2013",
     "issued": "2013-12-31T23:59:00.000Z",
     "year": "2013",
     "observations": [
@@ -2268,220 +2268,7 @@
     ]
   },
   {
-    "name": "Waterkwaliteit Monster 2014.csv",
-    "issued": "2014-12-31T23:59:00.000Z",
-    "year": "2014",
-    "observations": [
-      {
-        "code": "aluminum",
-        "value": 4.6,
-        "max": 3.8,
-        "min": 6.1,
-        "uom": "mug_l"
-      },
-      {
-        "code": "arsine",
-        "value": 3,
-        "max": 2.4,
-        "min": 4.2,
-        "uom": "mug_l"
-      },
-      {
-        "code": "barium",
-        "value": 0.02,
-        "max": 0.01,
-        "min": 0.04,
-        "uom": "mg_l"
-      },
-      {
-        "code": "calcium",
-        "value": 47,
-        "max": 44,
-        "min": 49,
-        "uom": "mg_l"
-      },
-      {
-        "code": "chloride",
-        "value": 49,
-        "max": 44,
-        "min": 53,
-        "uom": "mg_l"
-      },
-      {
-        "code": "carbondioxide",
-        "value": 1,
-        "max": 0.6,
-        "min": 1.5,
-        "uom": "mg_l"
-      },
-      {
-        "code": "conductance",
-        "value": 47.5,
-        "max": 45.7,
-        "min": 48.6,
-        "uom": "ms_m"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.22,
-        "max": 0.21,
-        "min": 0.25,
-        "uom": "mg_l"
-      },
-      {
-        "code": "iron",
-        "value": 0.01,
-        "max": 0.01,
-        "min": 0.01,
-        "uom": "mg_l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.03,
-        "max": 0.03,
-        "min": 0.08,
-        "uom": "ftu"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 175,
-        "max": 160,
-        "min": 183,
-        "uom": "mg_l"
-      },
-      {
-        "code": "mercury",
-        "value": 0.02,
-        "max": 0.02,
-        "min": 0.02,
-        "uom": "mug_l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.5,
-        "max": 1.41,
-        "min": 1.58,
-        "uom": "mmol_l"
-      },
-      {
-        "code": "pt_co",
-        "value": 8,
-        "max": 7,
-        "min": 11,
-        "uom": "mg_l"
-      },
-      {
-        "code": "magnesium",
-        "value": 8.2,
-        "max": 7.6,
-        "min": 8.9,
-        "uom": "mg_l"
-      },
-      {
-        "code": "manganese",
-        "value": 0.01,
-        "max": 0.01,
-        "min": 0.01,
-        "uom": "mg_l"
-      },
-      {
-        "code": "natrium",
-        "value": 51,
-        "max": 45,
-        "min": 56,
-        "uom": "mg_l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.02,
-        "max": 0.02,
-        "min": 0.02,
-        "uom": "mg_l"
-      },
-      {
-        "code": "nitrite",
-        "value": 0.007,
-        "max": 0.007,
-        "min": 0.007,
-        "uom": "mg_l"
-      },
-      {
-        "code": "nitrate",
-        "value": 3.94,
-        "max": 1.49,
-        "min": 7.12,
-        "uom": "mg_l"
-      },
-      {
-        "code": "oxygen",
-        "value": 9.3,
-        "max": 8.7,
-        "min": 9.8,
-        "uom": "mg_l"
-      },
-      {
-        "code": "acidity",
-        "value": 8.47,
-        "max": 8.25,
-        "min": 8.73,
-        "uom": "ph"
-      },
-      {
-        "code": "saturation",
-        "value": 0.73,
-        "max": 0.52,
-        "min": 0.87,
-        "uom": "ph"
-      },
-      {
-        "code": "sulfate",
-        "value": 45,
-        "max": 41,
-        "min": 52,
-        "uom": "mg_l"
-      },
-      {
-        "code": "watertemperature",
-        "value": 13,
-        "max": 8.9,
-        "min": 17,
-        "uom": "deg_c"
-      },
-      {
-        "code": "clostridium",
-        "value": 0,
-        "max": 0,
-        "min": 0,
-        "uom": "cfu_100ml"
-      },
-      {
-        "code": "coli",
-        "value": 0.01,
-        "max": 0,
-        "min": 1,
-        "uom": "cfu_100ml"
-      },
-      {
-        "code": "enterococci",
-        "value": 0,
-        "max": 0,
-        "min": 0,
-        "uom": "cfu_100ml"
-      }
-    ],
-    "sources": [
-      "https://www.dunea.nl/documents/10156/13625/Waterkwaliteit+Monster+2014.pdf"
-    ],
-    "zones": [
-      "den_haag",
-      "rijswijk"
-    ],
-    "plants": [
-      "monster"
-    ]
-  },
-  {
-    "name": "Waterkwaliteit Katwijk 2014.csv",
+    "name": "Waterkwaliteit Katwijk 2014",
     "issued": "2014-12-31T23:59:00.000Z",
     "year": "2014",
     "observations": [
@@ -2700,7 +2487,220 @@
     ]
   },
   {
-    "name": "Waterkwaliteit Scheveningen 2014.csv",
+    "name": "Waterkwaliteit Monster 2014",
+    "issued": "2014-12-31T23:59:00.000Z",
+    "year": "2014",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 4.6,
+        "max": 3.8,
+        "min": 6.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "arsine",
+        "value": 3,
+        "max": 2.4,
+        "min": 4.2,
+        "uom": "mug_l"
+      },
+      {
+        "code": "barium",
+        "value": 0.02,
+        "max": 0.01,
+        "min": 0.04,
+        "uom": "mg_l"
+      },
+      {
+        "code": "calcium",
+        "value": 47,
+        "max": 44,
+        "min": 49,
+        "uom": "mg_l"
+      },
+      {
+        "code": "chloride",
+        "value": 49,
+        "max": 44,
+        "min": 53,
+        "uom": "mg_l"
+      },
+      {
+        "code": "carbondioxide",
+        "value": 1,
+        "max": 0.6,
+        "min": 1.5,
+        "uom": "mg_l"
+      },
+      {
+        "code": "conductance",
+        "value": 47.5,
+        "max": 45.7,
+        "min": 48.6,
+        "uom": "ms_m"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.22,
+        "max": 0.21,
+        "min": 0.25,
+        "uom": "mg_l"
+      },
+      {
+        "code": "iron",
+        "value": 0.01,
+        "max": 0.01,
+        "min": 0.01,
+        "uom": "mg_l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.03,
+        "max": 0.03,
+        "min": 0.08,
+        "uom": "ftu"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 175,
+        "max": 160,
+        "min": 183,
+        "uom": "mg_l"
+      },
+      {
+        "code": "mercury",
+        "value": 0.02,
+        "max": 0.02,
+        "min": 0.02,
+        "uom": "mug_l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.5,
+        "max": 1.41,
+        "min": 1.58,
+        "uom": "mmol_l"
+      },
+      {
+        "code": "pt_co",
+        "value": 8,
+        "max": 7,
+        "min": 11,
+        "uom": "mg_l"
+      },
+      {
+        "code": "magnesium",
+        "value": 8.2,
+        "max": 7.6,
+        "min": 8.9,
+        "uom": "mg_l"
+      },
+      {
+        "code": "manganese",
+        "value": 0.01,
+        "max": 0.01,
+        "min": 0.01,
+        "uom": "mg_l"
+      },
+      {
+        "code": "natrium",
+        "value": 51,
+        "max": 45,
+        "min": 56,
+        "uom": "mg_l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "max": 0.02,
+        "min": 0.02,
+        "uom": "mg_l"
+      },
+      {
+        "code": "nitrite",
+        "value": 0.007,
+        "max": 0.007,
+        "min": 0.007,
+        "uom": "mg_l"
+      },
+      {
+        "code": "nitrate",
+        "value": 3.94,
+        "max": 1.49,
+        "min": 7.12,
+        "uom": "mg_l"
+      },
+      {
+        "code": "oxygen",
+        "value": 9.3,
+        "max": 8.7,
+        "min": 9.8,
+        "uom": "mg_l"
+      },
+      {
+        "code": "acidity",
+        "value": 8.47,
+        "max": 8.25,
+        "min": 8.73,
+        "uom": "ph"
+      },
+      {
+        "code": "saturation",
+        "value": 0.73,
+        "max": 0.52,
+        "min": 0.87,
+        "uom": "ph"
+      },
+      {
+        "code": "sulfate",
+        "value": 45,
+        "max": 41,
+        "min": 52,
+        "uom": "mg_l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 13,
+        "max": 8.9,
+        "min": 17,
+        "uom": "deg_c"
+      },
+      {
+        "code": "clostridium",
+        "value": 0,
+        "max": 0,
+        "min": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "coli",
+        "value": 0.01,
+        "max": 0,
+        "min": 1,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "enterococci",
+        "value": 0,
+        "max": 0,
+        "min": 0,
+        "uom": "cfu_100ml"
+      }
+    ],
+    "sources": [
+      "https://www.dunea.nl/documents/10156/13625/Waterkwaliteit+Monster+2014.pdf"
+    ],
+    "zones": [
+      "den_haag",
+      "rijswijk"
+    ],
+    "plants": [
+      "monster"
+    ]
+  },
+  {
+    "name": "Waterkwaliteit Scheveningen 2014",
     "issued": "2014-12-31T23:59:00.000Z",
     "year": "2014",
     "observations": [

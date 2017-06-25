@@ -22,7 +22,7 @@ function parsecsv(filename, cb){
   //First part of filename is name
   //Grab year
   var results = {
-    "name": filename,
+    "name": filename.replace('.csv',''),
     "issued": 'need to extract date and year from filename',
     "year": 'need to extract date and year from filename',
     "observations": []
@@ -40,7 +40,7 @@ function parsecsv(filename, cb){
       break;
     case filename.indexOf('2015') != -1:
       results.year = '2015';
-      results.issued = "2016-12-31T23:59:00.000Z";
+      results.issued = "2015-12-31T23:59:00.000Z";
       break;
     case filename.indexOf('2016') != -1:
       results.year = '2016';
