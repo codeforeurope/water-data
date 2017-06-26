@@ -87,7 +87,7 @@ function parsecsv(filename, cb){
       switch (jsonObj.field1) {
         case 'Aluminium': code = 'aluminum'; break;
         case 'Arseen': code = 'arsine'; break;
-        case 'Boor': code = 'barium'; break;
+        case 'Boor': code = 'borium'; break;
         case 'Calcium': code = 'calcium'; break;
         case 'Chloride': code = 'chloride'; break;
         case 'Koolstofdioxide': code = 'carbondioxide'; break;
@@ -107,7 +107,7 @@ function parsecsv(filename, cb){
         case 'Nitriet': code = 'nitrite'; break;
         case 'Nitraat': code = 'nitrate'; break;
         case 'Zuurstof, opgelost': code = 'oxygen'; break;
-        case 'pH berekend': code = 'acidity'; break;
+        //case 'pH berekend': code = 'acidity'; break;
         //Orthosofaat
         //Seleen
         case 'Verzadigingsindex S.I. berekend': code = 'saturation'; break;
