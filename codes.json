@@ -171,6 +171,15 @@
     "value": "7440-39-3",
     "label": {
       "en": "Barium",
+      "nl": "Barium"
+    }
+  },
+  {
+    "code": "borium",
+    "standard": "CAS",
+    "value": "7440-42-8",
+    "label": {
+      "en": "Boron",
       "nl": "Boor"
     }
   },

@@ -12,6 +12,24 @@
     }
   },
   {
+    "code": "cfu_l",
+    "value": {
+      "en": "CFU/L",
+      "de": "KBE/L",
+      "nl": "KVE/L"
+    },
+    "label": {
+      "en": "CFU/L",
+      "de": "KBE/L",
+      "nl": "KVE/L"
+    },
+    "definition": {
+      "nl": "Kolonievormende eenheden per liter",
+      "de": "Koloniebildende einheiten per liter",
+      "en": "Colonie forming units per liter"
+    }
+  },
+  {
     "code": "cfu_100ml",
     "value": {
       "en": "CFU/100mL",
