@@ -188,7 +188,11 @@ function parsecsv(filename, cb){
     var zones = [];
     var plants = [];
 
-    var skipset = new Set(['','Omschrijving','geur, kwalitatief','smaak, kwalitatief','PARAMETER']);
+    var skipset = new Set(['','Omschrijving','geur, kwalitatief',
+      'Geur, kwalitatief', 'smaak, kwalitatief', 'Smaak, kwalitatief','PARAMETER',
+      'Anionen', 'Kationen', 'Koloniegetal 22 °C', 'koloniegetal 22 °C','koloniegetal 25 °C, 10 dg R2A-strijkplaat',
+      "totaal organisch koolstof (TOC)", 'anionen', 'kationen', "koloniegetal 22 °C, 3 dg GGA-gietplaat"
+    ]);
     if(skipset.has(jsonObj.PARAMETER)){
       //skip
     } else {
@@ -212,16 +216,13 @@ function parsecsv(filename, cb){
         case 'Zuurstof': code = 'oxygen'; break;
         case 'troebelingsgraad': //Drinkwaterkwaliteit
         case 'Troebelingsgraad': code = 'turbidity'; break;
-        //Smaak, kwalitatief
-        //smaak, kwalitatief
-        //geur, kwalitatief
-        //Geur, kwalitatief
         case 'zuurgraad': //Drinkwaterkwaliteit
         case 'Zuurgraad': code = 'acidity'; break;
         //evenwichts-pH
         //Evenwichts - pH (20°C)
         case 'saturatie-index': //Drinkwaterkwaliteit
         case 'Verzadigingsindex': code = 'saturation'; break;
+        case "EGV (elek. geleid.verm., 20 °C)":
         case 'EGV (elek. geleid.verm., 20°C)': //Drinkwaterkwaliteit
         case 'EGV (20°C)': code = 'conductance'; break;
         //theoretisch afzetbaar calciumcarbonaat 10°C
@@ -255,44 +256,73 @@ function parsecsv(filename, cb){
         case 'nitraat': //Drinkwaterkwaliteit
         case 'Nitraat': code = 'nitrate'; break;
         //ortofosfaat
-        //silicaat
+        case 'silicaat': //Drinkwaterkwaliteit
+        case 'Silicaat': code = 'silicate'; break;
         case 'ijzer': //Drinkwaterkwaliteit
         case 'IJzer': code = 'iron'; break;
         case 'mangaan': //Drinkwaterkwaliteit
         case 'Mangaan': code = 'manganese'; break;
-        case 'aluminium': code = 'aluminum'; break; //Drinkwaterkwaliteit only
-        //antimoon
+        case 'Aluminium':
+        case 'aluminium': code = 'aluminum'; break;
+        case 'antimoon':
+        case 'Antimoon': code = 'antimony'; break;
         case 'arseen': //Drinkwaterkwaliteit
         case 'Arseen': code = 'arsine'; break;
         // Organische koolstof, totaal
-        case 'barium': code = 'barium'; break; //Drinkwaterkwaliteit only
-        //beryllium
-        case 'boor': code = 'borium'; break; //Drinkwaterkwaliteit only
-        //cadmium
-        //chroom
-        //kobalt
-        //koper
-        case 'kwik': code = 'mercury'; break; //Drinkwaterkwaliteit only
-        //lood
-        //nikkel
-        //seleen
-        //tin
-        //vanadium
-        //zilver
-        //zink
-        case 'fluoride': code = 'fluoride'; break; //Drinkwaterkwaliteit only
-        //totaal cyanide
+        case 'Barium':
+        case 'barium': code = 'barium'; break;
+        case 'Beryllium':
+        case 'beryllium': code = 'beryllium'; break;
+        case 'Boor':
+        case 'boor': code = 'borium'; break;
+        case 'cadmium':
+        case 'Cadmium': code = 'cadmium'; break; //Drinkwaterkwaliteit only
+        case 'chroom':
+        case 'Chroom': code = 'chromium'; break; //Drinkwaterkwaliteit only
+        case 'Kobalt':
+        case 'Cobalt':
+        case 'kobalt':
+        case 'Kobalt': code = 'cobalt'; break;
+        case 'Koper':
+        case 'koper': code = 'copper'; break;
+        case 'Kwik':
+        case 'kwik': code = 'mercury'; break;
+        case 'Lood':
+        case 'lood': code = 'lead'; break;
+        case 'Nikkel':
+        case 'nikkel': code = 'nickel'; break;
+        case 'Seleen':
+        case 'seleen': code = 'selenium'; break;
+        case 'Tin':
+        case 'tin': code = 'tin'; break;
+        case 'Vanadium':
+        case 'vanadium': code = 'vanadium'; break;
+        case 'Zilver':
+        case 'zilver': code = 'silver'; break;
+        case 'Zink':
+        case 'zink': code = 'zinc'; break;
+        case 'Tritium':
+        case 'tritium': code = 'tritium'; break;
+        case 'Fluoride':
+        case 'fluoride': code = 'fluoride'; break;
+        case 'totaal cyanide':
+        case 'Cyanide, totaal': code = 'cyanide'; break;
         //totaal organische koolstof (TOC)
+        case "totaal organisch koolstof (TOC)":
+        case "Organisch koolstof, totaal": code = 'carbon'; break;
         case 'kleurintens., Pt/Co-schaal': //Drinkwaterkwaliteit
         case 'Kleurintensiteit': code = 'pt_co'; break;
-        case 'som trihalomethanen': code = 'trihalomethanes'; break; //Drinkwaterkwaliteit only
-        //koloniegetal 25 °C, 10 dg R2A-strijkplaat
-        //Koloniegetal 22 °C
+        case 'Som Trihalomethanen':
+        case 'som trihalomethanen': code = 'trihalomethanes'; break;
+        case 'bacteriën Coligroep (37 °C)':
         case 'bacteriën Coligroep': //Drinkwaterkwaliteit
         case 'Bacteriën van de coligroep': code = 'coli'; break;
+        case 'E.coli':
         case 'Escherichia coli': code = 'e_coli'; break;
-        //Aeromonas spp.
-        //Aeromonas 30 °C
+        case "Aeromonas spp. 30 °C":
+        case 'Aeromonas 30°C':
+        case 'Aeromonas 30 °C': code = 'aeromonas'; break;
+        case "Legionella spp.": code = 'legionella'; break;
         //Legionella spp.
         case 'Clostridium perfringens (incl. sporen)': code = 'clostridium'; break; //Drinkwaterkwaliteit only
         //dichlobenil
@@ -304,6 +334,7 @@ function parsecsv(filename, cb){
         case jsonObj.EENHEID.indexOf('FTE') != -1: uom = 'ftu'; break;
         case jsonObj.EENHEID.indexOf('pH') != -1: uom = 'ph'; break;
         case jsonObj.EENHEID.indexOf('SI') != -1: uom = 'si'; break;
+        case jsonObj.EENHEID.indexOf('Bq/l') != -1: uom = 'bq_l'; break;
         case jsonObj.EENHEID.indexOf('mS/m') != -1: uom = 'ms_m'; break;
         case jsonObj.EENHEID.indexOf('kve/l') != -1: uom = 'cfu_l'; break;
         case jsonObj.EENHEID.indexOf('kve/ml') != -1: uom = 'cfu_ml'; break;
@@ -333,25 +364,42 @@ function parsecsv(filename, cb){
         } else {
           var values2 = [];
           var values3 = [];
+          var values4 = [];
           if(jsonObj['WETTELIJKE NORM']){
             values2 = jsonObj['WETTELIJKE NORM'].split(" ");
           }
           if(jsonObj.AANTAL){
             values3 = jsonObj.AANTAL.split(" ");
           }
+          if(jsonObj.WAARNEMINGEN){
+            values4 = jsonObj.WAARNEMINGEN.split(" ");
+          }
           // // Regular file
           // var values_regular = jsonObj.AANTAL.split(" ");
-          results.observations.push({
-            "code": code,
-            "samples": processValue(values2[0]),
-            "value": processValue(values2[1]),
-            "min": processValue(values3[0]),
-            "max": processValue(values3[1]),
-            "uom": uom
-          });
+          if(values4.length === 0){
+            results.observations.push({
+              "code": code,
+              "samples": processValue(values2[0]),
+              "value": processValue(values2[1]),
+              "min": processValue(values3[0]),
+              "max": processValue(values3[1]),
+              "uom": uom
+            });
+          } else {
+            results.observations.push({
+              "code": code,
+              "samples": processValue(values3[0]),
+              "value": processValue(values4[0]),
+              "min": processValue(values4[1]),
+              "max": processValue(values4[2]),
+              "uom": uom
+            });
+          }
         }
       } else {
-
+        if(!skipset.has(jsonObj.PARAMETER) && jsonObj.PARAMETER != "Waterproductiebedrijf"){
+          console.log('could not process: ' + filename + '-' + JSON.stringify(jsonObj));
+        }
       }
     }
   })

@@ -1,0 +1,8 @@
+- anionen, kationen; som van alle geladen deeltjes ongeacht stof (Niet relevant, moet samen ong. 0 zijn, anders heb je geladen water)
+- TACC10, wordt uitgezocht
+- TACC90 (Haaren)
+- Koloniegetal 22 CC, Verzameling van alle bacterien die groeien bij 22c (Niet relevant)
+- Evenwichts - pH
+- EDTA
+- Carbonaat, Waterstof of bicarbonaat?
+- Organische koolstof

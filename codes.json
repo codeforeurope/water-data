@@ -1,330 +1,484 @@
 [
   {
     "code": "watertemperature",
-    "standard": "NA",
-    "value": "watertemperature",
     "label": {
-      "en": "Watertemperature",
       "de": "Wassertemperatuur",
+      "en": "Watertemperature",
       "nl": "Watertemperatuur"
-    }
+    },
+    "standard": "NA",
+    "value": "watertemperature"
   },
   {
     "code": "turbidity",
-    "standard": "NA",
-    "value": "turbidity",
     "label": {
       "en": "Turbidity",
       "nl": "Troebelingsgraad"
-    }
+    },
+    "standard": "NA",
+    "value": "turbidity"
   },
   {
     "code": "oxygen",
-    "standard": "CAS",
-    "value": "7782-44-7",
     "label": {
-      "en": "Oxygen",
       "de": "Sauerstof",
+      "en": "Oxygen",
       "nl": "Zuurstof"
-    }
-  },
-  {
-    "code": "conductance",
-    "standard": "NA",
-    "value": "conductance",
-    "label": {
-      "en": "Conductance",
-      "nl": "Geleidbaarheid"
-    }
+    },
+    "standard": "CAS",
+    "value": "7782-44-7"
   },
   {
     "code": "tritium",
-    "standard": "CAS",
-    "value": "10028-17-8",
     "label": {
       "en": "Tritium"
-    }
+    },
+    "standard": "CAS",
+    "value": "10028-17-8"
+  },
+  {
+    "code": "cobalt",
+    "label": {
+      "en": "Cobalt"
+    },
+    "standard": "CAS",
+    "value": "7440-48-4"
+  },
+  {
+    "code": "copper",
+    "label": {
+      "en": "Copper",
+      "nl": "Koper"
+    },
+    "standard": "CAS",
+    "value": "7440-50-8"
+  },
+  {
+    "code": "lead",
+    "label": {
+      "en": "Lead",
+      "nl": "Lood"
+    },
+    "standard": "CAS",
+    "value": "7439-92-1"
+  },
+  {
+    "code": "nickel",
+    "label": {
+      "en": "Nickel",
+      "nl": "Nikkel"
+    },
+    "standard": "CAS",
+    "value": "7440-02-0"
+  },
+  {
+    "code": "selenium",
+    "label": {
+      "en": "Selenium",
+      "nl": "Seleen"
+    },
+    "standard": "CAS",
+    "value": "7782-49-2"
+  },
+  {
+    "code": "tin",
+    "label": {
+      "en": "Tin"
+    },
+    "standard": "CAS",
+    "value": "7440-31-5"
+  },
+  {
+    "code": "vanadium",
+    "label": {
+      "en": "Vanadium"
+    },
+    "standard": "CAS",
+    "value": "7440-62-2"
+  },
+  {
+    "code": "carbon",
+    "label": {
+      "en": "Carbon",
+      "nl": "Koolstof"
+    },
+    "standard": "CAS",
+    "value": "7440-44-0"
+  },
+  {
+    "code": "silver",
+    "label": {
+      "en": "Silver",
+      "nl": "Zilver"
+    },
+    "standard": "CAS",
+    "value": "7440-22-4"
+  },
+  {
+    "code": "legionella",
+    "label": {
+      "en": "Legionella"
+    },
+    "standard": "NA",
+    "value": "legionella"
+  },
+  {
+    "code": "zinc",
+    "label": {
+      "en": "Zinc",
+      "nl": "Zink"
+    },
+    "standard": "CAS",
+    "value": "7440-66-6"
+  },
+  {
+    "code": "cyanide",
+    "label": {
+      "en": "Cyanide"
+    },
+    "standard": "NA",
+    "value": "cyanide"
+  },
+  {
+    "code": "cadmium",
+    "label": {
+      "en": "Cadmium"
+    },
+    "standard": "CAS",
+    "value": "7440-43-9"
+  },
+  {
+    "code": "aeromonas",
+    "label": {
+      "en": "Aeromonas"
+    },
+    "standard": "microbiology_society",
+    "value": "10.1099/00207713-30-1-225"
+  },
+  {
+    "code": "chromium",
+    "label": {
+      "en": "Chromium",
+      "nl": "Chroom"
+    },
+    "standard": "CAS",
+    "value": "7440-47-3"
+  },
+  {
+    "code": "conductance",
+    "label": {
+      "en": "Conductance",
+      "nl": "Geleidbaarheid"
+    },
+    "standard": "NA",
+    "value": "conductance"
+  },
+  {
+    "code": "tritium",
+    "label": {
+      "en": "Tritium"
+    },
+    "standard": "CAS",
+    "value": "10028-17-8"
   },
   {
     "code": "natrium",
-    "standard": "CAS",
-    "value": "7440-23-5",
     "label": {
-      "en": "Sodium",
       "de": "Natrium",
+      "en": "Sodium",
       "nl": "Natrium"
-    }
+    },
+    "standard": "CAS",
+    "value": "7440-23-5"
   },
   {
     "code": "ammonium",
-    "standard": "CAS",
-    "value": "14798-03-9",
     "label": {
       "en": "Ammonium"
-    }
+    },
+    "standard": "CAS",
+    "value": "14798-03-9"
   },
   {
     "code": "nitrate",
-    "standard": "CAS",
-    "value": "14797-55-8",
     "label": {
-      "en": "Nitrate",
       "de": "Nitrat",
+      "en": "Nitrate",
       "nl": "Nitraat"
-    }
+    },
+    "standard": "CAS",
+    "value": "14797-55-8"
   },
   {
     "code": "nitrite",
-    "standard": "CAS",
-    "value": "71308-04-8",
     "label": {
       "en": "Nitrite",
       "nl": "Nitriet"
-    }
+    },
+    "standard": "CAS",
+    "value": "71308-04-8"
   },
   {
     "code": "calcium",
-    "standard": "CAS",
-    "value": "7440-70-2",
     "label": {
       "en": "Calcium"
-    }
+    },
+    "standard": "CAS",
+    "value": "7440-70-2"
   },
   {
     "code": "kalium",
-    "standard": "CAS",
-    "value": "7440-09-7",
     "label": {
+      "de": "Kalium",
       "en": "Potassium",
-      "nl": "Kalium",
-      "de": "Kalium"
-    }
+      "nl": "Kalium"
+    },
+    "standard": "CAS",
+    "value": "7440-09-7"
   },
   {
     "code": "magnesium",
-    "standard": "CAS",
-    "value": "7439-95-4",
     "label": {
       "en": "Magnesium"
-    }
+    },
+    "standard": "CAS",
+    "value": "7439-95-4"
   },
   {
     "code": "iron",
-    "standard": "CAS",
-    "value": "7439-89-6",
     "label": {
+      "de": "Eisen",
       "en": "Iron",
-      "nl": "IJzer",
-      "de": "Eisen"
-    }
+      "nl": "IJzer"
+    },
+    "standard": "CAS",
+    "value": "7439-89-6"
   },
   {
     "code": "fluoride",
-    "standard": "CAS",
-    "value": "16984-48-8",
     "label": {
-      "en": "Fluoride",
-      "de": "Fluorid"
-    }
+      "de": "Fluorid",
+      "en": "Fluoride"
+    },
+    "standard": "CAS",
+    "value": "16984-48-8"
   },
   {
     "code": "chloride",
-    "standard": "CAS",
-    "value": "16887-00-6",
     "label": {
-      "en": "Chloride",
-      "de": "Chlorid"
-    }
+      "de": "Chlorid",
+      "en": "Chloride"
+    },
+    "standard": "CAS",
+    "value": "16887-00-6"
   },
   {
     "code": "sulfate",
-    "standard": "CAS",
-    "value": "14808-79-8",
     "label": {
-      "en": "Sulfate",
       "de": "Sulfat",
+      "en": "Sulfate",
       "nl": "Sulfaat"
-    }
+    },
+    "standard": "CAS",
+    "value": "14808-79-8"
   },
   {
     "code": "hydrogen",
-    "standard": "CAS",
-    "value": "1333-74-0",
     "label": {
-      "en": "Hydrogen",
       "de": "Hydrogene",
+      "en": "Hydrogen",
       "nl": "Hydrogeen"
-    }
+    },
+    "standard": "CAS",
+    "value": "1333-74-0"
   },
   {
     "code": "aluminum",
-    "standard": "CAS",
-    "value": "7429-90-5",
     "label": {
       "en": "Aluminum",
       "nl": "Aluminium"
-    }
+    },
+    "standard": "CAS",
+    "value": "7429-90-5"
   },
   {
     "code": "barium",
-    "standard": "CAS",
-    "value": "7440-39-3",
     "label": {
       "en": "Barium",
       "nl": "Barium"
-    }
+    },
+    "standard": "CAS",
+    "value": "7440-39-3"
   },
   {
     "code": "borium",
-    "standard": "CAS",
-    "value": "7440-42-8",
     "label": {
       "en": "Boron",
       "nl": "Boor"
-    }
+    },
+    "standard": "CAS",
+    "value": "7440-42-8"
   },
   {
     "code": "arsine",
-    "standard": "CAS",
-    "value": "7784-42-1",
     "label": {
       "en": "Arsine",
       "nl": "Arseen"
-    }
+    },
+    "standard": "CAS",
+    "value": "7784-42-1"
   },
   {
     "code": "carbondioxide",
-    "standard": "CAS",
-    "value": "124-38-9",
     "label": {
       "en": "Carbon Dioxide",
       "nl": "Koolstofdioxide"
-    }
+    },
+    "standard": "CAS",
+    "value": "124-38-9"
   },
   {
     "code": "mycobacteria",
-    "standard": "NA",
-    "value": "mycobacteria",
     "label": {
+      "de": "Microbacteria",
       "en": "Mycobacteria",
-      "nl": "Microbacteriën",
-      "de": "Microbacteria"
-    }
+      "nl": "Microbacteriën"
+    },
+    "standard": "NA",
+    "value": "mycobacteria"
   },
   {
     "code": "hardness",
-    "standard": "NA",
-    "value": "hardness",
     "label": {
+      "de": "Härte",
       "en": "Hardness",
-      "nl": "Hardheid",
-      "de": "Härte"
-    }
+      "nl": "Hardheid"
+    },
+    "standard": "NA",
+    "value": "hardness"
   },
   {
     "code": "mercury",
-    "standard": "CAS",
-    "value": "7439-97-6",
     "label": {
       "en": "Mercury",
       "nl": "Kwik"
-    }
+    },
+    "standard": "CAS",
+    "value": "7439-97-6"
   },
   {
     "code": "manganese",
-    "standard": "CAS",
-    "value": "7439-96-5",
     "label": {
       "en": "Manganese",
       "nl": "Mangaan"
-    }
+    },
+    "standard": "CAS",
+    "value": "7439-96-5"
   },
   {
     "code": "bicarbonate",
-    "standard": "NA",
-    "value": "bicarbonate",
     "label": {
       "en": "Bicarbonate (HC03)",
       "nl": "Waterstofcarbonaat"
-    }
+    },
+    "standard": "NA",
+    "value": "bicarbonate"
   },
   {
     "code": "pt_co",
-    "standard": "NA",
-    "value": "pt_co",
     "label": {
       "en": "Color Intensity (Pt/Co-scale)",
       "nl": "Kleurintensiteit (Pt/Co-schaal)"
-    }
+    },
+    "standard": "NA",
+    "value": "pt_co"
   },
   {
     "code": "acidity",
-    "standard": "NA",
-    "value": "acidity",
     "label": {
       "en": "Acidity",
       "nl": "Zuurgraad"
-    }
+    },
+    "standard": "NA",
+    "value": "acidity"
   },
   {
     "code": "saturation",
-    "standard": "NA",
-    "value": "saturation",
     "label": {
       "en": "Saturation",
       "nl": "Verzadiging"
-    }
+    },
+    "standard": "NA",
+    "value": "saturation"
   },
   {
     "code": "clostridium",
-    "standard": "NA",
-    "value": "clostridium",
     "label": {
       "en": "Clostridium perfringens"
-    }
+    },
+    "standard": "NA",
+    "value": "clostridium"
   },
   {
     "code": "enterococci",
-    "standard": "NA",
-    "value": "enterococci",
     "label": {
       "en": "Enterococci",
       "nl": "enterococcen"
-    }
+    },
+    "standard": "NA",
+    "value": "enterococci"
   },
   {
     "code": "e_coli",
-    "standard": "NA",
-    "value": "e_coli",
     "label": {
       "en": "Escherichia coli",
       "nl": "Escherichia coli"
-    }
+    },
+    "standard": "NA",
+    "value": "e_coli"
   },
   {
     "code": "coli",
-    "standard": "NA",
-    "value": "coli",
     "label": {
       "en": "Coligroup bacteria",
       "nl": "Coligroep bacteriën"
-    }
+    },
+    "standard": "NA",
+    "value": "coli"
   },
   {
     "code": "silicate",
-    "standard": "CAS",
-    "value": "3163-01-7",
     "label": {
-      "en": "Silicate"
-    }
+      "en": "Silicate",
+      "nl": "Silicaat"
+    },
+    "standard": "CAS",
+    "value": "3163-01-7"
+  },
+  {
+    "code": "beryllium",
+    "label": {
+      "en": "Beryllium"
+    },
+    "standard": "CAS",
+    "value": "7440-41-7"
+  },
+  {
+    "code": "antimony",
+    "label": {
+      "en": "Antimony",
+      "nl": "Antimoon"
+    },
+    "standard": "CAS",
+    "value": "7440-36-0"
   },
   {
     "code": "trihalomethanes",
-    "standard": "NA",
-    "value": "trihalomethanes",
     "label": {
       "en": "Trihalomethanes (THMS)",
       "nl": "Trihalomethanen"
-    }
+    },
+    "standard": "NA",
+    "value": "trihalomethanes"
   }
 ]

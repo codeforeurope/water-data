@@ -28,6 +28,14 @@
         "uom": "ftu"
       },
       {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
+      },
+      {
         "code": "acidity",
         "samples": 26,
         "value": 7.82,
@@ -148,6 +156,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 18,
+        "min": 18,
+        "max": 18,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 26,
         "value": 10,
@@ -164,6 +180,22 @@
         "uom": "mug_l"
       },
       {
+        "code": "aluminum",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 1,
         "value": 1,
@@ -172,12 +204,164 @@
         "uom": "mug_l"
       },
       {
+        "code": "barium",
+        "samples": 1,
+        "value": 17,
+        "min": 17,
+        "max": 17,
+        "uom": "mug_l"
+      },
+      {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "borium",
+        "samples": 1,
+        "value": 28,
+        "min": 28,
+        "max": 28,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "mercury",
+        "samples": 1,
+        "value": 0.06,
+        "min": 0.06,
+        "max": 0.06,
+        "uom": "mug_l"
+      },
+      {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "fluoride",
+        "samples": 1,
+        "value": 0.07,
+        "min": 0.07,
+        "max": 0.07,
+        "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "carbon",
+        "samples": 1,
+        "value": 2.4,
+        "min": 2.4,
+        "max": 2.4,
+        "uom": "mg_l"
+      },
+      {
         "code": "pt_co",
         "samples": 1,
         "value": 4.3,
         "min": 4.3,
         "max": 4.3,
         "uom": "mg_l"
+      },
+      {
+        "code": "trihalomethanes",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
       },
       {
         "code": "coli",
@@ -193,6 +377,14 @@
         "value": 0,
         "min": 0,
         "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 12,
+        "value": 10.83,
+        "min": 0,
+        "max": 22,
         "uom": "cfu_100ml"
       }
     ],
@@ -234,6 +426,14 @@
         "min": 0.18,
         "max": 0.37,
         "uom": "ftu"
+      },
+      {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
       },
       {
         "code": "acidity",
@@ -356,6 +556,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 13,
+        "min": 13,
+        "max": 13,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 200,
         "value": 26,
@@ -372,6 +580,22 @@
         "uom": "mug_l"
       },
       {
+        "code": "aluminum",
+        "samples": 200,
+        "value": 1,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "antimony",
+        "samples": 5,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 10,
         "value": 1,
@@ -380,12 +604,164 @@
         "uom": "mug_l"
       },
       {
+        "code": "barium",
+        "samples": 1,
+        "value": 63,
+        "min": 63,
+        "max": 63,
+        "uom": "mug_l"
+      },
+      {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "borium",
+        "samples": 500,
+        "value": 1,
+        "min": 88,
+        "max": 88,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 5,
+        "value": 1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 50,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 2000,
+        "value": 1,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "mercury",
+        "samples": 1,
+        "value": 1,
+        "min": 0.06,
+        "max": 0.06,
+        "uom": "mug_l"
+      },
+      {
+        "code": "lead",
+        "samples": 10,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 20,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 10,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 3000,
+        "value": 1,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "fluoride",
+        "samples": 1,
+        "value": 1,
+        "min": 0.11,
+        "max": 0.11,
+        "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 50,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "carbon",
+        "samples": 1,
+        "value": 1.2,
+        "min": 1.2,
+        "max": 1.2,
+        "uom": "mg_l"
+      },
+      {
         "code": "pt_co",
         "samples": 20,
         "value": 1,
         "min": 4.6,
         "max": 4.6,
         "uom": "mg_l"
+      },
+      {
+        "code": "trihalomethanes",
+        "samples": 25,
+        "value": 1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
       },
       {
         "code": "coli",
@@ -399,6 +775,14 @@
         "code": "e_coli",
         "samples": 1,
         "value": 26,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 1000,
+        "value": 1,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
@@ -589,6 +973,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "carbon",
+        "samples": 2,
+        "value": 1.9,
+        "min": 1.8,
+        "max": 2,
+        "uom": "mg_l"
+      },
+      {
         "code": "pt_co",
         "samples": 20,
         "value": 2,
@@ -608,6 +1000,14 @@
         "code": "e_coli",
         "samples": 1,
         "value": 25,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 1000,
+        "value": 2,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
@@ -658,6 +1058,14 @@
         "uom": "ftu"
       },
       {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
+      },
+      {
         "code": "acidity",
         "samples": 53,
         "value": 7.76,
@@ -672,6 +1080,14 @@
         "min": 0.23,
         "max": 0.3,
         "uom": "si"
+      },
+      {
+        "code": "conductance",
+        "samples": 13,
+        "value": 36.97,
+        "min": 35.1,
+        "max": 38.2,
+        "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
@@ -778,6 +1194,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 18.5,
+        "min": 18.5,
+        "max": 18.5,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 53,
         "value": 10,
@@ -802,6 +1226,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 1,
         "value": 1,
@@ -818,11 +1250,51 @@
         "uom": "mug_l"
       },
       {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
         "code": "borium",
         "samples": 1,
         "value": 30,
         "min": 30,
         "max": 30,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
         "uom": "mug_l"
       },
       {
@@ -834,12 +1306,76 @@
         "uom": "mug_l"
       },
       {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
         "code": "fluoride",
         "samples": 1,
         "value": 0.12,
         "min": 0.12,
         "max": 0.12,
         "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
       },
       {
         "code": "pt_co",
@@ -858,12 +1394,36 @@
         "uom": "mug_l"
       },
       {
+        "code": "coli",
+        "samples": 53,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 53,
         "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 13,
+        "value": 11,
+        "min": 3,
+        "max": 21,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -914,6 +1474,14 @@
         "uom": "ftu"
       },
       {
+        "code": "tritium",
+        "samples": 1,
+        "value": 21,
+        "min": 21,
+        "max": 21,
+        "uom": "bq_l"
+      },
+      {
         "code": "acidity",
         "samples": 52,
         "value": 7.82,
@@ -928,6 +1496,14 @@
         "min": 0.03,
         "max": 0.14,
         "uom": "si"
+      },
+      {
+        "code": "conductance",
+        "samples": 13,
+        "value": 24.54,
+        "min": 22.9,
+        "max": 25.4,
+        "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
@@ -1026,6 +1602,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 13.2,
+        "min": 13.2,
+        "max": 13.2,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 53,
         "value": 23,
@@ -1050,6 +1634,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 1,
         "value": 1,
@@ -1066,11 +1658,51 @@
         "uom": "mug_l"
       },
       {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
         "code": "borium",
         "samples": 1,
         "value": 90,
         "min": 90,
         "max": 90,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
         "uom": "mug_l"
       },
       {
@@ -1082,12 +1714,76 @@
         "uom": "mug_l"
       },
       {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
         "code": "fluoride",
         "samples": 1,
         "value": 0.14,
         "min": 0.14,
         "max": 0.14,
         "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
       },
       {
         "code": "pt_co",
@@ -1106,12 +1802,36 @@
         "uom": "mug_l"
       },
       {
+        "code": "coli",
+        "samples": 53,
+        "value": 0,
+        "min": 0,
+        "max": 9,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 53,
         "value": 0,
         "min": 0,
         "max": 4,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 4,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -1163,6 +1883,14 @@
         "uom": "ftu"
       },
       {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
+      },
+      {
         "code": "acidity",
         "samples": 51,
         "value": 7.83,
@@ -1177,6 +1905,14 @@
         "min": 0.45,
         "max": 0.51,
         "uom": "si"
+      },
+      {
+        "code": "conductance",
+        "samples": 13,
+        "value": 39.29,
+        "min": 38.5,
+        "max": 39.8,
+        "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
@@ -1275,6 +2011,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 17.7,
+        "min": 17.7,
+        "max": 17.7,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 52,
         "value": 10,
@@ -1299,6 +2043,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 4,
         "value": 5.7,
@@ -1315,11 +2067,51 @@
         "uom": "mug_l"
       },
       {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
         "code": "borium",
         "samples": 1,
         "value": 71,
         "min": 71,
         "max": 71,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
         "uom": "mug_l"
       },
       {
@@ -1331,12 +2123,76 @@
         "uom": "mug_l"
       },
       {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
         "code": "fluoride",
         "samples": 1,
         "value": 0.12,
         "min": 0.12,
         "max": 0.12,
         "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
       },
       {
         "code": "pt_co",
@@ -1355,12 +2211,36 @@
         "uom": "mug_l"
       },
       {
+        "code": "coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 52,
         "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 4,
+        "value": 1,
+        "min": 0,
+        "max": 3,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -1416,6 +2296,14 @@
         "uom": "ftu"
       },
       {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
+      },
+      {
         "code": "acidity",
         "samples": 44,
         "value": 8.03,
@@ -1430,6 +2318,14 @@
         "min": 0.17,
         "max": 0.43,
         "uom": "si"
+      },
+      {
+        "code": "conductance",
+        "samples": 11,
+        "value": 25.93,
+        "min": 25,
+        "max": 26.4,
+        "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
@@ -1528,6 +2424,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 15.7,
+        "min": 15.7,
+        "max": 15.7,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 44,
         "value": 10,
@@ -1552,6 +2456,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 1,
         "value": 1,
@@ -1568,11 +2480,51 @@
         "uom": "mug_l"
       },
       {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
         "code": "borium",
         "samples": 1,
         "value": 61,
         "min": 61,
         "max": 61,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
         "uom": "mug_l"
       },
       {
@@ -1584,12 +2536,92 @@
         "uom": "mug_l"
       },
       {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "coli",
+        "samples": 47,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 47,
         "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 4,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -1646,6 +2678,14 @@
         "uom": "ftu"
       },
       {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
+      },
+      {
         "code": "acidity",
         "samples": 52,
         "value": 7.68,
@@ -1660,6 +2700,14 @@
         "min": 0.3,
         "max": 0.38,
         "uom": "si"
+      },
+      {
+        "code": "conductance",
+        "samples": 13,
+        "value": 41.81,
+        "min": 38.7,
+        "max": 43.2,
+        "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
@@ -1758,6 +2806,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 21,
+        "min": 21,
+        "max": 21,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 52,
         "value": 26,
@@ -1782,6 +2838,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 1,
         "value": 1,
@@ -1798,11 +2862,51 @@
         "uom": "mug_l"
       },
       {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
         "code": "borium",
         "samples": 1,
         "value": 97,
         "min": 97,
         "max": 97,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
         "uom": "mug_l"
       },
       {
@@ -1814,12 +2918,76 @@
         "uom": "mug_l"
       },
       {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
         "code": "fluoride",
         "samples": 1,
         "value": 0.12,
         "min": 0.12,
         "max": 0.12,
         "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
       },
       {
         "code": "pt_co",
@@ -1838,12 +3006,36 @@
         "uom": "mug_l"
       },
       {
+        "code": "coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 52,
         "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 13,
+        "value": 2,
+        "min": 0,
+        "max": 7,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -1903,6 +3095,14 @@
         "uom": "ftu"
       },
       {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
+      },
+      {
         "code": "acidity",
         "samples": 52,
         "value": 7.88,
@@ -1917,6 +3117,14 @@
         "min": 0.18,
         "max": 0.22,
         "uom": "si"
+      },
+      {
+        "code": "conductance",
+        "samples": 13,
+        "value": 26.1,
+        "min": 25.8,
+        "max": 26.4,
+        "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
@@ -2015,6 +3223,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 18.5,
+        "min": 18.5,
+        "max": 18.5,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 52,
         "value": 20,
@@ -2039,6 +3255,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 1,
         "value": 1,
@@ -2055,11 +3279,51 @@
         "uom": "mug_l"
       },
       {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
         "code": "borium",
         "samples": 1,
         "value": 90,
         "min": 90,
         "max": 90,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
         "uom": "mug_l"
       },
       {
@@ -2071,12 +3335,76 @@
         "uom": "mug_l"
       },
       {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
         "code": "fluoride",
         "samples": 1,
         "value": 0.16,
         "min": 0.16,
         "max": 0.16,
         "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
       },
       {
         "code": "pt_co",
@@ -2095,12 +3423,36 @@
         "uom": "mug_l"
       },
       {
+        "code": "coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 52,
         "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 32,
+        "value": 0,
+        "min": 0,
+        "max": 1,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -2157,6 +3509,14 @@
         "uom": "ftu"
       },
       {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
+      },
+      {
         "code": "acidity",
         "samples": 51,
         "value": 7.68,
@@ -2171,6 +3531,14 @@
         "min": 0.16,
         "max": 0.22,
         "uom": "si"
+      },
+      {
+        "code": "conductance",
+        "samples": 13,
+        "value": 35.72,
+        "min": 35.2,
+        "max": 36.2,
+        "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
@@ -2269,6 +3637,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 20,
+        "min": 20,
+        "max": 20,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 52,
         "value": 10,
@@ -2293,6 +3669,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 1,
         "value": 1,
@@ -2309,6 +3693,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
         "code": "borium",
         "samples": 1,
         "value": 23,
@@ -2317,12 +3709,124 @@
         "uom": "mug_l"
       },
       {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 52,
         "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 13,
+        "value": 5,
+        "min": 1,
+        "max": 14,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -2379,6 +3883,14 @@
         "uom": "ftu"
       },
       {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
+      },
+      {
         "code": "acidity",
         "samples": 34,
         "value": 7.48,
@@ -2393,6 +3905,14 @@
         "min": 0.2,
         "max": 0.22,
         "uom": "si"
+      },
+      {
+        "code": "conductance",
+        "samples": 9,
+        "value": 42.41,
+        "min": 41.4,
+        "max": 43.2,
+        "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
@@ -2491,6 +4011,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 20,
+        "min": 20,
+        "max": 20,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 35,
         "value": 10,
@@ -2515,6 +4043,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 1,
         "value": 1,
@@ -2531,11 +4067,51 @@
         "uom": "mug_l"
       },
       {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
         "code": "borium",
         "samples": 1,
         "value": 66,
         "min": 66,
         "max": 66,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
         "uom": "mug_l"
       },
       {
@@ -2547,12 +4123,92 @@
         "uom": "mug_l"
       },
       {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "coli",
+        "samples": 35,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 35,
         "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 3,
+        "value": 7,
+        "min": 0,
+        "max": 12,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -2610,6 +4266,14 @@
         "uom": "ftu"
       },
       {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
+      },
+      {
         "code": "acidity",
         "samples": 52,
         "value": 7.54,
@@ -2624,6 +4288,14 @@
         "min": 0.41,
         "max": 0.46,
         "uom": "si"
+      },
+      {
+        "code": "conductance",
+        "samples": 13,
+        "value": 58.2,
+        "min": 51.5,
+        "max": 61.5,
+        "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
@@ -2722,6 +4394,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 18.6,
+        "min": 18.6,
+        "max": 18.6,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 52,
         "value": 10,
@@ -2746,6 +4426,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 1,
         "value": 1,
@@ -2762,11 +4450,51 @@
         "uom": "mug_l"
       },
       {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
         "code": "borium",
         "samples": 1,
         "value": 82,
         "min": 82,
         "max": 82,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
         "uom": "mug_l"
       },
       {
@@ -2778,12 +4506,76 @@
         "uom": "mug_l"
       },
       {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
         "code": "fluoride",
         "samples": 1,
         "value": 0.08,
         "min": 0.08,
         "max": 0.08,
         "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
       },
       {
         "code": "pt_co",
@@ -2802,12 +4594,36 @@
         "uom": "mug_l"
       },
       {
+        "code": "coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 1,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 52,
         "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 13,
+        "value": 9,
+        "min": 5,
+        "max": 15,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -2859,6 +4675,14 @@
         "uom": "ftu"
       },
       {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
+      },
+      {
         "code": "acidity",
         "samples": 52,
         "value": 8.19,
@@ -2873,6 +4697,14 @@
         "min": 0.44,
         "max": 0.74,
         "uom": "si"
+      },
+      {
+        "code": "conductance",
+        "samples": 52,
+        "value": 48.61,
+        "min": 45.5,
+        "max": 51.5,
+        "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
@@ -2971,6 +4803,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 22,
+        "min": 22,
+        "max": 22,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 52,
         "value": 10,
@@ -2995,6 +4835,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 1,
         "value": 1,
@@ -3011,11 +4859,51 @@
         "uom": "mug_l"
       },
       {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
         "code": "borium",
         "samples": 4,
         "value": 270,
         "min": 240,
         "max": 290,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
         "uom": "mug_l"
       },
       {
@@ -3027,12 +4915,76 @@
         "uom": "mug_l"
       },
       {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
         "code": "fluoride",
         "samples": 1,
         "value": 0.2,
         "min": 0.2,
         "max": 0.2,
         "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
       },
       {
         "code": "pt_co",
@@ -3051,12 +5003,36 @@
         "uom": "mug_l"
       },
       {
+        "code": "coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 1,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 52,
         "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 13,
+        "value": 1,
+        "min": 0,
+        "max": 3,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -3113,6 +5089,14 @@
         "uom": "ftu"
       },
       {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
+      },
+      {
         "code": "acidity",
         "samples": 52,
         "value": 8.05,
@@ -3127,6 +5111,14 @@
         "min": -0.02,
         "max": 0.1,
         "uom": "si"
+      },
+      {
+        "code": "conductance",
+        "samples": 13,
+        "value": 20.3,
+        "min": 18.55,
+        "max": 22.2,
+        "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
@@ -3225,6 +5217,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 13,
+        "min": 13,
+        "max": 13,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 52,
         "value": 10,
@@ -3249,6 +5249,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 1,
         "value": 1,
@@ -3265,7 +5273,47 @@
         "uom": "mug_l"
       },
       {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
         "code": "borium",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
         "samples": 1,
         "value": 5,
         "min": 5,
@@ -3281,12 +5329,76 @@
         "uom": "mug_l"
       },
       {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
         "code": "fluoride",
         "samples": 1,
         "value": 0.02,
         "min": 0.02,
         "max": 0.02,
         "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
       },
       {
         "code": "pt_co",
@@ -3305,12 +5417,36 @@
         "uom": "mug_l"
       },
       {
+        "code": "coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 52,
         "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 4,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -3365,6 +5501,14 @@
         "uom": "ftu"
       },
       {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
+      },
+      {
         "code": "acidity",
         "samples": 52,
         "value": 7.8,
@@ -3379,6 +5523,14 @@
         "min": 0.61,
         "max": 0.68,
         "uom": "si"
+      },
+      {
+        "code": "conductance",
+        "samples": 13,
+        "value": 57.7,
+        "min": 53,
+        "max": 58.5,
+        "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
@@ -3477,6 +5629,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 15.7,
+        "min": 15.7,
+        "max": 15.7,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 52,
         "value": 10,
@@ -3501,6 +5661,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 1,
         "value": 1,
@@ -3517,11 +5685,51 @@
         "uom": "mug_l"
       },
       {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
         "code": "borium",
         "samples": 1,
         "value": 67,
         "min": 67,
         "max": 67,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 32,
+        "min": 32,
+        "max": 32,
         "uom": "mug_l"
       },
       {
@@ -3533,12 +5741,76 @@
         "uom": "mug_l"
       },
       {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
         "code": "fluoride",
         "samples": 1,
         "value": 0.07,
         "min": 0.07,
         "max": 0.07,
         "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
       },
       {
         "code": "pt_co",
@@ -3557,12 +5829,36 @@
         "uom": "mug_l"
       },
       {
+        "code": "coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 52,
         "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 4,
+        "value": 4,
+        "min": 1,
+        "max": 6,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -3617,6 +5913,14 @@
         "uom": "ftu"
       },
       {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
+      },
+      {
         "code": "acidity",
         "samples": 52,
         "value": 7.62,
@@ -3631,6 +5935,14 @@
         "min": -0.03,
         "max": 0.21,
         "uom": "si"
+      },
+      {
+        "code": "conductance",
+        "samples": 52,
+        "value": 61.2,
+        "min": 56.5,
+        "max": 67,
+        "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
@@ -3729,6 +6041,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 19.1,
+        "min": 19.1,
+        "max": 19.1,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 52,
         "value": 10,
@@ -3753,6 +6073,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 1,
         "value": 1,
@@ -3769,11 +6097,51 @@
         "uom": "mug_l"
       },
       {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
         "code": "borium",
         "samples": 13,
         "value": 285,
         "min": 250,
         "max": 330,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
         "uom": "mug_l"
       },
       {
@@ -3785,12 +6153,76 @@
         "uom": "mug_l"
       },
       {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
         "code": "fluoride",
         "samples": 1,
         "value": 0.13,
         "min": 0.13,
         "max": 0.13,
         "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
       },
       {
         "code": "pt_co",
@@ -3809,12 +6241,36 @@
         "uom": "mug_l"
       },
       {
+        "code": "coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 52,
         "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 52,
+        "value": 15,
+        "min": 1,
+        "max": 120,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -3866,6 +6322,14 @@
         "uom": "ftu"
       },
       {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
+      },
+      {
         "code": "acidity",
         "samples": 51,
         "value": 7.95,
@@ -3880,6 +6344,14 @@
         "min": 0.12,
         "max": 0.14,
         "uom": "si"
+      },
+      {
+        "code": "conductance",
+        "samples": 13,
+        "value": 25.37,
+        "min": 25.1,
+        "max": 25.5,
+        "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
@@ -3978,6 +6450,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 17.7,
+        "min": 17.7,
+        "max": 17.7,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 52,
         "value": 20,
@@ -4002,6 +6482,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 1,
         "value": 1,
@@ -4018,11 +6506,51 @@
         "uom": "mug_l"
       },
       {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
         "code": "borium",
         "samples": 1,
         "value": 130,
         "min": 130,
         "max": 130,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
         "uom": "mug_l"
       },
       {
@@ -4034,12 +6562,76 @@
         "uom": "mug_l"
       },
       {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
         "code": "fluoride",
         "samples": 1,
         "value": 0.15,
         "min": 0.15,
         "max": 0.15,
         "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
       },
       {
         "code": "pt_co",
@@ -4058,12 +6650,36 @@
         "uom": "mug_l"
       },
       {
+        "code": "coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 52,
         "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 4,
+        "value": 0,
+        "min": 0,
+        "max": 1,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -4118,6 +6734,14 @@
         "uom": "ftu"
       },
       {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
+      },
+      {
         "code": "acidity",
         "samples": 51,
         "value": 8.17,
@@ -4132,6 +6756,14 @@
         "min": 0.54,
         "max": 0.61,
         "uom": "si"
+      },
+      {
+        "code": "conductance",
+        "samples": 52,
+        "value": 30.64,
+        "min": 29.2,
+        "max": 33.8,
+        "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
@@ -4230,6 +6862,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 18,
+        "min": 18,
+        "max": 18,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 52,
         "value": 25,
@@ -4254,6 +6894,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 4,
         "value": 5,
@@ -4270,11 +6918,51 @@
         "uom": "mug_l"
       },
       {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
         "code": "borium",
         "samples": 1,
         "value": 56,
         "min": 56,
         "max": 56,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
         "uom": "mug_l"
       },
       {
@@ -4286,12 +6974,76 @@
         "uom": "mug_l"
       },
       {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
         "code": "fluoride",
         "samples": 1,
         "value": 0.12,
         "min": 0.12,
         "max": 0.12,
         "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
       },
       {
         "code": "pt_co",
@@ -4310,12 +7062,36 @@
         "uom": "mug_l"
       },
       {
+        "code": "coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 52,
         "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 4,
+        "value": 1,
+        "min": 0,
+        "max": 2,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -4374,6 +7150,14 @@
         "uom": "ftu"
       },
       {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
+      },
+      {
         "code": "acidity",
         "samples": 51,
         "value": 7.71,
@@ -4388,6 +7172,14 @@
         "min": 0.27,
         "max": 0.3,
         "uom": "si"
+      },
+      {
+        "code": "conductance",
+        "samples": 13,
+        "value": 32.55,
+        "min": 31.5,
+        "max": 33.4,
+        "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
@@ -4486,6 +7278,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 18.9,
+        "min": 18.9,
+        "max": 18.9,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 52,
         "value": 14,
@@ -4510,6 +7310,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 1,
         "value": 2.6,
@@ -4526,11 +7334,51 @@
         "uom": "mug_l"
       },
       {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
         "code": "borium",
         "samples": 1,
         "value": 17,
         "min": 17,
         "max": 17,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
         "uom": "mug_l"
       },
       {
@@ -4542,12 +7390,76 @@
         "uom": "mug_l"
       },
       {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
         "code": "fluoride",
         "samples": 1,
         "value": 0.06,
         "min": 0.06,
         "max": 0.06,
         "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
       },
       {
         "code": "pt_co",
@@ -4566,12 +7478,36 @@
         "uom": "mug_l"
       },
       {
+        "code": "coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 52,
         "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 4,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -4627,6 +7563,14 @@
         "uom": "ftu"
       },
       {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
+      },
+      {
         "code": "acidity",
         "samples": 52,
         "value": 7.62,
@@ -4641,6 +7585,14 @@
         "min": 0.09,
         "max": 0.16,
         "uom": "si"
+      },
+      {
+        "code": "conductance",
+        "samples": 13,
+        "value": 35.43,
+        "min": 33.8,
+        "max": 37.2,
+        "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
@@ -4747,6 +7699,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 23,
+        "min": 23,
+        "max": 23,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 52,
         "value": 14,
@@ -4771,6 +7731,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 1,
         "value": 1,
@@ -4787,11 +7755,51 @@
         "uom": "mug_l"
       },
       {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
         "code": "borium",
         "samples": 1,
         "value": 31,
         "min": 31,
         "max": 31,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
         "uom": "mug_l"
       },
       {
@@ -4803,12 +7811,76 @@
         "uom": "mug_l"
       },
       {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
         "code": "fluoride",
         "samples": 1,
         "value": 0.12,
         "min": 0.12,
         "max": 0.12,
         "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
       },
       {
         "code": "pt_co",
@@ -4827,12 +7899,36 @@
         "uom": "mug_l"
       },
       {
+        "code": "coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 52,
         "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 13,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -4883,6 +7979,14 @@
         "uom": "ftu"
       },
       {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
+      },
+      {
         "code": "acidity",
         "samples": 52,
         "value": 8.32,
@@ -4897,6 +8001,14 @@
         "min": 0.44,
         "max": 0.76,
         "uom": "si"
+      },
+      {
+        "code": "conductance",
+        "samples": 52,
+        "value": 40.01,
+        "min": 37.8,
+        "max": 43.9,
+        "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
@@ -4995,6 +8107,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 22,
+        "min": 22,
+        "max": 22,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 52,
         "value": 10,
@@ -5019,6 +8139,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 1,
         "value": 1,
@@ -5035,11 +8163,51 @@
         "uom": "mug_l"
       },
       {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
         "code": "borium",
         "samples": 1,
         "value": 22,
         "min": 22,
         "max": 22,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
         "uom": "mug_l"
       },
       {
@@ -5051,12 +8219,76 @@
         "uom": "mug_l"
       },
       {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
         "code": "fluoride",
         "samples": 1,
         "value": 0.13,
         "min": 0.13,
         "max": 0.13,
         "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
       },
       {
         "code": "pt_co",
@@ -5075,12 +8307,36 @@
         "uom": "mug_l"
       },
       {
+        "code": "coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 52,
         "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 4,
+        "value": 1,
+        "min": 0,
+        "max": 1,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -5128,6 +8384,14 @@
         "uom": "ftu"
       },
       {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
+      },
+      {
         "code": "acidity",
         "samples": 52,
         "value": 7.78,
@@ -5142,6 +8406,14 @@
         "min": 0.29,
         "max": 0.32,
         "uom": "si"
+      },
+      {
+        "code": "conductance",
+        "samples": 13,
+        "value": 37.45,
+        "min": 37,
+        "max": 37.8,
+        "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
@@ -5240,6 +8512,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 18.5,
+        "min": 18.5,
+        "max": 18.5,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 52,
         "value": 10,
@@ -5264,6 +8544,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 1,
         "value": 1,
@@ -5280,11 +8568,51 @@
         "uom": "mug_l"
       },
       {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
         "code": "borium",
         "samples": 1,
         "value": 210,
         "min": 210,
         "max": 210,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
         "uom": "mug_l"
       },
       {
@@ -5296,12 +8624,76 @@
         "uom": "mug_l"
       },
       {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
         "code": "fluoride",
         "samples": 1,
         "value": 0.18,
         "min": 0.18,
         "max": 0.18,
         "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
       },
       {
         "code": "pt_co",
@@ -5320,12 +8712,36 @@
         "uom": "mug_l"
       },
       {
+        "code": "coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 1,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 52,
         "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 13,
+        "value": 0,
+        "min": 0,
+        "max": 1,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -5381,6 +8797,14 @@
         "uom": "ftu"
       },
       {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
+      },
+      {
         "code": "acidity",
         "samples": 52,
         "value": 8.32,
@@ -5395,6 +8819,14 @@
         "min": 0.61,
         "max": 0.83,
         "uom": "si"
+      },
+      {
+        "code": "conductance",
+        "samples": 52,
+        "value": 29.94,
+        "min": 28.1,
+        "max": 32.2,
+        "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
@@ -5501,6 +8933,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 24,
+        "min": 24,
+        "max": 24,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 52,
         "value": 11,
@@ -5525,6 +8965,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 1,
         "value": 1,
@@ -5541,11 +8989,51 @@
         "uom": "mug_l"
       },
       {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
         "code": "borium",
         "samples": 1,
         "value": 38,
         "min": 38,
         "max": 38,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
         "uom": "mug_l"
       },
       {
@@ -5557,12 +9045,76 @@
         "uom": "mug_l"
       },
       {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
         "code": "fluoride",
         "samples": 1,
         "value": 0.13,
         "min": 0.13,
         "max": 0.13,
         "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
       },
       {
         "code": "pt_co",
@@ -5581,12 +9133,36 @@
         "uom": "mug_l"
       },
       {
+        "code": "coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 52,
         "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 4,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -5657,6 +9233,14 @@
         "min": 0.02,
         "max": 0.02,
         "uom": "si"
+      },
+      {
+        "code": "conductance",
+        "samples": 9,
+        "value": 31.32,
+        "min": 31.2,
+        "max": 31.4,
+        "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
@@ -5779,12 +9363,36 @@
         "uom": "mg_l"
       },
       {
+        "code": "coli",
+        "samples": 36,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 36,
         "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 2,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 1,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -5840,6 +9448,14 @@
         "uom": "ftu"
       },
       {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
+      },
+      {
         "code": "acidity",
         "samples": 52,
         "value": 7.75,
@@ -5854,6 +9470,14 @@
         "min": 0.22,
         "max": 0.29,
         "uom": "si"
+      },
+      {
+        "code": "conductance",
+        "samples": 13,
+        "value": 30.51,
+        "min": 29.1,
+        "max": 31.9,
+        "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
@@ -5952,6 +9576,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 18.5,
+        "min": 18.5,
+        "max": 18.5,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 52,
         "value": 11,
@@ -5976,6 +9608,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 1,
         "value": 1,
@@ -5992,11 +9632,51 @@
         "uom": "mug_l"
       },
       {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
         "code": "borium",
         "samples": 1,
         "value": 63,
         "min": 63,
         "max": 63,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
         "uom": "mug_l"
       },
       {
@@ -6008,12 +9688,76 @@
         "uom": "mug_l"
       },
       {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
         "code": "fluoride",
         "samples": 1,
         "value": 0.07,
         "min": 0.07,
         "max": 0.07,
         "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
       },
       {
         "code": "pt_co",
@@ -6032,12 +9776,36 @@
         "uom": "mug_l"
       },
       {
+        "code": "coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 1,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 52,
         "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 52,
+        "value": 3,
+        "min": 0,
+        "max": 9,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -6096,6 +9864,14 @@
         "uom": "ftu"
       },
       {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
+      },
+      {
         "code": "acidity",
         "samples": 51,
         "value": 7.95,
@@ -6110,6 +9886,14 @@
         "min": 0.49,
         "max": 0.62,
         "uom": "si"
+      },
+      {
+        "code": "conductance",
+        "samples": 13,
+        "value": 37.65,
+        "min": 36.7,
+        "max": 38.6,
+        "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
@@ -6208,6 +9992,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 19.1,
+        "min": 19.1,
+        "max": 19.1,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 52,
         "value": 26,
@@ -6232,6 +10024,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 1,
         "value": 1.6,
@@ -6248,11 +10048,51 @@
         "uom": "mug_l"
       },
       {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
         "code": "borium",
         "samples": 1,
         "value": 47,
         "min": 47,
         "max": 47,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 20,
+        "min": 20,
+        "max": 20,
         "uom": "mug_l"
       },
       {
@@ -6264,12 +10104,76 @@
         "uom": "mug_l"
       },
       {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
         "code": "fluoride",
         "samples": 1,
         "value": 0.13,
         "min": 0.13,
         "max": 0.13,
         "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
       },
       {
         "code": "pt_co",
@@ -6288,12 +10192,36 @@
         "uom": "mug_l"
       },
       {
+        "code": "coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 52,
         "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 13,
+        "value": 1,
+        "min": 0,
+        "max": 4,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -6349,6 +10277,14 @@
         "uom": "ftu"
       },
       {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
+      },
+      {
         "code": "acidity",
         "samples": 52,
         "value": 7.96,
@@ -6363,6 +10299,14 @@
         "min": 0.19,
         "max": 0.74,
         "uom": "si"
+      },
+      {
+        "code": "conductance",
+        "samples": 52,
+        "value": 49.44,
+        "min": 45.6,
+        "max": 62,
+        "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
@@ -6461,6 +10405,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 20,
+        "min": 20,
+        "max": 20,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 52,
         "value": 10,
@@ -6485,6 +10437,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 1,
         "value": 1,
@@ -6501,11 +10461,51 @@
         "uom": "mug_l"
       },
       {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
         "code": "borium",
         "samples": 4,
         "value": 285,
         "min": 270,
         "max": 300,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
         "uom": "mug_l"
       },
       {
@@ -6517,12 +10517,76 @@
         "uom": "mug_l"
       },
       {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
         "code": "fluoride",
         "samples": 1,
         "value": 0.2,
         "min": 0.2,
         "max": 0.2,
         "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
       },
       {
         "code": "pt_co",
@@ -6541,12 +10605,36 @@
         "uom": "mug_l"
       },
       {
+        "code": "coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 52,
         "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 52,
+        "value": 3,
+        "min": 0,
+        "max": 7,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -6607,6 +10695,14 @@
         "uom": "ftu"
       },
       {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
+      },
+      {
         "code": "acidity",
         "samples": 51,
         "value": 7.62,
@@ -6621,6 +10717,14 @@
         "min": -0.03,
         "max": 0.06,
         "uom": "si"
+      },
+      {
+        "code": "conductance",
+        "samples": 13,
+        "value": 39.67,
+        "min": 36.1,
+        "max": 44.2,
+        "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
@@ -6719,6 +10823,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 17.7,
+        "min": 17.7,
+        "max": 17.7,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 52,
         "value": 14,
@@ -6743,6 +10855,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 1,
         "value": 1,
@@ -6759,7 +10879,47 @@
         "uom": "mug_l"
       },
       {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
         "code": "borium",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
         "samples": 1,
         "value": 5,
         "min": 5,
@@ -6775,12 +10935,76 @@
         "uom": "mug_l"
       },
       {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
         "code": "fluoride",
         "samples": 1,
         "value": 0.05,
         "min": 0.05,
         "max": 0.05,
         "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
       },
       {
         "code": "pt_co",
@@ -6799,12 +11023,36 @@
         "uom": "mug_l"
       },
       {
+        "code": "coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 1,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 52,
         "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 4,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -6863,6 +11111,14 @@
         "uom": "ftu"
       },
       {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
+      },
+      {
         "code": "acidity",
         "samples": 51,
         "value": 7.72,
@@ -6877,6 +11133,14 @@
         "min": 0.29,
         "max": 0.41,
         "uom": "si"
+      },
+      {
+        "code": "conductance",
+        "samples": 13,
+        "value": 44.3,
+        "min": 43.7,
+        "max": 45.7,
+        "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
@@ -6975,6 +11239,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 23,
+        "min": 23,
+        "max": 23,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 52,
         "value": 20,
@@ -6999,6 +11271,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 1,
         "value": 1,
@@ -7015,11 +11295,51 @@
         "uom": "mug_l"
       },
       {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
         "code": "borium",
         "samples": 1,
         "value": 140,
         "min": 140,
         "max": 140,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
         "uom": "mug_l"
       },
       {
@@ -7031,12 +11351,76 @@
         "uom": "mug_l"
       },
       {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
         "code": "fluoride",
         "samples": 1,
         "value": 0.21,
         "min": 0.21,
         "max": 0.21,
         "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
       },
       {
         "code": "pt_co",
@@ -7055,12 +11439,36 @@
         "uom": "mug_l"
       },
       {
+        "code": "coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 52,
         "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 32,
+        "value": 0,
+        "min": 0,
+        "max": 1,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -7090,12 +11498,36 @@
     "issued": "2015-12-31T23:59:00.000Z",
     "observations": [
       {
+        "code": "coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 52,
         "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 44,
+        "value": 39,
+        "min": 2,
+        "max": 170,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -7148,6 +11580,14 @@
         "uom": "ftu"
       },
       {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
+      },
+      {
         "code": "acidity",
         "samples": 51,
         "value": 8.07,
@@ -7162,6 +11602,14 @@
         "min": 0.15,
         "max": 0.32,
         "uom": "si"
+      },
+      {
+        "code": "conductance",
+        "samples": 13,
+        "value": 22.25,
+        "min": 21.6,
+        "max": 23.5,
+        "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
@@ -7260,6 +11708,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 17.5,
+        "min": 17.5,
+        "max": 17.5,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 52,
         "value": 22,
@@ -7284,6 +11740,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 1,
         "value": 1.6,
@@ -7300,11 +11764,51 @@
         "uom": "mug_l"
       },
       {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
         "code": "borium",
         "samples": 1,
         "value": 47,
         "min": 47,
         "max": 47,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
         "uom": "mug_l"
       },
       {
@@ -7316,12 +11820,76 @@
         "uom": "mug_l"
       },
       {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
         "code": "fluoride",
         "samples": 1,
         "value": 0.07,
         "min": 0.07,
         "max": 0.07,
         "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
       },
       {
         "code": "pt_co",
@@ -7340,12 +11908,36 @@
         "uom": "mug_l"
       },
       {
+        "code": "coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 52,
         "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 4,
+        "value": 17,
+        "min": 0,
+        "max": 68,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -7398,6 +11990,14 @@
         "uom": "ftu"
       },
       {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
+      },
+      {
         "code": "acidity",
         "samples": 51,
         "value": 8.28,
@@ -7412,6 +12012,14 @@
         "min": 0.61,
         "max": 0.81,
         "uom": "si"
+      },
+      {
+        "code": "conductance",
+        "samples": 51,
+        "value": 32.3,
+        "min": 29.6,
+        "max": 33.7,
+        "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
@@ -7518,6 +12126,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 23,
+        "min": 23,
+        "max": 23,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 51,
         "value": 23,
@@ -7542,6 +12158,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 1,
         "value": 1,
@@ -7558,11 +12182,51 @@
         "uom": "mug_l"
       },
       {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
         "code": "borium",
         "samples": 1,
         "value": 74,
         "min": 74,
         "max": 74,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
         "uom": "mug_l"
       },
       {
@@ -7574,12 +12238,76 @@
         "uom": "mug_l"
       },
       {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
         "code": "fluoride",
         "samples": 1,
         "value": 0.15,
         "min": 0.15,
         "max": 0.15,
         "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
       },
       {
         "code": "pt_co",
@@ -7598,12 +12326,36 @@
         "uom": "mug_l"
       },
       {
+        "code": "coli",
+        "samples": 51,
+        "value": 0,
+        "min": 0,
+        "max": 1,
+        "uom": "cfu_100ml"
+      },
+      {
         "code": "e_coli",
         "samples": 51,
         "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 4,
+        "value": 0,
+        "min": 0,
+        "max": 1,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
       },
       {
         "code": "clostridium",
@@ -7649,6 +12401,12 @@
         "samples": 24,
         "value": 0.1,
         "uom": "ftu"
+      },
+      {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "uom": "bq_l"
       },
       {
         "code": "acidity",
@@ -7741,6 +12499,12 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 15,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 24,
         "value": 5,
@@ -7753,16 +12517,142 @@
         "uom": "mug_l"
       },
       {
+        "code": "aluminum",
+        "samples": 1,
+        "value": 1.2,
+        "uom": "mug_l"
+      },
+      {
+        "code": "antimony",
+        "samples": 1,
+        "value": 0.05,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 8,
         "value": 1.1,
         "uom": "mug_l"
       },
       {
+        "code": "barium",
+        "samples": 1,
+        "value": 23,
+        "uom": "mug_l"
+      },
+      {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.02,
+        "uom": "mug_l"
+      },
+      {
+        "code": "borium",
+        "samples": 1,
+        "value": 73,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.02,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 0.32,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 0.5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "mercury",
+        "samples": 1,
+        "value": 0.06,
+        "uom": "mug_l"
+      },
+      {
+        "code": "lead",
+        "samples": 1,
+        "value": 0.03,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 0.5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 0.5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 0.2,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 4,
+        "uom": "mug_l"
+      },
+      {
+        "code": "fluoride",
+        "samples": 1,
+        "value": 0.07,
+        "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "carbon",
+        "samples": 1,
+        "value": 1.4,
+        "uom": "mg_l"
+      },
+      {
         "code": "pt_co",
         "samples": 1,
         "value": 4.2,
         "uom": "mg_l"
+      },
+      {
+        "code": "trihalomethanes",
+        "samples": 3,
+        "value": 0.1,
+        "uom": "mug_l"
       },
       {
         "code": "coli",
@@ -7773,6 +12663,12 @@
       {
         "code": "e_coli",
         "samples": 35,
+        "value": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 2,
         "value": 0,
         "uom": "cfu_100ml"
       }
@@ -7967,6 +12863,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "carbon",
+        "samples": 2,
+        "value": 2.95,
+        "min": 2.9,
+        "max": 3,
+        "uom": "mg_l"
+      },
+      {
         "code": "pt_co",
         "samples": 2,
         "value": 11.5,
@@ -7988,6 +12892,14 @@
         "value": 0,
         "min": 0,
         "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 7,
+        "value": 1.14,
+        "min": 0,
+        "max": 2,
         "uom": "cfu_100ml"
       }
     ],
@@ -8160,6 +13072,12 @@
         "uom": "mug_l"
       },
       {
+        "code": "carbon",
+        "min": 1,
+        "max": 2.3,
+        "uom": "mg_l"
+      },
+      {
         "code": "pt_co",
         "samples": 20,
         "min": 1,
@@ -8177,6 +13095,13 @@
         "code": "e_coli",
         "samples": 1,
         "min": 13,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 1000,
+        "min": 1,
         "max": 0,
         "uom": "cfu_100ml"
       }
@@ -8371,6 +13296,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "carbon",
+        "samples": 2,
+        "value": 3.45,
+        "min": 3.3,
+        "max": 3.6,
+        "uom": "mg_l"
+      },
+      {
         "code": "pt_co",
         "samples": 20,
         "value": 2,
@@ -8392,6 +13325,14 @@
         "value": 52,
         "min": 0,
         "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 1000,
+        "value": 14,
+        "min": 0,
+        "max": 8,
         "uom": "cfu_100ml"
       }
     ],
@@ -8556,6 +13497,12 @@
         "uom": "mug_l"
       },
       {
+        "code": "carbon",
+        "min": 1,
+        "max": 1,
+        "uom": "mg_l"
+      },
+      {
         "code": "pt_co",
         "samples": 20,
         "min": 1,
@@ -8574,6 +13521,13 @@
         "samples": 1,
         "min": 14,
         "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 1000,
+        "min": 5,
+        "max": 28.2,
         "uom": "cfu_100ml"
       }
     ],
@@ -8744,6 +13698,12 @@
         "uom": "mug_l"
       },
       {
+        "code": "carbon",
+        "min": 1,
+        "max": 3.5,
+        "uom": "mg_l"
+      },
+      {
         "code": "pt_co",
         "samples": 20,
         "min": 1,
@@ -8762,6 +13722,13 @@
         "samples": 1,
         "min": 8,
         "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 1000,
+        "min": 2,
+        "max": 3.5,
         "uom": "cfu_100ml"
       }
     ],
@@ -8908,6 +13875,18 @@
         "uom": "mug_l"
       },
       {
+        "code": "borium",
+        "samples": 1,
+        "value": 280,
+        "uom": "mug_l"
+      },
+      {
+        "code": "carbon",
+        "samples": 1,
+        "value": 2.4,
+        "uom": "mg_l"
+      },
+      {
         "code": "pt_co",
         "samples": 1,
         "value": 6.8,
@@ -8922,6 +13901,12 @@
       {
         "code": "e_coli",
         "samples": 13,
+        "value": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 3,
         "value": 0,
         "uom": "cfu_100ml"
       }
@@ -9068,10 +14053,22 @@
         "uom": "mug_l"
       },
       {
+        "code": "aluminum",
+        "samples": 2,
+        "value": 1.2,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 2,
         "value": 0.5,
         "uom": "mug_l"
+      },
+      {
+        "code": "carbon",
+        "samples": 2,
+        "value": 1,
+        "uom": "mg_l"
       },
       {
         "code": "pt_co",
@@ -9088,6 +14085,12 @@
       {
         "code": "e_coli",
         "samples": 14,
+        "value": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 2,
         "value": 0,
         "uom": "cfu_100ml"
       }
@@ -9280,12 +14283,28 @@
         "uom": "mug_l"
       },
       {
+        "code": "carbon",
+        "samples": 1,
+        "value": 1.4,
+        "min": 1.4,
+        "max": 1.4,
+        "uom": "mg_l"
+      },
+      {
         "code": "pt_co",
         "samples": 1,
         "value": 2,
         "min": 2,
         "max": 2,
         "uom": "mg_l"
+      },
+      {
+        "code": "trihalomethanes",
+        "samples": 6,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
       },
       {
         "code": "coli",
@@ -9301,6 +14320,14 @@
         "value": 0,
         "min": 0,
         "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 1,
+        "value": 6,
+        "min": 6,
+        "max": 6,
         "uom": "cfu_100ml"
       }
     ],
@@ -9434,6 +14461,19 @@
         "uom": "mug_l"
       },
       {
+        "code": "borium",
+        "samples": 500,
+        "min": 3,
+        "max": 290,
+        "uom": "mug_l"
+      },
+      {
+        "code": "carbon",
+        "min": 3,
+        "max": 3.4,
+        "uom": "mg_l"
+      },
+      {
         "code": "pt_co",
         "samples": 20,
         "min": 13,
@@ -9452,6 +14492,13 @@
         "samples": 1,
         "min": 15,
         "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 1000,
+        "min": 15,
+        "max": 23.53,
         "uom": "cfu_100ml"
       }
     ],
@@ -9472,137 +14519,210 @@
     "observations": [
       {
         "code": "watertemperature",
-        "samples": 25,
-        "min": 5,
+        "samples": 5,
+        "value": 13.34,
+        "min": 11,
+        "max": 14.1,
         "uom": "deg_c"
       },
       {
         "code": "oxygen",
-        "samples": 2,
-        "min": 21,
+        "samples": 21,
+        "value": 9.55,
+        "min": 9.2,
+        "max": 9.8,
         "uom": "mg_l"
       },
       {
         "code": "turbidity",
-        "samples": 1,
-        "min": 21,
+        "samples": 21,
+        "value": 0.14,
+        "min": 0.12,
+        "max": 0.17,
         "uom": "ftu"
       },
       {
         "code": "acidity",
-        "samples": 7,
-        "value": 9.5,
-        "min": 21,
+        "samples": 21,
+        "value": 7.96,
+        "min": 7.91,
+        "max": 8,
         "uom": "ph"
       },
       {
         "code": "saturation",
-        "samples": -0.2,
-        "min": 1,
+        "samples": 1,
+        "value": 0.17,
+        "min": 0.17,
+        "max": 0.17,
         "uom": "ph"
       },
       {
         "code": "conductance",
-        "samples": 125,
-        "min": 5,
+        "samples": 5,
+        "value": 25.5,
+        "min": 25,
+        "max": 26,
         "uom": "ms_m"
       },
       {
         "code": "carbondioxide",
-        "min": 1,
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
         "uom": "mg_l"
       },
       {
         "code": "bicarbonate",
-        "samples": 60,
-        "min": 1,
+        "samples": 1,
+        "value": 174,
+        "min": 174,
+        "max": 174,
         "uom": "mg_l"
       },
       {
         "code": "chloride",
-        "samples": 150,
-        "min": 1,
+        "samples": 1,
+        "value": 7.1,
+        "min": 7.1,
+        "max": 7.1,
         "uom": "mg_l"
       },
       {
         "code": "sulfate",
-        "samples": 150,
+        "samples": 1,
+        "value": 1,
         "min": 1,
+        "max": 1,
         "uom": "mg_l"
       },
       {
         "code": "natrium",
-        "samples": 150,
-        "min": 1,
+        "samples": 1,
+        "value": 18,
+        "min": 18,
+        "max": 18,
         "uom": "mg_l"
       },
       {
         "code": "kalium",
-        "min": 1,
+        "samples": 1,
+        "value": 8.1,
+        "min": 8.1,
+        "max": 8.1,
         "uom": "mg_l"
       },
       {
         "code": "calcium",
-        "min": 1,
+        "samples": 1,
+        "value": 29,
+        "min": 29,
+        "max": 29,
         "uom": "mg_l"
       },
       {
         "code": "magnesium",
-        "min": 1,
+        "samples": 1,
+        "value": 6.5,
+        "min": 6.5,
+        "max": 6.5,
         "uom": "mg_l"
       },
       {
         "code": "hardness",
         "samples": 1,
+        "value": 1,
         "min": 1,
+        "max": 1,
         "uom": "mmol_l"
       },
       {
         "code": "ammonium",
-        "samples": 0.2,
-        "min": 21,
+        "samples": 21,
+        "value": 0.03,
+        "min": 0.03,
+        "max": 0.03,
         "uom": "mg_l"
       },
       {
         "code": "nitrite",
-        "samples": 0.1,
-        "min": 21,
+        "samples": 21,
+        "value": 0.01,
+        "min": 0.01,
+        "max": 0.01,
         "uom": "mg_l"
       },
       {
         "code": "nitrate",
-        "samples": 50,
-        "min": 1,
+        "samples": 1,
+        "value": 2.3,
+        "min": 2.3,
+        "max": 2.3,
         "uom": "mg_l"
       },
       {
         "code": "iron",
-        "samples": 200,
-        "min": 21,
+        "samples": 21,
+        "value": 21.38,
+        "min": 17,
+        "max": 30,
         "uom": "mug_l"
       },
       {
         "code": "manganese",
-        "samples": 50,
-        "min": 21,
+        "samples": 21,
+        "value": 10,
+        "min": 10,
+        "max": 10,
         "uom": "mug_l"
       },
       {
         "code": "arsine",
-        "samples": 10,
+        "samples": 1,
+        "value": 1,
         "min": 1,
+        "max": 1,
         "uom": "mug_l"
       },
       {
+        "code": "carbon",
+        "samples": 1,
+        "value": 1.6,
+        "min": 1.6,
+        "max": 1.6,
+        "uom": "mg_l"
+      },
+      {
         "code": "pt_co",
-        "samples": 20,
-        "min": 1,
+        "samples": 1,
+        "value": 6.9,
+        "min": 6.9,
+        "max": 6.9,
         "uom": "mg_l"
       },
       {
         "code": "coli",
+        "samples": 21,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "e_coli",
+        "samples": 21,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
         "samples": 1,
-        "min": 21,
+        "value": 0,
+        "min": 0,
+        "max": 0,
         "uom": "cfu_100ml"
       }
     ],
@@ -9751,6 +14871,12 @@
         "uom": "mug_l"
       },
       {
+        "code": "carbon",
+        "samples": 1,
+        "value": 2.2,
+        "uom": "mg_l"
+      },
+      {
         "code": "pt_co",
         "samples": 1,
         "value": 6.2,
@@ -9765,6 +14891,12 @@
       {
         "code": "e_coli",
         "samples": 14,
+        "value": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 1,
         "value": 0,
         "uom": "cfu_100ml"
       }
@@ -9809,6 +14941,12 @@
         "samples": 13,
         "value": 0.1,
         "uom": "ftu"
+      },
+      {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "uom": "bq_l"
       },
       {
         "code": "acidity",
@@ -9901,6 +15039,12 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 19,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 13,
         "value": 10.82,
@@ -9913,16 +15057,142 @@
         "uom": "mug_l"
       },
       {
+        "code": "aluminum",
+        "samples": 1,
+        "value": 4.5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "antimony",
+        "samples": 1,
+        "value": 0.05,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 1,
         "value": 2.4,
         "uom": "mug_l"
       },
       {
+        "code": "barium",
+        "samples": 1,
+        "value": 6.9,
+        "uom": "mug_l"
+      },
+      {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.02,
+        "uom": "mug_l"
+      },
+      {
+        "code": "borium",
+        "samples": 1,
+        "value": 20,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.02,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 0.3,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 0.5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "mercury",
+        "samples": 1,
+        "value": 0.06,
+        "uom": "mug_l"
+      },
+      {
+        "code": "lead",
+        "samples": 1,
+        "value": 0.03,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 0.5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 0.5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 0.2,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 4,
+        "uom": "mug_l"
+      },
+      {
+        "code": "fluoride",
+        "samples": 1,
+        "value": 0.06,
+        "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "carbon",
+        "samples": 1,
+        "value": 1.6,
+        "uom": "mg_l"
+      },
+      {
         "code": "pt_co",
         "samples": 1,
         "value": 5.3,
         "uom": "mg_l"
+      },
+      {
+        "code": "trihalomethanes",
+        "samples": 1,
+        "value": 0.1,
+        "uom": "mug_l"
       },
       {
         "code": "coli",
@@ -9933,6 +15203,12 @@
       {
         "code": "e_coli",
         "samples": 12,
+        "value": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 1,
         "value": 0,
         "uom": "cfu_100ml"
       }
@@ -10084,6 +15360,12 @@
         "uom": "mug_l"
       },
       {
+        "code": "carbon",
+        "samples": 1,
+        "value": 2.9,
+        "uom": "mg_l"
+      },
+      {
         "code": "pt_co",
         "samples": 1,
         "value": 5,
@@ -10098,6 +15380,12 @@
       {
         "code": "e_coli",
         "samples": 15,
+        "value": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 6,
         "value": 0,
         "uom": "cfu_100ml"
       }
@@ -10262,6 +15550,12 @@
         "uom": "mug_l"
       },
       {
+        "code": "carbon",
+        "min": 1,
+        "max": 3.3,
+        "uom": "mg_l"
+      },
+      {
         "code": "pt_co",
         "samples": 20,
         "min": 1,
@@ -10279,6 +15573,13 @@
         "code": "e_coli",
         "samples": 1,
         "min": 15,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 1000,
+        "min": 3,
         "max": 0,
         "uom": "cfu_100ml"
       }
@@ -10435,6 +15736,12 @@
         "uom": "mug_l"
       },
       {
+        "code": "carbon",
+        "min": 1,
+        "max": 1.8,
+        "uom": "mg_l"
+      },
+      {
         "code": "pt_co",
         "samples": 20,
         "min": 1,
@@ -10452,6 +15759,13 @@
         "code": "e_coli",
         "samples": 1,
         "min": 13,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 1000,
+        "min": 3,
         "max": 0,
         "uom": "cfu_100ml"
       }
@@ -10776,6 +16090,14 @@
         "uom": "mug_l"
       },
       {
+        "code": "carbon",
+        "samples": 2,
+        "value": 1,
+        "min": 1,
+        "max": 1.2,
+        "uom": "mg_l"
+      },
+      {
         "code": "pt_co",
         "samples": 20,
         "value": 2,
@@ -10795,6 +16117,14 @@
         "code": "e_coli",
         "samples": 1,
         "value": 26,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 1000,
+        "value": 2,
         "min": 0,
         "max": 0,
         "uom": "cfu_100ml"
@@ -10840,6 +16170,12 @@
         "min": 13,
         "max": 0.13,
         "uom": "ftu"
+      },
+      {
+        "code": "tritium",
+        "min": 1,
+        "max": 3,
+        "uom": "bq_l"
       },
       {
         "code": "acidity",
@@ -10944,6 +16280,12 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "min": 1,
+        "max": 18,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 200,
         "min": 13,
@@ -10958,6 +16300,20 @@
         "uom": "mug_l"
       },
       {
+        "code": "aluminum",
+        "samples": 200,
+        "min": 1,
+        "max": 2.4,
+        "uom": "mug_l"
+      },
+      {
+        "code": "antimony",
+        "samples": 5,
+        "min": 1,
+        "max": 0.05,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 10,
         "min": 1,
@@ -10965,11 +16321,137 @@
         "uom": "mug_l"
       },
       {
+        "code": "barium",
+        "min": 1,
+        "max": 20,
+        "uom": "mug_l"
+      },
+      {
+        "code": "beryllium",
+        "min": 1,
+        "max": 0.02,
+        "uom": "mug_l"
+      },
+      {
+        "code": "borium",
+        "samples": 500,
+        "min": 1,
+        "max": 61,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 5,
+        "min": 1,
+        "max": 0.02,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 50,
+        "min": 1,
+        "max": 0.2,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 2000,
+        "min": 1,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "mercury",
+        "samples": 1,
+        "min": 1,
+        "max": 0.06,
+        "uom": "mug_l"
+      },
+      {
+        "code": "lead",
+        "samples": 10,
+        "min": 1,
+        "max": 0.03,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 20,
+        "min": 1,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 10,
+        "min": 1,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "min": 1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "min": 1,
+        "max": 0.2,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 3000,
+        "min": 1,
+        "max": 4,
+        "uom": "mug_l"
+      },
+      {
+        "code": "fluoride",
+        "samples": 1,
+        "min": 1,
+        "max": 0.05,
+        "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 50,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "carbon",
+        "min": 1,
+        "max": 1.7,
+        "uom": "mg_l"
+      },
+      {
         "code": "pt_co",
         "samples": 20,
         "min": 1,
         "max": 6,
         "uom": "mg_l"
+      },
+      {
+        "code": "trihalomethanes",
+        "samples": 25,
+        "min": 1,
+        "max": 0.1,
+        "uom": "mug_l"
       },
       {
         "code": "coli",
@@ -10983,6 +16465,13 @@
         "samples": 1,
         "min": 13,
         "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 1000,
+        "min": 15,
+        "max": 1,
         "uom": "cfu_100ml"
       }
     ],
@@ -11154,6 +16643,12 @@
         "uom": "mug_l"
       },
       {
+        "code": "carbon",
+        "min": 1,
+        "max": 1.9,
+        "uom": "mg_l"
+      },
+      {
         "code": "pt_co",
         "samples": 20,
         "min": 1,
@@ -11171,6 +16666,13 @@
         "code": "e_coli",
         "samples": 1,
         "min": 13,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 1000,
+        "min": 4,
         "max": 0,
         "uom": "cfu_100ml"
       }
@@ -11340,6 +16842,19 @@
         "uom": "mug_l"
       },
       {
+        "code": "borium",
+        "samples": 500,
+        "min": 1,
+        "max": 290,
+        "uom": "mug_l"
+      },
+      {
+        "code": "carbon",
+        "min": 1,
+        "max": 3.1,
+        "uom": "mg_l"
+      },
+      {
         "code": "pt_co",
         "samples": 20,
         "min": 1,
@@ -11358,6 +16873,13 @@
         "samples": 1,
         "min": 29,
         "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 1000,
+        "min": 19,
+        "max": 2.79,
         "uom": "cfu_100ml"
       }
     ],
@@ -11406,6 +16928,12 @@
         "min": 13,
         "max": 0.24,
         "uom": "ftu"
+      },
+      {
+        "code": "tritium",
+        "min": 1,
+        "max": 3,
+        "uom": "bq_l"
       },
       {
         "code": "acidity",
@@ -11510,6 +17038,12 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "min": 1,
+        "max": 18,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 200,
         "min": 13,
@@ -11524,6 +17058,20 @@
         "uom": "mug_l"
       },
       {
+        "code": "aluminum",
+        "samples": 200,
+        "min": 1,
+        "max": 1.2,
+        "uom": "mug_l"
+      },
+      {
+        "code": "antimony",
+        "samples": 5,
+        "min": 1,
+        "max": 0.05,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 10,
         "min": 1,
@@ -11531,11 +17079,137 @@
         "uom": "mug_l"
       },
       {
+        "code": "barium",
+        "min": 1,
+        "max": 61,
+        "uom": "mug_l"
+      },
+      {
+        "code": "beryllium",
+        "min": 1,
+        "max": 0.02,
+        "uom": "mug_l"
+      },
+      {
+        "code": "borium",
+        "samples": 500,
+        "min": 1,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 5,
+        "min": 1,
+        "max": 0.02,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 50,
+        "min": 1,
+        "max": 0.3,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 2000,
+        "min": 1,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "mercury",
+        "samples": 1,
+        "min": 1,
+        "max": 0.06,
+        "uom": "mug_l"
+      },
+      {
+        "code": "lead",
+        "samples": 10,
+        "min": 1,
+        "max": 0.03,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 20,
+        "min": 1,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 10,
+        "min": 1,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "min": 1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "min": 1,
+        "max": 0.2,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 3000,
+        "min": 1,
+        "max": 4,
+        "uom": "mug_l"
+      },
+      {
+        "code": "fluoride",
+        "samples": 1,
+        "min": 1,
+        "max": 0.04,
+        "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 50,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "carbon",
+        "min": 1,
+        "max": 1.5,
+        "uom": "mg_l"
+      },
+      {
         "code": "pt_co",
         "samples": 20,
         "min": 1,
         "max": 2,
         "uom": "mg_l"
+      },
+      {
+        "code": "trihalomethanes",
+        "samples": 25,
+        "min": 1,
+        "max": 0.1,
+        "uom": "mug_l"
       },
       {
         "code": "coli",
@@ -11548,6 +17222,13 @@
         "code": "e_coli",
         "samples": 1,
         "min": 13,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 1000,
+        "min": 1,
         "max": 0,
         "uom": "cfu_100ml"
       }
@@ -11720,6 +17401,12 @@
         "uom": "mug_l"
       },
       {
+        "code": "carbon",
+        "min": 1,
+        "max": 3.4,
+        "uom": "mg_l"
+      },
+      {
         "code": "pt_co",
         "samples": 20,
         "min": 13,
@@ -11737,6 +17424,13 @@
         "code": "e_coli",
         "samples": 1,
         "min": 26,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 1000,
+        "min": 1,
         "max": 0,
         "uom": "cfu_100ml"
       }
@@ -11782,6 +17476,14 @@
         "min": 0.1,
         "max": 0.26,
         "uom": "ftu"
+      },
+      {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
       },
       {
         "code": "acidity",
@@ -11904,6 +17606,14 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 20,
+        "min": 20,
+        "max": 20,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 200,
         "value": 26,
@@ -11920,6 +17630,22 @@
         "uom": "mug_l"
       },
       {
+        "code": "aluminum",
+        "samples": 200,
+        "value": 1,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "antimony",
+        "samples": 5,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 10,
         "value": 2,
@@ -11928,12 +17654,164 @@
         "uom": "mug_l"
       },
       {
+        "code": "barium",
+        "samples": 1,
+        "value": 17,
+        "min": 17,
+        "max": 17,
+        "uom": "mug_l"
+      },
+      {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "borium",
+        "samples": 500,
+        "value": 1,
+        "min": 52,
+        "max": 52,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 5,
+        "value": 1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 50,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 2000,
+        "value": 1,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "mercury",
+        "samples": 1,
+        "value": 1,
+        "min": 0.06,
+        "max": 0.06,
+        "uom": "mug_l"
+      },
+      {
+        "code": "lead",
+        "samples": 10,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 20,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 10,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 3000,
+        "value": 1,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "fluoride",
+        "samples": 1,
+        "value": 1,
+        "min": 0.09,
+        "max": 0.09,
+        "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 50,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "carbon",
+        "samples": 2,
+        "value": 2.55,
+        "min": 2.4,
+        "max": 2.7,
+        "uom": "mg_l"
+      },
+      {
         "code": "pt_co",
         "samples": 20,
         "value": 2,
         "min": 7.3,
         "max": 7.4,
         "uom": "mg_l"
+      },
+      {
+        "code": "trihalomethanes",
+        "samples": 25,
+        "value": 1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
       },
       {
         "code": "coli",
@@ -11949,6 +17827,14 @@
         "value": 52,
         "min": 0,
         "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 1000,
+        "value": 26,
+        "min": 16,
+        "max": 230,
         "uom": "cfu_100ml"
       }
     ],
@@ -11986,6 +17872,12 @@
         "samples": 13,
         "value": 0.16,
         "uom": "ftu"
+      },
+      {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "uom": "bq_l"
       },
       {
         "code": "acidity",
@@ -12078,6 +17970,12 @@
         "uom": "mg_l"
       },
       {
+        "code": "silicate",
+        "samples": 1,
+        "value": 18,
+        "uom": "mg_l"
+      },
+      {
         "code": "iron",
         "samples": 13,
         "value": 17.08,
@@ -12090,16 +17988,142 @@
         "uom": "mug_l"
       },
       {
+        "code": "aluminum",
+        "samples": 1,
+        "value": 1.2,
+        "uom": "mug_l"
+      },
+      {
+        "code": "antimony",
+        "samples": 1,
+        "value": 0.05,
+        "uom": "mug_l"
+      },
+      {
         "code": "arsine",
         "samples": 1,
         "value": 1.5,
         "uom": "mug_l"
       },
       {
+        "code": "barium",
+        "samples": 1,
+        "value": 19,
+        "uom": "mug_l"
+      },
+      {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.02,
+        "uom": "mug_l"
+      },
+      {
+        "code": "borium",
+        "samples": 1,
+        "value": 51,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.02,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 0.28,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 0.5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "mercury",
+        "samples": 1,
+        "value": 0.06,
+        "uom": "mug_l"
+      },
+      {
+        "code": "lead",
+        "samples": 1,
+        "value": 0.03,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 0.5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 0.5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 0.2,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 4,
+        "uom": "mug_l"
+      },
+      {
+        "code": "fluoride",
+        "samples": 1,
+        "value": 0.04,
+        "uom": "mg_l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "carbon",
+        "samples": 1,
+        "value": 2.4,
+        "uom": "mg_l"
+      },
+      {
         "code": "pt_co",
         "samples": 1,
         "value": 7.6,
         "uom": "mg_l"
+      },
+      {
+        "code": "trihalomethanes",
+        "samples": 1,
+        "value": 0.1,
+        "uom": "mug_l"
       },
       {
         "code": "coli",
@@ -12110,6 +18134,12 @@
       {
         "code": "e_coli",
         "samples": 13,
+        "value": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 1,
         "value": 0,
         "uom": "cfu_100ml"
       }
@@ -12276,6 +18306,12 @@
         "uom": "mug_l"
       },
       {
+        "code": "carbon",
+        "min": 1,
+        "max": 4.6,
+        "uom": "mg_l"
+      },
+      {
         "code": "pt_co",
         "samples": 20,
         "min": 1,
@@ -12293,6 +18329,13 @@
         "code": "e_coli",
         "samples": 1,
         "min": 13,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 1000,
+        "min": 1,
         "max": 0,
         "uom": "cfu_100ml"
       }
