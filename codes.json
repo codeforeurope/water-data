@@ -174,14 +174,6 @@
     "value": "conductance"
   },
   {
-    "code": "tritium",
-    "label": {
-      "en": "Tritium"
-    },
-    "standard": "CAS",
-    "value": "10028-17-8"
-  },
-  {
     "code": "natrium",
     "label": {
       "de": "Natrium",
