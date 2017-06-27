@@ -365,7 +365,7 @@ function parsecsv(filename, cb){
           var values2 = [];
           var values3 = [];
           var values4 = [];
-          if(jsonObj['WETTELIJKE NORM']){
+          if(jsonObj['WETTELIJKE NORM'] && jsonObj['WETTELIJKE NORM'] !== ''){
             values2 = jsonObj['WETTELIJKE NORM'].split(" ");
           }
           if(jsonObj.AANTAL){
@@ -374,27 +374,44 @@ function parsecsv(filename, cb){
           if(jsonObj.WAARNEMINGEN){
             values4 = jsonObj.WAARNEMINGEN.split(" ");
           }
+          // console.log("WETTELIJKE NORM:" + values2);
+          // console.log("AANTAL:" + values3);
+          // console.log("WAARNEMINGEN:" + values4);
           // // Regular file
           // var values_regular = jsonObj.AANTAL.split(" ");
+          var observation = {};
           if(values4.length === 0){
-            results.observations.push({
+            observation = {
               "code": code,
               "samples": processValue(values2[0]),
               "value": processValue(values2[1]),
               "min": processValue(values3[0]),
               "max": processValue(values3[1]),
               "uom": uom
-            });
-          } else {
-            results.observations.push({
+            };
+          }
+          if(values3.length === 4 && values4.length === 0){
+            observation = {
+              "code": code,
+              "samples": processValue(values3[0]),
+              "value": processValue(values3[1]),
+              "min": processValue(values3[2]),
+              "max": processValue(values3[3]),
+              "uom": uom
+            };
+          }
+
+          if(values4.length === 3){
+            observation = {
               "code": code,
               "samples": processValue(values3[0]),
               "value": processValue(values4[0]),
               "min": processValue(values4[1]),
               "max": processValue(values4[2]),
               "uom": uom
-            });
+            };
           }
+          results.observations.push(observation);
         }
       } else {
         if(!skipset.has(jsonObj.PARAMETER) && jsonObj.PARAMETER != "Waterproductiebedrijf"){
