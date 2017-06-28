@@ -94,7 +94,7 @@ function parsecsv(filename, cb){
         case jsonObj.Eenheid.indexOf('°C') != -1: uom = 'deg_c'; break;
         case jsonObj.Eenheid.indexOf('FTE') != -1: uom = 'ftu'; break;
         case jsonObj.Eenheid === 'pH': uom = 'ph'; break;
-        case jsonObj.Eenheid === 'SI': uom = 'si'; break;
+        case jsonObj.Eenheid === 'SI': uom = 'ph'; break;
         case jsonObj.Eenheid === 'mS/m': uom = 'ms_m'; break;
         case jsonObj.Eenheid.indexOf('KVD/100 ml') != -1: uom = 'cfu_100ml'; break;
         case jsonObj.Eenheid.indexOf('μg/l') != -1: uom = 'mug_l'; break;

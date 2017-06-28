@@ -333,7 +333,7 @@ function parsecsv(filename, cb){
         case jsonObj.EENHEID.indexOf('°C') != -1: uom = 'deg_c'; break;
         case jsonObj.EENHEID.indexOf('FTE') != -1: uom = 'ftu'; break;
         case jsonObj.EENHEID.indexOf('pH') != -1: uom = 'ph'; break;
-        case jsonObj.EENHEID.indexOf('SI') != -1: uom = 'si'; break;
+        case jsonObj.EENHEID.indexOf('SI') != -1: uom = 'ph'; break;
         case jsonObj.EENHEID.indexOf('Bq/l') != -1: uom = 'bq_l'; break;
         case jsonObj.EENHEID.indexOf('mS/m') != -1: uom = 'ms_m'; break;
         case jsonObj.EENHEID.indexOf('kve/l') != -1: uom = 'cfu_l'; break;

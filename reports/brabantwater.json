@@ -1079,7 +1079,7 @@
         "value": 0.26,
         "min": 0.23,
         "max": 0.3,
-        "uom": "si"
+        "uom": "ph"
       },
       {
         "code": "conductance",
@@ -1495,7 +1495,7 @@
         "value": 0.07,
         "min": 0.03,
         "max": 0.14,
-        "uom": "si"
+        "uom": "ph"
       },
       {
         "code": "conductance",
@@ -1855,388 +1855,6 @@
     ]
   },
   {
-    "name": "Drinkwaterkwaliteit Eindhoven 2015",
-    "issued": "2015-12-31T23:59:00.000Z",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "samples": 11,
-        "value": 13.7,
-        "min": 13.1,
-        "max": 14.3,
-        "uom": "deg_c"
-      },
-      {
-        "code": "oxygen",
-        "samples": 44,
-        "value": 8.6,
-        "min": 8,
-        "max": 9.8,
-        "uom": "mg_l"
-      },
-      {
-        "code": "turbidity",
-        "samples": 44,
-        "value": 0.1,
-        "min": 0.1,
-        "max": 0.37,
-        "uom": "ftu"
-      },
-      {
-        "code": "tritium",
-        "samples": 1,
-        "value": 3,
-        "min": 3,
-        "max": 3,
-        "uom": "bq_l"
-      },
-      {
-        "code": "acidity",
-        "samples": 44,
-        "value": 8.03,
-        "min": 7.92,
-        "max": 8.15,
-        "uom": "ph"
-      },
-      {
-        "code": "saturation",
-        "samples": 15,
-        "value": 0.3,
-        "min": 0.17,
-        "max": 0.43,
-        "uom": "si"
-      },
-      {
-        "code": "conductance",
-        "samples": 11,
-        "value": 25.93,
-        "min": 25,
-        "max": 26.4,
-        "uom": "ms_m"
-      },
-      {
-        "code": "carbondioxide",
-        "samples": 11,
-        "value": 2.3,
-        "min": 1.5,
-        "max": 2.5,
-        "uom": "mg_l"
-      },
-      {
-        "code": "bicarbonate",
-        "samples": 11,
-        "value": 160,
-        "min": 151,
-        "max": 164,
-        "uom": "mg_l"
-      },
-      {
-        "code": "chloride",
-        "samples": 4,
-        "value": 9.5,
-        "min": 8.7,
-        "max": 10.6,
-        "uom": "mg_l"
-      },
-      {
-        "code": "sulfate",
-        "samples": 4,
-        "value": 8,
-        "min": 7,
-        "max": 8,
-        "uom": "mg_l"
-      },
-      {
-        "code": "natrium",
-        "samples": 4,
-        "value": 12,
-        "min": 11,
-        "max": 12,
-        "uom": "mg_l"
-      },
-      {
-        "code": "kalium",
-        "samples": 4,
-        "value": 3.1,
-        "min": 2.9,
-        "max": 3.3,
-        "uom": "mg_l"
-      },
-      {
-        "code": "calcium",
-        "samples": 11,
-        "value": 39,
-        "min": 36,
-        "max": 41,
-        "uom": "mg_l"
-      },
-      {
-        "code": "magnesium",
-        "samples": 4,
-        "value": 5.2,
-        "min": 4.9,
-        "max": 5.7,
-        "uom": "mg_l"
-      },
-      {
-        "code": "hardness",
-        "samples": 4,
-        "value": 1.16,
-        "min": 1.1,
-        "max": 1.23,
-        "uom": "mmol_l"
-      },
-      {
-        "code": "ammonium",
-        "samples": 44,
-        "value": 0.03,
-        "min": 0.03,
-        "max": 0.03,
-        "uom": "mg_l"
-      },
-      {
-        "code": "nitrite",
-        "samples": 44,
-        "value": 0.01,
-        "min": 0.01,
-        "max": 0.01,
-        "uom": "mg_l"
-      },
-      {
-        "code": "nitrate",
-        "samples": 4,
-        "value": 1.1,
-        "min": 1,
-        "max": 1.2,
-        "uom": "mg_l"
-      },
-      {
-        "code": "silicate",
-        "samples": 1,
-        "value": 15.7,
-        "min": 15.7,
-        "max": 15.7,
-        "uom": "mg_l"
-      },
-      {
-        "code": "iron",
-        "samples": 44,
-        "value": 10,
-        "min": 10,
-        "max": 10,
-        "uom": "mug_l"
-      },
-      {
-        "code": "manganese",
-        "samples": 44,
-        "value": 10,
-        "min": 10,
-        "max": 10,
-        "uom": "mug_l"
-      },
-      {
-        "code": "aluminum",
-        "samples": 1,
-        "value": 5,
-        "min": 5,
-        "max": 5,
-        "uom": "mug_l"
-      },
-      {
-        "code": "antimony",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "mug_l"
-      },
-      {
-        "code": "arsine",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "mug_l"
-      },
-      {
-        "code": "barium",
-        "samples": 1,
-        "value": 20,
-        "min": 20,
-        "max": 20,
-        "uom": "mug_l"
-      },
-      {
-        "code": "beryllium",
-        "samples": 1,
-        "value": 0.5,
-        "min": 0.5,
-        "max": 0.5,
-        "uom": "mug_l"
-      },
-      {
-        "code": "borium",
-        "samples": 1,
-        "value": 61,
-        "min": 61,
-        "max": 61,
-        "uom": "mug_l"
-      },
-      {
-        "code": "cadmium",
-        "samples": 1,
-        "value": 0.1,
-        "min": 0.1,
-        "max": 0.1,
-        "uom": "mug_l"
-      },
-      {
-        "code": "chromium",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "mug_l"
-      },
-      {
-        "code": "cobalt",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "mug_l"
-      },
-      {
-        "code": "copper",
-        "samples": 1,
-        "value": 5,
-        "min": 5,
-        "max": 5,
-        "uom": "mug_l"
-      },
-      {
-        "code": "mercury",
-        "samples": 1,
-        "value": 0.06,
-        "min": 0.06,
-        "max": 0.06,
-        "uom": "mug_l"
-      },
-      {
-        "code": "lead",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "mug_l"
-      },
-      {
-        "code": "nickel",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "mug_l"
-      },
-      {
-        "code": "selenium",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "mug_l"
-      },
-      {
-        "code": "tin",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "mug_l"
-      },
-      {
-        "code": "vanadium",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "mug_l"
-      },
-      {
-        "code": "silver",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "mug_l"
-      },
-      {
-        "code": "zinc",
-        "samples": 1,
-        "value": 5,
-        "min": 5,
-        "max": 5,
-        "uom": "mug_l"
-      },
-      {
-        "code": "coli",
-        "samples": 47,
-        "value": 0,
-        "min": 0,
-        "max": 0,
-        "uom": "cfu_100ml"
-      },
-      {
-        "code": "e_coli",
-        "samples": 47,
-        "value": 0,
-        "min": 0,
-        "max": 0,
-        "uom": "cfu_100ml"
-      },
-      {
-        "code": "aeromonas",
-        "samples": 4,
-        "value": 0,
-        "min": 0,
-        "max": 0,
-        "uom": "cfu_100ml"
-      },
-      {
-        "code": "legionella",
-        "samples": 2,
-        "value": 100,
-        "min": 100,
-        "max": 100,
-        "uom": "cfu_l"
-      },
-      {
-        "code": "clostridium",
-        "samples": 4,
-        "value": 0,
-        "min": 0,
-        "max": 0,
-        "uom": "cfu_100ml"
-      }
-    ],
-    "year": "2015",
-    "sources": [
-      "https://brabantwater.nl/PompStationInfo/Drinkwaterkwaliteit%20Eindhoven%202015.pdf"
-    ],
-    "zones": [
-      "waalre",
-      "eindhoven",
-      "valkenswaard",
-      "son_en_breugel",
-      "geldrop_mierlo",
-      "nuenen_gerwen_en_nederwetten",
-      "veldhoven"
-    ],
-    "plants": [
-      "eindhoven"
-    ]
-  },
-  {
     "name": "Drinkwaterkwaliteit Dorst 2015",
     "issued": "2015-12-31T23:59:00.000Z",
     "observations": [
@@ -2286,7 +1904,7 @@
         "value": 0.48,
         "min": 0.45,
         "max": 0.51,
-        "uom": "si"
+        "uom": "ph"
       },
       {
         "code": "conductance",
@@ -2650,6 +2268,388 @@
     ]
   },
   {
+    "name": "Drinkwaterkwaliteit Eindhoven 2015",
+    "issued": "2015-12-31T23:59:00.000Z",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "samples": 11,
+        "value": 13.7,
+        "min": 13.1,
+        "max": 14.3,
+        "uom": "deg_c"
+      },
+      {
+        "code": "oxygen",
+        "samples": 44,
+        "value": 8.6,
+        "min": 8,
+        "max": 9.8,
+        "uom": "mg_l"
+      },
+      {
+        "code": "turbidity",
+        "samples": 44,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.37,
+        "uom": "ftu"
+      },
+      {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "bq_l"
+      },
+      {
+        "code": "acidity",
+        "samples": 44,
+        "value": 8.03,
+        "min": 7.92,
+        "max": 8.15,
+        "uom": "ph"
+      },
+      {
+        "code": "saturation",
+        "samples": 15,
+        "value": 0.3,
+        "min": 0.17,
+        "max": 0.43,
+        "uom": "ph"
+      },
+      {
+        "code": "conductance",
+        "samples": 11,
+        "value": 25.93,
+        "min": 25,
+        "max": 26.4,
+        "uom": "ms_m"
+      },
+      {
+        "code": "carbondioxide",
+        "samples": 11,
+        "value": 2.3,
+        "min": 1.5,
+        "max": 2.5,
+        "uom": "mg_l"
+      },
+      {
+        "code": "bicarbonate",
+        "samples": 11,
+        "value": 160,
+        "min": 151,
+        "max": 164,
+        "uom": "mg_l"
+      },
+      {
+        "code": "chloride",
+        "samples": 4,
+        "value": 9.5,
+        "min": 8.7,
+        "max": 10.6,
+        "uom": "mg_l"
+      },
+      {
+        "code": "sulfate",
+        "samples": 4,
+        "value": 8,
+        "min": 7,
+        "max": 8,
+        "uom": "mg_l"
+      },
+      {
+        "code": "natrium",
+        "samples": 4,
+        "value": 12,
+        "min": 11,
+        "max": 12,
+        "uom": "mg_l"
+      },
+      {
+        "code": "kalium",
+        "samples": 4,
+        "value": 3.1,
+        "min": 2.9,
+        "max": 3.3,
+        "uom": "mg_l"
+      },
+      {
+        "code": "calcium",
+        "samples": 11,
+        "value": 39,
+        "min": 36,
+        "max": 41,
+        "uom": "mg_l"
+      },
+      {
+        "code": "magnesium",
+        "samples": 4,
+        "value": 5.2,
+        "min": 4.9,
+        "max": 5.7,
+        "uom": "mg_l"
+      },
+      {
+        "code": "hardness",
+        "samples": 4,
+        "value": 1.16,
+        "min": 1.1,
+        "max": 1.23,
+        "uom": "mmol_l"
+      },
+      {
+        "code": "ammonium",
+        "samples": 44,
+        "value": 0.03,
+        "min": 0.03,
+        "max": 0.03,
+        "uom": "mg_l"
+      },
+      {
+        "code": "nitrite",
+        "samples": 44,
+        "value": 0.01,
+        "min": 0.01,
+        "max": 0.01,
+        "uom": "mg_l"
+      },
+      {
+        "code": "nitrate",
+        "samples": 4,
+        "value": 1.1,
+        "min": 1,
+        "max": 1.2,
+        "uom": "mg_l"
+      },
+      {
+        "code": "silicate",
+        "samples": 1,
+        "value": 15.7,
+        "min": 15.7,
+        "max": 15.7,
+        "uom": "mg_l"
+      },
+      {
+        "code": "iron",
+        "samples": 44,
+        "value": 10,
+        "min": 10,
+        "max": 10,
+        "uom": "mug_l"
+      },
+      {
+        "code": "manganese",
+        "samples": 44,
+        "value": 10,
+        "min": 10,
+        "max": 10,
+        "uom": "mug_l"
+      },
+      {
+        "code": "aluminum",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "arsine",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "barium",
+        "samples": 1,
+        "value": 20,
+        "min": 20,
+        "max": 20,
+        "uom": "mug_l"
+      },
+      {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "borium",
+        "samples": 1,
+        "value": 61,
+        "min": 61,
+        "max": 61,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "mercury",
+        "samples": 1,
+        "value": 0.06,
+        "min": 0.06,
+        "max": 0.06,
+        "uom": "mug_l"
+      },
+      {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "mug_l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "mug_l"
+      },
+      {
+        "code": "coli",
+        "samples": 47,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "e_coli",
+        "samples": 47,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 4,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu_l"
+      },
+      {
+        "code": "clostridium",
+        "samples": 4,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu_100ml"
+      }
+    ],
+    "year": "2015",
+    "sources": [
+      "https://brabantwater.nl/PompStationInfo/Drinkwaterkwaliteit%20Eindhoven%202015.pdf"
+    ],
+    "zones": [
+      "waalre",
+      "eindhoven",
+      "valkenswaard",
+      "son_en_breugel",
+      "geldrop_mierlo",
+      "nuenen_gerwen_en_nederwetten",
+      "veldhoven"
+    ],
+    "plants": [
+      "eindhoven"
+    ]
+  },
+  {
     "name": "Drinkwaterkwaliteit Genderen 2015",
     "issued": "2015-12-31T23:59:00.000Z",
     "observations": [
@@ -2699,7 +2699,7 @@
         "value": 0.34,
         "min": 0.3,
         "max": 0.38,
-        "uom": "si"
+        "uom": "ph"
       },
       {
         "code": "conductance",
@@ -3116,7 +3116,7 @@
         "value": 0.2,
         "min": 0.18,
         "max": 0.22,
-        "uom": "si"
+        "uom": "ph"
       },
       {
         "code": "conductance",
@@ -3530,7 +3530,7 @@
         "value": 0.2,
         "min": 0.16,
         "max": 0.22,
-        "uom": "si"
+        "uom": "ph"
       },
       {
         "code": "conductance",
@@ -3904,7 +3904,7 @@
         "value": 0.21,
         "min": 0.2,
         "max": 0.22,
-        "uom": "si"
+        "uom": "ph"
       },
       {
         "code": "conductance",
@@ -4287,7 +4287,7 @@
         "value": 0.44,
         "min": 0.41,
         "max": 0.46,
-        "uom": "si"
+        "uom": "ph"
       },
       {
         "code": "conductance",
@@ -4696,7 +4696,7 @@
         "value": 0.6,
         "min": 0.44,
         "max": 0.74,
-        "uom": "si"
+        "uom": "ph"
       },
       {
         "code": "conductance",
@@ -5110,7 +5110,7 @@
         "value": 0.03,
         "min": -0.02,
         "max": 0.1,
-        "uom": "si"
+        "uom": "ph"
       },
       {
         "code": "conductance",
@@ -5522,7 +5522,7 @@
         "value": 0.65,
         "min": 0.61,
         "max": 0.68,
-        "uom": "si"
+        "uom": "ph"
       },
       {
         "code": "conductance",
@@ -5934,7 +5934,7 @@
         "value": 0.07,
         "min": -0.03,
         "max": 0.21,
-        "uom": "si"
+        "uom": "ph"
       },
       {
         "code": "conductance",
@@ -6343,7 +6343,7 @@
         "value": 0.13,
         "min": 0.12,
         "max": 0.14,
-        "uom": "si"
+        "uom": "ph"
       },
       {
         "code": "conductance",
@@ -6755,7 +6755,7 @@
         "value": 0.59,
         "min": 0.54,
         "max": 0.61,
-        "uom": "si"
+        "uom": "ph"
       },
       {
         "code": "conductance",
@@ -7171,7 +7171,7 @@
         "value": 0.28,
         "min": 0.27,
         "max": 0.3,
-        "uom": "si"
+        "uom": "ph"
       },
       {
         "code": "conductance",
@@ -7584,7 +7584,7 @@
         "value": 0.13,
         "min": 0.09,
         "max": 0.16,
-        "uom": "si"
+        "uom": "ph"
       },
       {
         "code": "conductance",
@@ -8000,7 +8000,7 @@
         "value": 0.65,
         "min": 0.44,
         "max": 0.76,
-        "uom": "si"
+        "uom": "ph"
       },
       {
         "code": "conductance",
@@ -8405,7 +8405,7 @@
         "value": 0.3,
         "min": 0.29,
         "max": 0.32,
-        "uom": "si"
+        "uom": "ph"
       },
       {
         "code": "conductance",
@@ -8818,7 +8818,7 @@
         "value": 0.69,
         "min": 0.61,
         "max": 0.83,
-        "uom": "si"
+        "uom": "ph"
       },
       {
         "code": "conductance",
@@ -9232,7 +9232,7 @@
         "value": 0.02,
         "min": 0.02,
         "max": 0.02,
-        "uom": "si"
+        "uom": "ph"
       },
       {
         "code": "conductance",
@@ -9469,7 +9469,7 @@
         "value": 0.25,
         "min": 0.22,
         "max": 0.29,
-        "uom": "si"
+        "uom": "ph"
       },
       {
         "code": "conductance",
@@ -9885,7 +9885,7 @@
         "value": 0.54,
         "min": 0.49,
         "max": 0.62,
-        "uom": "si"
+        "uom": "ph"
       },
       {
         "code": "conductance",
@@ -10298,7 +10298,7 @@
         "value": 0.37,
         "min": 0.19,
         "max": 0.74,
-        "uom": "si"
+        "uom": "ph"
       },
       {
         "code": "conductance",
@@ -10716,7 +10716,7 @@
         "value": 0.01,
         "min": -0.03,
         "max": 0.06,
-        "uom": "si"
+        "uom": "ph"
       },
       {
         "code": "conductance",
@@ -11132,7 +11132,7 @@
         "value": 0.34,
         "min": 0.29,
         "max": 0.41,
-        "uom": "si"
+        "uom": "ph"
       },
       {
         "code": "conductance",
@@ -11601,7 +11601,7 @@
         "value": 0.24,
         "min": 0.15,
         "max": 0.32,
-        "uom": "si"
+        "uom": "ph"
       },
       {
         "code": "conductance",
@@ -12011,7 +12011,7 @@
         "value": 0.7,
         "min": 0.61,
         "max": 0.81,
-        "uom": "si"
+        "uom": "ph"
       },
       {
         "code": "conductance",
