@@ -376,7 +376,9 @@
     },
     "definition":{
       "en":"",
-      "de":"Die Wasserhärte gibt an, wie weich oder hart ein Wasser ist. Je mehr Calcium und Magnesium in einem Wasser enthalten sind, desto härter ist es. Hartes Wasser kann in Küche und Bad Kalkflecken verursachen. Wegen seinem hohen Calcium- und Magnesiumgehalt ist es gesünder als weiches Wasser. (Calcium: Aufbau von Knochen und Zähnen, Magnesium: Aufbau von Muskeln und Nerven)"
+      "de":"Die Wasserhärte gibt an, wie weich oder hart ein Wasser ist. Je mehr Calcium und Magnesium in einem Wasser enthalten sind, desto härter ist es. Hartes Wasser kann in Küche und Bad Kalkflecken verursachen. Wegen seinem hohen Calcium- und Magnesiumgehalt ist es gesünder als weiches Wasser. (Calcium: Aufbau von Knochen und Zähnen, Magnesium: Aufbau von Muskeln und Nerven)",
+      "nl":"De waterhardheid geeft de concentratie van metaal-ionen, veelal magnesium- en calciumcarbonaat, maar ook bicarbonaten en sulfaten, in water aan. Water met een hoge waterhardheid houdt voor de mens geen gezondheidsrisico in, maar bemoeilijkt de werking van zepen en verwarmingselementen."
+
     },
     "standard": "NA",
     "value": "hardness"
@@ -458,14 +460,20 @@
       "en": "Escherichia coli",
       "nl": "Escherichia coli"
     },
+    "definition":{
+      "en":"E. coli comes from human and animal waste. During rainfalls, snow melts, or other types of precipitation, E. coli may be washed into creeks, rivers, streams, lakes, or groundwater. When these waters are used as sources of drinking water and the water is not treated or inadequately treated, E. coli may end up in the drinking water."
+    },
     "standard": "NA",
     "value": "e_coli"
   },
   {
     "code": "coli",
     "label": {
-      "en": "Coligroup bacteria",
+      "en": "Coliform bacteria",
       "nl": "Coligroep bacteriën"
+    },
+    "definition":{
+      "en": "Coliforms are bacteria that are always present in the digestive tracts of animals, including humans, and are found in their wastes. They are also found in plant and soil material."
     },
     "standard": "NA",
     "value": "coli"
@@ -493,6 +501,10 @@
       "en": "Antimony",
       "nl": "Antimoon"
     },
+    "definition":{
+      "en":"",
+      "nl": "Antimoon legeringen worden gebruikt in batterijen, metalen met lage wrijving, kabelbescherming en andere producten, zoals onbrandbare materialen, verf, keramiek, glas en aardewerk."
+    },
     "standard": "CAS",
     "value": "7440-36-0"
   },
@@ -501,6 +513,10 @@
     "label": {
       "en": "Trihalomethanes (THMS)",
       "nl": "Trihalomethanen"
+    },
+    "definition":{
+      "en":"Trihalomethanes (THM) are a group of four chemicals that are formed along with other disinfection by products when chlorine or other disinfectants used to control microbial contaminants in drinking water react with naturally occurring organic and inorganic matter in water.",
+      "nl":"Trihalomethanen (THM's) zijn het gevolg van de reactie van chloor en/of broom met organische stof die in het water worden behandeld. THM's kunnen in hoge concentraties negatieve gevolgen hebben voor de gezondheid. Veel regeringen stellen grenzen aan de toegestane hoeveelheid in drinkwater."
     },
     "standard": "NA",
     "value": "trihalomethanes"
