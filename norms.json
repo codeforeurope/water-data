@@ -1,7 +1,7 @@
 [
   {
     "name": "US",
-    "limits": [
+    "observations": [
       {"max": 200, "uom": "mg/l", "code": "natrium" },
       {"max": 50, "uom": "mg/l", "code": "nitrate" },
       {"max": 0, "uom": "mg/l", "code": "fluoride" },
@@ -16,7 +16,7 @@
   },
   {
     "name": "EU",
-    "limits":[
+    "observations":[
       {"max": 200, "uom": "mg/l", "code": "natrium" },
       {"max": 12, "uom": "mg/l", "code": "kalium" },
       {"max": 400, "uom": "mg/l", "code": "calcium" },
@@ -30,7 +30,7 @@
   {
     "name": "NL",
     "description": "Extracted from reports by Brabant Water and Dunea, the Netherlands",
-    "limits":[
+    "observations":[
       {"max": 0.2, "uom": "mg/l", "code": "aluminum" },
       {"min": 7, "max": 9.5, "uom": "pH", "code": "acidity" },
       {"max": 0.01, "uom": "mg/l", "code": "arsine" },
