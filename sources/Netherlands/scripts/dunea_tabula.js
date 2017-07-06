@@ -125,15 +125,15 @@ function parsecsv(filename, cb){
           code = 'MISSING';
       }
       switch (true) {
-        case jsonObj.field2.indexOf('°C') != -1: uom = 'deg_c'; break;
+        case jsonObj.field2.indexOf('°C') != -1: uom = 'degC'; break;
         case jsonObj.field2.indexOf('FTU') != -1: uom = 'ftu'; break;
-        case jsonObj.field2 === 'pH': uom = 'ph'; break;
-        case jsonObj.field2 === 'SI': uom = 'si'; break;
-        case jsonObj.field2 === 'mS/m': uom = 'ms_m'; break;
-        case jsonObj.field2.indexOf('kvd/100 ml') != -1: uom = 'cfu_100ml'; break;
-        case jsonObj.field2.indexOf('μg/l') != -1: uom = 'mug_l'; break;
-        case jsonObj.field2.indexOf('mmol/l') != -1: uom = 'mmol_l'; break;
-        case jsonObj.field2.indexOf('mg/l') != -1: uom = 'mg_l'; break;
+        case jsonObj.field2 === 'pH': uom = 'pH'; break;
+        case jsonObj.field2 === 'SI': uom = 'pH'; break;
+        case jsonObj.field2 === 'mS/m': uom = 'mS/m'; break;
+        case jsonObj.field2.indexOf('kvd/100 ml') != -1: uom = 'cfu/dl'; break;
+        case jsonObj.field2.indexOf('μg/l') != -1: uom = 'ug/l'; break;
+        case jsonObj.field2.indexOf('mmol/l') != -1: uom = 'mmol/l'; break;
+        case jsonObj.field2.indexOf('mg/l') != -1: uom = 'mg/l'; break;
         default:
           uom = 'MISSING';
       }

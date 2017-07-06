@@ -1,6 +1,6 @@
 [
   {
-    "code": "meq_l",
+    "code": "mEq/l",
     "value": {
       "en": "mEq/L"
     },
@@ -12,7 +12,7 @@
     }
   },
   {
-    "code": "cfu_l",
+    "code": "cfu/l",
     "value": {
       "en": "CFU/L",
       "de": "KBE/L",
@@ -30,7 +30,7 @@
     }
   },
   {
-    "code": "cfu_100ml",
+    "code": "cfu/dl",
     "value": {
       "en": "CFU/100mL",
       "de": "KBE/100mL",
@@ -48,7 +48,7 @@
     }
   },
   {
-    "code": "cfu_ml",
+    "code": "cfu/ml",
     "value": {
       "en": "CFU/mL",
       "de": "KBE/mL",
@@ -66,7 +66,7 @@
     }
   },
   {
-    "code": "mug_l",
+    "code": "ug/l",
     "value": {
       "en": "μg/L"
     },
@@ -78,7 +78,7 @@
     }
   },
   {
-    "code": "ms_m",
+    "code": "mS/m",
     "value": {
       "en": "mS/m"
     },
@@ -90,7 +90,7 @@
     }
   },
   {
-    "code": "deg_c",
+    "code": "degC",
     "value": {
       "en": "°C"
     },
@@ -100,6 +100,19 @@
     "definition": {
       "en": "Degrees Celsius",
       "nl": "Graden Celsius"
+    }
+  },
+  {
+    "code": "degF",
+    "value": {
+      "en": "°F"
+    },
+    "label": {
+      "en": "°F"
+    },
+    "definition": {
+      "en": "Degrees Fahrenheit",
+      "nl": "Graden Fahrenheit"
     }
   },
   {
@@ -119,7 +132,7 @@
   },
 
   {
-    "code": "bq_l",
+    "code": "Bq/l",
     "value": {
       "en": "Bq/L"
     },
@@ -131,7 +144,7 @@
     }
   },
   {
-    "code": "mg_l",
+    "code": "mg/l",
     "value": {
       "en": "mg/L"
     },
@@ -142,7 +155,7 @@
       "en": "Milligram per liter, Mass concentration unit. Conversion to SI unit: 1 kg/m3 = 10^3 mg/L"
     }
   }, {
-    "code": "dh",
+    "code": "dH",
     "value": {
       "en": "°dH"
     },
@@ -166,7 +179,7 @@
       "en": "Milligram"
     }
   }, {
-    "code": "mmol_l",
+    "code": "mmol/l",
     "value": {
       "en": "mmol/L"
     },
@@ -177,7 +190,7 @@
       "en": "Millimol per liter"
     }
   }, {
-    "code": "ph",
+    "code": "pH",
     "value": {
       "en": "pH",
       "nl": "pH"

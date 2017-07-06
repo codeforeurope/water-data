@@ -330,18 +330,18 @@ function parsecsv(filename, cb){
           code = 'MISSING';
       }
       switch (true) {
-        case jsonObj.EENHEID.indexOf('°C') != -1: uom = 'deg_c'; break;
+        case jsonObj.EENHEID.indexOf('°C') != -1: uom = 'degC'; break;
         case jsonObj.EENHEID.indexOf('FTE') != -1: uom = 'ftu'; break;
-        case jsonObj.EENHEID.indexOf('pH') != -1: uom = 'ph'; break;
-        case jsonObj.EENHEID.indexOf('SI') != -1: uom = 'ph'; break;
-        case jsonObj.EENHEID.indexOf('Bq/l') != -1: uom = 'bq_l'; break;
-        case jsonObj.EENHEID.indexOf('mS/m') != -1: uom = 'ms_m'; break;
-        case jsonObj.EENHEID.indexOf('kve/l') != -1: uom = 'cfu_l'; break;
-        case jsonObj.EENHEID.indexOf('kve/ml') != -1: uom = 'cfu_ml'; break;
-        case jsonObj.EENHEID.indexOf('kve/100 ml') != -1: uom = 'cfu_100ml'; break;
-        case jsonObj.EENHEID.indexOf('μg/l') != -1: uom = 'mug_l'; break;
-        case jsonObj.EENHEID.indexOf('mmol/l') != -1: uom = 'mmol_l'; break;
-        case jsonObj.EENHEID.indexOf('mg/l') != -1: uom = 'mg_l'; break;
+        case jsonObj.EENHEID.indexOf('pH') != -1: uom = 'pH'; break;
+        case jsonObj.EENHEID.indexOf('SI') != -1: uom = 'pH'; break;
+        case jsonObj.EENHEID.indexOf('Bq/l') != -1: uom = 'Bq/l'; break;
+        case jsonObj.EENHEID.indexOf('mS/m') != -1: uom = 'mS/m'; break;
+        case jsonObj.EENHEID.indexOf('kve/l') != -1: uom = 'cfu/l'; break;
+        case jsonObj.EENHEID.indexOf('kve/ml') != -1: uom = 'cfu/ml'; break;
+        case jsonObj.EENHEID.indexOf('kve/100 ml') != -1: uom = 'cfu/dl'; break;
+        case jsonObj.EENHEID.indexOf('μg/l') != -1: uom = 'ug/l'; break;
+        case jsonObj.EENHEID.indexOf('mmol/l') != -1: uom = 'mmol/l'; break;
+        case jsonObj.EENHEID.indexOf('mg/l') != -1: uom = 'mg/l'; break;
         default:
           uom = 'MISSING';
       }

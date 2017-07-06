@@ -37,15 +37,53 @@ function processValue(value){
 function parsecsv(filename, cb){
   //Prepare reports
   var results = [];
+  switch (true){
+    case filename.indexOf('baanhoek') != -1:
+      zones = ['baanhoek'];
+      plants = ['baanhoek'];
+      break;
+    case filename.indexOf('berenplaat') != -1:
+      zones = ['berenplaat'];
+      plants = ['berenplaat'];
+      break;
+    case filename.indexOf('braakman') != -1:
+      zones = ['braakman'];
+      plants = ['braakman'];
+      break;
+    case filename.indexOf('haamstede') != -1:
+      zones = ['haamstede'];
+      plants = ['haamstede'];
+      break;
+    case filename.indexOf('halsteren') != -1:
+      zones = ['halsteren_1', 'halsteren_2'];
+      plants = ['halsteren'];
+      break;
+    case filename.indexOf('kralingen') != -1:
+      zones = ['kralingen'];
+      zones = ['plants'];
+      break;
+    case filename.indexOf('midden-zeeland') != -1:
+      zones = ['midden_zeeland'];
+      plants = ['huijbergen', 'ossendrecht'];
+      break;
+    case filename.indexOf('ouddorp') != -1:
+      zones = ['ouddorp'];
+      plants = ['ouddorp'];
+      break;
+  }
+
   for (i = 0; i < columns.length; i++) {
     results.push(
       {
-        "name": filename + ' ' + columns[i],
+        "name": filename.replace('.csv','') + ' ' + columns[i],
         "issued": issued[i],
         "year": year[i],
-        "observations": []
+        "observations": [],
+        "zones": zones,
+        "plants": plants
       }
     );
+
   }
 
   csv()
@@ -91,61 +129,29 @@ function parsecsv(filename, cb){
           code = 'MISSING';
       }
       switch (true) {
-        case jsonObj.Eenheid.indexOf('°C') != -1: uom = 'deg_c'; break;
+        case jsonObj.Eenheid.indexOf('°C') != -1: uom = 'degC'; break;
         case jsonObj.Eenheid.indexOf('FTE') != -1: uom = 'ftu'; break;
-        case jsonObj.Eenheid === 'pH': uom = 'ph'; break;
-        case jsonObj.Eenheid === 'SI': uom = 'ph'; break;
-        case jsonObj.Eenheid === 'mS/m': uom = 'ms_m'; break;
-        case jsonObj.Eenheid.indexOf('KVD/100 ml') != -1: uom = 'cfu_100ml'; break;
-        case jsonObj.Eenheid.indexOf('μg/l') != -1: uom = 'mug_l'; break;
-        case jsonObj.Eenheid.indexOf('mmol/l') != -1: uom = 'mmol_l'; break;
-        case jsonObj.Eenheid.indexOf('mg/l') != -1: uom = 'mg_l'; break;
+        case jsonObj.Eenheid === 'pH': uom = 'pH'; break;
+        case jsonObj.Eenheid === 'SI': uom = 'pH'; break;
+        case jsonObj.Eenheid === 'mS/m': uom = 'mS/m'; break;
+        case jsonObj.Eenheid.indexOf('KVD/100 ml') != -1: uom = 'cfu/dl'; break;
+        case jsonObj.Eenheid.indexOf('μg/l') != -1: uom = 'ug/l'; break;
+        case jsonObj.Eenheid.indexOf('mmol/l') != -1: uom = 'mmol/l'; break;
+        case jsonObj.Eenheid.indexOf('mg/l') != -1: uom = 'mg/l'; break;
         default:
           uom = 'MISSING';
       }
-      switch (true){
-        case filename.indexOf('baanhoek') != -1:
-          zones = ['baanhoek'];
-          plants = ['baanhoek'];
-          break;
-        case filename.indexOf('berenplaat') != -1:
-          zones = ['berenplaat'];
-          plants = ['berenplaat'];
-          break;
-        case filename.indexOf('braakman') != -1:
-          zones = ['braakman'];
-          plants = ['braakman'];
-          break;
-        case filename.indexOf('haamstede') != -1:
-          zones = ['haamstede'];
-          plants = ['haamstede'];
-          break;
-        case filename.indexOf('halsteren') != -1:
-          zones = ['halsteren_1', 'halsteren_2'];
-          plants = ['halsteren'];
-          break;
-        case filename.indexOf('kralingen') != -1:
-          zones = ['kralingen'];
-          zones = ['plants'];
-          break;
-        case filename.indexOf('midden-zeeland') != -1:
-          zones = ['midden_zeeland'];
-          plants = ['huijbergen', 'ossendrecht'];
-          break;
-        case filename.indexOf('ouddorp') != -1:
-          zones = ['ouddorp'];
-          plants = ['ouddorp'];
-          break;
-      }
+
       for (i = 0; i < columns.length; i++) {
-        results[i].zones = zones;
-        results[i].plants = plants;
-        if(uom !== 'MISSING' && code !== 'MISSING'){
+        var val = processValue(jsonObj[columns[i]]);
+        if(uom !== 'MISSING' && code !== 'MISSING' &&  val){
           results[i].observations.push({
             "code": code,
-            "value": processValue(jsonObj[columns[i]]),
+            "value": val,
             "uom": uom
           });
+        } else {
+          //console.log('could not process: ' + filename + '-' + JSON.stringify(jsonObj[columns[i]]));
         }
       }
     }
