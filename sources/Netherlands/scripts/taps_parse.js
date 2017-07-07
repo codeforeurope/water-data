@@ -101,7 +101,7 @@ for (i = 0; i < markers.length; i++) {
     properties: {
       "name": name,
       //"description": description,
-      "html": markers[i][0],
+      "description": markers[i][0],
       "operator": "jointhepipe",
       "id": markers[i][5],
       //"sequence": markers[i][3],

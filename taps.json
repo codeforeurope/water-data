@@ -2728,7 +2728,7 @@
       "id": 279,
       "properties": {
         "name": "Hogeschool van Amsterdam",
-        "html": "2 Bartaps<br />Hogeschool van Amsterdam - Science Park 205 - Amsterdam",
+        "description": "2 Bartaps<br />Hogeschool van Amsterdam - Science Park 205 - Amsterdam",
         "operator": "jointhepipe",
         "id": 279,
         "type": "tap",
@@ -2748,7 +2748,7 @@
       "id": 307,
       "properties": {
         "name": "Hogeschool van Amsterdam (Muller-Lulofshuis)",
-        "html": "7 Bartaps<br />Hogeschool van Amsterdam (Muller-Lulofshuis) - Wibautstraat - Amsterdam<br /><br /><img src=\"/uploads/markers/mark_image[7].png\" alt=\"\" />",
+        "description": "7 Bartaps<br />Hogeschool van Amsterdam (Muller-Lulofshuis) - Wibautstraat - Amsterdam<br /><br /><img src=\"/uploads/markers/mark_image[7].png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 307,
         "type": "tap",
@@ -2768,7 +2768,7 @@
       "id": 278,
       "properties": {
         "name": "Universiteit van Amsterdam",
-        "html": "Bartap<br />Universiteit van Amsterdam - Singel 421-427 - Amsterdam",
+        "description": "Bartap<br />Universiteit van Amsterdam - Singel 421-427 - Amsterdam",
         "operator": "jointhepipe",
         "id": 278,
         "type": "tap",
@@ -2788,7 +2788,7 @@
       "id": 321,
       "properties": {
         "name": "Yes! Salon",
-        "html": "Bartap<br />Yes! Salon - Leuvensesteenweg 387A - Bortmeerbeek",
+        "description": "Bartap<br />Yes! Salon - Leuvensesteenweg 387A - Bortmeerbeek",
         "operator": "jointhepipe",
         "id": 321,
         "type": "tap",
@@ -2808,7 +2808,7 @@
       "id": 238,
       "properties": {
         "name": "UMC St. Radboud",
-        "html": "Bartap<br />UMC St. Radboud - Nijmegen<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-26_om_12.16_.46_.png\" alt=\"\" />",
+        "description": "Bartap<br />UMC St. Radboud - Nijmegen<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-26_om_12.16_.46_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 238,
         "type": "tap"
@@ -2826,7 +2826,7 @@
       "id": 320,
       "properties": {
         "name": "Yes! Salon",
-        "html": "Bartap<br />Yes! Salon - Lammerdries-Winkelstraat 4 - Olen",
+        "description": "Bartap<br />Yes! Salon - Lammerdries-Winkelstraat 4 - Olen",
         "operator": "jointhepipe",
         "id": 320,
         "type": "tap",
@@ -2846,7 +2846,7 @@
       "id": 378,
       "properties": {
         "name": "T",
-        "html": "T - outdoor - cruyff court - sportlaan gorinchem",
+        "description": "T - outdoor - cruyff court - sportlaan gorinchem",
         "operator": "jointhepipe",
         "id": 378,
         "type": "tap",
@@ -2866,7 +2866,7 @@
       "id": 73,
       "properties": {
         "name": "Daily Design",
-        "html": "Outlet<br />Daily Design - Hamseweg 18 - Amersfoort<br /><br />Zie ook: www.dailydesign.nl<br /><br /><img src=\"/uploads/markers/mark_200709261749Amersfoort_062_c.jpg\" alt=\"\" />",
+        "description": "Outlet<br />Daily Design - Hamseweg 18 - Amersfoort<br /><br />Zie ook: www.dailydesign.nl<br /><br /><img src=\"/uploads/markers/mark_200709261749Amersfoort_062_c.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 73,
         "type": "outlet",
@@ -2886,7 +2886,7 @@
       "id": 74,
       "properties": {
         "name": "Bananas",
-        "html": "Outlet<br />Bananas - Kamp 7 - Amersfoort<br /><br />Zie ook: www.facebook.com/BananasAmersfoort<br /><br /><img src=\"/uploads/markers/mark_bananas-amersfoort-4(p_shop,4828)(c_0).jpg\" alt=\"\" />",
+        "description": "Outlet<br />Bananas - Kamp 7 - Amersfoort<br /><br />Zie ook: www.facebook.com/BananasAmersfoort<br /><br /><img src=\"/uploads/markers/mark_bananas-amersfoort-4(p_shop,4828)(c_0).jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 74,
         "type": "outlet",
@@ -2906,7 +2906,7 @@
       "id": 346,
       "properties": {
         "name": "Nukuhiva",
-        "html": "Outlet<br />Nukuhiva - Haarlemmerstraat 36 - Amsterdam<br /><br />Zie ook: www.nukuhiva.nl",
+        "description": "Outlet<br />Nukuhiva - Haarlemmerstraat 36 - Amsterdam<br /><br />Zie ook: www.nukuhiva.nl",
         "operator": "jointhepipe",
         "id": 346,
         "type": "outlet",
@@ -2926,7 +2926,7 @@
       "id": 53,
       "properties": {
         "name": "Frederique Kappers",
-        "html": "Outlet<br />Frederique Kappers - Kerkstraat 144 - Amsterdam",
+        "description": "Outlet<br />Frederique Kappers - Kerkstraat 144 - Amsterdam",
         "operator": "jointhepipe",
         "id": 53,
         "type": "outlet",
@@ -2946,7 +2946,7 @@
       "id": 50,
       "properties": {
         "name": "Dayspa",
-        "html": "Outlet<br />Dayspa - Laan de Hesperiden 90 - Amsterdam<br /><br />Zie ook: www.dayspa.nl<br /><br /><img src=\"/uploads/markers/mark_openingDaySpa.png\" alt=\"\" />",
+        "description": "Outlet<br />Dayspa - Laan de Hesperiden 90 - Amsterdam<br /><br />Zie ook: www.dayspa.nl<br /><br /><img src=\"/uploads/markers/mark_openingDaySpa.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 50,
         "type": "outlet",
@@ -2966,7 +2966,7 @@
       "id": 343,
       "properties": {
         "name": "Intratuin Amsterdam",
-        "html": "Outlet<br />Intratuin Amsterdam - Nobelweg 10 - Amsterdam<br /><br />Zie ook: www.intratuin.nl/winkels/intratuin-amsterdam/partners-sponsoring/join-the-pipe/",
+        "description": "Outlet<br />Intratuin Amsterdam - Nobelweg 10 - Amsterdam<br /><br />Zie ook: www.intratuin.nl/winkels/intratuin-amsterdam/partners-sponsoring/join-the-pipe/",
         "operator": "jointhepipe",
         "id": 343,
         "type": "outlet",
@@ -2986,7 +2986,7 @@
       "id": 344,
       "properties": {
         "name": "Yagoy | YOGA YOUR WAY‎",
-        "html": "Outlet<br />Yagoy | YOGA YOUR WAY‎ - Postjesweg 106-I - Amsterdam<br /><br />Zie ook: www.yagoy.nl",
+        "description": "Outlet<br />Yagoy | YOGA YOUR WAY‎ - Postjesweg 106-I - Amsterdam<br /><br />Zie ook: www.yagoy.nl",
         "operator": "jointhepipe",
         "id": 344,
         "type": "outlet",
@@ -3006,7 +3006,7 @@
       "id": 348,
       "properties": {
         "name": "ING",
-        "html": "Outlet<br />ING - Rokin 90 - Amsterdam<br /><br />Zie ook: www.ing.nl",
+        "description": "Outlet<br />ING - Rokin 90 - Amsterdam<br /><br />Zie ook: www.ing.nl",
         "operator": "jointhepipe",
         "id": 348,
         "type": "outlet",
@@ -3026,7 +3026,7 @@
       "id": 350,
       "properties": {
         "name": "Salad &amp; Juice Café",
-        "html": "Outlet<br />Salad &amp; Juice Café - Vijzelstraat 135 - Amsterdam<br /><br />Zie ook: www.juiceandsalad.nl",
+        "description": "Outlet<br />Salad &amp; Juice Café - Vijzelstraat 135 - Amsterdam<br /><br />Zie ook: www.juiceandsalad.nl",
         "operator": "jointhepipe",
         "id": 350,
         "type": "outlet",
@@ -3046,7 +3046,7 @@
       "id": 347,
       "properties": {
         "name": "Kohnstammhuis",
-        "html": "Outlet<br />Kohnstammhuis - Hogeschool van Amsterdam - Wibautstraat 2-4 - Amsterdam<br /><br />Zie ook: www.hva.nl/studenten-service-centrum/wibautstraat-kohnstammhuis/",
+        "description": "Outlet<br />Kohnstammhuis - Hogeschool van Amsterdam - Wibautstraat 2-4 - Amsterdam<br /><br />Zie ook: www.hva.nl/studenten-service-centrum/wibautstraat-kohnstammhuis/",
         "operator": "jointhepipe",
         "id": 347,
         "type": "outlet",
@@ -3066,7 +3066,7 @@
       "id": 232,
       "properties": {
         "name": "De Oase van Beek",
-        "html": "Outlet<br />De Oase van Beek - Wethouder Sangersstraat 111 - Beek<br /><br />Zie ook: www.makadobeek.nl/De-OASE-van-Beek.htm",
+        "description": "Outlet<br />De Oase van Beek - Wethouder Sangersstraat 111 - Beek<br /><br />Zie ook: www.makadobeek.nl/De-OASE-van-Beek.htm",
         "operator": "jointhepipe",
         "id": 232,
         "type": "outlet",
@@ -3086,7 +3086,7 @@
       "id": 119,
       "properties": {
         "name": "Yes! Salon",
-        "html": "Outlet<br />Yes! Salon - Leuvensesteenweg 387A - Bortmeerbeek<br /><br />Zie ook: www.yes-salons.com",
+        "description": "Outlet<br />Yes! Salon - Leuvensesteenweg 387A - Bortmeerbeek<br /><br />Zie ook: www.yes-salons.com",
         "operator": "jointhepipe",
         "id": 119,
         "type": "outlet",
@@ -3106,7 +3106,7 @@
       "id": 78,
       "properties": {
         "name": "Wereldwinkel",
-        "html": "Outlet<br />Wereldwinkel - Rechterstraat 32 - Boxtel<br /><br />Zie ook: www.wereldwinkels.nl<br /><br /><img src=\"/uploads/markers/mark_Gevel_WW_Boxtel-3.jpg\" alt=\"\" />",
+        "description": "Outlet<br />Wereldwinkel - Rechterstraat 32 - Boxtel<br /><br />Zie ook: www.wereldwinkels.nl<br /><br /><img src=\"/uploads/markers/mark_Gevel_WW_Boxtel-3.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 78,
         "type": "outlet",
@@ -3126,7 +3126,7 @@
       "id": 69,
       "properties": {
         "name": "Hare Majesteit Design",
-        "html": "Outlet<br />Hare Majesteit Design - Halstraat 12 - Breda<br /><br />Zie ook: www.topdesign.nl",
+        "description": "Outlet<br />Hare Majesteit Design - Halstraat 12 - Breda<br /><br />Zie ook: www.topdesign.nl",
         "operator": "jointhepipe",
         "id": 69,
         "type": "outlet",
@@ -3146,7 +3146,7 @@
       "id": 76,
       "properties": {
         "name": "Carlos in Huis",
-        "html": "Outlet<br />Carlos in Huis - Smedenstraat 66-68 - Deventer<br /><br />Zie ook: www.carlosinhuis.nl<br /><br /><img src=\"/uploads/markers/mark_tweede_helft_2008_407.jpg\" alt=\"\" />",
+        "description": "Outlet<br />Carlos in Huis - Smedenstraat 66-68 - Deventer<br /><br />Zie ook: www.carlosinhuis.nl<br /><br /><img src=\"/uploads/markers/mark_tweede_helft_2008_407.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 76,
         "type": "outlet",
@@ -3166,7 +3166,7 @@
       "id": 88,
       "properties": {
         "name": "Wereldwinkel",
-        "html": "Outlet<br />Wereldwinkel - Bastingstraat 21 - Diemen <br /><br />Zie ook: www.wereldwinkels.nl<br /><br /><img src=\"/uploads/markers/mark_2713541208_8d3c2baeb7_z.jpg\" alt=\"\" />",
+        "description": "Outlet<br />Wereldwinkel - Bastingstraat 21 - Diemen <br /><br />Zie ook: www.wereldwinkels.nl<br /><br /><img src=\"/uploads/markers/mark_2713541208_8d3c2baeb7_z.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 88,
         "type": "outlet",
@@ -3186,7 +3186,7 @@
       "id": 55,
       "properties": {
         "name": "Mardi Kappers",
-        "html": "Outlet<br />Mardi Kappers - Houtkampstraat 33 - Doetinchem<br /><br />Zie ook: www.mardikappers.nl",
+        "description": "Outlet<br />Mardi Kappers - Houtkampstraat 33 - Doetinchem<br /><br />Zie ook: www.mardikappers.nl",
         "operator": "jointhepipe",
         "id": 55,
         "type": "outlet",
@@ -3206,7 +3206,7 @@
       "id": 56,
       "properties": {
         "name": "Pieters voor Keuken, Koken en Wonen",
-        "html": "Outlet<br />Pieters voor Keuken, Koken en Wonen - Nieuwkerkplein 100 - Dordrecht<br /><br />Zie ook: www.hpieters.com<br /><br /><img src=\"/uploads/markers/mark_pieters-en-bouwman-bazar-14486.jpg\" alt=\"\" />",
+        "description": "Outlet<br />Pieters voor Keuken, Koken en Wonen - Nieuwkerkplein 100 - Dordrecht<br /><br />Zie ook: www.hpieters.com<br /><br /><img src=\"/uploads/markers/mark_pieters-en-bouwman-bazar-14486.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 56,
         "type": "outlet",
@@ -3226,7 +3226,7 @@
       "id": 233,
       "properties": {
         "name": "Bloemenboutique Monique",
-        "html": "Outlet<br />Bloemenboutique Monique - Stationsstraat 69 - Elsloo<br /><br />Zie ook: www.bloemenmonique.nl",
+        "description": "Outlet<br />Bloemenboutique Monique - Stationsstraat 69 - Elsloo<br /><br />Zie ook: www.bloemenmonique.nl",
         "operator": "jointhepipe",
         "id": 233,
         "type": "outlet",
@@ -3246,7 +3246,7 @@
       "id": 58,
       "properties": {
         "name": "La Colino",
-        "html": "Outlet<br />La Colino - Dalipassage 29 - Emmen<br /><br />Zie ook: www.lacolino.nl<br /><br /><img src=\"/uploads/markers/mark_oa.image_.php_.jpg\" alt=\"\" />",
+        "description": "Outlet<br />La Colino - Dalipassage 29 - Emmen<br /><br />Zie ook: www.lacolino.nl<br /><br /><img src=\"/uploads/markers/mark_oa.image_.php_.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 58,
         "type": "outlet",
@@ -3266,7 +3266,7 @@
       "id": 234,
       "properties": {
         "name": "VVV Enschede",
-        "html": "Outlet<br />VVV Enschede - Stationsplein 1a - Enschede<br /><br />Zie ook: www.uitinenschede.nl",
+        "description": "Outlet<br />VVV Enschede - Stationsplein 1a - Enschede<br /><br />Zie ook: www.uitinenschede.nl",
         "operator": "jointhepipe",
         "id": 234,
         "type": "outlet",
@@ -3286,7 +3286,7 @@
       "id": 87,
       "properties": {
         "name": "Natuurwinkel",
-        "html": "Outlet<br />Natuurwinkel - Lange Groenendaal 99 - Gouda<br /><br />Zie ook: www.natuurwinkelgouda.nl<br /><br /><img src=\"/uploads/markers/mark_Gouda6.jpg\" alt=\"\" />",
+        "description": "Outlet<br />Natuurwinkel - Lange Groenendaal 99 - Gouda<br /><br />Zie ook: www.natuurwinkelgouda.nl<br /><br /><img src=\"/uploads/markers/mark_Gouda6.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 87,
         "type": "outlet",
@@ -3306,7 +3306,7 @@
       "id": 86,
       "properties": {
         "name": "Wereldwinkel",
-        "html": "Outlet<br />Wereldwinkel - Lange Groenendaal 38 - Gouda<br /><br />Zie ook: www.wereldwinkelgouda.nl<br /><br /><img src=\"/uploads/markers/mark_Lange_Groenendaal_38_40_Gouda.jpg\" alt=\"\" />",
+        "description": "Outlet<br />Wereldwinkel - Lange Groenendaal 38 - Gouda<br /><br />Zie ook: www.wereldwinkelgouda.nl<br /><br /><img src=\"/uploads/markers/mark_Lange_Groenendaal_38_40_Gouda.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 86,
         "type": "outlet",
@@ -3326,7 +3326,7 @@
       "id": 59,
       "properties": {
         "name": "Stadse Fratsen",
-        "html": "Outlet<br />Stadse Fratsen - Zwanestraat 2 - Groningen<br /><br />Zie ook: www.stadsefratsen.nl",
+        "description": "Outlet<br />Stadse Fratsen - Zwanestraat 2 - Groningen<br /><br />Zie ook: www.stadsefratsen.nl",
         "operator": "jointhepipe",
         "id": 59,
         "type": "outlet",
@@ -3346,7 +3346,7 @@
       "id": 390,
       "properties": {
         "name": "Kalverstraat 2 + 8, 3481 ES Harmelen",
-        "html": "Kalverstraat 2 + 8, 3481 ES Harmelen",
+        "description": "Kalverstraat 2 + 8, 3481 ES Harmelen",
         "operator": "jointhepipe",
         "id": 390,
         "type": "outlet"
@@ -3364,7 +3364,7 @@
       "id": 389,
       "properties": {
         "name": "Kalverstraat 2 + 8, 3481 ES Harmelen",
-        "html": "Leidsestraatweg 26, 3481 EX Harmelen<br /><br />http://www.vallenliving.nl/home<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2016-08-23_om_13.15_.05_.png\" alt=\"\" />",
+        "description": "Leidsestraatweg 26, 3481 EX Harmelen<br /><br />http://www.vallenliving.nl/home<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2016-08-23_om_13.15_.05_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 389,
         "type": "outlet"
@@ -3382,7 +3382,7 @@
       "id": 395,
       "properties": {
         "name": "In de Cramer 88, 6412 PM Heerlen",
-        "html": "In de Cramer 88, 6412 PM Heerlen",
+        "description": "In de Cramer 88, 6412 PM Heerlen",
         "operator": "jointhepipe",
         "id": 395,
         "type": "outlet"
@@ -3400,7 +3400,7 @@
       "id": 393,
       "properties": {
         "name": "Stationsplein 24, 4561 GC Hulst",
-        "html": "Stationsplein 24, 4561 GC Hulst",
+        "description": "Stationsplein 24, 4561 GC Hulst",
         "operator": "jointhepipe",
         "id": 393,
         "type": "outlet"
@@ -3418,7 +3418,7 @@
       "id": 104,
       "properties": {
         "name": "Natuurvoedingswinkel &#039;t Hofje",
-        "html": "Outlet<br />Natuurvoedingswinkel &#039;t Hofje - Broederstraat 25 - Kampen <br /><br /><img src=\"/uploads/markers/mark_image.jpg\" alt=\"\" />",
+        "description": "Outlet<br />Natuurvoedingswinkel &#039;t Hofje - Broederstraat 25 - Kampen <br /><br /><img src=\"/uploads/markers/mark_image.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 104,
         "type": "outlet",
@@ -3438,7 +3438,7 @@
       "id": 91,
       "properties": {
         "name": "Mocca d&#039;Or",
-        "html": "Outlet<br />Mocca d&#039;Or - Geerstraat 16 - Kampen<br /><br />Zie ook: www.koffietheekampen.nl<br /><br /><img src=\"/uploads/markers/mark_4a6a6c73a3d6bb8742d874c0b851de614009ca36.jpg\" alt=\"\" />",
+        "description": "Outlet<br />Mocca d&#039;Or - Geerstraat 16 - Kampen<br /><br />Zie ook: www.koffietheekampen.nl<br /><br /><img src=\"/uploads/markers/mark_4a6a6c73a3d6bb8742d874c0b851de614009ca36.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 91,
         "type": "outlet",
@@ -3458,7 +3458,7 @@
       "id": 70,
       "properties": {
         "name": "Gillot",
-        "html": "Outlet<br />Gillot - Oudestraat 197-199 - Kampen<br /><br />Zie ook: www.gillotkampen.nl<br /><br /><img src=\"/uploads/markers/mark_gillot_kampen_interieur_advies.jpg\" alt=\"\" />",
+        "description": "Outlet<br />Gillot - Oudestraat 197-199 - Kampen<br /><br />Zie ook: www.gillotkampen.nl<br /><br /><img src=\"/uploads/markers/mark_gillot_kampen_interieur_advies.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 70,
         "type": "outlet",
@@ -3478,7 +3478,7 @@
       "id": 61,
       "properties": {
         "name": "Eric Steenbergen Designwinkels",
-        "html": "Outlet<br />Eric Steenbergen Designwinkels - Kleine Kerkstraat 20 - Leeuwarden<br /><br />Zie ook: www.ericsteenbergen.nl<br /><br /><img src=\"/uploads/markers/mark_4754a-gevel-270.jpg\" alt=\"\" />",
+        "description": "Outlet<br />Eric Steenbergen Designwinkels - Kleine Kerkstraat 20 - Leeuwarden<br /><br />Zie ook: www.ericsteenbergen.nl<br /><br /><img src=\"/uploads/markers/mark_4754a-gevel-270.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 61,
         "type": "outlet",
@@ -3498,7 +3498,7 @@
       "id": 391,
       "properties": {
         "name": "Pampusweg 5, 1398 PT Muiden",
-        "html": "Pampusweg 5, 1398 PT Muiden",
+        "description": "Pampusweg 5, 1398 PT Muiden",
         "operator": "jointhepipe",
         "id": 391,
         "type": "outlet"
@@ -3516,7 +3516,7 @@
       "id": 120,
       "properties": {
         "name": "Yes! Salon",
-        "html": "Outlet<br />Yes! Salon - Lammerdries-Winkelstraat 4 - Olen<br /><br />Zie ook: www.yes-salons.com",
+        "description": "Outlet<br />Yes! Salon - Lammerdries-Winkelstraat 4 - Olen<br /><br />Zie ook: www.yes-salons.com",
         "operator": "jointhepipe",
         "id": 120,
         "type": "outlet",
@@ -3536,7 +3536,7 @@
       "id": 63,
       "properties": {
         "name": "Bureau Cambium",
-        "html": "Outlet<br />Bureau Cambium - Weverstraat 70 - Oosterbeek<br /><br />Zie ook: www.bureaucambium.nl<br /><br /><img src=\"/uploads/markers/mark_Voorgevel_5-12-2011.jpg\" alt=\"\" />",
+        "description": "Outlet<br />Bureau Cambium - Weverstraat 70 - Oosterbeek<br /><br />Zie ook: www.bureaucambium.nl<br /><br /><img src=\"/uploads/markers/mark_Voorgevel_5-12-2011.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 63,
         "type": "outlet",
@@ -3556,7 +3556,7 @@
       "id": 79,
       "properties": {
         "name": "Pasch",
-        "html": "Outlet<br />Pasch - Neerstraat 52 - Roermond<br /><br />Zie ook: www.pasch.nl",
+        "description": "Outlet<br />Pasch - Neerstraat 52 - Roermond<br /><br />Zie ook: www.pasch.nl",
         "operator": "jointhepipe",
         "id": 79,
         "type": "outlet",
@@ -3576,7 +3576,7 @@
       "id": 392,
       "properties": {
         "name": "Hughersluys 1, 4536 HM Terneuzen",
-        "html": "Hughersluys 1, 4536 HM Terneuzen",
+        "description": "Hughersluys 1, 4536 HM Terneuzen",
         "operator": "jointhepipe",
         "id": 392,
         "type": "outlet"
@@ -3594,7 +3594,7 @@
       "id": 394,
       "properties": {
         "name": "Umberstraat 6, 5044 JJ Tilburg",
-        "html": "Umberstraat 6, 5044 JJ Tilburg",
+        "description": "Umberstraat 6, 5044 JJ Tilburg",
         "operator": "jointhepipe",
         "id": 394,
         "type": "outlet"
@@ -3612,7 +3612,7 @@
       "id": 345,
       "properties": {
         "name": "Laurent Lifestyle Salon",
-        "html": "Outlet<br />Laurent Lifestyle Salon - Janskerkhof 11 - Utrecht<br /><br />Zie ook: www.laurent.nl",
+        "description": "Outlet<br />Laurent Lifestyle Salon - Janskerkhof 11 - Utrecht<br /><br />Zie ook: www.laurent.nl",
         "operator": "jointhepipe",
         "id": 345,
         "type": "outlet",
@@ -3632,7 +3632,7 @@
       "id": 126,
       "properties": {
         "name": "Roberto Gelato",
-        "html": "Outlet<br />Roberto Gelato - Poortstraat 93 - Utrecht<br /><br />Zie ook: www.lekkerijs.nl",
+        "description": "Outlet<br />Roberto Gelato - Poortstraat 93 - Utrecht<br /><br />Zie ook: www.lekkerijs.nl",
         "operator": "jointhepipe",
         "id": 126,
         "type": "outlet",
@@ -3652,7 +3652,7 @@
       "id": 64,
       "properties": {
         "name": "Nukuhiva",
-        "html": "Outlet<br />Nukuhiva - Zadelstraat 36 - Utrecht<br /><br />Zie ook: www.nukuhiva.nl<br /><br /><img src=\"/uploads/markers/mark_Utrecht-window.jpg\" alt=\"\" />",
+        "description": "Outlet<br />Nukuhiva - Zadelstraat 36 - Utrecht<br /><br />Zie ook: www.nukuhiva.nl<br /><br /><img src=\"/uploads/markers/mark_Utrecht-window.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 64,
         "type": "outlet",
@@ -3672,7 +3672,7 @@
       "id": 351,
       "properties": {
         "name": "De Ruiter &amp; Fanoy Study Bookshop",
-        "html": "Outlet<br />De Ruiter &amp; Fanoy Study Bookshop - Hogeschool Zeeland - Edisonweg 4 - Vlissingen<br /><br />Zie ook: www.hz.nl/en/studying%20at%20HZ/facilities/Pages/Bookshop.aspx",
+        "description": "Outlet<br />De Ruiter &amp; Fanoy Study Bookshop - Hogeschool Zeeland - Edisonweg 4 - Vlissingen<br /><br />Zie ook: www.hz.nl/en/studying%20at%20HZ/facilities/Pages/Bookshop.aspx",
         "operator": "jointhepipe",
         "id": 351,
         "type": "outlet",
@@ -3692,7 +3692,7 @@
       "id": 66,
       "properties": {
         "name": "Matser",
-        "html": "Outlet<br />Matser - Plantsoen 60 - Wageningen<br /><br />Zie ook: www.matser.nl<br /><br /><img src=\"/uploads/markers/mark_Matser.jpg\" alt=\"\" />",
+        "description": "Outlet<br />Matser - Plantsoen 60 - Wageningen<br /><br />Zie ook: www.matser.nl<br /><br /><img src=\"/uploads/markers/mark_Matser.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 66,
         "type": "outlet",
@@ -3712,7 +3712,7 @@
       "id": 106,
       "properties": {
         "name": "Zwerfkei Outdoor &amp; Travel Centre",
-        "html": "Outlet<br />Zwerfkei Outdoor &amp; Travel Centre - Jaap Bijzerweg 10 - Woerden<br /><br />Zie ook: www.zwerfkei.nl",
+        "description": "Outlet<br />Zwerfkei Outdoor &amp; Travel Centre - Jaap Bijzerweg 10 - Woerden<br /><br />Zie ook: www.zwerfkei.nl",
         "operator": "jointhepipe",
         "id": 106,
         "type": "outlet",
@@ -3732,7 +3732,7 @@
       "id": 105,
       "properties": {
         "name": "OOK",
-        "html": "Outlet<br />OOK - Rijnstraat 40 - Woerden<br /><br />Zie ook: www.ook.nl<br /><br /><img src=\"/uploads/markers/mark_woerden_009.jpg\" alt=\"\" />",
+        "description": "Outlet<br />OOK - Rijnstraat 40 - Woerden<br /><br />Zie ook: www.ook.nl<br /><br /><img src=\"/uploads/markers/mark_woerden_009.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 105,
         "type": "outlet",
@@ -3752,7 +3752,7 @@
       "id": 77,
       "properties": {
         "name": "Home and Cooking",
-        "html": "Outlet<br />Home and Cooking - Van der Capellenstraat 142 - Zwolle<br /><br />Zie ook: www.homeandcooking.nl<br /><br /><img src=\"/uploads/markers/mark_Home_and_Cooking_Groot.jpg\" alt=\"\" />",
+        "description": "Outlet<br />Home and Cooking - Van der Capellenstraat 142 - Zwolle<br /><br />Zie ook: www.homeandcooking.nl<br /><br /><img src=\"/uploads/markers/mark_Home_and_Cooking_Groot.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 77,
         "type": "outlet",
@@ -3772,7 +3772,7 @@
       "id": 241,
       "properties": {
         "name": "Aatufi Dokkinh Para",
-        "html": "Pump<br />Aatufi Dokkinh Para - Chapai Nawabganj - Bangladesh<br /><br />Sponsored by Nazcai<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-27_om_16.03_.04_.png\" alt=\"\" />",
+        "description": "Pump<br />Aatufi Dokkinh Para - Chapai Nawabganj - Bangladesh<br /><br />Sponsored by Nazcai<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-27_om_16.03_.04_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 241,
         "type": "pump",
@@ -3792,7 +3792,7 @@
       "id": 239,
       "properties": {
         "name": "Aatufi Dokkinh Para",
-        "html": "Pump<br />Aatufi Dokkinh Para - Chapai Nawabganj - Bangladesh<br /><br />Sponsored by Personeelsvereniging Always Fun<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-27_om_16.03_.15_.png\" alt=\"\" />",
+        "description": "Pump<br />Aatufi Dokkinh Para - Chapai Nawabganj - Bangladesh<br /><br />Sponsored by Personeelsvereniging Always Fun<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-27_om_16.03_.15_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 239,
         "type": "pump",
@@ -3812,7 +3812,7 @@
       "id": 240,
       "properties": {
         "name": "Aatufi Dokkinh Para",
-        "html": "Pump<br />Aatufi Dokkinh Para - Chapai Nawabganj - Bangladesh<br /><br />Sponsored by Scope Business Media<br /><br /><br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-27_om_16.02_.48_.png\" alt=\"\" />",
+        "description": "Pump<br />Aatufi Dokkinh Para - Chapai Nawabganj - Bangladesh<br /><br />Sponsored by Scope Business Media<br /><br /><br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-27_om_16.02_.48_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 240,
         "type": "pump",
@@ -3832,7 +3832,7 @@
       "id": 211,
       "properties": {
         "name": "Chanpura",
-        "html": "Pump<br />Chanpura - Dasmina - Bangladesh<br /><br />Sponsored by Laogong<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-15_om_13.13_.25_.png\" alt=\"\" />",
+        "description": "Pump<br />Chanpura - Dasmina - Bangladesh<br /><br />Sponsored by Laogong<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-15_om_13.13_.25_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 211,
         "type": "pump",
@@ -3852,7 +3852,7 @@
       "id": 228,
       "properties": {
         "name": "Charalgi",
-        "html": "Pump<br />Charalgi - Bauphal - Bangladesh<br /><br />Sponsored by Mikz Kinderopvang - Arnhem<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_10.35_.01_.png\" alt=\"\" />",
+        "description": "Pump<br />Charalgi - Bauphal - Bangladesh<br /><br />Sponsored by Mikz Kinderopvang - Arnhem<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_10.35_.01_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 228,
         "type": "pump",
@@ -3872,7 +3872,7 @@
       "id": 191,
       "properties": {
         "name": "Colkhali",
-        "html": "Pump<br />Colkhali - Galachipa - Patuakhall - Bangladesh<br /><br />Sponsored by Stadsdeel Zuid Amsterdam<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-16_om_13.59_.54_.png\" alt=\"\" />",
+        "description": "Pump<br />Colkhali - Galachipa - Patuakhall - Bangladesh<br /><br />Sponsored by Stadsdeel Zuid Amsterdam<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-16_om_13.59_.54_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 191,
         "type": "pump",
@@ -3892,7 +3892,7 @@
       "id": 213,
       "properties": {
         "name": "Dokkhin Bilbilash",
-        "html": "Pump<br />Dokkhin Bilbilash - Bauphal - Bangladesh<br /><br />Sponsored by Loes Geijssen from Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-15_om_13.49_.25_.png\" alt=\"\" />",
+        "description": "Pump<br />Dokkhin Bilbilash - Bauphal - Bangladesh<br /><br />Sponsored by Loes Geijssen from Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-15_om_13.49_.25_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 213,
         "type": "pump",
@@ -3912,7 +3912,7 @@
       "id": 215,
       "properties": {
         "name": "Dokkhin Bilbilash",
-        "html": "Pump<br />Dokkhin Bilbilash - Bauphal - Bangladesh<br /><br />Sponsored by the Join the Pipe team<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_09.30_.45_.png\" alt=\"\" />",
+        "description": "Pump<br />Dokkhin Bilbilash - Bauphal - Bangladesh<br /><br />Sponsored by the Join the Pipe team<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_09.30_.45_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 215,
         "type": "pump",
@@ -3932,7 +3932,7 @@
       "id": 216,
       "properties": {
         "name": "Dokkhin Bilbilash",
-        "html": "Pump<br />Dokkhin Bilbilash - Bauphal - Bangladesh<br /><br />Sponsored by Ynzo van Zanten Green Inc. donated by Jointhepipe.org<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_09.33_.26_.png\" alt=\"\" />",
+        "description": "Pump<br />Dokkhin Bilbilash - Bauphal - Bangladesh<br /><br />Sponsored by Ynzo van Zanten Green Inc. donated by Jointhepipe.org<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_09.33_.26_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 216,
         "type": "pump",
@@ -3952,7 +3952,7 @@
       "id": 194,
       "properties": {
         "name": "Dokkhin Jouta",
-        "html": "Pump<br />Dokkhin Jouta - Bauphal - Bangladesh<br /><br />Sponsored by Sven Driessen donated by Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-16_om_16.53_.01_.png\" alt=\"\" />",
+        "description": "Pump<br />Dokkhin Jouta - Bauphal - Bangladesh<br /><br />Sponsored by Sven Driessen donated by Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-16_om_16.53_.01_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 194,
         "type": "pump",
@@ -3972,7 +3972,7 @@
       "id": 201,
       "properties": {
         "name": "Dokkhin Kopurkathi",
-        "html": "Pump<br />Dokkhin Kopurkathi - Bauphal - Bangladesh<br /><br />Sponsored by Rotaryclub Arnhem-Huissen<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-13_om_17.49_.13_.png\" alt=\"\" />",
+        "description": "Pump<br />Dokkhin Kopurkathi - Bauphal - Bangladesh<br /><br />Sponsored by Rotaryclub Arnhem-Huissen<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-13_om_17.49_.13_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 201,
         "type": "pump",
@@ -3992,7 +3992,7 @@
       "id": 207,
       "properties": {
         "name": "Dokkhin Koruna",
-        "html": "Pump<br />Dokkhin Koruna - Barguna - Bangladesh<br /><br />Sponsored by Fair Taste Café<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-15_om_11.46_.23_.png\" alt=\"\" />",
+        "description": "Pump<br />Dokkhin Koruna - Barguna - Bangladesh<br /><br />Sponsored by Fair Taste Café<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-15_om_11.46_.23_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 207,
         "type": "pump",
@@ -4012,7 +4012,7 @@
       "id": 212,
       "properties": {
         "name": "East Colkhali",
-        "html": "Pump<br />East Colkhali - Galachipa - Patuakhall - Bangladesh<br /><br />Sponsored by Mauro E Floriana<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-15_om_13.14_.19_.png\" alt=\"\" />",
+        "description": "Pump<br />East Colkhali - Galachipa - Patuakhall - Bangladesh<br /><br />Sponsored by Mauro E Floriana<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-15_om_13.14_.19_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 212,
         "type": "pump",
@@ -4032,7 +4032,7 @@
       "id": 229,
       "properties": {
         "name": "East Colkhali",
-        "html": "Pump<br />East Colkhali - Galachipa - Patuakhall - Bangladesh<br /><br />Sponsored by Stadsdeel Zuid Amsterdam<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_10.39_.11_.png\" alt=\"\" />",
+        "description": "Pump<br />East Colkhali - Galachipa - Patuakhall - Bangladesh<br /><br />Sponsored by Stadsdeel Zuid Amsterdam<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_10.39_.11_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 229,
         "type": "pump",
@@ -4052,7 +4052,7 @@
       "id": 200,
       "properties": {
         "name": "Baje Tilcopi",
-        "html": "Pump<br />Baje Tilcopi - Fazlupur Fulchari - Bangladesh<br /><br />Sponsored by Grafisch Lyceum Van der Louw<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-13_om_17.17_.27_.png\" alt=\"\" />",
+        "description": "Pump<br />Baje Tilcopi - Fazlupur Fulchari - Bangladesh<br /><br />Sponsored by Grafisch Lyceum Van der Louw<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-13_om_17.17_.27_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 200,
         "type": "pump",
@@ -4072,7 +4072,7 @@
       "id": 199,
       "properties": {
         "name": "Pucha Khatiamari",
-        "html": "Pump<br />Pucha Khatiamari - Fazlupur Fulchari - Bangladesh<br /><br />Sponsored by Hogeschool van Amsterdam<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-13_om_17.09_.57_.png\" alt=\"\" />",
+        "description": "Pump<br />Pucha Khatiamari - Fazlupur Fulchari - Bangladesh<br /><br />Sponsored by Hogeschool van Amsterdam<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-13_om_17.09_.57_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 199,
         "type": "pump",
@@ -4092,7 +4092,7 @@
       "id": 205,
       "properties": {
         "name": "Fazlupur Fulchari",
-        "html": "Pump<br />Fazlupur Fulchari - Bangladesh <br /><br />Sponsored by Talisman Travel Design<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-15_om_11.32_.09_.png\" alt=\"\" />",
+        "description": "Pump<br />Fazlupur Fulchari - Bangladesh <br /><br />Sponsored by Talisman Travel Design<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-15_om_11.32_.09_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 205,
         "type": "pump"
@@ -4110,7 +4110,7 @@
       "id": 198,
       "properties": {
         "name": "Gaibandha",
-        "html": "Pump<br />Gaibandha - Bangladesh<br /><br />Sponsored by Dolf Jansen: Altijd Verder<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-13_om_16.56_.42_.png\" alt=\"\" />",
+        "description": "Pump<br />Gaibandha - Bangladesh<br /><br />Sponsored by Dolf Jansen: Altijd Verder<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-13_om_16.56_.42_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 198,
         "type": "pump"
@@ -4128,7 +4128,7 @@
       "id": 204,
       "properties": {
         "name": "Kathalchora",
-        "html": "Pump<br />Kathalchora - Lama - Bandarban - Bangladesh<br /><br />Sponsored by Club NL<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-15_om_10.40_.50_.png\" alt=\"\" />",
+        "description": "Pump<br />Kathalchora - Lama - Bandarban - Bangladesh<br /><br />Sponsored by Club NL<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-15_om_10.40_.50_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 204,
         "type": "pump",
@@ -4148,7 +4148,7 @@
       "id": 202,
       "properties": {
         "name": "Kathalchora",
-        "html": "Pump<br />Kathalchora - Lama - Bandarban - Bangladesh<br /><br />Sponsored by The Soon Institute<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-15_om_10.28_.27_.png\" alt=\"\" />",
+        "description": "Pump<br />Kathalchora - Lama - Bandarban - Bangladesh<br /><br />Sponsored by The Soon Institute<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-15_om_10.28_.27_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 202,
         "type": "pump",
@@ -4168,7 +4168,7 @@
       "id": 227,
       "properties": {
         "name": "Khatakhali",
-        "html": "Pump<br />Khatakhali - Dasmina - Bangladesh<br /><br />Sponsored by Sun Salutations for Water<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_10.17_.30_.png\" alt=\"\" />",
+        "description": "Pump<br />Khatakhali - Dasmina - Bangladesh<br /><br />Sponsored by Sun Salutations for Water<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_10.17_.30_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 227,
         "type": "pump",
@@ -4188,7 +4188,7 @@
       "id": 208,
       "properties": {
         "name": "Lama",
-        "html": "Pump<br />Lama - Bandarban - Bangladesh <br /><br />Sponsored by ID&amp;T Q-Dance<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-15_om_11.48_.10_.png\" alt=\"\" />",
+        "description": "Pump<br />Lama - Bandarban - Bangladesh <br /><br />Sponsored by ID&amp;T Q-Dance<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-15_om_11.48_.10_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 208,
         "type": "pump",
@@ -4208,7 +4208,7 @@
       "id": 230,
       "properties": {
         "name": "Madarpur",
-        "html": "Pump<br />Madarpur - Rajoir - Lakhanda/Amgram - Bangladesh<br /><br />Sponsored by Vesteda<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_10.43_.00_.png\" alt=\"\" />",
+        "description": "Pump<br />Madarpur - Rajoir - Lakhanda/Amgram - Bangladesh<br /><br />Sponsored by Vesteda<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_10.43_.00_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 230,
         "type": "pump",
@@ -4228,7 +4228,7 @@
       "id": 221,
       "properties": {
         "name": "Moddo Botkazol",
-        "html": "Pump<br />Moddo Botkazol - Bauphal - Bangladesh<br /><br />Sponsored by Xantippe City Spa (Aveda Earth Month 2010)<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_09.50_.57_.png\" alt=\"\" />",
+        "description": "Pump<br />Moddo Botkazol - Bauphal - Bangladesh<br /><br />Sponsored by Xantippe City Spa (Aveda Earth Month 2010)<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_09.50_.57_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 221,
         "type": "pump",
@@ -4248,7 +4248,7 @@
       "id": 224,
       "properties": {
         "name": "Niz Botkazol",
-        "html": "Pump<br />Niz Botkazol - Bauphal - Bangladesh<br /><br />Sponsored by Aveda Benelux (Aveda Earth Month 2010)<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_10.09_.15_.png\" alt=\"\" />",
+        "description": "Pump<br />Niz Botkazol - Bauphal - Bangladesh<br /><br />Sponsored by Aveda Benelux (Aveda Earth Month 2010)<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_10.09_.15_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 224,
         "type": "pump",
@@ -4268,7 +4268,7 @@
       "id": 222,
       "properties": {
         "name": "North Botkazol",
-        "html": "Pump<br />North Botkazol - Bauphal - Bangladesh<br /><br />Sponsored by Laurent Lifestyle Salon  (Aveda Earth Month 2010)<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_09.52_.44_.png\" alt=\"\" />",
+        "description": "Pump<br />North Botkazol - Bauphal - Bangladesh<br /><br />Sponsored by Laurent Lifestyle Salon  (Aveda Earth Month 2010)<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_09.52_.44_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 222,
         "type": "pump",
@@ -4288,7 +4288,7 @@
       "id": 220,
       "properties": {
         "name": "North Botkazol",
-        "html": "Pump<br />North Botkazol - Bauphal - Bangladesh<br /><br />Sponsored by Xantippe City Spa (Aveda Earth Month 2010)<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_09.46_.49_.png\" alt=\"\" />",
+        "description": "Pump<br />North Botkazol - Bauphal - Bangladesh<br /><br />Sponsored by Xantippe City Spa (Aveda Earth Month 2010)<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_09.46_.49_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 220,
         "type": "pump",
@@ -4308,7 +4308,7 @@
       "id": 93,
       "properties": {
         "name": "Palua Khalu",
-        "html": "Pump<br />Palua Khalu - Bangladesh<br /><br />Sponsored by Arcadis Stichting MAX<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-16_om_13.34_.43_.png\" alt=\"\" />",
+        "description": "Pump<br />Palua Khalu - Bangladesh<br /><br />Sponsored by Arcadis Stichting MAX<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-16_om_13.34_.43_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 93,
         "type": "pump"
@@ -4326,7 +4326,7 @@
       "id": 226,
       "properties": {
         "name": "Pochim Alipur",
-        "html": "Pump<br />Pochim Alipur - Dasmina - Bangladesh<br /><br />Sponsored by Nukuhiva<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_10.15_.03_.png\" alt=\"\" />",
+        "description": "Pump<br />Pochim Alipur - Dasmina - Bangladesh<br /><br />Sponsored by Nukuhiva<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_10.15_.03_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 226,
         "type": "pump",
@@ -4346,7 +4346,7 @@
       "id": 206,
       "properties": {
         "name": "Prongopara",
-        "html": "Pump<br />Prongopara - Lama - Bandarban - Bangladesh<br /><br />Sponsored by Luba Groep BV<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-15_om_11.36_.58_.png\" alt=\"\" />",
+        "description": "Pump<br />Prongopara - Lama - Bandarban - Bangladesh<br /><br />Sponsored by Luba Groep BV<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-15_om_11.36_.58_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 206,
         "type": "pump",
@@ -4366,7 +4366,7 @@
       "id": 195,
       "properties": {
         "name": "Purbo Alipur",
-        "html": "Pump<br />Purbo Alipur - Dasmina - Bangladesh<br /><br />Sponsored by Marino Water Advies<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-19_om_10.05_.44_.png\" alt=\"\" />",
+        "description": "Pump<br />Purbo Alipur - Dasmina - Bangladesh<br /><br />Sponsored by Marino Water Advies<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-19_om_10.05_.44_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 195,
         "type": "pump",
@@ -4386,7 +4386,7 @@
       "id": 218,
       "properties": {
         "name": "Purbo Botkazol",
-        "html": "Pump<br />Purbo Botkazol - Bauphal - Bangladesh<br /><br />Sponsored by Dayspa (Aveda Earth Month 2010)<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_09.38_.59_.png\" alt=\"\" />",
+        "description": "Pump<br />Purbo Botkazol - Bauphal - Bangladesh<br /><br />Sponsored by Dayspa (Aveda Earth Month 2010)<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_09.38_.59_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 218,
         "type": "pump",
@@ -4406,7 +4406,7 @@
       "id": 210,
       "properties": {
         "name": "Purbo Dashpara",
-        "html": "Pump<br />Purbo Dashpara - Bauphal - Bangladesh<br /><br />Sponsored by Kontakt der Kontinenten<br /><br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-15_om_12.22_.41_.png\" alt=\"\" />",
+        "description": "Pump<br />Purbo Dashpara - Bauphal - Bangladesh<br /><br />Sponsored by Kontakt der Kontinenten<br /><br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-15_om_12.22_.41_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 210,
         "type": "pump",
@@ -4426,7 +4426,7 @@
       "id": 214,
       "properties": {
         "name": "Purbo Jouta",
-        "html": "Pump<br />Purbo Jouta - Bauphal - Bangladesh<br /><br />Sponsored by Jason Fulford donated by Jointhepipe.org<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-15_om_13.54_.37_.png\" alt=\"\" />",
+        "description": "Pump<br />Purbo Jouta - Bauphal - Bangladesh<br /><br />Sponsored by Jason Fulford donated by Jointhepipe.org<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-15_om_13.54_.37_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 214,
         "type": "pump",
@@ -4446,7 +4446,7 @@
       "id": 190,
       "properties": {
         "name": "Purbo Laxmipur",
-        "html": "Pump<br />Purbo Laxmipur - Dasmina - Bangladesh<br /><br />Sponsored by Accenture <br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-16_om_13.45_.12_.png\" alt=\"\" />",
+        "description": "Pump<br />Purbo Laxmipur - Dasmina - Bangladesh<br /><br />Sponsored by Accenture <br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-16_om_13.45_.12_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 190,
         "type": "pump",
@@ -4466,7 +4466,7 @@
       "id": 209,
       "properties": {
         "name": "Purbo-Dokkhin Charalgi",
-        "html": "Pump<br />Purbo-Dokkhin Charalgi - Bauphal - Bangladesh<br /><br />Sponsored by Hogeschool InHolland<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-15_om_11.53_.08_.png\" alt=\"\" />",
+        "description": "Pump<br />Purbo-Dokkhin Charalgi - Bauphal - Bangladesh<br /><br />Sponsored by Hogeschool InHolland<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-15_om_11.53_.08_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 209,
         "type": "pump",
@@ -4486,7 +4486,7 @@
       "id": 225,
       "properties": {
         "name": "Purto Gudighata",
-        "html": "Pump<br />Purto Gudighata - Barguna - Bangladesh <br /><br />Sponsored by Pieter Brueghel School - Arnhem<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_10.12_.04_.png\" alt=\"\" />",
+        "description": "Pump<br />Purto Gudighata - Barguna - Bangladesh <br /><br />Sponsored by Pieter Brueghel School - Arnhem<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_10.12_.04_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 225,
         "type": "pump",
@@ -4506,7 +4506,7 @@
       "id": 188,
       "properties": {
         "name": "Sapergara",
-        "html": "Pump<br />Sapergara - Lama - Bandarban - Bangladesh<br /><br />Sponsored by Fans of TEDx Amsterdam 2010<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-16_om_12.27_.40_.png\" alt=\"\" />",
+        "description": "Pump<br />Sapergara - Lama - Bandarban - Bangladesh<br /><br />Sponsored by Fans of TEDx Amsterdam 2010<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-16_om_12.27_.40_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 188,
         "type": "pump",
@@ -4526,7 +4526,7 @@
       "id": 219,
       "properties": {
         "name": "Sayed Jafor",
-        "html": "Pump<br />Sayed Jafor - Dasmina - Bangladesh<br /><br />Sponsored by WebRegioMedia<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_09.41_.29_.png\" alt=\"\" />",
+        "description": "Pump<br />Sayed Jafor - Dasmina - Bangladesh<br /><br />Sponsored by WebRegioMedia<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_09.41_.29_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 219,
         "type": "pump",
@@ -4546,7 +4546,7 @@
       "id": 117,
       "properties": {
         "name": "Sirajganj",
-        "html": "Pump<br />Sirajganj - Bangladesh <br /><br />Sponsored by Join the Pipe/Akvo ",
+        "description": "Pump<br />Sirajganj - Bangladesh <br /><br />Sponsored by Join the Pipe/Akvo ",
         "operator": "jointhepipe",
         "id": 117,
         "type": "pump"
@@ -4564,7 +4564,7 @@
       "id": 203,
       "properties": {
         "name": "Soto Gabua",
-        "html": "Pump<br />Soto Gabua - Galachipa - Patuakhall - Bangladesh<br /><br />Sponsored by Yogadreams<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-15_om_10.37_.12_.png\" alt=\"\" />",
+        "description": "Pump<br />Soto Gabua - Galachipa - Patuakhall - Bangladesh<br /><br />Sponsored by Yogadreams<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-15_om_10.37_.12_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 203,
         "type": "pump",
@@ -4584,7 +4584,7 @@
       "id": 187,
       "properties": {
         "name": "Ulni Banda",
-        "html": "Pump<br />Ulni Banda - Fazlupur Fulchari - Bangladesh<br /><br />Sponsored by Mardi Kappers (Aveda Earth Month 2011)<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-16_om_10.56_.47_.png\" alt=\"\" />",
+        "description": "Pump<br />Ulni Banda - Fazlupur Fulchari - Bangladesh<br /><br />Sponsored by Mardi Kappers (Aveda Earth Month 2011)<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-16_om_10.56_.47_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 187,
         "type": "pump",
@@ -4604,7 +4604,7 @@
       "id": 196,
       "properties": {
         "name": "Uttar Khatiamari",
-        "html": "Pump<br />Uttar Khatiamari - Fazlupur Fulchari - Khulna - Bangladesh<br /><br />Sponsored by Teylingen College<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-19_om_09.46_.56_1.png\" alt=\"\" />",
+        "description": "Pump<br />Uttar Khatiamari - Fazlupur Fulchari - Khulna - Bangladesh<br /><br />Sponsored by Teylingen College<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-19_om_09.46_.56_1.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 196,
         "type": "pump",
@@ -4624,7 +4624,7 @@
       "id": 217,
       "properties": {
         "name": "Vangra",
-        "html": "Pump<br />Vangra - Bauphal - Bangladesh<br /><br />Sponsored by Global Mala 2010<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_09.36_.39_.png\" alt=\"\" />",
+        "description": "Pump<br />Vangra - Bauphal - Bangladesh<br /><br />Sponsored by Global Mala 2010<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_09.36_.39_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 217,
         "type": "pump",
@@ -4644,7 +4644,7 @@
       "id": 197,
       "properties": {
         "name": "Vangra",
-        "html": "Pump<br />Vangra - Bauphal - Bangladesh<br /><br />Sponsored by Salon Claar<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-19_om_10.16_.53_.png\" alt=\"\" />",
+        "description": "Pump<br />Vangra - Bauphal - Bangladesh<br /><br />Sponsored by Salon Claar<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-19_om_10.16_.53_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 197,
         "type": "pump",
@@ -4664,7 +4664,7 @@
       "id": 223,
       "properties": {
         "name": "West Laxmipur",
-        "html": "Pump<br />West Laxmipur - Dasmina - Bangladesh<br /><br />Sponsored by BTO Exhibitions<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_10.06_.06_.png\" alt=\"\" />",
+        "description": "Pump<br />West Laxmipur - Dasmina - Bangladesh<br /><br />Sponsored by BTO Exhibitions<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_10.06_.06_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 223,
         "type": "pump",
@@ -4684,7 +4684,7 @@
       "id": 95,
       "properties": {
         "name": "Bona",
-        "html": "Pump<br />Bona - Burkina Faso<br /><br />Sponsored by MN Services<br /><br /><img src=\"/uploads/markers/mark_Burkina_Faso_Bona.jpg\" alt=\"\" />",
+        "description": "Pump<br />Bona - Burkina Faso<br /><br />Sponsored by MN Services<br /><br /><img src=\"/uploads/markers/mark_Burkina_Faso_Bona.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 95,
         "type": "pump"
@@ -4702,7 +4702,7 @@
       "id": 246,
       "properties": {
         "name": "Bona",
-        "html": "Pump<br />Bona - Burkina Faso<br /><br />Sponsored by Syntrus Achmea<br /><br /><img src=\"/uploads/markers/mark_Syntrus_Achmea_-_Bona,_Burkina_Fasso.png\" alt=\"\" />",
+        "description": "Pump<br />Bona - Burkina Faso<br /><br />Sponsored by Syntrus Achmea<br /><br /><img src=\"/uploads/markers/mark_Syntrus_Achmea_-_Bona,_Burkina_Fasso.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 246,
         "type": "pump"
@@ -4720,7 +4720,7 @@
       "id": 118,
       "properties": {
         "name": "Sissa",
-        "html": "Pump<br />Sissa - Burkina Faso<br /><br />Sponsored by McKinsey &amp; Company<br /><br /><br /><img src=\"/uploads/markers/mark_JTP_-_Sissa,_Burkina_Faso.png\" alt=\"\" />",
+        "description": "Pump<br />Sissa - Burkina Faso<br /><br />Sponsored by McKinsey &amp; Company<br /><br /><br /><img src=\"/uploads/markers/mark_JTP_-_Sissa,_Burkina_Faso.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 118,
         "type": "pump"
@@ -4738,7 +4738,7 @@
       "id": 309,
       "properties": {
         "name": "Bangui",
-        "html": "Pump<br />Bangui - Central African Republic<br /><br />Sponsored by Nukuhiva - Floortje Dessing<br /><br /><img src=\"/uploads/markers/mark_CAR_nukuhiva.jpg\" alt=\"\" />",
+        "description": "Pump<br />Bangui - Central African Republic<br /><br />Sponsored by Nukuhiva - Floortje Dessing<br /><br /><img src=\"/uploads/markers/mark_CAR_nukuhiva.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 309,
         "type": "pump"
@@ -4756,7 +4756,7 @@
       "id": 247,
       "properties": {
         "name": "Banjulinding",
-        "html": "Pump<br />Banjulinding - Gambia<br /><br />Sponsored by World Expo - Dutch Pavillion<br /><br /><br /><img src=\"/uploads/markers/mark_Expo_Dutch_Pavallion_-_Banjul,_Gambia.png\" alt=\"\" />",
+        "description": "Pump<br />Banjulinding - Gambia<br /><br />Sponsored by World Expo - Dutch Pavillion<br /><br /><br /><img src=\"/uploads/markers/mark_Expo_Dutch_Pavallion_-_Banjul,_Gambia.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 247,
         "type": "pump"
@@ -4774,7 +4774,7 @@
       "id": 354,
       "properties": {
         "name": "Batanding Wollof Lower School",
-        "html": "Pump<br />Batanding Wollof Lower School - Jamagen - Gambia<br /><br />Sponsored by Christiaan Lubbers donated by Jointhepipe.org<br /><br /><img src=\"/uploads/markers/mark_Jtp_Christiaan.png\" alt=\"\" />",
+        "description": "Pump<br />Batanding Wollof Lower School - Jamagen - Gambia<br /><br />Sponsored by Christiaan Lubbers donated by Jointhepipe.org<br /><br /><img src=\"/uploads/markers/mark_Jtp_Christiaan.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 354,
         "type": "pump",
@@ -4794,7 +4794,7 @@
       "id": 261,
       "properties": {
         "name": "Kalenge",
-        "html": "Pump<br />Kalenge - Gambia<br /><br />Sponsored by TITAN-PLASTIMEX<br /><br /><img src=\"/uploads/markers/mark_Kalenge_Gambia.jpg\" alt=\"\" />",
+        "description": "Pump<br />Kalenge - Gambia<br /><br />Sponsored by TITAN-PLASTIMEX<br /><br /><img src=\"/uploads/markers/mark_Kalenge_Gambia.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 261,
         "type": "pump"
@@ -4812,7 +4812,7 @@
       "id": 262,
       "properties": {
         "name": "Kalenge North",
-        "html": "Pump<br />Kalenge North - Gambia<br /><br />Sponsored by TITAN-METALPLAST<br /><br /><img src=\"/uploads/markers/mark_Kalenge_North_Gambia.jpg\" alt=\"\" />",
+        "description": "Pump<br />Kalenge North - Gambia<br /><br />Sponsored by TITAN-METALPLAST<br /><br /><img src=\"/uploads/markers/mark_Kalenge_North_Gambia.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 262,
         "type": "pump"
@@ -4830,7 +4830,7 @@
       "id": 192,
       "properties": {
         "name": "Kerewan",
-        "html": "Pump<br />Kerewan - Gambia<br /><br />Sponsored by Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-16_om_14.04_.39_.png\" alt=\"\" />",
+        "description": "Pump<br />Kerewan - Gambia<br /><br />Sponsored by Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-16_om_14.04_.39_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 192,
         "type": "pump"
@@ -4848,7 +4848,7 @@
       "id": 248,
       "properties": {
         "name": "Keur Omar Jawara",
-        "html": "Pump<br />Keur Omar Jawara - Gambia<br /><br />Sponsored by Join the Pipe",
+        "description": "Pump<br />Keur Omar Jawara - Gambia<br /><br />Sponsored by Join the Pipe",
         "operator": "jointhepipe",
         "id": 248,
         "type": "pump"
@@ -4866,7 +4866,7 @@
       "id": 249,
       "properties": {
         "name": "Njawara School",
-        "html": "Pump<br />Njawara School - Gambia<br /><br />Sponsored by Windesheim College",
+        "description": "Pump<br />Njawara School - Gambia<br /><br />Sponsored by Windesheim College",
         "operator": "jointhepipe",
         "id": 249,
         "type": "pump"
@@ -4884,7 +4884,7 @@
       "id": 110,
       "properties": {
         "name": "Massai Village",
-        "html": "Pump<br />Massai Village - Kenya<br /><br />Sponsored by Join the Pipe/Aveda Earth Month 2011<br /><br /><img src=\"/uploads/markers/mark_AVEDA_-_Massai_Village_1,_Kenya.png\" alt=\"\" />",
+        "description": "Pump<br />Massai Village - Kenya<br /><br />Sponsored by Join the Pipe/Aveda Earth Month 2011<br /><br /><img src=\"/uploads/markers/mark_AVEDA_-_Massai_Village_1,_Kenya.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 110,
         "type": "pump"
@@ -4902,7 +4902,7 @@
       "id": 99,
       "properties": {
         "name": "Blantyre",
-        "html": "Pump<br />Blantyre - Malawi<br /><br />Sponsored by CZAR/MTD<br /><br /><img src=\"/uploads/markers/mark_Afbeelding_348.png\" alt=\"\" />",
+        "description": "Pump<br />Blantyre - Malawi<br /><br />Sponsored by CZAR/MTD<br /><br /><img src=\"/uploads/markers/mark_Afbeelding_348.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 99,
         "type": "pump"
@@ -4920,7 +4920,7 @@
       "id": 242,
       "properties": {
         "name": "Blantyre",
-        "html": "Pump<br />Blantyre - Malawi<br /><br />Sponsored by Nukuhiva - Floortje Dessing<br /><br /><img src=\"/uploads/markers/mark_Nukuhiva_-_Centraal_Afrika.png\" alt=\"\" />",
+        "description": "Pump<br />Blantyre - Malawi<br /><br />Sponsored by Nukuhiva - Floortje Dessing<br /><br /><img src=\"/uploads/markers/mark_Nukuhiva_-_Centraal_Afrika.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 242,
         "type": "pump"
@@ -4938,7 +4938,7 @@
       "id": 98,
       "properties": {
         "name": "Bukabwa",
-        "html": "Pump<br />Bukabwa - Tanzania<br /><br />Sponsored by C. Van der Grift Bouw<br /><br /><img src=\"/uploads/markers/mark_Van_der_Gift_-_Tanzania,_Bukabwa.png\" alt=\"\" />",
+        "description": "Pump<br />Bukabwa - Tanzania<br /><br />Sponsored by C. Van der Grift Bouw<br /><br /><img src=\"/uploads/markers/mark_Van_der_Gift_-_Tanzania,_Bukabwa.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 98,
         "type": "pump"
@@ -4956,7 +4956,7 @@
       "id": 108,
       "properties": {
         "name": "Bukabwa",
-        "html": "Pump<br />Bukabwa - Tanzania<br /><br />Sponsored by Teus Verlaan",
+        "description": "Pump<br />Bukabwa - Tanzania<br /><br />Sponsored by Teus Verlaan",
         "operator": "jointhepipe",
         "id": 108,
         "type": "pump"
@@ -4974,7 +4974,7 @@
       "id": 169,
       "properties": {
         "name": "Buturi School",
-        "html": "Pump<br />Buturi School - Tanzania<br /><br />Sponsored by Stichting Aalberts Industries Support Fund<br /><br /><img src=\"/uploads/markers/mark_JTP_-_Buturi_School,_Tanzania.png\" alt=\"\" />",
+        "description": "Pump<br />Buturi School - Tanzania<br /><br />Sponsored by Stichting Aalberts Industries Support Fund<br /><br /><img src=\"/uploads/markers/mark_JTP_-_Buturi_School,_Tanzania.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 169,
         "type": "pump"
@@ -4992,7 +4992,7 @@
       "id": 251,
       "properties": {
         "name": "Ibasa Mbugani",
-        "html": "Pump<br />Ibasa Mbugani - Tanzania<br /><br />Sponsored by Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_JTP_-_Ibasa_Mbugani_MVP,_Tanzania.png\" alt=\"\" />",
+        "description": "Pump<br />Ibasa Mbugani - Tanzania<br /><br />Sponsored by Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_JTP_-_Ibasa_Mbugani_MVP,_Tanzania.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 251,
         "type": "pump"
@@ -5010,7 +5010,7 @@
       "id": 260,
       "properties": {
         "name": "Ibiri Secondary School",
-        "html": "Pump<br />Ibiri Secondary School - Tanzania<br /><br />Sponsored by Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_JTP_-_Ibiri_secondary_school_MVP,_Tanzania.png\" alt=\"\" />",
+        "description": "Pump<br />Ibiri Secondary School - Tanzania<br /><br />Sponsored by Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_JTP_-_Ibiri_secondary_school_MVP,_Tanzania.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 260,
         "type": "pump"
@@ -5028,7 +5028,7 @@
       "id": 257,
       "properties": {
         "name": "Inonelwa Kiloleli",
-        "html": "Pump<br />Inonelwa Kiloleli - Tanzania<br /><br />Sponsored by Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_JTP_-_Inonelwa_Kiloleli,_Tanzania.png\" alt=\"\" />",
+        "description": "Pump<br />Inonelwa Kiloleli - Tanzania<br /><br />Sponsored by Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_JTP_-_Inonelwa_Kiloleli,_Tanzania.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 257,
         "type": "pump"
@@ -5046,7 +5046,7 @@
       "id": 310,
       "properties": {
         "name": "Inonelwa Shuleni",
-        "html": "Pump<br />Inonelwa Shuleni - Tanzania<br /><br />Sponsored by Lend Lease<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2013-05-08_om_12.37_.14_.png\" alt=\"\" />",
+        "description": "Pump<br />Inonelwa Shuleni - Tanzania<br /><br />Sponsored by Lend Lease<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2013-05-08_om_12.37_.14_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 310,
         "type": "pump"
@@ -5064,7 +5064,7 @@
       "id": 253,
       "properties": {
         "name": "Isenga Shuleni",
-        "html": "Pump<br />Isenga Shuleni - Tanzania<br /><br />Sponsored by HZ University of Applied Sciences<br /><br /><img src=\"/uploads/markers/mark_JTP_-_Isenga_Shuleni_MVP,_Tanzania.png\" alt=\"\" />",
+        "description": "Pump<br />Isenga Shuleni - Tanzania<br /><br />Sponsored by HZ University of Applied Sciences<br /><br /><img src=\"/uploads/markers/mark_JTP_-_Isenga_Shuleni_MVP,_Tanzania.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 253,
         "type": "pump"
@@ -5082,7 +5082,7 @@
       "id": 250,
       "properties": {
         "name": "Kinesi School",
-        "html": "Pump <br />Kinesi School - Tanzania<br /><br />Sponsored by Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_JTP_-_Kinesa_School,_Tanzania.png\" alt=\"\" />",
+        "description": "Pump <br />Kinesi School - Tanzania<br /><br />Sponsored by Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_JTP_-_Kinesa_School,_Tanzania.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 250,
         "type": "pump"
@@ -5100,7 +5100,7 @@
       "id": 243,
       "properties": {
         "name": "Kitasakwa Village",
-        "html": "Pump<br />Kitasakwa Village - Tanzania<br /><br />Sponsored by DSM<br /><br /><img src=\"/uploads/markers/mark_DSM_-_Tanzania,_Kitasakwa_Village.png\" alt=\"\" />",
+        "description": "Pump<br />Kitasakwa Village - Tanzania<br /><br />Sponsored by DSM<br /><br /><img src=\"/uploads/markers/mark_DSM_-_Tanzania,_Kitasakwa_Village.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 243,
         "type": "pump"
@@ -5118,7 +5118,7 @@
       "id": 112,
       "properties": {
         "name": "Kitenga Village",
-        "html": "Pump<br />Kitenga Village - Tanzania<br /><br />Sponsored by Aveda Earth Month 2011<br /><br /><img src=\"/uploads/markers/mark_AVEDA_-_Kitegna_Village,_Tanzania.png\" alt=\"\" />",
+        "description": "Pump<br />Kitenga Village - Tanzania<br /><br />Sponsored by Aveda Earth Month 2011<br /><br /><img src=\"/uploads/markers/mark_AVEDA_-_Kitegna_Village,_Tanzania.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 112,
         "type": "pump"
@@ -5136,7 +5136,7 @@
       "id": 258,
       "properties": {
         "name": "Makunguwe",
-        "html": "Pump<br />Makunguwe - Tanzania<br /><br />Sponsored by Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_JTP_-_Makunguwe,_Tanzania.png\" alt=\"\" />",
+        "description": "Pump<br />Makunguwe - Tanzania<br /><br />Sponsored by Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_JTP_-_Makunguwe,_Tanzania.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 258,
         "type": "pump"
@@ -5154,7 +5154,7 @@
       "id": 252,
       "properties": {
         "name": "Mbola Mbugani",
-        "html": "Pump<br />Mbola Mbugani - Tanzania<br /><br />Sponsored by Milow<br /><br /><img src=\"/uploads/markers/mark_JTP_-_Mbola_Mbugani_MVP,_Tanzania.png\" alt=\"\" />",
+        "description": "Pump<br />Mbola Mbugani - Tanzania<br /><br />Sponsored by Milow<br /><br /><img src=\"/uploads/markers/mark_JTP_-_Mbola_Mbugani_MVP,_Tanzania.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 252,
         "type": "pump"
@@ -5172,7 +5172,7 @@
       "id": 259,
       "properties": {
         "name": "Mpungu Magharibi",
-        "html": "Pump<br />Mpungu Magharibi - Tanzania<br /><br />Sponsored by Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_JTP_-_Mpungu_Magharibi,_Tanzania.png\" alt=\"\" />",
+        "description": "Pump<br />Mpungu Magharibi - Tanzania<br /><br />Sponsored by Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_JTP_-_Mpungu_Magharibi,_Tanzania.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 259,
         "type": "pump"
@@ -5190,7 +5190,7 @@
       "id": 244,
       "properties": {
         "name": "Musoma (3)",
-        "html": "Pump<br />Musoma (3) - Tanzania<br /><br />Sponsored by Aveda<br /><br /><img src=\"/uploads/markers/mark_AVEDA_-_Musoma_3,_Tanzania.png\" alt=\"\" />",
+        "description": "Pump<br />Musoma (3) - Tanzania<br /><br />Sponsored by Aveda<br /><br /><img src=\"/uploads/markers/mark_AVEDA_-_Musoma_3,_Tanzania.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 244,
         "type": "pump"
@@ -5208,7 +5208,7 @@
       "id": 245,
       "properties": {
         "name": "Musoma (4)",
-        "html": "Pump<br />Musoma (4) - Tanzania<br /><br />Sponsored by Aveda<br /><br /><img src=\"/uploads/markers/mark_AVEDA_-_Musoma_4,_Tanzania.png\" alt=\"\" />",
+        "description": "Pump<br />Musoma (4) - Tanzania<br /><br />Sponsored by Aveda<br /><br /><img src=\"/uploads/markers/mark_AVEDA_-_Musoma_4,_Tanzania.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 245,
         "type": "pump"
@@ -5226,7 +5226,7 @@
       "id": 113,
       "properties": {
         "name": "Musoma (2)",
-        "html": "Pump<br />Musoma (2) - Tanzania<br /><br />Sponsored by Aveda Earth Month 2011<br /><br /><img src=\"/uploads/markers/mark_AVEDA_-_Musoma_2_School,_Tanzania.png\" alt=\"\" />",
+        "description": "Pump<br />Musoma (2) - Tanzania<br /><br />Sponsored by Aveda Earth Month 2011<br /><br /><img src=\"/uploads/markers/mark_AVEDA_-_Musoma_2_School,_Tanzania.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 113,
         "type": "pump"
@@ -5244,7 +5244,7 @@
       "id": 115,
       "properties": {
         "name": "Musoma",
-        "html": "Pump<br />Musoma - Tanzania<br /><br />Sponsored by Join the Pipe/Wetsus",
+        "description": "Pump<br />Musoma - Tanzania<br /><br />Sponsored by Join the Pipe/Wetsus",
         "operator": "jointhepipe",
         "id": 115,
         "type": "pump"
@@ -5262,7 +5262,7 @@
       "id": 109,
       "properties": {
         "name": "Nyakatende",
-        "html": "Pump<br />Nyakatende - Tanzania<br /><br />Sponsored by Aveda Earth Month 2011/02",
+        "description": "Pump<br />Nyakatende - Tanzania<br /><br />Sponsored by Aveda Earth Month 2011/02",
         "operator": "jointhepipe",
         "id": 109,
         "type": "pump"
@@ -5280,7 +5280,7 @@
       "id": 193,
       "properties": {
         "name": "Nyamwaga",
-        "html": "Pump<br />Nyamwaga - Tanzania <br /><br />Sponsored by Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-16_om_14.08_.45_.png\" alt=\"\" />",
+        "description": "Pump<br />Nyamwaga - Tanzania <br /><br />Sponsored by Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-16_om_14.08_.45_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 193,
         "type": "pump"
@@ -5298,7 +5298,7 @@
       "id": 97,
       "properties": {
         "name": "Nyankanga",
-        "html": "Pump<br />Nyankanga - Tanzania<br /><br />Sponsored by Wetsus<br /><br /><img src=\"/uploads/markers/mark_WETSUS_-_Tanzania.jpg\" alt=\"\" />",
+        "description": "Pump<br />Nyankanga - Tanzania<br /><br />Sponsored by Wetsus<br /><br /><img src=\"/uploads/markers/mark_WETSUS_-_Tanzania.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 97,
         "type": "pump"
@@ -5316,7 +5316,7 @@
       "id": 254,
       "properties": {
         "name": "Pulu",
-        "html": "Pump<br />Pulu - Tanzania<br /><br />Sponsored by Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_JTP_-_Pulu,_Tanzania.png\" alt=\"\" />",
+        "description": "Pump<br />Pulu - Tanzania<br /><br />Sponsored by Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_JTP_-_Pulu,_Tanzania.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 254,
         "type": "pump"
@@ -5334,7 +5334,7 @@
       "id": 111,
       "properties": {
         "name": "Tarime",
-        "html": "Pump<br />Tarime - Tanzania <br /><br />Sponsored by Aveda Earth Month 2011/03",
+        "description": "Pump<br />Tarime - Tanzania <br /><br />Sponsored by Aveda Earth Month 2011/03",
         "operator": "jointhepipe",
         "id": 111,
         "type": "pump"
@@ -5352,7 +5352,7 @@
       "id": 94,
       "properties": {
         "name": "Tingerime",
-        "html": "Pump<br />Tingerime - Tanzania<br /><br />Sponsored by Prince Kunststofbouw<br /><br /><img src=\"/uploads/markers/mark_Prince_-_Tingerime,_Tanzania.png\" alt=\"\" />",
+        "description": "Pump<br />Tingerime - Tanzania<br /><br />Sponsored by Prince Kunststofbouw<br /><br /><img src=\"/uploads/markers/mark_Prince_-_Tingerime,_Tanzania.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 94,
         "type": "pump"
@@ -5370,7 +5370,7 @@
       "id": 255,
       "properties": {
         "name": "Ukalwa (1)",
-        "html": "Pump<br />Ukalwa (1) - Tanzania <br /><br />Sponsored by Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_JTP_-_Ukalwa_1,_Tanzania.png\" alt=\"\" />",
+        "description": "Pump<br />Ukalwa (1) - Tanzania <br /><br />Sponsored by Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_JTP_-_Ukalwa_1,_Tanzania.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 255,
         "type": "pump"
@@ -5388,7 +5388,7 @@
       "id": 256,
       "properties": {
         "name": "Ukalwa (2)",
-        "html": "Pump<br />Ukalwa (2) - Tanzania <br /><br />Sponsored by Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_JTP_-_Ukalwa_2,_Tanzania.png\" alt=\"\" />",
+        "description": "Pump<br />Ukalwa (2) - Tanzania <br /><br />Sponsored by Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_JTP_-_Ukalwa_2,_Tanzania.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 256,
         "type": "pump"
@@ -5406,7 +5406,7 @@
       "id": 48,
       "properties": {
         "name": "L&#039;invité le Restaurant",
-        "html": "Restaurant<br />L&#039;invité le Restaurant - Bloemgracht 47 - Amsterdam",
+        "description": "Restaurant<br />L&#039;invité le Restaurant - Bloemgracht 47 - Amsterdam",
         "operator": "jointhepipe",
         "id": 48,
         "type": "restaurant",
@@ -5426,7 +5426,7 @@
       "id": 45,
       "properties": {
         "name": "Miss Jazzlyn",
-        "html": "Restaurant <br />Miss Jazzlyn - Prins Hendrikstraat 11 - Arnhem<br /><br />",
+        "description": "Restaurant <br />Miss Jazzlyn - Prins Hendrikstraat 11 - Arnhem<br /><br />",
         "operator": "jointhepipe",
         "id": 45,
         "type": "restaurant",
@@ -5446,7 +5446,7 @@
       "id": 46,
       "properties": {
         "name": "De Oude Drukkerij",
-        "html": "Restaurant <br />De Oude Drukkerij - Vijhestraat 3 - Harderwijk<br />",
+        "description": "Restaurant <br />De Oude Drukkerij - Vijhestraat 3 - Harderwijk<br />",
         "operator": "jointhepipe",
         "id": 46,
         "type": "restaurant",
@@ -5466,7 +5466,7 @@
       "id": 49,
       "properties": {
         "name": "Skeef",
-        "html": "Restaurant<br />Skeef - Strand van Luna 3 - Heerhugowaard",
+        "description": "Restaurant<br />Skeef - Strand van Luna 3 - Heerhugowaard",
         "operator": "jointhepipe",
         "id": 49,
         "type": "restaurant",
@@ -5486,7 +5486,7 @@
       "id": 47,
       "properties": {
         "name": "De Burg",
-        "html": "Restaurant <br />De Burg - Dorpsstraat 571 - Noord Scharwoude<br />",
+        "description": "Restaurant <br />De Burg - Dorpsstraat 571 - Noord Scharwoude<br />",
         "operator": "jointhepipe",
         "id": 47,
         "type": "restaurant",
@@ -5506,7 +5506,7 @@
       "id": 381,
       "properties": {
         "name": "T",
-        "html": "T - Aalburg - Gemeente Huis - Outdoor",
+        "description": "T - Aalburg - Gemeente Huis - Outdoor",
         "operator": "jointhepipe",
         "id": 381,
         "type": "tap",
@@ -5526,7 +5526,7 @@
       "id": 332,
       "properties": {
         "name": "OBS Akkrum",
-        "html": "Outdoor tapstation<br />OBS Akkrum - De Stringen 1 - Akkrum<br /><br />Sponsored by Vitens",
+        "description": "Outdoor tapstation<br />OBS Akkrum - De Stringen 1 - Akkrum<br /><br />Sponsored by Vitens",
         "operator": "jointhepipe",
         "id": 332,
         "type": "tap",
@@ -5546,7 +5546,7 @@
       "id": 328,
       "properties": {
         "name": "De Dukdalf",
-        "html": "Outdoor tapstation<br />De Dukdalf - Makassarweg 68A - Almere<br /><br />Sponsored by Vitens",
+        "description": "Outdoor tapstation<br />De Dukdalf - Makassarweg 68A - Almere<br /><br />Sponsored by Vitens",
         "operator": "jointhepipe",
         "id": 328,
         "type": "tap",
@@ -5566,7 +5566,7 @@
       "id": 335,
       "properties": {
         "name": "Station Almere Centrum",
-        "html": "Indoor tapstation (pilot)<br />Station Almere Centrum",
+        "description": "Indoor tapstation (pilot)<br />Station Almere Centrum",
         "operator": "jointhepipe",
         "id": 335,
         "type": "tap"
@@ -5584,7 +5584,7 @@
       "id": 175,
       "properties": {
         "name": "Winkelcentrum Buitenmere",
-        "html": "Outdoor tapstation<br />Winkelcentrum Buitenmere - Almere<br /><br />Sponsored by Syntrus Achmea<br /><br /><img src=\"/uploads/markers/mark_buitenmere21.jpg\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Winkelcentrum Buitenmere - Almere<br /><br />Sponsored by Syntrus Achmea<br /><br /><img src=\"/uploads/markers/mark_buitenmere21.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 175,
         "type": "tap"
@@ -5602,7 +5602,7 @@
       "id": 34,
       "properties": {
         "name": "Hellestraat",
-        "html": "Outdoor tapstation<br />Hellestraat - Amersfoort<br /><br />Sponsored by Ulysses Consulting, Papillon Adviesgroep, Admium, doorendoor ontwerp &amp; Brayn<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-07-10_om_14.24_.28_.png\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Hellestraat - Amersfoort<br /><br />Sponsored by Ulysses Consulting, Papillon Adviesgroep, Admium, doorendoor ontwerp &amp; Brayn<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-07-10_om_14.24_.28_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 34,
         "type": "tap"
@@ -5620,7 +5620,7 @@
       "id": 2,
       "properties": {
         "name": "Accenture",
-        "html": "Indoor tapstation<br />Accenture - Keizersgracht 253 - Amsterdam<br /><br /><img src=\"/uploads/markers/mark_Tappunt_Accenture.png\" alt=\"\" />",
+        "description": "Indoor tapstation<br />Accenture - Keizersgracht 253 - Amsterdam<br /><br /><img src=\"/uploads/markers/mark_Tappunt_Accenture.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 2,
         "type": "tap",
@@ -5640,7 +5640,7 @@
       "id": 235,
       "properties": {
         "name": "Achmea",
-        "html": "Indoor tapstation<br />Achmea - Gatwickstraat 1 - Amsterdam<br /><br />Sponsored by Syntrus Achmea<br /><br /><img src=\"/uploads/markers/mark_achema1.jpg\" alt=\"\" />",
+        "description": "Indoor tapstation<br />Achmea - Gatwickstraat 1 - Amsterdam<br /><br />Sponsored by Syntrus Achmea<br /><br /><img src=\"/uploads/markers/mark_achema1.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 235,
         "type": "tap",
@@ -5660,7 +5660,7 @@
       "id": 182,
       "properties": {
         "name": "Basisschool Kleine Reus",
-        "html": "Outdoor tapstation<br />Basisschool Kleine Reus - Nieuwe Looiersstraat 9 - Amsterdam<br /><br /><br /><br /><img src=\"/uploads/markers/mark__MG_1170.jpg\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Basisschool Kleine Reus - Nieuwe Looiersstraat 9 - Amsterdam<br /><br /><br /><br /><img src=\"/uploads/markers/mark__MG_1170.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 182,
         "type": "tap",
@@ -5680,7 +5680,7 @@
       "id": 92,
       "properties": {
         "name": "De Groene Bocht",
-        "html": "Indoor + Outdoor tapstation <br />De Groene Bocht - Keizersgracht 253 - Amsterdam ",
+        "description": "Indoor + Outdoor tapstation <br />De Groene Bocht - Keizersgracht 253 - Amsterdam ",
         "operator": "jointhepipe",
         "id": 92,
         "type": "tap",
@@ -5700,7 +5700,7 @@
       "id": 397,
       "properties": {
         "name": "AFC AJAX",
-        "html": "T - Amsterdam - De Toekomst - Outdoor<br />AFC AJAX",
+        "description": "T - Amsterdam - De Toekomst - Outdoor<br />AFC AJAX",
         "operator": "jointhepipe",
         "id": 397,
         "type": "tap"
@@ -5718,7 +5718,7 @@
       "id": 80,
       "properties": {
         "name": "Erasmuspark",
-        "html": "Outdoor tapstation<br />Erasmuspark - Amsterdam<br /><br />Sponsored by Stadsdeel West Amsterdam<br /><br /><img src=\"/uploads/markers/mark_Erasmuspark_Amsterdam.jpg\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Erasmuspark - Amsterdam<br /><br />Sponsored by Stadsdeel West Amsterdam<br /><br /><img src=\"/uploads/markers/mark_Erasmuspark_Amsterdam.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 80,
         "type": "tap"
@@ -5736,7 +5736,7 @@
       "id": 151,
       "properties": {
         "name": "Hogeschool van Amsterdam (ALO)",
-        "html": "Indoor tapstation<br />Hogeschool van Amsterdam (ALO) - Dokter Meurerlaan 8 - Amsterdam ",
+        "description": "Indoor tapstation<br />Hogeschool van Amsterdam (ALO) - Dokter Meurerlaan 8 - Amsterdam ",
         "operator": "jointhepipe",
         "id": 151,
         "type": "tap",
@@ -5756,7 +5756,7 @@
       "id": 314,
       "properties": {
         "name": "Hogeschool van Amsterdam (Muller-Lulofshuis)",
-        "html": "1 Indoor tapstation<br />Hogeschool van Amsterdam (Muller-Lulofshuis) - Wibautstraat - Amsterdam",
+        "description": "1 Indoor tapstation<br />Hogeschool van Amsterdam (Muller-Lulofshuis) - Wibautstraat - Amsterdam",
         "operator": "jointhepipe",
         "id": 314,
         "type": "tap",
@@ -5776,7 +5776,7 @@
       "id": 19,
       "properties": {
         "name": "Hogeschool van Amsterdam",
-        "html": "19 Indoor tapstations &amp; 1 Outdoor tapstation<br />Hogeschool van Amsterdam - Wibautstraat 2-4 - Amsterdam",
+        "description": "19 Indoor tapstations &amp; 1 Outdoor tapstation<br />Hogeschool van Amsterdam - Wibautstraat 2-4 - Amsterdam",
         "operator": "jointhepipe",
         "id": 19,
         "type": "tap",
@@ -5796,7 +5796,7 @@
       "id": 286,
       "properties": {
         "name": "Holendrechtplein",
-        "html": "Outdoor tapstation<br />Holendrechtplein - Amsterdam<br /><br />Sponsored by Stadsdeel Zuid Oost Amsterdam",
+        "description": "Outdoor tapstation<br />Holendrechtplein - Amsterdam<br /><br />Sponsored by Stadsdeel Zuid Oost Amsterdam",
         "operator": "jointhepipe",
         "id": 286,
         "type": "tap"
@@ -5814,7 +5814,7 @@
       "id": 3,
       "properties": {
         "name": "ID&amp;T",
-        "html": "Indoor tapstation<br />ID&amp;T - De Entree 300 - Amsterdam",
+        "description": "Indoor tapstation<br />ID&amp;T - De Entree 300 - Amsterdam",
         "operator": "jointhepipe",
         "id": 3,
         "type": "tap",
@@ -5834,7 +5834,7 @@
       "id": 303,
       "properties": {
         "name": "ING Bank",
-        "html": "Indoor tapstation<br />ING Bank - Rokin 90 - Amsterdam<br /><br /><img src=\"/uploads/markers/mark_indoor_rokin_ING.jpg\" alt=\"\" />",
+        "description": "Indoor tapstation<br />ING Bank - Rokin 90 - Amsterdam<br /><br /><img src=\"/uploads/markers/mark_indoor_rokin_ING.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 303,
         "type": "tap",
@@ -5854,7 +5854,7 @@
       "id": 8,
       "properties": {
         "name": "Leidseplein",
-        "html": "Outdoor tapstation<br />Leidseplein - Amsterdam<br /><br />Sponsored by TEDxAmsterdam<br /><br /><img src=\"/uploads/markers/mark_Afbeelding_349.png\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Leidseplein - Amsterdam<br /><br />Sponsored by TEDxAmsterdam<br /><br /><img src=\"/uploads/markers/mark_Afbeelding_349.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 8,
         "type": "tap"
@@ -5872,7 +5872,7 @@
       "id": 382,
       "properties": {
         "name": "T",
-        "html": "T - Amsterdam - Museumplein - Outdoor",
+        "description": "T - Amsterdam - Museumplein - Outdoor",
         "operator": "jointhepipe",
         "id": 382,
         "type": "tap",
@@ -5892,7 +5892,7 @@
       "id": 183,
       "properties": {
         "name": "Park Frankendael",
-        "html": "Outdoor tapstation<br />Park Frankendael - Amsterdam<br /><br />Sponsored by Intratuin Amsterdam<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-16_om_09.56_.43_.png\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Park Frankendael - Amsterdam<br /><br />Sponsored by Intratuin Amsterdam<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-16_om_09.56_.43_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 183,
         "type": "tap"
@@ -5910,7 +5910,7 @@
       "id": 383,
       "properties": {
         "name": "T",
-        "html": "T - Amsterdam - The Student Hotel Wibautstraat 129 - Indoor",
+        "description": "T - Amsterdam - The Student Hotel Wibautstraat 129 - Indoor",
         "operator": "jointhepipe",
         "id": 383,
         "type": "tap",
@@ -5930,7 +5930,7 @@
       "id": 274,
       "properties": {
         "name": "Universiteit van Amsterdam",
-        "html": "Indoor tapstation<br />Universiteit van Amsterdam - James Wattstraat 79 - Amsterdam",
+        "description": "Indoor tapstation<br />Universiteit van Amsterdam - James Wattstraat 79 - Amsterdam",
         "operator": "jointhepipe",
         "id": 274,
         "type": "tap",
@@ -5950,7 +5950,7 @@
       "id": 25,
       "properties": {
         "name": "Vodafone",
-        "html": "5 Indoor tapstations<br />Vodafone - Simon Carmiggeltstraat 6 - Amsterdam<br /><br /><img src=\"/uploads/markers/mark_Afbeelding_343.png\" alt=\"\" />",
+        "description": "5 Indoor tapstations<br />Vodafone - Simon Carmiggeltstraat 6 - Amsterdam<br /><br /><img src=\"/uploads/markers/mark_Afbeelding_343.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 25,
         "type": "tap",
@@ -5970,7 +5970,7 @@
       "id": 14,
       "properties": {
         "name": "Vondelpark",
-        "html": "2 Outdoor tapstations<br />Vondelpark - Amsterdam<br /><br />Sponsored by Stadsdeel Zuid Amsterdam &amp; Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_Vondelpark2.jpg\" alt=\"\" />",
+        "description": "2 Outdoor tapstations<br />Vondelpark - Amsterdam<br /><br />Sponsored by Stadsdeel Zuid Amsterdam &amp; Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_Vondelpark2.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 14,
         "type": "tap"
@@ -5988,7 +5988,7 @@
       "id": 379,
       "properties": {
         "name": "T",
-        "html": "T - Amsterdam - Vondelpark - Outdoor",
+        "description": "T - Amsterdam - Vondelpark - Outdoor",
         "operator": "jointhepipe",
         "id": 379,
         "type": "tap",
@@ -6008,7 +6008,7 @@
       "id": 290,
       "properties": {
         "name": "VU Amsterdam",
-        "html": "Outdoor tapstation<br />VU Amsterdam - De Boelelaan (daktuin) - Amsterdam",
+        "description": "Outdoor tapstation<br />VU Amsterdam - De Boelelaan (daktuin) - Amsterdam",
         "operator": "jointhepipe",
         "id": 290,
         "type": "tap",
@@ -6028,7 +6028,7 @@
       "id": 24,
       "properties": {
         "name": "Westerpark",
-        "html": "Outdoor tapstation<br />Westerpark - Gosschalklaan - Amsterdam<br /><br />Sponsored by Stadsdeel West Amsterdam",
+        "description": "Outdoor tapstation<br />Westerpark - Gosschalklaan - Amsterdam<br /><br />Sponsored by Stadsdeel West Amsterdam",
         "operator": "jointhepipe",
         "id": 24,
         "type": "tap",
@@ -6048,7 +6048,7 @@
       "id": 26,
       "properties": {
         "name": "Wibautstraat",
-        "html": "Outdoor tapstation<br />Wibautstraat - Amsterdam",
+        "description": "Outdoor tapstation<br />Wibautstraat - Amsterdam",
         "operator": "jointhepipe",
         "id": 26,
         "type": "tap"
@@ -6066,7 +6066,7 @@
       "id": 136,
       "properties": {
         "name": "ING",
-        "html": "2 Indoor tapstations<br />ING - De Entree 201 - Amsterdam Zuid Oost<br /><br /><img src=\"/uploads/markers/mark_ING_INDOOR.jpg\" alt=\"\" />",
+        "description": "2 Indoor tapstations<br />ING - De Entree 201 - Amsterdam Zuid Oost<br /><br /><img src=\"/uploads/markers/mark_ING_INDOOR.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 136,
         "type": "tap",
@@ -6086,7 +6086,7 @@
       "id": 333,
       "properties": {
         "name": "KBS De Zonnewende",
-        "html": "Outdoor tapstation<br />KBS De Zonnewende - Zonnewende 14 - Apeldoorn<br /><br />Sponsored by Vitens",
+        "description": "Outdoor tapstation<br />KBS De Zonnewende - Zonnewende 14 - Apeldoorn<br /><br />Sponsored by Vitens",
         "operator": "jointhepipe",
         "id": 333,
         "type": "tap",
@@ -6106,7 +6106,7 @@
       "id": 179,
       "properties": {
         "name": "Stationsplein",
-        "html": "Outdoor tapstation<br />Stationsplein - Apeldoorn<br /><br />Sponsored by Apeldoorn Voorop in Duurzaamheid<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-16_om_09.37_.52_.png\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Stationsplein - Apeldoorn<br /><br />Sponsored by Apeldoorn Voorop in Duurzaamheid<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-16_om_09.37_.52_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 179,
         "type": "tap"
@@ -6124,7 +6124,7 @@
       "id": 16,
       "properties": {
         "name": "Musis Kwartier",
-        "html": "Indoor tapstation<br />Musis Kwartier - Arnhem<br /><br />Sponsored by Syntrus Achmea<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-05-31_om_10.48_.20_.png\" alt=\"\" />",
+        "description": "Indoor tapstation<br />Musis Kwartier - Arnhem<br /><br />Sponsored by Syntrus Achmea<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-05-31_om_10.48_.20_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 16,
         "type": "tap"
@@ -6142,7 +6142,7 @@
       "id": 155,
       "properties": {
         "name": "Winkelcentrum De Triade",
-        "html": "Outdoor tapstation <br />Winkelcentrum De Triade - Assen <br /><br />Sponsored by Syntrus Achmea<br /><br /><img src=\"/uploads/markers/mark_DSC04257.JPG\" alt=\"\" />",
+        "description": "Outdoor tapstation <br />Winkelcentrum De Triade - Assen <br /><br />Sponsored by Syntrus Achmea<br /><br /><img src=\"/uploads/markers/mark_DSC04257.JPG\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 155,
         "type": "tap"
@@ -6160,7 +6160,7 @@
       "id": 83,
       "properties": {
         "name": "Victoria",
-        "html": "Outdoor tapstation<br />Victoria - Australia",
+        "description": "Outdoor tapstation<br />Victoria - Australia",
         "operator": "jointhepipe",
         "id": 83,
         "type": "tap"
@@ -6178,7 +6178,7 @@
       "id": 122,
       "properties": {
         "name": "Winkelcentrum Carnisse Veste",
-        "html": "Outdoor tapstation <br />Winkelcentrum Carnisse Veste - Middeldijkerplein - Barendrecht<br /><br />Sponsored by Syntrus Achmea <br /><br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-05-31_om_11.20_.58_.png\" alt=\"\" />",
+        "description": "Outdoor tapstation <br />Winkelcentrum Carnisse Veste - Middeldijkerplein - Barendrecht<br /><br />Sponsored by Syntrus Achmea <br /><br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-05-31_om_11.20_.58_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 122,
         "type": "tap",
@@ -6198,7 +6198,7 @@
       "id": 231,
       "properties": {
         "name": "Winkelcentrum Makado",
-        "html": "2 Indoor tapstations<br />Winkelcentrum Makado - Wethouder Sangersstraat - Beek<br /><br />Sponsored by Syntrus Achmea<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_10.59_.46_.png\" alt=\"\" />",
+        "description": "2 Indoor tapstations<br />Winkelcentrum Makado - Wethouder Sangersstraat - Beek<br /><br />Sponsored by Syntrus Achmea<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-11-16_om_10.59_.46_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 231,
         "type": "tap",
@@ -6218,7 +6218,7 @@
       "id": 369,
       "properties": {
         "name": "Tap station realized with Le Pont",
-        "html": "T - Benin - Come<br />Tap station realized with Le Pont",
+        "description": "T - Benin - Come<br />Tap station realized with Le Pont",
         "operator": "jointhepipe",
         "id": 369,
         "type": "tap"
@@ -6236,7 +6236,7 @@
       "id": 277,
       "properties": {
         "name": "Korenbeursplein",
-        "html": "Outdoor tapstation<br />Korenbeursplein - Bergen op Zoom<br /><br />Sponsored by Gemeente Bergen op Zoom",
+        "description": "Outdoor tapstation<br />Korenbeursplein - Bergen op Zoom<br /><br />Sponsored by Gemeente Bergen op Zoom",
         "operator": "jointhepipe",
         "id": 277,
         "type": "tap"
@@ -6254,7 +6254,7 @@
       "id": 263,
       "properties": {
         "name": "Stationsplein (busstation)",
-        "html": "Outdoor tappunt<br />Stationsplein (busstation) - Bergen op Zoom<br /><br />Sponsored by Goed Bezig BUS<br /><br /><br /><img src=\"/uploads/markers/mark_Bergen_op_Zoom_Busstation.jpg\" alt=\"\" />",
+        "description": "Outdoor tappunt<br />Stationsplein (busstation) - Bergen op Zoom<br /><br />Sponsored by Goed Bezig BUS<br /><br /><br /><img src=\"/uploads/markers/mark_Bergen_op_Zoom_Busstation.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 263,
         "type": "tap"
@@ -6272,7 +6272,7 @@
       "id": 329,
       "properties": {
         "name": "Colombinehuis",
-        "html": "Outdoor tapstation<br />Colombinehuis - Spijkweg 38 - Biddinghuizen<br /><br />Sponsored by Vitens",
+        "description": "Outdoor tapstation<br />Colombinehuis - Spijkweg 38 - Biddinghuizen<br /><br />Sponsored by Vitens",
         "operator": "jointhepipe",
         "id": 329,
         "type": "tap",
@@ -6292,7 +6292,7 @@
       "id": 308,
       "properties": {
         "name": "Rechterstraat",
-        "html": "Outdoor tapstation<br />Rechterstraat - Boxtel<br /><br />Sponsored by Gemeente Boxtel",
+        "description": "Outdoor tapstation<br />Rechterstraat - Boxtel<br /><br />Sponsored by Gemeente Boxtel",
         "operator": "jointhepipe",
         "id": 308,
         "type": "tap"
@@ -6310,7 +6310,7 @@
       "id": 32,
       "properties": {
         "name": "Stationsplein",
-        "html": "Outdoor tapstation<br />Stationsplein - Boxtel<br /><br />Sponsored by Gemeente Boxtel<br /><br /><img src=\"/uploads/markers/mark_Drinkwaterpunt_Stationsplein_Boxtel_2.JPG\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Stationsplein - Boxtel<br /><br />Sponsored by Gemeente Boxtel<br /><br /><img src=\"/uploads/markers/mark_Drinkwaterpunt_Stationsplein_Boxtel_2.JPG\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 32,
         "type": "tap"
@@ -6328,7 +6328,7 @@
       "id": 31,
       "properties": {
         "name": "Zwaans Bruggetje",
-        "html": "Outdoor tapstation<br />Zwaans Bruggetje - Boxtel<br /><br />Sponsored by Gemeente Boxtel<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-05-31_om_10.47_.16_.png\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Zwaans Bruggetje - Boxtel<br /><br />Sponsored by Gemeente Boxtel<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-05-31_om_10.47_.16_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 31,
         "type": "tap"
@@ -6346,7 +6346,7 @@
       "id": 89,
       "properties": {
         "name": "Park Valkenberg",
-        "html": "Outdoor tapstations<br />Park Valkenberg - Breda<br /><br />Sponsored by ASN Bank",
+        "description": "Outdoor tapstations<br />Park Valkenberg - Breda<br /><br />Sponsored by ASN Bank",
         "operator": "jointhepipe",
         "id": 89,
         "type": "tap"
@@ -6364,7 +6364,7 @@
       "id": 147,
       "properties": {
         "name": "Klaregroetweg 1",
-        "html": "Outdoor tapstation <br />Klaregroetweg 1 - Broek op Langedijk <br /><br />Sponsored by VNG &amp; Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_Afbeelding_419.png\" alt=\"\" />",
+        "description": "Outdoor tapstation <br />Klaregroetweg 1 - Broek op Langedijk <br /><br />Sponsored by VNG &amp; Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_Afbeelding_419.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 147,
         "type": "tap"
@@ -6382,7 +6382,7 @@
       "id": 288,
       "properties": {
         "name": "iClean Carwash",
-        "html": "Indoor tapstation<br />iClean Carwash - Molenvaart 15 - Brunssum",
+        "description": "Indoor tapstation<br />iClean Carwash - Molenvaart 15 - Brunssum",
         "operator": "jointhepipe",
         "id": 288,
         "type": "tap",
@@ -6402,7 +6402,7 @@
       "id": 373,
       "properties": {
         "name": "T",
-        "html": "T - Callantsoog - Dorpsplein - Outdoor",
+        "description": "T - Callantsoog - Dorpsplein - Outdoor",
         "operator": "jointhepipe",
         "id": 373,
         "type": "tap",
@@ -6422,7 +6422,7 @@
       "id": 81,
       "properties": {
         "name": "Vancouver",
-        "html": "Indoor tapstation <br />Vancouver - Canada",
+        "description": "Indoor tapstation <br />Vancouver - Canada",
         "operator": "jointhepipe",
         "id": 81,
         "type": "tap"
@@ -6440,7 +6440,7 @@
       "id": 388,
       "properties": {
         "name": "T",
-        "html": "T - City of Abbotsford - J.A. Spud Murphy Park - Outdoor",
+        "description": "T - City of Abbotsford - J.A. Spud Murphy Park - Outdoor",
         "operator": "jointhepipe",
         "id": 388,
         "type": "tap",
@@ -6460,7 +6460,7 @@
       "id": 396,
       "properties": {
         "name": "T",
-        "html": "T - Colourfield - JLN Stadium - New Delhi - India<br /><br />By GreenSource",
+        "description": "T - Colourfield - JLN Stadium - New Delhi - India<br /><br />By GreenSource",
         "operator": "jointhepipe",
         "id": 396,
         "type": "tap",
@@ -6480,7 +6480,7 @@
       "id": 327,
       "properties": {
         "name": "De Toonladder",
-        "html": "Outdoor tapstation<br />De Toonladder - Bernhardstraat 1 - Delden<br /><br />Sponsored by Vitens",
+        "description": "Outdoor tapstation<br />De Toonladder - Bernhardstraat 1 - Delden<br /><br />Sponsored by Vitens",
         "operator": "jointhepipe",
         "id": 327,
         "type": "tap",
@@ -6500,7 +6500,7 @@
       "id": 398,
       "properties": {
         "name": "De Toonladder",
-        "html": "Outdoor tapstation<br /><br />IHE Delft Institute for Water Education<br />Westvest 7, 2611 AX Delft<br /><br />Sponsored by Hoogheemraadschap van Delfland ",
+        "description": "Outdoor tapstation<br /><br />IHE Delft Institute for Water Education<br />Westvest 7, 2611 AX Delft<br /><br />Sponsored by Hoogheemraadschap van Delfland ",
         "operator": "jointhepipe",
         "id": 398,
         "type": "tap",
@@ -6520,7 +6520,7 @@
       "id": 276,
       "properties": {
         "name": "TU Campus",
-        "html": "Outdoor tapstation<br />TU Campus - Kluyverweg 6 - Delft<br /><br />Sponsored by TU Delft",
+        "description": "Outdoor tapstation<br />TU Campus - Kluyverweg 6 - Delft<br /><br />Sponsored by TU Delft",
         "operator": "jointhepipe",
         "id": 276,
         "type": "tap",
@@ -6540,7 +6540,7 @@
       "id": 143,
       "properties": {
         "name": "TU Campus",
-        "html": "Outdoor tapstation <br />TU Campus - Mekelweg 2-8 - Delft <br /><br />Sponsored by TU Delft<br /><br /><img src=\"/uploads/markers/mark_Afbeelding_4201.png\" alt=\"\" />",
+        "description": "Outdoor tapstation <br />TU Campus - Mekelweg 2-8 - Delft <br /><br />Sponsored by TU Delft<br /><br /><img src=\"/uploads/markers/mark_Afbeelding_4201.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 143,
         "type": "tap",
@@ -6560,7 +6560,7 @@
       "id": 125,
       "properties": {
         "name": "Parade",
-        "html": "Outdoor tapstation<br />Parade - Den Bosch<br /><br />Sponsored by Gemeente Den Bosch &amp; Brabant Water<br /><br /><img src=\"/uploads/markers/mark_foto_31.JPG\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Parade - Den Bosch<br /><br />Sponsored by Gemeente Den Bosch &amp; Brabant Water<br /><br /><img src=\"/uploads/markers/mark_foto_31.JPG\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 125,
         "type": "tap"
@@ -6578,7 +6578,7 @@
       "id": 124,
       "properties": {
         "name": "Syntrus Achmea",
-        "html": "Indoor tapstation<br />Syntrus Achmea - Spui - Den Haag<br /><br /><img src=\"/uploads/markers/mark_Afbeelding_400.png\" alt=\"\" />",
+        "description": "Indoor tapstation<br />Syntrus Achmea - Spui - Den Haag<br /><br /><img src=\"/uploads/markers/mark_Afbeelding_400.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 124,
         "type": "tap",
@@ -6598,7 +6598,7 @@
       "id": 123,
       "properties": {
         "name": "Plein",
-        "html": "Outdoor tapstation <br />Plein - Den Haag<br /><br />Sponsored by TEDxBinnenhof<br /><br /><img src=\"/uploads/markers/mark_foto_2.JPG\" alt=\"\" />",
+        "description": "Outdoor tapstation <br />Plein - Den Haag<br /><br />Sponsored by TEDxBinnenhof<br /><br /><img src=\"/uploads/markers/mark_foto_2.JPG\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 123,
         "type": "tap"
@@ -6616,7 +6616,7 @@
       "id": 365,
       "properties": {
         "name": "Hoefkade 9",
-        "html": "The Student Hotel The Hague<br />Hoefkade 9<br />2526 BN Den Haag",
+        "description": "The Student Hotel The Hague<br />Hoefkade 9<br />2526 BN Den Haag",
         "operator": "jointhepipe",
         "id": 365,
         "type": "tap"
@@ -6634,7 +6634,7 @@
       "id": 37,
       "properties": {
         "name": "De Waag",
-        "html": "Outdoor tapstation<br />De Waag - Deventer<br /><br />Sponsored by Gemeente Deventer",
+        "description": "Outdoor tapstation<br />De Waag - Deventer<br /><br />Sponsored by Gemeente Deventer",
         "operator": "jointhepipe",
         "id": 37,
         "type": "tap"
@@ -6652,7 +6652,7 @@
       "id": 271,
       "properties": {
         "name": "Lamme van Dieseplein 2",
-        "html": "Outdoor tapstation<br />Lamme van Dieseplein 2 - Deventer<br /><br />Sponsored by Gemeente Deventer",
+        "description": "Outdoor tapstation<br />Lamme van Dieseplein 2 - Deventer<br /><br />Sponsored by Gemeente Deventer",
         "operator": "jointhepipe",
         "id": 271,
         "type": "tap"
@@ -6670,7 +6670,7 @@
       "id": 150,
       "properties": {
         "name": "Saxion Hogeschool",
-        "html": "Indoor tapstation<br />Saxion Hogeschool - Brinkgreverweg 69 - Deventer",
+        "description": "Indoor tapstation<br />Saxion Hogeschool - Brinkgreverweg 69 - Deventer",
         "operator": "jointhepipe",
         "id": 150,
         "type": "tap",
@@ -6690,7 +6690,7 @@
       "id": 293,
       "properties": {
         "name": "Saxion Hogeschool",
-        "html": "2 Indoor tapstations<br />Saxion Hogeschool - Handelskade 75 - Deventer",
+        "description": "2 Indoor tapstations<br />Saxion Hogeschool - Handelskade 75 - Deventer",
         "operator": "jointhepipe",
         "id": 293,
         "type": "tap",
@@ -6710,7 +6710,7 @@
       "id": 315,
       "properties": {
         "name": "Walstraat 36",
-        "html": "Outdoor tapstation<br />Walstraat 36 - Deventer<br /><br />Sponsored by Gemeente Deventer",
+        "description": "Outdoor tapstation<br />Walstraat 36 - Deventer<br /><br />Sponsored by Gemeente Deventer",
         "operator": "jointhepipe",
         "id": 315,
         "type": "tap"
@@ -6728,7 +6728,7 @@
       "id": 270,
       "properties": {
         "name": "Welle",
-        "html": "Outdoor tapstation<br />Welle - Deventer<br /><br />Sponsored by Gemeente Deventer",
+        "description": "Outdoor tapstation<br />Welle - Deventer<br /><br />Sponsored by Gemeente Deventer",
         "operator": "jointhepipe",
         "id": 270,
         "type": "tap"
@@ -6746,7 +6746,7 @@
       "id": 40,
       "properties": {
         "name": "Gemeentehuis",
-        "html": "Outdoor tapstation<br />Gemeentehuis - Diemen<br /><br />Sponsored by Gemeente Diemen",
+        "description": "Outdoor tapstation<br />Gemeentehuis - Diemen<br /><br />Sponsored by Gemeente Diemen",
         "operator": "jointhepipe",
         "id": 40,
         "type": "tap"
@@ -6764,7 +6764,7 @@
       "id": 4,
       "properties": {
         "name": "Tele2 Netherlands",
-        "html": "Indoor tapstation<br />Tele2 Netherlands - Wisselwerking 58 - Diemen",
+        "description": "Indoor tapstation<br />Tele2 Netherlands - Wisselwerking 58 - Diemen",
         "operator": "jointhepipe",
         "id": 4,
         "type": "tap",
@@ -6784,7 +6784,7 @@
       "id": 1,
       "properties": {
         "name": "Hamburgerstraat",
-        "html": "Outdoor tapstation<br />Hamburgerstraat - Doetinchem<br /><br />Sponsored by Mardi Kappers <br /><br /><br /><img src=\"/uploads/markers/mark_Doetinchem.png\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Hamburgerstraat - Doetinchem<br /><br />Sponsored by Mardi Kappers <br /><br /><br /><img src=\"/uploads/markers/mark_Doetinchem.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 1,
         "type": "tap"
@@ -6802,7 +6802,7 @@
       "id": 331,
       "properties": {
         "name": "CBS Groen van Prinsterer",
-        "html": "Outdoor tapstation<br />CBS Groen van Prinsterer - Van Kleffenstraat 5 - Dokkum<br /><br />Sponsored by Vitens",
+        "description": "Outdoor tapstation<br />CBS Groen van Prinsterer - Van Kleffenstraat 5 - Dokkum<br /><br />Sponsored by Vitens",
         "operator": "jointhepipe",
         "id": 331,
         "type": "tap",
@@ -6822,7 +6822,7 @@
       "id": 272,
       "properties": {
         "name": "Van Baerleplantsoen 30",
-        "html": "Outdoor tapstation<br />Van Baerleplantsoen 30 - Dordrecht<br /><br />Sponsored by Dordt Duurzaam",
+        "description": "Outdoor tapstation<br />Van Baerleplantsoen 30 - Dordrecht<br /><br />Sponsored by Dordt Duurzaam",
         "operator": "jointhepipe",
         "id": 272,
         "type": "tap"
@@ -6840,7 +6840,7 @@
       "id": 164,
       "properties": {
         "name": "Van Oldenbarneveltplein",
-        "html": "Outdoor tappstation<br />Van Oldenbarneveltplein - Dordrecht<br /><br />Sponsored by Dordt Duurzaam",
+        "description": "Outdoor tappstation<br />Van Oldenbarneveltplein - Dordrecht<br /><br />Sponsored by Dordt Duurzaam",
         "operator": "jointhepipe",
         "id": 164,
         "type": "tap"
@@ -6858,7 +6858,7 @@
       "id": 163,
       "properties": {
         "name": "Winkelcentrum Drievriendenhof",
-        "html": "Indoor Tapstation<br />Winkelcentrum Drievriendenhof - Dordrecht<br /><br />Sponsored by Syntrus Achmea<br /><br /><img src=\"/uploads/markers/mark_Dordrecht_Achmea.jpg\" alt=\"\" />",
+        "description": "Indoor Tapstation<br />Winkelcentrum Drievriendenhof - Dordrecht<br /><br />Sponsored by Syntrus Achmea<br /><br /><img src=\"/uploads/markers/mark_Dordrecht_Achmea.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 163,
         "type": "tap"
@@ -6876,7 +6876,7 @@
       "id": 285,
       "properties": {
         "name": "De Noord",
-        "html": "Outdoor tapstation<br />De Noord - Dronten<br /><br />Sponsored by Gemeente Dronten",
+        "description": "Outdoor tapstation<br />De Noord - Dronten<br /><br />Sponsored by Gemeente Dronten",
         "operator": "jointhepipe",
         "id": 285,
         "type": "tap"
@@ -6894,7 +6894,7 @@
       "id": 146,
       "properties": {
         "name": "Solcon BV",
-        "html": "Indoor tapstation <br />Solcon BV - Het Zwarte Water 15 - Dronten ",
+        "description": "Indoor tapstation <br />Solcon BV - Het Zwarte Water 15 - Dronten ",
         "operator": "jointhepipe",
         "id": 146,
         "type": "tap",
@@ -6914,7 +6914,7 @@
       "id": 236,
       "properties": {
         "name": "Dommelstraat",
-        "html": "Outdoor tapstation<br />Dommelstraat - Eindhoven<br /><br />Sponsored by Gemeente Eindhoven<br />",
+        "description": "Outdoor tapstation<br />Dommelstraat - Eindhoven<br /><br />Sponsored by Gemeente Eindhoven<br />",
         "operator": "jointhepipe",
         "id": 236,
         "type": "tap"
@@ -6932,7 +6932,7 @@
       "id": 317,
       "properties": {
         "name": "Hypebazaar",
-        "html": "Indoor tapstation<br />Hypebazaar - Hermanus Boexstraat 40 - Eindhoven",
+        "description": "Indoor tapstation<br />Hypebazaar - Hermanus Boexstraat 40 - Eindhoven",
         "operator": "jointhepipe",
         "id": 317,
         "type": "tap",
@@ -6952,7 +6952,7 @@
       "id": 237,
       "properties": {
         "name": "Stratumseind",
-        "html": "Outdoor tapstation<br />Stratumseind - Eindhoven<br /><br />Sponsored by Gemeente Eindhoven",
+        "description": "Outdoor tapstation<br />Stratumseind - Eindhoven<br /><br />Sponsored by Gemeente Eindhoven",
         "operator": "jointhepipe",
         "id": 237,
         "type": "tap"
@@ -6970,7 +6970,7 @@
       "id": 36,
       "properties": {
         "name": "Ten Hagestraat",
-        "html": "Outdoor tapstation<br />Ten Hagestraat - Eindhoven<br /><br />Sponsored by Gemeente Eindhoven<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-05-31_om_10.45_.26_.png\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Ten Hagestraat - Eindhoven<br /><br />Sponsored by Gemeente Eindhoven<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-05-31_om_10.45_.26_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 36,
         "type": "tap"
@@ -6988,7 +6988,7 @@
       "id": 167,
       "properties": {
         "name": "Lange Nering",
-        "html": "Outdoor tapstation<br />Lange Nering - Emmeloord<br /><br />Sponsored by Gemeente Noordoostpolder<br /><br /><img src=\"/uploads/markers/mark_Emmeloord.jpg\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Lange Nering - Emmeloord<br /><br />Sponsored by Gemeente Noordoostpolder<br /><br /><img src=\"/uploads/markers/mark_Emmeloord.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 167,
         "type": "tap"
@@ -7006,7 +7006,7 @@
       "id": 35,
       "properties": {
         "name": "Marktplein",
-        "html": "Outdoor tapstation<br />Marktplein - Emmen<br /><br />Sponsered by La Colino<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-05-31_om_10.55_.20_.png\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Marktplein - Emmen<br /><br />Sponsered by La Colino<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-05-31_om_10.55_.20_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 35,
         "type": "tap"
@@ -7024,7 +7024,7 @@
       "id": 170,
       "properties": {
         "name": "Vaart Zuidzijde",
-        "html": "Outdoor tapstation<br />Vaart Zuidzijde - Emmen<br /><br />Sponsored by Gemeente Emmen<br /><br /><img src=\"/uploads/markers/mark_Emmen4.jpg\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Vaart Zuidzijde - Emmen<br /><br />Sponsored by Gemeente Emmen<br /><br /><img src=\"/uploads/markers/mark_Emmen4.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 170,
         "type": "tap"
@@ -7042,7 +7042,7 @@
       "id": 176,
       "properties": {
         "name": "Langestraat 24",
-        "html": "Outdoor tapstation<br />Langestraat 24 - Enschede<br /><br />Sponsored by Gemeente Enschede<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-16_om_09.21_.52_.png\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Langestraat 24 - Enschede<br /><br />Sponsored by Gemeente Enschede<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-16_om_09.21_.52_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 176,
         "type": "tap"
@@ -7060,7 +7060,7 @@
       "id": 177,
       "properties": {
         "name": "O&amp;O Plein",
-        "html": "Outdoor tapstation<br />O&amp;O Plein - Enschede<br /><br />Sponsored by Universiteit Twente<br />",
+        "description": "Outdoor tapstation<br />O&amp;O Plein - Enschede<br /><br />Sponsored by Universiteit Twente<br />",
         "operator": "jointhepipe",
         "id": 177,
         "type": "tap"
@@ -7078,7 +7078,7 @@
       "id": 178,
       "properties": {
         "name": "Oude Markt",
-        "html": "Outdoor tapstation<br />Oude Markt - Enschede<br /><br />Sponsored by Grolsch<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-16_om_09.23_.17_.png\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Oude Markt - Enschede<br /><br />Sponsored by Grolsch<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-16_om_09.23_.17_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 178,
         "type": "tap"
@@ -7096,7 +7096,7 @@
       "id": 287,
       "properties": {
         "name": "Saxion Hogeschool",
-        "html": "2 Indoor tapstations<br />Saxion Hogeschool - Parkweg 15 - Enschede",
+        "description": "2 Indoor tapstations<br />Saxion Hogeschool - Parkweg 15 - Enschede",
         "operator": "jointhepipe",
         "id": 287,
         "type": "tap",
@@ -7116,7 +7116,7 @@
       "id": 294,
       "properties": {
         "name": "Winkelcentrum Klanderij",
-        "html": "Indoor tapstation<br />Winkelcentrum Klanderij - Hendrik Jan van Heekplein - Enschede<br /><br />Sponsored by ASR Vastgoed",
+        "description": "Indoor tapstation<br />Winkelcentrum Klanderij - Hendrik Jan van Heekplein - Enschede<br /><br />Sponsored by ASR Vastgoed",
         "operator": "jointhepipe",
         "id": 294,
         "type": "tap",
@@ -7136,7 +7136,7 @@
       "id": 380,
       "properties": {
         "name": "T",
-        "html": "T - Erp - Hertog Jan Plein - Outdoor",
+        "description": "T - Erp - Hertog Jan Plein - Outdoor",
         "operator": "jointhepipe",
         "id": 380,
         "type": "tap",
@@ -7156,7 +7156,7 @@
       "id": 162,
       "properties": {
         "name": "Markt",
-        "html": "Outdoor tapstation<br />Markt - Etten-Leur<br /><br />Sponsored by Gemeente Etten-Leur<br /><br /><img src=\"/uploads/markers/mark_tappuntettenleur_2.JPG\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Markt - Etten-Leur<br /><br />Sponsored by Gemeente Etten-Leur<br /><br /><img src=\"/uploads/markers/mark_tappuntettenleur_2.JPG\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 162,
         "type": "tap"
@@ -7174,7 +7174,7 @@
       "id": 264,
       "properties": {
         "name": "Serrekunda West Football Club",
-        "html": "Tapstation<br />Serrekunda West Football Club - Serrekunda West - The Gambia<br /><br />Sponsored by Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_Gambia_tappunt1.png\" alt=\"\" />",
+        "description": "Tapstation<br />Serrekunda West Football Club - Serrekunda West - The Gambia<br /><br />Sponsored by Join the Pipe<br /><br /><img src=\"/uploads/markers/mark_Gambia_tappunt1.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 264,
         "type": "tap",
@@ -7194,7 +7194,7 @@
       "id": 340,
       "properties": {
         "name": "Tallinding Lower Basic School",
-        "html": "Tapstation<br />Tallinding Lower Basic School - Serrekunda - The Gambia<br /><br />Sponsored by the proceeds of Festival De Parade in The Hague and in cooperation with TU Delft students, who will improve the water and sanitation conditions at the school.",
+        "description": "Tapstation<br />Tallinding Lower Basic School - Serrekunda - The Gambia<br /><br />Sponsored by the proceeds of Festival De Parade in The Hague and in cooperation with TU Delft students, who will improve the water and sanitation conditions at the school.",
         "operator": "jointhepipe",
         "id": 340,
         "type": "tap",
@@ -7214,7 +7214,7 @@
       "id": 292,
       "properties": {
         "name": "Dorpsplein",
-        "html": "Outdoor tapstation<br />Dorpsplein - Geffen<br /><br />Sponsored by Gemeente Maasdonk",
+        "description": "Outdoor tapstation<br />Dorpsplein - Geffen<br /><br />Sponsored by Gemeente Maasdonk",
         "operator": "jointhepipe",
         "id": 292,
         "type": "tap"
@@ -7232,7 +7232,7 @@
       "id": 304,
       "properties": {
         "name": "Orbis Medisch Zorgconcern",
-        "html": "Olympic Tap<br />Orbis Medisch Zorgconcern - Demystraat 1 - Geleen",
+        "description": "Olympic Tap<br />Orbis Medisch Zorgconcern - Demystraat 1 - Geleen",
         "operator": "jointhepipe",
         "id": 304,
         "type": "tap",
@@ -7252,7 +7252,7 @@
       "id": 357,
       "properties": {
         "name": "Opened on October 19th 2013 by the Jugendrotkreuz in Dillingen (Saar).",
-        "html": "Opened on October 19th 2013 by the Jugendrotkreuz in Dillingen (Saar).",
+        "description": "Opened on October 19th 2013 by the Jugendrotkreuz in Dillingen (Saar).",
         "operator": "jointhepipe",
         "id": 357,
         "type": "tap"
@@ -7270,7 +7270,7 @@
       "id": 372,
       "properties": {
         "name": "T",
-        "html": "T - Ghana - FC Kotoko Stadium - Kumasi",
+        "description": "T - Ghana - FC Kotoko Stadium - Kumasi",
         "operator": "jointhepipe",
         "id": 372,
         "type": "tap",
@@ -7290,7 +7290,7 @@
       "id": 339,
       "properties": {
         "name": "Kumasi High School",
-        "html": "Tapstation<br />Kumasi High School - Kumasi - Ghana<br /><br />Sponsored through the proceeds of Festival De Parade",
+        "description": "Tapstation<br />Kumasi High School - Kumasi - Ghana<br /><br />Sponsored through the proceeds of Festival De Parade",
         "operator": "jointhepipe",
         "id": 339,
         "type": "tap",
@@ -7310,7 +7310,7 @@
       "id": 370,
       "properties": {
         "name": "T",
-        "html": "T - Ghana - Neoplan Yard 1 - Kumasi",
+        "description": "T - Ghana - Neoplan Yard 1 - Kumasi",
         "operator": "jointhepipe",
         "id": 370,
         "type": "tap",
@@ -7330,7 +7330,7 @@
       "id": 371,
       "properties": {
         "name": "T",
-        "html": "T - Ghana - Neoplan Yard 2 - Kumasi",
+        "description": "T - Ghana - Neoplan Yard 2 - Kumasi",
         "operator": "jointhepipe",
         "id": 371,
         "type": "tap",
@@ -7350,7 +7350,7 @@
       "id": 145,
       "properties": {
         "name": "Kolveniershof",
-        "html": "Outdoor tapstation<br />Kolveniershof - Goes<br /><br />Sponsored by Gemeente Goes<br /><br /><img src=\"/uploads/markers/mark_image[2].png\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Kolveniershof - Goes<br /><br />Sponsored by Gemeente Goes<br /><br /><img src=\"/uploads/markers/mark_image[2].png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 145,
         "type": "tap"
@@ -7368,7 +7368,7 @@
       "id": 322,
       "properties": {
         "name": "Kloosterplein",
-        "html": "Outdoor tapstation<br />Kloosterplein - Goirle",
+        "description": "Outdoor tapstation<br />Kloosterplein - Goirle",
         "operator": "jointhepipe",
         "id": 322,
         "type": "tap"
@@ -7386,7 +7386,7 @@
       "id": 367,
       "properties": {
         "name": "Grote Markt, Gorinchem",
-        "html": "Outdoor tap station<br />Grote Markt, Gorinchem<br /><br />Sponsored by Aditech",
+        "description": "Outdoor tap station<br />Grote Markt, Gorinchem<br /><br />Sponsored by Aditech",
         "operator": "jointhepipe",
         "id": 367,
         "type": "tap"
@@ -7404,7 +7404,7 @@
       "id": 85,
       "properties": {
         "name": "Grote Markt",
-        "html": "Outdoor tapstation<br />Grote Markt - Gouda<br /><br />Sponsored by Gemeente Gouda<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-05-31_om_11.03_.41_.png\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Grote Markt - Gouda<br /><br />Sponsored by Gemeente Gouda<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-05-31_om_11.03_.41_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 85,
         "type": "tap"
@@ -7422,7 +7422,7 @@
       "id": 5,
       "properties": {
         "name": "De Open Poort",
-        "html": "Indoor tapstation<br />De Open Poort - Biesseltsebaan 34 - Groesbeek",
+        "description": "Indoor tapstation<br />De Open Poort - Biesseltsebaan 34 - Groesbeek",
         "operator": "jointhepipe",
         "id": 5,
         "type": "tap",
@@ -7442,7 +7442,7 @@
       "id": 161,
       "properties": {
         "name": "Broerstraat 5",
-        "html": "Outdoor tapstation<br />Broerstraat 5 - Groningen<br /><br />Sponsored by Waterbedrijf Groningen<br />",
+        "description": "Outdoor tapstation<br />Broerstraat 5 - Groningen<br /><br />Sponsored by Waterbedrijf Groningen<br />",
         "operator": "jointhepipe",
         "id": 161,
         "type": "tap"
@@ -7460,7 +7460,7 @@
       "id": 153,
       "properties": {
         "name": "Hanze Hogeschool",
-        "html": "Outdoor tapstation <br />Hanze Hogeschool - Zernikeplein 7 - Groningen ",
+        "description": "Outdoor tapstation <br />Hanze Hogeschool - Zernikeplein 7 - Groningen ",
         "operator": "jointhepipe",
         "id": 153,
         "type": "tap",
@@ -7480,7 +7480,7 @@
       "id": 21,
       "properties": {
         "name": "Ubbo Emmiussingel",
-        "html": "Outdoor tapstation<br />Ubbo Emmiussingel - Groningen<br /><br />Sponsored by Waterbedrijf Groningen<br /><br /><img src=\"/uploads/markers/mark_Tappunt_Groningen.jpg\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Ubbo Emmiussingel - Groningen<br /><br />Sponsored by Waterbedrijf Groningen<br /><br /><img src=\"/uploads/markers/mark_Tappunt_Groningen.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 21,
         "type": "tap"
@@ -7498,7 +7498,7 @@
       "id": 375,
       "properties": {
         "name": "T",
-        "html": "T - Haaksbergen - Blankenburgerstraat (VVV) - Outdoor",
+        "description": "T - Haaksbergen - Blankenburgerstraat (VVV) - Outdoor",
         "operator": "jointhepipe",
         "id": 375,
         "type": "tap",
@@ -7518,7 +7518,7 @@
       "id": 33,
       "properties": {
         "name": "Markt",
-        "html": "Outdoor tapstation<br />Markt - Harderwijk<br /><br />Sponsored by Vitens",
+        "description": "Outdoor tapstation<br />Markt - Harderwijk<br /><br />Sponsored by Vitens",
         "operator": "jointhepipe",
         "id": 33,
         "type": "tap"
@@ -7536,7 +7536,7 @@
       "id": 22,
       "properties": {
         "name": "Lutsborgsweg/Boerlaan",
-        "html": "Outdoor tapstation<br />Lutsborgsweg/Boerlaan - Haren<br /><br />Sponsored by Gemeente Haren &amp; Ondernemend Haren<br /><br /><img src=\"/uploads/markers/mark_Haren.jpg\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Lutsborgsweg/Boerlaan - Haren<br /><br />Sponsored by Gemeente Haren &amp; Ondernemend Haren<br /><br /><img src=\"/uploads/markers/mark_Haren.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 22,
         "type": "tap"
@@ -7554,7 +7554,7 @@
       "id": 364,
       "properties": {
         "name": "Tappunt gerealiseerd door De Roode Ploeg",
-        "html": "Tappunt gerealiseerd door De Roode Ploeg",
+        "description": "Tappunt gerealiseerd door De Roode Ploeg",
         "operator": "jointhepipe",
         "id": 364,
         "type": "tap"
@@ -7572,7 +7572,7 @@
       "id": 140,
       "properties": {
         "name": "Putvennestraat 108",
-        "html": "Outdoor tapstation <br />Putvennestraat 108 - Hasselt<br /><br />Sponsored by Gemeente Hasselt<br /><br /><img src=\"/uploads/markers/mark_Hasselt3.jpg\" alt=\"\" />",
+        "description": "Outdoor tapstation <br />Putvennestraat 108 - Hasselt<br /><br />Sponsored by Gemeente Hasselt<br /><br /><img src=\"/uploads/markers/mark_Hasselt3.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 140,
         "type": "tap"
@@ -7590,7 +7590,7 @@
       "id": 377,
       "properties": {
         "name": "T",
-        "html": "T - Heerenveen - Cruyff Court It Feanfjild - Outdoor - Ds. Kingweg, Heerenveen",
+        "description": "T - Heerenveen - Cruyff Court It Feanfjild - Outdoor - Ds. Kingweg, Heerenveen",
         "operator": "jointhepipe",
         "id": 377,
         "type": "tap",
@@ -7610,7 +7610,7 @@
       "id": 305,
       "properties": {
         "name": "Park van Luna",
-        "html": "Outdoor tapstation<br />Park van Luna - Heerhugowaard<br /><br />Sponsored by Gemeente Heerhugowaard",
+        "description": "Outdoor tapstation<br />Park van Luna - Heerhugowaard<br /><br />Sponsored by Gemeente Heerhugowaard",
         "operator": "jointhepipe",
         "id": 305,
         "type": "tap"
@@ -7628,7 +7628,7 @@
       "id": 311,
       "properties": {
         "name": "St. Janstraat",
-        "html": "Outdoor tapstation<br />St. Janstraat - Hoeven<br /><br />Sponsored by Gemeente Halderberge",
+        "description": "Outdoor tapstation<br />St. Janstraat - Hoeven<br /><br />Sponsored by Gemeente Halderberge",
         "operator": "jointhepipe",
         "id": 311,
         "type": "tap"
@@ -7646,7 +7646,7 @@
       "id": 30,
       "properties": {
         "name": "Ijsselkade",
-        "html": "Outdoor tapstation<br />Ijsselkade - Kampen<br /><br /><img src=\"/uploads/markers/mark_image[6].gif\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Ijsselkade - Kampen<br /><br /><img src=\"/uploads/markers/mark_image[6].gif\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 30,
         "type": "tap"
@@ -7664,7 +7664,7 @@
       "id": 341,
       "properties": {
         "name": "Maximum Impact Center School",
-        "html": "Tapstation<br />Maximum Impact Center School - Nairobi - Kenya<br /><br />Sponsored by Join the Pipe",
+        "description": "Tapstation<br />Maximum Impact Center School - Nairobi - Kenya<br /><br />Sponsored by Join the Pipe",
         "operator": "jointhepipe",
         "id": 341,
         "type": "tap",
@@ -7684,7 +7684,7 @@
       "id": 137,
       "properties": {
         "name": "Rosariumpark",
-        "html": "Outdoor tapstation<br />Rosariumpark - Krommenie <br /><br />Sponsored by Zaans Natuur en Milieu Centrum<br /><br /><img src=\"/uploads/markers/mark_Krommenie.jpg\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Rosariumpark - Krommenie <br /><br />Sponsored by Zaans Natuur en Milieu Centrum<br /><br /><img src=\"/uploads/markers/mark_Krommenie.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 137,
         "type": "tap"
@@ -7702,7 +7702,7 @@
       "id": 283,
       "properties": {
         "name": "Raadhuisplein",
-        "html": "Outdoor tapstation<br />Raadhuisplein - Landgraaf<br /><br />Sponsored by Gemeente Landgraaf",
+        "description": "Outdoor tapstation<br />Raadhuisplein - Landgraaf<br /><br />Sponsored by Gemeente Landgraaf",
         "operator": "jointhepipe",
         "id": 283,
         "type": "tap"
@@ -7720,7 +7720,7 @@
       "id": 29,
       "properties": {
         "name": "Lombardplein",
-        "html": "Outdoor tapstation<br />Lombardplein - Leeuwarden<br /><br />Sponsored by Gemeente Leeuwarden &amp; Marketing Leeuwarden",
+        "description": "Outdoor tapstation<br />Lombardplein - Leeuwarden<br /><br />Sponsored by Gemeente Leeuwarden &amp; Marketing Leeuwarden",
         "operator": "jointhepipe",
         "id": 29,
         "type": "tap"
@@ -7738,7 +7738,7 @@
       "id": 289,
       "properties": {
         "name": "Natuurmuseum Fryslan",
-        "html": "Indoor tapstation<br />Natuurmuseum Fryslan - Schoenmakersperk 2 - Leeuwarden",
+        "description": "Indoor tapstation<br />Natuurmuseum Fryslan - Schoenmakersperk 2 - Leeuwarden",
         "operator": "jointhepipe",
         "id": 289,
         "type": "tap",
@@ -7758,7 +7758,7 @@
       "id": 28,
       "properties": {
         "name": "Prinsentuin",
-        "html": "Outdoor tapstation<br />Prinsentuin - Leeuwarden<br /><br />Sponsored by Gemeente Leeuwarden &amp; Marketing Leeuwarden<br /><br /><img src=\"/uploads/markers/mark_Leeuwarden1.jpg\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Prinsentuin - Leeuwarden<br /><br />Sponsored by Gemeente Leeuwarden &amp; Marketing Leeuwarden<br /><br /><img src=\"/uploads/markers/mark_Leeuwarden1.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 28,
         "type": "tap"
@@ -7776,7 +7776,7 @@
       "id": 342,
       "properties": {
         "name": "Recreatieterrein de Groene Ster",
-        "html": "Oudoor tapstation<br />Recreatieterrein de Groene Ster - Leeuwarden",
+        "description": "Oudoor tapstation<br />Recreatieterrein de Groene Ster - Leeuwarden",
         "operator": "jointhepipe",
         "id": 342,
         "type": "tap"
@@ -7794,7 +7794,7 @@
       "id": 268,
       "properties": {
         "name": "Winkelcentrum Zaailand",
-        "html": "Outdoor tapstation<br />Winkelcentrum Zaailand - Leeuwarden<br /><br />Sponsored by Syntrus Achmea",
+        "description": "Outdoor tapstation<br />Winkelcentrum Zaailand - Leeuwarden<br /><br />Sponsored by Syntrus Achmea",
         "operator": "jointhepipe",
         "id": 268,
         "type": "tap"
@@ -7812,7 +7812,7 @@
       "id": 301,
       "properties": {
         "name": "Koningsplein",
-        "html": "Outdoor tapstation<br />Koningsplein - Lievelde<br /><br />Sponsored by Gemeente Oost Gelre",
+        "description": "Outdoor tapstation<br />Koningsplein - Lievelde<br /><br />Sponsored by Gemeente Oost Gelre",
         "operator": "jointhepipe",
         "id": 301,
         "type": "tap"
@@ -7830,7 +7830,7 @@
       "id": 324,
       "properties": {
         "name": "Tuindorpweg",
-        "html": "Outdoor tapstation<br />Tuindorpweg - Maarn<br /><br />Sponsored by Stichting 100% Heuvelrug<br /><br /><img src=\"/uploads/markers/mark_opening_maarn.png\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Tuindorpweg - Maarn<br /><br />Sponsored by Stichting 100% Heuvelrug<br /><br /><img src=\"/uploads/markers/mark_opening_maarn.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 324,
         "type": "tap"
@@ -7848,7 +7848,7 @@
       "id": 387,
       "properties": {
         "name": "Tuindorpweg",
-        "html": "T - Macedonie - Bosilovo - Outdoor Happer/Tapper<br /><br />Mogelijk gemaakt door Brabant Water",
+        "description": "T - Macedonie - Bosilovo - Outdoor Happer/Tapper<br /><br />Mogelijk gemaakt door Brabant Water",
         "operator": "jointhepipe",
         "id": 387,
         "type": "tap"
@@ -7866,7 +7866,7 @@
       "id": 353,
       "properties": {
         "name": "Belleplant",
-        "html": "Outdoor tapstation<br />Belleplant - Aalterbaan 234b - 9990 Maldegem<br /><br />Sponsored by Belleplant",
+        "description": "Outdoor tapstation<br />Belleplant - Aalterbaan 234b - 9990 Maldegem<br /><br />Sponsored by Belleplant",
         "operator": "jointhepipe",
         "id": 353,
         "type": "tap",
@@ -7886,7 +7886,7 @@
       "id": 384,
       "properties": {
         "name": "Donated by Brabant Water",
-        "html": "T - Matagalpa - Nicaragua - Outdoor<br />Donated by Brabant Water",
+        "description": "T - Matagalpa - Nicaragua - Outdoor<br />Donated by Brabant Water",
         "operator": "jointhepipe",
         "id": 384,
         "type": "tap"
@@ -7904,7 +7904,7 @@
       "id": 368,
       "properties": {
         "name": "Project realized with Water for Life",
-        "html": "T - Mozambique - Bunhica Primary School - Maputo<br />Project realized with Water for Life",
+        "description": "T - Mozambique - Bunhica Primary School - Maputo<br />Project realized with Water for Life",
         "operator": "jointhepipe",
         "id": 368,
         "type": "tap"
@@ -7922,7 +7922,7 @@
       "id": 138,
       "properties": {
         "name": "Milieu Educatie Centrum",
-        "html": "Outdoor tappunt <br />Milieu Educatie Centrum - Geinoord 11 - Nieuwegein <br /><br />Sponsored by Gemeente Nieuwegein<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-07-06_om_16.49_.24_.png\" alt=\"\" />",
+        "description": "Outdoor tappunt <br />Milieu Educatie Centrum - Geinoord 11 - Nieuwegein <br /><br />Sponsored by Gemeente Nieuwegein<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-07-06_om_16.49_.24_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 138,
         "type": "tap",
@@ -7942,7 +7942,7 @@
       "id": 135,
       "properties": {
         "name": "Bisschop Hamerstraat",
-        "html": "Outdoor tapstation <br />Bisschop Hamerstraat - Nijmegen <br /><br />Sponsored by Vitens",
+        "description": "Outdoor tapstation <br />Bisschop Hamerstraat - Nijmegen <br /><br />Sponsored by Vitens",
         "operator": "jointhepipe",
         "id": 135,
         "type": "tap"
@@ -7960,7 +7960,7 @@
       "id": 23,
       "properties": {
         "name": "Burchtstraat 126",
-        "html": "Outdoor tapstation<br />Burchtstraat 126 - Nijmegen<br /><br />Sponsored by Gemeente Nijmegen",
+        "description": "Outdoor tapstation<br />Burchtstraat 126 - Nijmegen<br /><br />Sponsored by Gemeente Nijmegen",
         "operator": "jointhepipe",
         "id": 23,
         "type": "tap"
@@ -7978,7 +7978,7 @@
       "id": 133,
       "properties": {
         "name": "Ganzenheuvel",
-        "html": "Outdoor tapstation<br />Ganzenheuvel - Nijmegen <br /><br />Sponsored by Vitens",
+        "description": "Outdoor tapstation<br />Ganzenheuvel - Nijmegen <br /><br />Sponsored by Vitens",
         "operator": "jointhepipe",
         "id": 133,
         "type": "tap"
@@ -7996,7 +7996,7 @@
       "id": 132,
       "properties": {
         "name": "Grote Markt",
-        "html": "Outdoor tapstation <br />Grote Markt - Nijmegen<br /><br />Sponsored by Vitens",
+        "description": "Outdoor tapstation <br />Grote Markt - Nijmegen<br /><br />Sponsored by Vitens",
         "operator": "jointhepipe",
         "id": 132,
         "type": "tap"
@@ -8014,7 +8014,7 @@
       "id": 318,
       "properties": {
         "name": "Hypebazaar",
-        "html": "Indoor tapstation<br />Hypebazaar - Ziekerstraat 44 - Nijmegen",
+        "description": "Indoor tapstation<br />Hypebazaar - Ziekerstraat 44 - Nijmegen",
         "operator": "jointhepipe",
         "id": 318,
         "type": "tap",
@@ -8034,7 +8034,7 @@
       "id": 134,
       "properties": {
         "name": "Kronenburgerpark",
-        "html": "Outdoor tapstation<br />Kronenburgerpark - Nijmegen <br /><br />Sponsored by Vitens",
+        "description": "Outdoor tapstation<br />Kronenburgerpark - Nijmegen <br /><br />Sponsored by Vitens",
         "operator": "jointhepipe",
         "id": 134,
         "type": "tap"
@@ -8052,7 +8052,7 @@
       "id": 130,
       "properties": {
         "name": "Lindenberg",
-        "html": "Outdoor tapstation <br />Lindenberg - Nijmegen<br /><br />Sponsored by Vitens",
+        "description": "Outdoor tapstation <br />Lindenberg - Nijmegen<br /><br />Sponsored by Vitens",
         "operator": "jointhepipe",
         "id": 130,
         "type": "tap"
@@ -8070,7 +8070,7 @@
       "id": 129,
       "properties": {
         "name": "Marienburg bij het Arsenaal",
-        "html": "Outdoor tapstation<br />Marienburg bij het Arsenaal - Nijmegen<br /><br />Sponsored by Vitens",
+        "description": "Outdoor tapstation<br />Marienburg bij het Arsenaal - Nijmegen<br /><br />Sponsored by Vitens",
         "operator": "jointhepipe",
         "id": 129,
         "type": "tap"
@@ -8088,7 +8088,7 @@
       "id": 282,
       "properties": {
         "name": "Park aan de Nassausingel",
-        "html": "Outdoor tapstation<br />Park aan de Nassausingel - Nijmegen<br /><br />Sponsored by Vitens",
+        "description": "Outdoor tapstation<br />Park aan de Nassausingel - Nijmegen<br /><br />Sponsored by Vitens",
         "operator": "jointhepipe",
         "id": 282,
         "type": "tap"
@@ -8106,7 +8106,7 @@
       "id": 128,
       "properties": {
         "name": "Plein Klein Marienburg",
-        "html": "Outdoor tapstation<br />Plein Klein Marienburg - Nijmegen<br /><br />Sponsored by Vitens",
+        "description": "Outdoor tapstation<br />Plein Klein Marienburg - Nijmegen<br /><br />Sponsored by Vitens",
         "operator": "jointhepipe",
         "id": 128,
         "type": "tap"
@@ -8124,7 +8124,7 @@
       "id": 281,
       "properties": {
         "name": "Schaeck Mathonsingel",
-        "html": "Outdoor tapstation<br />Schaeck Mathonsingel - Nijmegen<br /><br />Sponsored by Vitens",
+        "description": "Outdoor tapstation<br />Schaeck Mathonsingel - Nijmegen<br /><br />Sponsored by Vitens",
         "operator": "jointhepipe",
         "id": 281,
         "type": "tap"
@@ -8142,7 +8142,7 @@
       "id": 338,
       "properties": {
         "name": "St. Plechelmusplein",
-        "html": "Outdoor tapstation<br />St. Plechelmusplein - Oldenzaal<br /><br /><img src=\"/uploads/markers/mark_tappunt_oldenzaal.png\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />St. Plechelmusplein - Oldenzaal<br /><br /><img src=\"/uploads/markers/mark_tappunt_oldenzaal.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 338,
         "type": "tap"
@@ -8160,7 +8160,7 @@
       "id": 312,
       "properties": {
         "name": "Kerkstraat 1-3",
-        "html": "Outdoor tapstation<br />Kerkstraat 1-3 - Oud Gastel<br /><br />Sponsored by Gemeente Halderberge",
+        "description": "Outdoor tapstation<br />Kerkstraat 1-3 - Oud Gastel<br /><br />Sponsored by Gemeente Halderberge",
         "operator": "jointhepipe",
         "id": 312,
         "type": "tap"
@@ -8178,7 +8178,7 @@
       "id": 154,
       "properties": {
         "name": "Markt 65",
-        "html": "Outdoor tapstation <br />Markt 65 - Panningen <br /><br />Sponsored by Gemeente Peel en Maas",
+        "description": "Outdoor tapstation <br />Markt 65 - Panningen <br /><br />Sponsored by Gemeente Peel en Maas",
         "operator": "jointhepipe",
         "id": 154,
         "type": "tap"
@@ -8196,7 +8196,7 @@
       "id": 27,
       "properties": {
         "name": "Stationsplein",
-        "html": "Outdoor tapstation<br />Stationsplein - Roermond<br /><br />Sponsored by ASN Bank &amp; Floris Mokveld",
+        "description": "Outdoor tapstation<br />Stationsplein - Roermond<br /><br />Sponsored by ASN Bank &amp; Floris Mokveld",
         "operator": "jointhepipe",
         "id": 27,
         "type": "tap"
@@ -8214,7 +8214,7 @@
       "id": 7,
       "properties": {
         "name": "Breggen Bakkerij",
-        "html": "Indoor tapstation<br />Breggen Bakkerij - Goudsesingel 39A - Rotterdam",
+        "description": "Indoor tapstation<br />Breggen Bakkerij - Goudsesingel 39A - Rotterdam",
         "operator": "jointhepipe",
         "id": 7,
         "type": "tap",
@@ -8234,7 +8234,7 @@
       "id": 358,
       "properties": {
         "name": "Lijnbaan, Rotterdam",
-        "html": "Kraanwater tappunt<br />Lijnbaan, Rotterdam",
+        "description": "Kraanwater tappunt<br />Lijnbaan, Rotterdam",
         "operator": "jointhepipe",
         "id": 358,
         "type": "tap"
@@ -8252,7 +8252,7 @@
       "id": 359,
       "properties": {
         "name": "Lijnbaan, Rotterdam",
-        "html": "Kraanwater tappunt<br />Lijnbaan, Rotterdam",
+        "description": "Kraanwater tappunt<br />Lijnbaan, Rotterdam",
         "operator": "jointhepipe",
         "id": 359,
         "type": "tap"
@@ -8270,7 +8270,7 @@
       "id": 174,
       "properties": {
         "name": "Oude Binnenweg 131B (Eendrachtsplein)",
-        "html": "Outdoor tapstation<br />Oude Binnenweg 131B (Eendrachtsplein) - Rotterdam<br /><br />Sponsored by Christiaan Kappers<br /><br /><img src=\"/uploads/markers/mark_rotterdam.jpg\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Oude Binnenweg 131B (Eendrachtsplein) - Rotterdam<br /><br />Sponsored by Christiaan Kappers<br /><br /><img src=\"/uploads/markers/mark_rotterdam.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 174,
         "type": "tap"
@@ -8288,7 +8288,7 @@
       "id": 366,
       "properties": {
         "name": "Oostzeedijk 182 ",
-        "html": "The Student Hotel Rotterdam <br />Oostzeedijk 182 <br />3063 BM Rotterdam",
+        "description": "The Student Hotel Rotterdam <br />Oostzeedijk 182 <br />3063 BM Rotterdam",
         "operator": "jointhepipe",
         "id": 366,
         "type": "tap"
@@ -8306,7 +8306,7 @@
       "id": 360,
       "properties": {
         "name": "Hoofdstraat Sassenheim",
-        "html": "Kraanwater tappunt<br />Hoofdstraat Sassenheim<br /><br />Gesponsord door de Gemeente Teylingen",
+        "description": "Kraanwater tappunt<br />Hoofdstraat Sassenheim<br /><br />Gesponsord door de Gemeente Teylingen",
         "operator": "jointhepipe",
         "id": 360,
         "type": "tap"
@@ -8324,7 +8324,7 @@
       "id": 291,
       "properties": {
         "name": "Slotplein",
-        "html": "Outdoor tapstation<br />Slotplein - Schagen<br /><br />Sponsored by Gemeente Schagen",
+        "description": "Outdoor tapstation<br />Slotplein - Schagen<br /><br />Sponsored by Gemeente Schagen",
         "operator": "jointhepipe",
         "id": 291,
         "type": "tap"
@@ -8342,7 +8342,7 @@
       "id": 6,
       "properties": {
         "name": "Lounge 1",
-        "html": "Indoor tapstation<br />Lounge 1 - Schiphol<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-05-31_om_10.50_.01_.png\" alt=\"\" />",
+        "description": "Indoor tapstation<br />Lounge 1 - Schiphol<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-05-31_om_10.50_.01_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 6,
         "type": "tap"
@@ -8360,7 +8360,7 @@
       "id": 82,
       "properties": {
         "name": "Singapore",
-        "html": "Outdoor tapstation<br />Singapore",
+        "description": "Outdoor tapstation<br />Singapore",
         "operator": "jointhepipe",
         "id": 82,
         "type": "tap"
@@ -8378,7 +8378,7 @@
       "id": 300,
       "properties": {
         "name": "Van Gentlaan",
-        "html": "Outdoor tapstation<br />Van Gentlaan - Son en Breugel<br /><br />Sponsored by Gemeente Son en Breugel",
+        "description": "Outdoor tapstation<br />Van Gentlaan - Son en Breugel<br /><br />Sponsored by Gemeente Son en Breugel",
         "operator": "jointhepipe",
         "id": 300,
         "type": "tap"
@@ -8396,7 +8396,7 @@
       "id": 299,
       "properties": {
         "name": "Vuurvlinderlaan",
-        "html": "Outdoor tapstation<br />Vuurvlinderlaan - Son en Breugel<br /><br />Sponsored by Gemeente Son en Breugel",
+        "description": "Outdoor tapstation<br />Vuurvlinderlaan - Son en Breugel<br /><br />Sponsored by Gemeente Son en Breugel",
         "operator": "jointhepipe",
         "id": 299,
         "type": "tap"
@@ -8414,7 +8414,7 @@
       "id": 385,
       "properties": {
         "name": "T",
-        "html": "T - South Africa - GreenSource - Moedwill Secondary School",
+        "description": "T - South Africa - GreenSource - Moedwill Secondary School",
         "operator": "jointhepipe",
         "id": 385,
         "type": "tap",
@@ -8434,7 +8434,7 @@
       "id": 336,
       "properties": {
         "name": "Oude Markt",
-        "html": "Outdoor tapstation<br />Oude Markt - Tilburg<br /><br /><img src=\"/uploads/markers/mark_tappunt_tilburg.png\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Oude Markt - Tilburg<br /><br /><img src=\"/uploads/markers/mark_tappunt_tilburg.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 336,
         "type": "tap"
@@ -8452,7 +8452,7 @@
       "id": 273,
       "properties": {
         "name": "Hutteweg 24 (waterspeelplaats)",
-        "html": "Outdoor tapstation<br />Hutteweg 24 (waterspeelplaats) - Ulft<br /><br />Sponsored by Gemeente Oude Ijsselstreek",
+        "description": "Outdoor tapstation<br />Hutteweg 24 (waterspeelplaats) - Ulft<br /><br />Sponsored by Gemeente Oude Ijsselstreek",
         "operator": "jointhepipe",
         "id": 273,
         "type": "tap"
@@ -8470,7 +8470,7 @@
       "id": 84,
       "properties": {
         "name": "Thames Water",
-        "html": "Indoor tapstation<br />Thames Water - United Kingdom",
+        "description": "Indoor tapstation<br />Thames Water - United Kingdom",
         "operator": "jointhepipe",
         "id": 84,
         "type": "tap"
@@ -8488,7 +8488,7 @@
       "id": 298,
       "properties": {
         "name": "Corio",
-        "html": "Indoor tapstation<br />Corio - Hoog Catherijne - Utrecht",
+        "description": "Indoor tapstation<br />Corio - Hoog Catherijne - Utrecht",
         "operator": "jointhepipe",
         "id": 298,
         "type": "tap",
@@ -8508,7 +8508,7 @@
       "id": 166,
       "properties": {
         "name": "Cruijf Court",
-        "html": "Outdoor tapstation<br />Cruijf Court - Marco Pololaan - Utrecht<br /><br />Sponsored by Gemeente Utrecht",
+        "description": "Outdoor tapstation<br />Cruijf Court - Marco Pololaan - Utrecht<br /><br />Sponsored by Gemeente Utrecht",
         "operator": "jointhepipe",
         "id": 166,
         "type": "tap",
@@ -8528,7 +8528,7 @@
       "id": 10,
       "properties": {
         "name": "Griftpark",
-        "html": "Outdoor tapstation<br />Griftpark - Utrecht<br /><br />Sponsored by Gemeente Utrecht",
+        "description": "Outdoor tapstation<br />Griftpark - Utrecht<br /><br />Sponsored by Gemeente Utrecht",
         "operator": "jointhepipe",
         "id": 10,
         "type": "tap"
@@ -8546,7 +8546,7 @@
       "id": 9,
       "properties": {
         "name": "Janskerkhof 11",
-        "html": "Outdoor tapstation<br />Janskerkhof 11 - Utrecht<br /><br />Sponsored by Laurent Lifestyle Salon",
+        "description": "Outdoor tapstation<br />Janskerkhof 11 - Utrecht<br /><br />Sponsored by Laurent Lifestyle Salon",
         "operator": "jointhepipe",
         "id": 9,
         "type": "tap"
@@ -8564,7 +8564,7 @@
       "id": 11,
       "properties": {
         "name": "Julianapark",
-        "html": "Outdoor tapstation<br />Julianapark - Utrecht<br /><br />Sponsored by Gemeente Utrecht",
+        "description": "Outdoor tapstation<br />Julianapark - Utrecht<br /><br />Sponsored by Gemeente Utrecht",
         "operator": "jointhepipe",
         "id": 11,
         "type": "tap"
@@ -8582,7 +8582,7 @@
       "id": 159,
       "properties": {
         "name": "Oudenoord/Noordsepark",
-        "html": "Outdoor tapstation<br />Oudenoord/Noordsepark - Utrecht <br /><br />Sponsored by Gemeente Utrecht",
+        "description": "Outdoor tapstation<br />Oudenoord/Noordsepark - Utrecht <br /><br />Sponsored by Gemeente Utrecht",
         "operator": "jointhepipe",
         "id": 159,
         "type": "tap"
@@ -8600,7 +8600,7 @@
       "id": 20,
       "properties": {
         "name": "Park Lepelenburg",
-        "html": "Outdoor tapstation<br />Park Lepelenburg - Utrecht<br /><br />Sponsored by Nukuhiva",
+        "description": "Outdoor tapstation<br />Park Lepelenburg - Utrecht<br /><br />Sponsored by Nukuhiva",
         "operator": "jointhepipe",
         "id": 20,
         "type": "tap"
@@ -8618,7 +8618,7 @@
       "id": 152,
       "properties": {
         "name": "Universiteit Utrecht",
-        "html": "Outdoor tapstation<br />Universiteit Utrecht - Heidelberglaan - Utrecht <br /><br />Sponsored by Rabobank",
+        "description": "Outdoor tapstation<br />Universiteit Utrecht - Heidelberglaan - Utrecht <br /><br />Sponsored by Rabobank",
         "operator": "jointhepipe",
         "id": 152,
         "type": "tap",
@@ -8638,7 +8638,7 @@
       "id": 325,
       "properties": {
         "name": "Villa Novaschool",
-        "html": "Outdoor tapstation<br />Villa Novaschool - Staringstraat 1 - Utrecht<br /><br />Sponsored by Vitens",
+        "description": "Outdoor tapstation<br />Villa Novaschool - Staringstraat 1 - Utrecht<br /><br />Sponsored by Vitens",
         "operator": "jointhepipe",
         "id": 325,
         "type": "tap",
@@ -8658,7 +8658,7 @@
       "id": 12,
       "properties": {
         "name": "Wilhelminapark",
-        "html": "Outdoor tapstation<br />Wilhelminapark - Utrecht<br /><br />Sponsored by Gemeente Utrecht<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-07-10_om_14.24_.39_.png\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Wilhelminapark - Utrecht<br /><br />Sponsored by Gemeente Utrecht<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-07-10_om_14.24_.39_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 12,
         "type": "tap"
@@ -8676,7 +8676,7 @@
       "id": 297,
       "properties": {
         "name": "Markt",
-        "html": "Outdoor tapstation<br />Markt - Veenendaal<br /><br />Sponsored by ACV Groep<br /><br /><img src=\"/uploads/markers/mark_Veenendaal.png\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Markt - Veenendaal<br /><br />Sponsored by ACV Groep<br /><br /><img src=\"/uploads/markers/mark_Veenendaal.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 297,
         "type": "tap"
@@ -8694,7 +8694,7 @@
       "id": 296,
       "properties": {
         "name": "Scheepjeshof",
-        "html": "Outdoor tapstation<br />Scheepjeshof - Veenendaal<br /><br />Sponsored by Gemeente Veenendaal<br /><br /><img src=\"/uploads/markers/mark_Veenendaal1.png\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Scheepjeshof - Veenendaal<br /><br />Sponsored by Gemeente Veenendaal<br /><br /><img src=\"/uploads/markers/mark_Veenendaal1.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 296,
         "type": "tap"
@@ -8712,7 +8712,7 @@
       "id": 326,
       "properties": {
         "name": "De Arnhorst",
-        "html": "Outdoor tapstation<br />De Arnhorst - Dilleburglaan 11 - Velp<br /><br />Sponsored by Vitens",
+        "description": "Outdoor tapstation<br />De Arnhorst - Dilleburglaan 11 - Velp<br /><br />Sponsored by Vitens",
         "operator": "jointhepipe",
         "id": 326,
         "type": "tap",
@@ -8732,7 +8732,7 @@
       "id": 306,
       "properties": {
         "name": "Floriade (Rijkspaviljoen)",
-        "html": "4 Outdoor tapstations<br />Floriade (Rijkspaviljoen) - Venrayseweg 108A - Venlo ",
+        "description": "4 Outdoor tapstations<br />Floriade (Rijkspaviljoen) - Venrayseweg 108A - Venlo ",
         "operator": "jointhepipe",
         "id": 306,
         "type": "tap",
@@ -8752,7 +8752,7 @@
       "id": 141,
       "properties": {
         "name": "Floriade (Waterpaviljoen)",
-        "html": "4 Indoor tapstations<br />Floriade (Waterpaviljoen) - Venrayseweg 108A - Venlo ",
+        "description": "4 Indoor tapstations<br />Floriade (Waterpaviljoen) - Venrayseweg 108A - Venlo ",
         "operator": "jointhepipe",
         "id": 141,
         "type": "tap",
@@ -8772,7 +8772,7 @@
       "id": 319,
       "properties": {
         "name": "Floriade",
-        "html": "Indoor tapstation<br />Floriade - Venrayseweg 108A - Venlo<br /><br />Sponsored by Arcadis",
+        "description": "Indoor tapstation<br />Floriade - Venrayseweg 108A - Venlo<br /><br />Sponsored by Arcadis",
         "operator": "jointhepipe",
         "id": 319,
         "type": "tap",
@@ -8792,7 +8792,7 @@
       "id": 157,
       "properties": {
         "name": "Koebaksestraat",
-        "html": "Outdoor tapstation<br />Koebaksestraat - Vianen <br /><br />Sponsored by Gemeente Cuijk",
+        "description": "Outdoor tapstation<br />Koebaksestraat - Vianen <br /><br />Sponsored by Gemeente Cuijk",
         "operator": "jointhepipe",
         "id": 157,
         "type": "tap"
@@ -8810,7 +8810,7 @@
       "id": 386,
       "properties": {
         "name": "T",
-        "html": "T - Vlaardingen - Waalstraat - Outdoor",
+        "description": "T - Vlaardingen - Waalstraat - Outdoor",
         "operator": "jointhepipe",
         "id": 386,
         "type": "tap",
@@ -8830,7 +8830,7 @@
       "id": 13,
       "properties": {
         "name": "Dorpsplein 1",
-        "html": "Outdoor tapstation<br />Dorpsplein 1 - Vleuten<br /><br />Sponsored by Gemeente Utrecht",
+        "description": "Outdoor tapstation<br />Dorpsplein 1 - Vleuten<br /><br />Sponsored by Gemeente Utrecht",
         "operator": "jointhepipe",
         "id": 13,
         "type": "tap"
@@ -8848,7 +8848,7 @@
       "id": 295,
       "properties": {
         "name": "Hogeschool Zeeland",
-        "html": "Indoor tapstation<br />Hogeschool Zeeland - Edisonweg 4 - Vlissingen",
+        "description": "Indoor tapstation<br />Hogeschool Zeeland - Edisonweg 4 - Vlissingen",
         "operator": "jointhepipe",
         "id": 295,
         "type": "tap",
@@ -8868,7 +8868,7 @@
       "id": 165,
       "properties": {
         "name": "Antoniusstraat 29",
-        "html": "Outdoor tapstation<br />Antoniusstraat 29 - Volkel<br /><br />Sponsored by Ondernemersvereniging Volkel<br /><br /><img src=\"/uploads/markers/mark_uden.jpg\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Antoniusstraat 29 - Volkel<br /><br />Sponsored by Ondernemersvereniging Volkel<br /><br /><img src=\"/uploads/markers/mark_uden.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 165,
         "type": "tap"
@@ -8886,7 +8886,7 @@
       "id": 374,
       "properties": {
         "name": "T",
-        "html": "T - Vroomshoop - Burgemeester Koetjestraat - Outdoor",
+        "description": "T - Vroomshoop - Burgemeester Koetjestraat - Outdoor",
         "operator": "jointhepipe",
         "id": 374,
         "type": "tap",
@@ -8906,7 +8906,7 @@
       "id": 44,
       "properties": {
         "name": "Markt",
-        "html": "Outdoor tapstation<br />Markt - Wageningen<br /><br />Sponsored by Gemeente Wageningen<br /><br /><img src=\"/uploads/markers/mark_Wageningen3.jpg\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Markt - Wageningen<br /><br />Sponsored by Gemeente Wageningen<br /><br /><img src=\"/uploads/markers/mark_Wageningen3.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 44,
         "type": "tap"
@@ -8924,7 +8924,7 @@
       "id": 330,
       "properties": {
         "name": "OBS Adriaan van den Ende",
-        "html": "Outdoor tapstation<br />OBS Adriaan van den Ende - Klaprooslaan 2 - Warnsveld<br /><br />Sponsored by Vitens",
+        "description": "Outdoor tapstation<br />OBS Adriaan van den Ende - Klaprooslaan 2 - Warnsveld<br /><br />Sponsored by Vitens",
         "operator": "jointhepipe",
         "id": 330,
         "type": "tap",
@@ -8944,7 +8944,7 @@
       "id": 356,
       "properties": {
         "name": "OBS Adriaan van den Ende",
-        "html": "Geopend op 27 september 2013 als eerste kraanwater tappunt op de Waddeneilanden. <br /><br />Geopend mede dankzij en in samenwerking met Vitens bij de Brandaris vuurtoren",
+        "description": "Geopend op 27 september 2013 als eerste kraanwater tappunt op de Waddeneilanden. <br /><br />Geopend mede dankzij en in samenwerking met Vitens bij de Brandaris vuurtoren",
         "operator": "jointhepipe",
         "id": 356,
         "type": "tap",
@@ -8964,7 +8964,7 @@
       "id": 376,
       "properties": {
         "name": "T",
-        "html": "T - Wierden - Nijverdalsestraat thv 16 - Outdoor",
+        "description": "T - Wierden - Nijverdalsestraat thv 16 - Outdoor",
         "operator": "jointhepipe",
         "id": 376,
         "type": "tap",
@@ -8984,7 +8984,7 @@
       "id": 323,
       "properties": {
         "name": "Zwerfkei Outdoor &amp; Travel Centre",
-        "html": "Outdoor tapstation<br />Zwerfkei Outdoor &amp; Travel Centre - Jaap Bijzerweg 10 - Woerden<br /><br />Sponsored by Zwerfkei &amp; Gore-Tex<br /><br /><img src=\"/uploads/markers/mark_Tappunt_Zwerfkei.jpg\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Zwerfkei Outdoor &amp; Travel Centre - Jaap Bijzerweg 10 - Woerden<br /><br />Sponsored by Zwerfkei &amp; Gore-Tex<br /><br /><img src=\"/uploads/markers/mark_Tappunt_Zwerfkei.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 323,
         "type": "tap",
@@ -9004,7 +9004,7 @@
       "id": 184,
       "properties": {
         "name": "Stadsmuseum",
-        "html": "Outdoor tapstation<br />Stadsmuseum - Kerkplein 6 - Woerden<br /><br />Sponsored by Gemeente Woerden<br /><br /><br /><img src=\"/uploads/markers/mark_Unknown.png\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Stadsmuseum - Kerkplein 6 - Woerden<br /><br />Sponsored by Gemeente Woerden<br /><br /><br /><img src=\"/uploads/markers/mark_Unknown.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 184,
         "type": "tap",
@@ -9024,7 +9024,7 @@
       "id": 275,
       "properties": {
         "name": "Westdam 3",
-        "html": "Outdoor tapstation<br />Westdam 3 - Woerden<br /><br />Sponsored by Gemeente Woerden",
+        "description": "Outdoor tapstation<br />Westdam 3 - Woerden<br /><br />Sponsored by Gemeente Woerden",
         "operator": "jointhepipe",
         "id": 275,
         "type": "tap"
@@ -9042,7 +9042,7 @@
       "id": 280,
       "properties": {
         "name": "Kerkplein 19-20",
-        "html": "Outdoor tapstation<br />Kerkplein 19-20 - Zeewolde<br /><br />Sponsored by Gemeente Zeewolde",
+        "description": "Outdoor tapstation<br />Kerkplein 19-20 - Zeewolde<br /><br />Sponsored by Gemeente Zeewolde",
         "operator": "jointhepipe",
         "id": 280,
         "type": "tap"
@@ -9060,7 +9060,7 @@
       "id": 185,
       "properties": {
         "name": "Slotlaan",
-        "html": "Outdoor tapstation<br />Slotlaan - Zeist<br /><br />Sponsored by Gemeente Zeist<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-16_om_10.09_.07_.png\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Slotlaan - Zeist<br /><br />Sponsored by Gemeente Zeist<br /><br /><img src=\"/uploads/markers/mark_Schermafbeelding_2012-10-16_om_10.09_.07_.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 185,
         "type": "tap"
@@ -9078,7 +9078,7 @@
       "id": 302,
       "properties": {
         "name": "Dorpsstraat/Kennedystraat",
-        "html": "Outdoor tapstation<br />Dorpsstraat/Kennedystraat - Zieuwent<br /><br />Sponsored by Gemeente Oost Gelre<br /><br /><img src=\"/uploads/markers/mark_zieuwent.jpg\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Dorpsstraat/Kennedystraat - Zieuwent<br /><br />Sponsored by Gemeente Oost Gelre<br /><br /><img src=\"/uploads/markers/mark_zieuwent.jpg\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 302,
         "type": "tap"
@@ -9096,7 +9096,7 @@
       "id": 337,
       "properties": {
         "name": "Houtmarkt",
-        "html": "Outdoor tapstation<br />Houtmarkt - Zutphen<br /><br />Sponsored by Gemeente Zutphen &amp; Woonwinkel Bella Tinta<br /><br /><img src=\"/uploads/markers/mark_tappunt_zutphen.png\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Houtmarkt - Zutphen<br /><br />Sponsored by Gemeente Zutphen &amp; Woonwinkel Bella Tinta<br /><br /><img src=\"/uploads/markers/mark_tappunt_zutphen.png\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 337,
         "type": "tap"
@@ -9114,7 +9114,7 @@
       "id": 334,
       "properties": {
         "name": "CBS De Wendakker",
-        "html": "Outdoor tapstation<br />CBS De Wendakker - Vuurtorenstraat 2 - Zwolle<br /><br />Sponsored by Vitens",
+        "description": "Outdoor tapstation<br />CBS De Wendakker - Vuurtorenstraat 2 - Zwolle<br /><br />Sponsored by Vitens",
         "operator": "jointhepipe",
         "id": 334,
         "type": "tap",
@@ -9134,7 +9134,7 @@
       "id": 265,
       "properties": {
         "name": "Grote Markt",
-        "html": "Outdoor tapstation<br />Grote Markt - Zwolle<br /><br />Sponsored by Gemeente Zwolle<br /><br /><img src=\"/uploads/markers/mark_22032012300.JPG\" alt=\"\" />",
+        "description": "Outdoor tapstation<br />Grote Markt - Zwolle<br /><br />Sponsored by Gemeente Zwolle<br /><br /><img src=\"/uploads/markers/mark_22032012300.JPG\" alt=\"\" />",
         "operator": "jointhepipe",
         "id": 265,
         "type": "tap"
@@ -9152,7 +9152,7 @@
       "id": 149,
       "properties": {
         "name": "Hogeschool Windesheim",
-        "html": "4 Indoor tapstations + 2 Outdoor tapstations<br />Hogeschool Windesheim - Campus 2-6 - Zwolle ",
+        "description": "4 Indoor tapstations + 2 Outdoor tapstations<br />Hogeschool Windesheim - Campus 2-6 - Zwolle ",
         "operator": "jointhepipe",
         "id": 149,
         "type": "tap",
@@ -9172,7 +9172,7 @@
       "id": 267,
       "properties": {
         "name": "Rodetorenplein",
-        "html": "Outdoor tapstation<br />Rodetorenplein - Zwolle<br /><br />Sponsored by Gemeente Zwolle",
+        "description": "Outdoor tapstation<br />Rodetorenplein - Zwolle<br /><br />Sponsored by Gemeente Zwolle",
         "operator": "jointhepipe",
         "id": 267,
         "type": "tap"
@@ -9190,7 +9190,7 @@
       "id": 266,
       "properties": {
         "name": "Stationsplein",
-        "html": "Outdoor tapstation<br />Stationsplein - Zwolle<br /><br />Sponsored by Gemeente Zwolle",
+        "description": "Outdoor tapstation<br />Stationsplein - Zwolle<br /><br />Sponsored by Gemeente Zwolle",
         "operator": "jointhepipe",
         "id": 266,
         "type": "tap"
@@ -9208,7 +9208,7 @@
       "id": 42,
       "properties": {
         "name": "Vitens",
-        "html": "Indoor tapstation<br />Vitens - Oude Veerweg 1 - Zwolle",
+        "description": "Indoor tapstation<br />Vitens - Oude Veerweg 1 - Zwolle",
         "operator": "jointhepipe",
         "id": 42,
         "type": "tap",
