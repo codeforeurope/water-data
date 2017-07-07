@@ -1,0 +1,24 @@
+[
+  {
+    "name": "oasen-taps",
+    "type": "tap",
+    "sources":[
+      "https://www.oasen.nl/drinkwater/openbare-tappunten"
+    ]
+  },
+  {
+    "name": "dunea-taps",
+    "type": "tap",
+    "sources":[
+      "https://www.dunea.nl/kaart-openbare-tapkranen"
+    ]
+  },
+  {
+    "name": "jointhepipe-taps",
+    "type": "tap",
+    "sources":[
+      "http://join-the-pipe.org/uploads/markers.js"
+    ]
+  }
+
+]

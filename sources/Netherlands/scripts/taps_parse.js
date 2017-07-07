@@ -3,7 +3,9 @@ const fs = require('fs');
 var path = require('path');
 var markerfile = require('./jointhepipe-taps.js');
 var dunea = require('./dunea-taps.json');
+var waternet = require('./waternet-taps.json');
 var duneamarkers = dunea.operationalLayers[0].featureCollection.layers[0].featureSet.features;
+var waternetmarkers = waternet.features;
 var tj = require('@mapbox/togeojson');
 var DOMParser = require('xmldom').DOMParser;
 
@@ -26,10 +28,31 @@ for (i = 0; i < converted.features.length; i++) {
     properties:{
       name: converted.features[i].properties.name,
       operator: "oasen",
-      type: "tap"
+      type: "tap",
+      source: "oasen-taps",
     }
   }
   final.features.push(oasenfeature);
+}
+
+//Waternet
+for (i = 0; i < waternetmarkers.length; i++) {
+  var duneafeature = {
+    type: "Feature",
+    "id": waternetmarkers[i].attributes.NUMMER,
+    properties: {
+      "name": waternetmarkers[i].attributes.ADRES,
+      "operator": "waternet",
+      "description": waternetmarkers[i].attributes.TYPE,
+      "id": waternetmarkers[i].attributes.NUMMER,
+      "type": "tap",
+      "source": "waternet-taps"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ waternetmarkers[i].geometry.x, waternetmarkers[i].geometry.y ] }
+  };
+  final.features.push(duneafeature);
 }
 
 
@@ -45,7 +68,8 @@ for (i = 0; i < duneamarkers.length; i++) {
       "street": duneamarkers[i].attributes.Adres,
       "city": duneamarkers[i].attributes.Plaats,
       "id": duneamarkers[i].attributes.__OBJECTID,
-      "type": "tap"
+      "type": "tap",
+      "source": "dunea-taps"
     },
     "geometry": {
       "type": "Point",
@@ -105,7 +129,8 @@ for (i = 0; i < markers.length; i++) {
       "operator": "jointhepipe",
       "id": markers[i][5],
       //"sequence": markers[i][3],
-      "type": type
+      "type": type,
+      "source": "jointhepipe-taps"
     },
     "geometry": {
       "type": "Point",
