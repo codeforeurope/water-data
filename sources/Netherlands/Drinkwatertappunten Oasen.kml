@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Drinkwatertappunten Oasen</name>
+    <description>Op deze kaart vindt u een overzicht van alle openbare drinkwatertappunten van Oasen.</description>
+    <Style id="icon-503-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-503-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Drinkwatertappunten Oasen</name>
+      <Placemark>
+        <name>Tappunt bij de markt op de Kerkweg, Ouderkerk aan den IJssel</name>
+        <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.635914,51.934932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tappunt op de hoek van de Van Tolstraat en de Brugstraat, Bodegraven</name>
+        <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.746783,52.084327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tappunt op het kruispunt Hortemansdijk-Lecksdijk, Reeuwijk</name>
+        <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.75517,52.035386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tappunt op het Sint Jorisplein, Ridderkerk </name>
+        <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.600165,51.86986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tappunt aan de Kerkstraat, bij het Oranjeplein, Leerdam</name>
+        <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.09134,51.890226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tappunt op de Grote Markt, Gouda</name>
+        <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.71126,52.01179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tappunt bij de Speelpolder op de Tiendweg Oost, Ouderkerk aan den IJssel</name>
+        <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.6484,51.929637,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tappunt op het terrein Buiten de Waterpoort (net buiten de stadsmuur bij 'Veer Gorinchem'), Gorinchem]]></name>
+        <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.974513,51.82618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tappunt aan de Sophiapromenade, Hendrik-Ido-Ambacht</name>
+        <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.645522,51.834465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tappunt op het Raadhuisplein, Meerkerk</name>
+        <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.9966818,51.9207186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tappunt op de hoek van de Hoofdstraat en Pleinstraat, Bergambacht</name>
+        <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.7832048,51.9354581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tappunt aan de Rivierdijk, Hardinxveld-Giessendam</name>
+        <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.8864269,51.821031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tappunt pleisterplaats 'De Meij', De Meije]]></name>
+        <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.7716096,52.1149753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tappunt in het Burgermeester Warnaarplantsoen, Waddinxveen</name>
+        <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.6525852,52.0431968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tappunt aan de Lijnbaan, bij de Aime Bonnastraat, Vianen</name>
+        <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.0957519,51.9917209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tappunt aan de Eilandstraat, bij de Oude Veer, Papendrecht</name>
+        <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.6829385,51.8251525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tappunt aan de Dorpsstraat bij de kerk, Hendrik Ido Ambacht </name>
+        <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.63093040000001,51.8495784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tappunt in het Develpark bij de sporthal, Zwijndrecht </name>
+        <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.6238816,51.8184081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tappunt aan de Dorpsstraat naast de kerk, Hoog Blokland </name>
+        <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.9743712,51.8741892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tappunt aan het Koningsplein, Ridderkerk</name>
+        <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.60020710000003,51.8717234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tappunt aan de Veerweg, Vianen</name>
+        <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.0882342,52.0020235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Naamloze laag</name>
+    </Folder>
+  </Document>
+</kml>
