@@ -1,100 +1,148 @@
 [
   {
-    "code": "watertemperature",
+    "code": "aeromonas",
     "label": {
-      "de": "Wassertemperatuur",
-      "en": "Watertemperature",
-      "nl": "Watertemperatuur"
+      "en": "Aeromonas"
+    },
+    "standard": "microbiology_society",
+    "value": "10.1099/00207713-30-1-225"
+  },
+  {
+    "code": "acidity",
+    "label": {
+      "en": "Acidity",
+      "nl": "Zuurgraad"
     },
     "standard": "NA",
-    "value": "watertemperature"
+    "value": "acidity"
   },
   {
-    "code": "turbidity",
+    "code": "acrylamide",
     "label": {
-      "en": "Turbidity",
-      "nl": "Troebelingsgraad"
+      "en": "Acrylamide"
+    },
+    "standard": "CAS",
+    "value": "79-06-1"
+  },
+  {
+    "code": "aluminum",
+    "label": {
+      "en": "Aluminum",
+      "nl": "Aluminium"
+    },
+    "standard": "CAS",
+    "value": "7429-90-5"
+  },
+  {
+    "code": "ammonium",
+    "label": {
+      "en": "Ammonium"
+    },
+    "standard": "CAS",
+    "value": "14798-03-9"
+  },
+  {
+    "code": "antimony",
+    "label": {
+      "en": "Antimony",
+      "nl": "Antimoon"
+    },
+    "description": {
+      "en": "Antimony alloys are used in batteries, low-friction metals, cable protection and other products, such as non-combustible materials, paints, ceramics and glass.",
+      "nl": "Antimoon legeringen worden gebruikt in batterijen, metalen met lage wrijving, kabelbescherming en andere producten, zoals onbrandbare materialen, verf, keramiek, glas en aardewerk.",
+      "de": "Antimon- Legierungen werden in Batterien, Metalle mit geringer Reibung, Kabelschutz , und anderen Produkten, wie beispielsweise nicht-brennbaren Materialien, Farben, Keramik, Glas und Töpferware verwendet."
+    },
+    "standard": "CAS",
+    "value": "7440-36-0"
+  },
+  {
+    "code": "arsenic",
+    "label": {
+      "en": "Arsenic",
+      "nl": "Arseen"
+    },
+    "standard": "CAS",
+    "value": "7440-38-2"
+  },
+  {
+    "code": "arsine",
+    "label": {
+      "en": "Arsine"
+    },
+    "standard": "CAS",
+    "value": "7784-42-1"
+  },
+  {
+    "code": "barium",
+    "label": {
+      "en": "Barium",
+      "nl": "Barium"
+    },
+    "standard": "CAS",
+    "value": "7440-39-3"
+  },
+  {
+    "code": "benzopyrene",
+    "label": {
+      "en": "Benzo[a]pyrene"
+    },
+    "standard": "CAS",
+    "value": "50-32-8"
+  },
+  {
+    "code": "beryllium",
+    "label": {
+      "en": "Beryllium"
+    },
+    "standard": "CAS",
+    "value": "7440-41-7"
+  },
+  {
+    "code": "bicarbonate",
+    "label": {
+      "en": "Bicarbonate (HC03)",
+      "nl": "Waterstofcarbonaat"
     },
     "standard": "NA",
-    "value": "turbidity"
+    "value": "bicarbonate"
   },
   {
-    "code": "oxygen",
+    "code": "boron",
     "label": {
-      "de": "Sauerstof",
-      "en": "Oxygen",
-      "nl": "Zuurstof"
+      "en": "Boron",
+      "nl": "Boor"
     },
     "standard": "CAS",
-    "value": "7782-44-7"
+    "value": "7440-42-8"
   },
   {
-    "code": "tritium",
+    "code": "bromate",
     "label": {
-      "en": "Tritium"
+      "en": "Bromate"
     },
     "standard": "CAS",
-    "value": "10028-17-8"
+    "value": "15541-45-4"
   },
   {
-    "code": "cobalt",
+    "code": "cadmium",
     "label": {
-      "en": "Cobalt"
+      "en": "Cadmium"
     },
     "standard": "CAS",
-    "value": "7440-48-4"
+    "value": "7440-43-9"
   },
   {
-    "code": "copper",
+    "code": "calcium",
     "label": {
-      "en": "Copper",
-      "nl": "Koper"
+      "en": "Calcium"
+    },
+    "description": {
+      "en": "Calcium is used to form bones and teeth. Calcium is also important for muscles and prevents blood clotting. Lack of Calcium can lead to a reduction in bone strength and thus to osteoporosis.",
+      "de": "Calcium wird zur Bildung der Knochen und Zähne gebraucht. Auch für die Muskeln und die Blutgerinnung ist Calcium wichtig. An Calcium mangelt es oft, was was zu einer Verringerung der Knochenfestigkeit und damit zu Osteoporose führen kann.",
+      "nl": "Calcium wordt gebruikt om botten en tanden te vormen. Calcium is ook belangrijk voor spieren en voorkomt bloedstolling. Gebrek aan calcium kan leiden tot een vermindering van botsterkte en dus tot osteoporose."
     },
     "standard": "CAS",
-    "value": "7440-50-8"
-  },
-  {
-    "code": "lead",
-    "label": {
-      "en": "Lead",
-      "nl": "Lood"
-    },
-    "standard": "CAS",
-    "value": "7439-92-1"
-  },
-  {
-    "code": "nickel",
-    "label": {
-      "en": "Nickel",
-      "nl": "Nikkel"
-    },
-    "standard": "CAS",
-    "value": "7440-02-0"
-  },
-  {
-    "code": "selenium",
-    "label": {
-      "en": "Selenium",
-      "nl": "Seleen"
-    },
-    "standard": "CAS",
-    "value": "7782-49-2"
-  },
-  {
-    "code": "tin",
-    "label": {
-      "en": "Tin"
-    },
-    "standard": "CAS",
-    "value": "7440-31-5"
-  },
-  {
-    "code": "vanadium",
-    "label": {
-      "en": "Vanadium"
-    },
-    "standard": "CAS",
-    "value": "7440-62-2"
+    "value": "7440-70-2"
   },
   {
     "code": "carbon",
@@ -106,54 +154,27 @@
     "value": "7440-44-0"
   },
   {
-    "code": "silver",
+    "code": "carbondioxide",
     "label": {
-      "en": "Silver",
-      "nl": "Zilver"
+      "en": "Carbon Dioxide",
+      "nl": "Koolstofdioxide"
     },
     "standard": "CAS",
-    "value": "7440-22-4"
+    "value": "124-38-9"
   },
   {
-    "code": "legionella",
+    "code": "chloride",
     "label": {
-      "en": "Legionella"
+      "de": "Chlorid",
+      "en": "Chloride"
     },
-    "standard": "NA",
-    "value": "legionella"
-  },
-  {
-    "code": "zinc",
-    "label": {
-      "en": "Zinc",
-      "nl": "Zink"
+    "description": {
+      "en": "Chloride is a component of saline and is therefore responsible for the regulation of water balance. Chloride is also important for the nerves, the heart, and the muscles, as well as the acid-base balance. Since it is found in many foods, more than enough chloride is absorbed. A permanent supply of chloride can lead to hypertension.",
+      "nl": "Chloride is een onderdeel van keukenzout en is dus gedeeltelijk verantwoordelijk voor de regeling van waterbalans. Ook voor de zenuwen, het hart en de spieren, evenals zuur-base-evenwicht chloride is belangrijk. Omdat het voorkomt in veel voedingsmiddelen, meer dan voldoende chloride wordt gewoonlijk toegevoegd. Een permanente overaanbod chloride kan leiden tot hoge bloeddruk.",
+      "de": "Chlorid ist ein Bestandteil von Kochsalz und ist daher für die Regulation des Wasserhaushaltes mitverantwortlich. Auch für die Nerven, das Herz und die Muskeln sowie den Säure-Basenhaushalt ist Chlorid wichtig. Da es in vielen Lebensmitteln vorkommt, wird meist mehr als genügend Chlorid aufgenommen. Eine dauerhafte Überversorgung mit Chlorid kann zu Bluthochdruck führen."
     },
     "standard": "CAS",
-    "value": "7440-66-6"
-  },
-  {
-    "code": "cyanide",
-    "label": {
-      "en": "Cyanide"
-    },
-    "standard": "NA",
-    "value": "cyanide"
-  },
-  {
-    "code": "cadmium",
-    "label": {
-      "en": "Cadmium"
-    },
-    "standard": "CAS",
-    "value": "7440-43-9"
-  },
-  {
-    "code": "aeromonas",
-    "label": {
-      "en": "Aeromonas"
-    },
-    "standard": "microbiology_society",
-    "value": "10.1099/00207713-30-1-225"
+    "value": "16887-00-6"
   },
   {
     "code": "chromium",
@@ -165,6 +186,45 @@
     "value": "7440-47-3"
   },
   {
+    "code": "clostridium",
+    "label": {
+      "en": "Clostridium perfringens"
+    },
+    "standard": "NA",
+    "value": "clostridium"
+  },
+  {
+    "code": "cobalt",
+    "label": {
+      "en": "Cobalt"
+    },
+    "standard": "CAS",
+    "value": "7440-48-4"
+  },
+  {
+    "code": "coli",
+    "label": {
+      "en": "Coliform bacteria",
+      "nl": "Coligroep bacteriën"
+    },
+    "description": {
+      "en": "Coliforms are bacteria that are always present in the digestive tracts of animals, including humans, and are found in their wastes. They are also found in plant and soil material.",
+      "nl": "Coliformen zijn bacteriën die altijd aanwezig zijn in de spijsverteringskanalen van dieren, waaronder mensen, en worden gevonden in hun afvalstoffen. Ze worden ook gevonden in plantaardig en bodem materiaal.",
+      "de": "Coliformen sind Bakterien, die immer in den Verdauungstrakt von Tieren, einschließlich Menschen, vorhanden sind und in ihren Abfällen gefunden werden. Sie finden sich auch in Pflanzen- und Bodenmaterial."
+    },
+    "standard": "NA",
+    "value": "coli"
+  },
+  {
+    "code": "copper",
+    "label": {
+      "en": "Copper",
+      "nl": "Koper"
+    },
+    "standard": "CAS",
+    "value": "7440-50-8"
+  },
+  {
     "code": "conductance",
     "label": {
       "en": "Conductance",
@@ -174,27 +234,192 @@
     "value": "conductance"
   },
   {
+    "code": "cyanide",
+    "label": {
+      "en": "Cyanide"
+    },
+    "standard": "NA",
+    "value": "cyanide"
+  },
+  {
+    "code": "ethylene_dichloride",
+    "label": {
+      "en": "1,2-dichloroethane"
+    },
+    "standard": "CAS",
+    "value": "107-06-2"
+  },
+  {
+    "code": "enterococci",
+    "label": {
+      "en": "Enterococci",
+      "nl": "enterococcen"
+    },
+    "standard": "NA",
+    "value": "enterococci"
+  },
+  {
+    "code": "epichlorohydrin",
+    "label": {
+      "en": "Epichlorohydrin"
+    },
+    "standard": "CAS",
+    "value": "106-89-8"
+  },
+  {
+    "code": "e_coli",
+    "label": {
+      "en": "Escherichia coli",
+      "nl": "Escherichia coli"
+    },
+    "description": {
+      "en": "E. coli comes from human and animal waste. During rainfalls, snow melts, or other types of precipitation, E. coli may be washed into creeks, rivers, streams, lakes, or groundwater. When these waters are used as sources of drinking water and the water is not treated or inadequately treated, E. coli may end up in the drinking water.",
+      "de": "E. coli kommt aus menschlichen und tierischen Abfällen. Bei Regenfällen, Schneeschmelzen oder anderen Niederschlagsarten kann E. coli in Bäche, Flüsse, Bäche, Seen oder Grundwasser gewaschen werden. Wenn diese Gewässer als Trinkwasserquelle verwendet werden und das Wasser nicht behandelt oder unzureichend behandelt wird, kann E. coli im Trinkwasser enden.",
+      "nl": "E. coli komt uit menselijk en dierlijk afval. Tijdens neerslag kan E. coli terecht komen in kreken, rivieren, stromen, meren of grondwater. Wanneer deze wateren worden gebruikt als bronnen van drinkwater en het water niet behandeld of onvoldoende behandeld wordt, kan E. coli in het drinkwater komen."
+    },
+    "standard": "NA",
+    "value": "e_coli"
+  },
+  {
+    "code": "fluoride",
+    "label": {
+      "de": "Fluorid",
+      "en": "Fluoride"
+    },
+    "standard": "CAS",
+    "value": "16984-48-8"
+  },
+  {
+    "code": "hardness",
+    "label": {
+      "de": "Härte",
+      "en": "Hardness",
+      "nl": "Hardheid"
+    },
+    "description": {
+      "en": "The water hardness indicates how soft or hard a water is. The more calcium and magnesium are contained in a water, the harder it is. Hard water can cause limes in kitchen and bathroom. Because of its high calcium and magnesium content, it is healthier than soft water. (Calcium: build-up of bones and teeth, magnesium: build-up of muscles and nerves)",
+      "de": "Die Wasserhärte gibt an, wie weich oder hart ein Wasser ist. Je mehr Calcium und Magnesium in einem Wasser enthalten sind, desto härter ist es. Hartes Wasser kann in Küche und Bad Kalkflecken verursachen. Wegen seinem hohen Calcium- und Magnesiumgehalt ist es gesünder als weiches Wasser. (Calcium: Aufbau von Knochen und Zähnen, Magnesium: Aufbau von Muskeln und Nerven)",
+      "nl": "De waterhardheid geeft de concentratie van metaal-ionen, veelal magnesium- en calciumcarbonaat, maar ook bicarbonaten en sulfaten, in water aan. Water met een hoge waterhardheid houdt voor de mens geen gezondheidsrisico in, maar bemoeilijkt de werking van zepen en verwarmingselementen."
+    },
+    "standard": "NA",
+    "value": "hardness"
+  },
+  {
+    "code": "hydrogen",
+    "label": {
+      "de": "Hydrogene",
+      "en": "Hydrogen",
+      "nl": "Hydrogeen"
+    },
+    "standard": "CAS",
+    "value": "1333-74-0"
+  },
+  {
+    "code": "iron",
+    "label": {
+      "de": "Eisen",
+      "en": "Iron",
+      "nl": "IJzer"
+    },
+    "standard": "CAS",
+    "value": "7439-89-6"
+  },
+  {
+    "code": "kalium",
+    "label": {
+      "de": "Kalium",
+      "en": "Potassium",
+      "nl": "Kalium"
+    },
+    "description": {
+      "en": "Potassium balances water and electrolyte balance, regulates blood pressure and is important for regular heartbeat and nerves. A shortage of potassium can occur with prolonged diarrhea, vomiting, or prolonged use of laxatives. Too high potassium levels in the blood can lead to heart failure.",
+      "de": "Kalium hält den Wasser- und Elektrolythaushalt im Gleichgewicht, reguliert den Blutdruck und ist wichtig für einen regelmäßigen Herzschlag sowie die Nerven. Zu einem Kaliummangel kann es nach größeren Flüssigkeitsverlusten, z. B. durch lang andauernde Durchfallerkrankungen, Erbrechen oder längere Einnahme von Entwässerungs- und Abführmitteln. Ein zu hoher Kaliumgehalt im Blut kann zu Herzversagen führen, da Kalium die Kontraktion des Herzmuskels hemmt.",
+      "nl": "Kalium houdt de water- en elektrolytenbalans in evenwicht, reguleert de bloeddruk en is belangrijk voor een regelmatige hartslag en zenuwen. Een tekort aan kalium kan optreden bij langdurige diarree, braken, of langdurig gebruik van laxeermiddelen. Een te hoog kaliumgehalte in het bloed kan leiden tot hartfalen."
+    },
+    "standard": "CAS",
+    "value": "7440-09-7"
+  },
+  {
+    "code": "lead",
+    "label": {
+      "en": "Lead",
+      "nl": "Lood"
+    },
+    "standard": "CAS",
+    "value": "7439-92-1"
+  },
+  {
+    "code": "legionella",
+    "label": {
+      "en": "Legionella"
+    },
+    "standard": "NA",
+    "value": "legionella"
+  },
+  {
+    "code": "magnesium",
+    "label": {
+      "en": "Magnesium"
+    },
+    "description": {
+      "en": "Magnesium influences the energy metabolism, the interplay of nerves on muscles, protein build-up and bone mineralization. In addition, it is responsible for the activation of more than 300 enzymes in the metabolism. Too much magnesium is very unlikely. In large amounts, the mineral produces a softer stool.",
+      "de": "Magnesium beeinflusst den Energiestoffwechsel, das Zusammenspiel von Nerven auf Muskeln, für den Eiweißaufbau sowie und die Knochenmineralisation. Außerdem ist es für die Aktivierung von über 300 Enzymen im Stoffwechsel verantwortlich. Ein Zuviel an Magnesium ist sehr unwahrscheinlich. In großen Mengen bewirkt der Mineralstoff einen weicheren Stuhl.",
+      "nl": "Magnesium beïnvloedt het energiemetabolisme, het samenspel van zenuwen en spieren, eiwitsynthese en botmineralisatie. Bovendien is het verantwoordelijk voor de activatie van meer dan 300 enzymen in het metabolisme. Te veel magnesium is hoogst onwaarschijnlijk. Grote hoeveelheden van het mineraal leiden tot een zachtere stoelgang."
+    },
+    "standard": "CAS",
+    "value": "7439-95-4"
+  },
+  {
+    "code": "manganese",
+    "label": {
+      "en": "Manganese",
+      "nl": "Mangaan"
+    },
+    "standard": "CAS",
+    "value": "7439-96-5"
+  },
+  {
+    "code": "mercury",
+    "label": {
+      "en": "Mercury",
+      "nl": "Kwik"
+    },
+    "standard": "CAS",
+    "value": "7439-97-6"
+  },
+  {
+    "code": "mycobacteria",
+    "label": {
+      "de": "Microbacteria",
+      "en": "Mycobacteria",
+      "nl": "Microbacteriën"
+    },
+    "standard": "NA",
+    "value": "mycobacteria"
+  },
+  {
     "code": "natrium",
     "label": {
       "de": "Natrium",
       "en": "Sodium",
       "nl": "Natrium"
     },
-    "description":{
+    "description": {
       "en": "Sodium regulates water management. How much sodium is suitable depends strongly on the individual: athletes require sodium-rich water, people with high blood pressure or babies should drink salt-low water (less than 20 mg/L). A lack of sodium can cause physical weakness, nausea and muscle cramps or circulatory disturbances. It is recommended to consume at least 550 mg sodium per day. In case of a medical recommended low-fat diet or for infants, water with less than 20 mg/L is recommended.",
       "de": "Natrium reguliert den Wasserhaushalt. Wieviel Natrium für wen geeignet ist, hängt stark vom Einzelnen ab: Sportlern ist natriumreiches Wasser zu empfehlen, Menschen mit Bluthochdruck oder Säuglinge sollten natriumarmes Wasser (weniger als 20 Milligramm pro Liter) trinken. Ein Mangel an Natrium äußert sich in körperlicher Schwäche, Übelkeit und Muskelkrämpfen bis hin zum Kreislaufkollaps. Empfohlen sind mindestens 550 mg Natrium pro Tag. Für eine ärztlich empfohlene natriumarme Ernährung oder für Säuglinge sind weniger als 20 mg/l Natrium geeignet.",
-      "nl":"Natrium reguleert de waterhuishouding. Hoeveel natrium geschikt is, is sterk afhankelijk van het individu: atleten wordt natrium-rijk water aanbevolen, mensen met hoge bloeddruk of baby's moeten juist zoutarm water drinken (minder dan 20 mg/L). Een gebrek aan natrium kan zorgen voor fysieke zwakte, misselijkheid en spierkrampen of verstoring van de bloedsomloop. Aanbevolen is ten minste 550 mg natrium per dag te consumeren. Bij een medisch aanbevolen zoutarm dieet of voor zuigelingen wordt water met minder dan 20 mg/L aanbevolen."
+      "nl": "Natrium reguleert de waterhuishouding. Hoeveel natrium geschikt is, is sterk afhankelijk van het individu: atleten wordt natrium-rijk water aanbevolen, mensen met hoge bloeddruk of baby's moeten juist zoutarm water drinken (minder dan 20 mg/L). Een gebrek aan natrium kan zorgen voor fysieke zwakte, misselijkheid en spierkrampen of verstoring van de bloedsomloop. Aanbevolen is ten minste 550 mg natrium per dag te consumeren. Bij een medisch aanbevolen zoutarm dieet of voor zuigelingen wordt water met minder dan 20 mg/L aanbevolen."
     },
     "standard": "CAS",
     "value": "7440-23-5"
   },
   {
-    "code": "ammonium",
+    "code": "nickel",
     "label": {
-      "en": "Ammonium"
+      "en": "Nickel",
+      "nl": "Nikkel"
     },
     "standard": "CAS",
-    "value": "14798-03-9"
+    "value": "7440-02-0"
   },
   {
     "code": "nitrate",
@@ -203,7 +428,7 @@
       "en": "Nitrate",
       "nl": "Nitraat"
     },
-    "description":{
+    "description": {
       "en": "Nitrate is converted into nitrite by the body. Nitrite can cause carcinogenic nitrosamines. Nitrite can cause oxygen shortage of organs and tissues. This is harmful to babies, and the acceptable limit in water is 50 mg/L. The nitrate content in water may vary between 5 And 38 mg/L to be considered safe.",
       "de": "Nitrat wird im Körper in giftiges Nitrit umgewandelt. Zudem können aus Nitriten krebserregende Nitrosamine entstehen. Das Nitrit selbst kann eine Sauerstoffunterversorgung aller Organe und Gewebe bewirken. Säuglinge sind hierfür besonders anfällig. Daher beträgt der Grenzwert in Mineralwasser 50 mg/l. Die im Trinkwasser der Region enthaltenen Nitratwerte liegen mit 5 bis 38 mg/l unter dem Grenzwert und sind daher als unbedenklich einzustufen.",
       "nl": "Nitraat wordt door het lichaam omgezet in nitriet. Uit nitriet kunnen kankerverwekkende nitrosamines ontstaan. Nitriet kan zuurstoftekort van organen en weefsels veroorzaken. Voor baby's is dit schadelijk. De grenswaarde in water is 50 mg/L. Het nitraatgehalte in water mag liggen tussen 5 en 38 mg/L om als veilig te worden beschouwd."
@@ -221,202 +446,23 @@
     "value": "71308-04-8"
   },
   {
-    "code": "calcium",
+    "code": "oxygen",
     "label": {
-      "en": "Calcium"
-    },
-    "description":{
-      "en":"Calcium is used to form bones and teeth. Calcium is also important for muscles and prevents blood clotting. Lack of Calcium can lead to a reduction in bone strength and thus to osteoporosis.",
-      "de":"Calcium wird zur Bildung der Knochen und Zähne gebraucht. Auch für die Muskeln und die Blutgerinnung ist Calcium wichtig. An Calcium mangelt es oft, was was zu einer Verringerung der Knochenfestigkeit und damit zu Osteoporose führen kann.",
-      "nl":"Calcium wordt gebruikt om botten en tanden te vormen. Calcium is ook belangrijk voor spieren en voorkomt bloedstolling. Gebrek aan calcium kan leiden tot een vermindering van botsterkte en dus tot osteoporose."
+      "de": "Sauerstof",
+      "en": "Oxygen",
+      "nl": "Zuurstof"
     },
     "standard": "CAS",
-    "value": "7440-70-2"
+    "value": "7782-44-7"
   },
   {
-    "code": "kalium",
+    "code": "pesticides",
     "label": {
-      "de": "Kalium",
-      "en": "Potassium",
-      "nl": "Kalium"
-    },
-    "description":{
-      "en":"Potassium balances water and electrolyte balance, regulates blood pressure and is important for regular heartbeat and nerves. A shortage of potassium can occur with prolonged diarrhea, vomiting, or prolonged use of laxatives. Too high potassium levels in the blood can lead to heart failure.",
-      "de": "Kalium hält den Wasser- und Elektrolythaushalt im Gleichgewicht, reguliert den Blutdruck und ist wichtig für einen regelmäßigen Herzschlag sowie die Nerven. Zu einem Kaliummangel kann es nach größeren Flüssigkeitsverlusten, z. B. durch lang andauernde Durchfallerkrankungen, Erbrechen oder längere Einnahme von Entwässerungs- und Abführmitteln. Ein zu hoher Kaliumgehalt im Blut kann zu Herzversagen führen, da Kalium die Kontraktion des Herzmuskels hemmt.",
-      "nl": "Kalium houdt de water- en elektrolytenbalans in evenwicht, reguleert de bloeddruk en is belangrijk voor een regelmatige hartslag en zenuwen. Een tekort aan kalium kan optreden bij langdurige diarree, braken, of langdurig gebruik van laxeermiddelen. Een te hoog kaliumgehalte in het bloed kan leiden tot hartfalen."
-    },
-    "standard": "CAS",
-    "value": "7440-09-7"
-  },
-  {
-    "code": "magnesium",
-    "label": {
-      "en": "Magnesium"
-    },
-    "description":{
-      "en":"Magnesium influences the energy metabolism, the interplay of nerves on muscles, protein build-up and bone mineralization. In addition, it is responsible for the activation of more than 300 enzymes in the metabolism. Too much magnesium is very unlikely. In large amounts, the mineral produces a softer stool.",
-      "de":"Magnesium beeinflusst den Energiestoffwechsel, das Zusammenspiel von Nerven auf Muskeln, für den Eiweißaufbau sowie und die Knochenmineralisation. Außerdem ist es für die Aktivierung von über 300 Enzymen im Stoffwechsel verantwortlich. Ein Zuviel an Magnesium ist sehr unwahrscheinlich. In großen Mengen bewirkt der Mineralstoff einen weicheren Stuhl.",
-      "nl":"Magnesium beïnvloedt het energiemetabolisme, het samenspel van zenuwen en spieren, eiwitsynthese en botmineralisatie. Bovendien is het verantwoordelijk voor de activatie van meer dan 300 enzymen in het metabolisme. Te veel magnesium is hoogst onwaarschijnlijk. Grote hoeveelheden van het mineraal leiden tot een zachtere stoelgang."
-    },
-    "standard": "CAS",
-    "value": "7439-95-4"
-  },
-  {
-    "code": "iron",
-    "label": {
-      "de": "Eisen",
-      "en": "Iron",
-      "nl": "IJzer"
-    },
-    "standard": "CAS",
-    "value": "7439-89-6"
-  },
-  {
-    "code": "fluoride",
-    "label": {
-      "de": "Fluorid",
-      "en": "Fluoride"
-    },
-    "standard": "CAS",
-    "value": "16984-48-8"
-  },
-  {
-    "code": "chloride",
-    "label": {
-      "de": "Chlorid",
-      "en": "Chloride"
-    },
-    "description":{
-      "en":"Chloride is a component of saline and is therefore responsible for the regulation of water balance. Chloride is also important for the nerves, the heart, and the muscles, as well as the acid-base balance. Since it is found in many foods, more than enough chloride is absorbed. A permanent supply of chloride can lead to hypertension.",
-      "nl":"Chloride is een onderdeel van keukenzout en is dus gedeeltelijk verantwoordelijk voor de regeling van waterbalans. Ook voor de zenuwen, het hart en de spieren, evenals zuur-base-evenwicht chloride is belangrijk. Omdat het voorkomt in veel voedingsmiddelen, meer dan voldoende chloride wordt gewoonlijk toegevoegd. Een permanente overaanbod chloride kan leiden tot hoge bloeddruk.",
-      "de":"Chlorid ist ein Bestandteil von Kochsalz und ist daher für die Regulation des Wasserhaushaltes mitverantwortlich. Auch für die Nerven, das Herz und die Muskeln sowie den Säure-Basenhaushalt ist Chlorid wichtig. Da es in vielen Lebensmitteln vorkommt, wird meist mehr als genügend Chlorid aufgenommen. Eine dauerhafte Überversorgung mit Chlorid kann zu Bluthochdruck führen."
-    },
-    "standard": "CAS",
-    "value": "16887-00-6"
-  },
-  {
-    "code": "sulfate",
-    "label": {
-      "de": "Sulfat",
-      "en": "Sulfate",
-      "nl": "Sulfaat"
-    },
-    "description":{
-      "en":"Sulfates have an anti-digestion effect, even with a laxative content of 1200 mg/L. If mineral water contains more than 1200 mg/L and at the same time high concentrations of minerals such as magnesium, calcium, fluoride, bicarbonate and carbon dioxide, it is called medicinal water. However, infants and patients with diseases of the digestive tract and a tendency to form uric acid stones should have little sulphate (content <240 mg / l). But also water with little sulphate has something good: it is tasted mostly positive. High sulfate contents, on the other hand, are expressed in a sweet to bitter taste.",
-      "de":"Sulfate wirken verdauungsfördernd, ab einem Gehalt von 1200 mg/l sogar abführend. Enthält ein Mineralwasser mehr als 1200 mg/l und gleichzeitig hohe Kontentrationen an Mineralstoffen wie Magnesium, Calcium, Flourid, Hydrogencarbonat sowie Kohlendioxid, wird es als Heilwasser bezeichnet. Säuglinge und Patienten mit Erkrankungen des Verdauungstraktes und Neigung zur Bildung von Harnsäuresteinen sollten jedoch wenig Sulfat zu sich nehmen (Gehalt < 240 mg/l). Doch auch Wasser mit wenig Sulfat hat etwas Gutes: Es wird geschmacklich meist positiv empfunden. Hohe Sulfatgehalte hingegen äußern sich in einem süßen bis bitterem Geschmack.",
-      "nl":"Sulfaat digestie wordt ondersteund bij een niveau van 1200 mg/L ondanks de werking als laxeermiddel. Wanneer water met ten hoogste 1200 mg/L en tegelijkertijd hoge concentraties van mineralen zoals magnesium, calcium, fluoride, waterstof en kooldioxide, wordt aangeduid als geneesmiddel. Echter, kinderen en patiënten met spijsverteringsaandoeningen en neiging tot vorming van urinezuurstenen kunnen beter weinig sulfaat innemen (minder dan 240 mg/L). Maar water met weinig sulfaat heeft iets goeds: het zal meestal beter smaken. Hoge hoeveelheden sulfaat geven een zoete en bittere smaak."
-
-    },
-    "standard": "CAS",
-    "value": "14808-79-8"
-  },
-  {
-    "code": "hydrogen",
-    "label": {
-      "de": "Hydrogene",
-      "en": "Hydrogen",
-      "nl": "Hydrogeen"
-    },
-    "standard": "CAS",
-    "value": "1333-74-0"
-  },
-  {
-    "code": "aluminum",
-    "label": {
-      "en": "Aluminum",
-      "nl": "Aluminium"
-    },
-    "standard": "CAS",
-    "value": "7429-90-5"
-  },
-  {
-    "code": "barium",
-    "label": {
-      "en": "Barium",
-      "nl": "Barium"
-    },
-    "standard": "CAS",
-    "value": "7440-39-3"
-  },
-  {
-    "code": "borium",
-    "label": {
-      "en": "Boron",
-      "nl": "Boor"
-    },
-    "standard": "CAS",
-    "value": "7440-42-8"
-  },
-  {
-    "code": "arsine",
-    "label": {
-      "en": "Arsine",
-      "nl": "Arseen"
-    },
-    "standard": "CAS",
-    "value": "7784-42-1"
-  },
-  {
-    "code": "carbondioxide",
-    "label": {
-      "en": "Carbon Dioxide",
-      "nl": "Koolstofdioxide"
-    },
-    "standard": "CAS",
-    "value": "124-38-9"
-  },
-  {
-    "code": "mycobacteria",
-    "label": {
-      "de": "Microbacteria",
-      "en": "Mycobacteria",
-      "nl": "Microbacteriën"
+      "en": "Pesticides",
+      "nl": "Pesticiden"
     },
     "standard": "NA",
-    "value": "mycobacteria"
-  },
-  {
-    "code": "hardness",
-    "label": {
-      "de": "Härte",
-      "en": "Hardness",
-      "nl": "Hardheid"
-    },
-    "description":{
-      "en":"The water hardness indicates how soft or hard a water is. The more calcium and magnesium are contained in a water, the harder it is. Hard water can cause limes in kitchen and bathroom. Because of its high calcium and magnesium content, it is healthier than soft water. (Calcium: build-up of bones and teeth, magnesium: build-up of muscles and nerves)",
-      "de":"Die Wasserhärte gibt an, wie weich oder hart ein Wasser ist. Je mehr Calcium und Magnesium in einem Wasser enthalten sind, desto härter ist es. Hartes Wasser kann in Küche und Bad Kalkflecken verursachen. Wegen seinem hohen Calcium- und Magnesiumgehalt ist es gesünder als weiches Wasser. (Calcium: Aufbau von Knochen und Zähnen, Magnesium: Aufbau von Muskeln und Nerven)",
-      "nl":"De waterhardheid geeft de concentratie van metaal-ionen, veelal magnesium- en calciumcarbonaat, maar ook bicarbonaten en sulfaten, in water aan. Water met een hoge waterhardheid houdt voor de mens geen gezondheidsrisico in, maar bemoeilijkt de werking van zepen en verwarmingselementen."
-
-    },
-    "standard": "NA",
-    "value": "hardness"
-  },
-  {
-    "code": "mercury",
-    "label": {
-      "en": "Mercury",
-      "nl": "Kwik"
-    },
-    "standard": "CAS",
-    "value": "7439-97-6"
-  },
-  {
-    "code": "manganese",
-    "label": {
-      "en": "Manganese",
-      "nl": "Mangaan"
-    },
-    "standard": "CAS",
-    "value": "7439-96-5"
-  },
-  {
-    "code": "bicarbonate",
-    "label": {
-      "en": "Bicarbonate (HC03)",
-      "nl": "Waterstofcarbonaat"
-    },
-    "standard": "NA",
-    "value": "bicarbonate"
+    "value": "pesticides"
   },
   {
     "code": "pt_co",
@@ -428,15 +474,6 @@
     "value": "pt_co"
   },
   {
-    "code": "acidity",
-    "label": {
-      "en": "Acidity",
-      "nl": "Zuurgraad"
-    },
-    "standard": "NA",
-    "value": "acidity"
-  },
-  {
     "code": "saturation",
     "label": {
       "en": "Saturation",
@@ -446,49 +483,13 @@
     "value": "saturation"
   },
   {
-    "code": "clostridium",
+    "code": "selenium",
     "label": {
-      "en": "Clostridium perfringens"
+      "en": "Selenium",
+      "nl": "Seleen"
     },
-    "standard": "NA",
-    "value": "clostridium"
-  },
-  {
-    "code": "enterococci",
-    "label": {
-      "en": "Enterococci",
-      "nl": "enterococcen"
-    },
-    "standard": "NA",
-    "value": "enterococci"
-  },
-  {
-    "code": "e_coli",
-    "label": {
-      "en": "Escherichia coli",
-      "nl": "Escherichia coli"
-    },
-    "description":{
-      "en":"E. coli comes from human and animal waste. During rainfalls, snow melts, or other types of precipitation, E. coli may be washed into creeks, rivers, streams, lakes, or groundwater. When these waters are used as sources of drinking water and the water is not treated or inadequately treated, E. coli may end up in the drinking water.",
-      "de": "E. coli kommt aus menschlichen und tierischen Abfällen. Bei Regenfällen, Schneeschmelzen oder anderen Niederschlagsarten kann E. coli in Bäche, Flüsse, Bäche, Seen oder Grundwasser gewaschen werden. Wenn diese Gewässer als Trinkwasserquelle verwendet werden und das Wasser nicht behandelt oder unzureichend behandelt wird, kann E. coli im Trinkwasser enden.",
-      "nl": "E. coli komt uit menselijk en dierlijk afval. Tijdens neerslag kan E. coli terecht komen in kreken, rivieren, stromen, meren of grondwater. Wanneer deze wateren worden gebruikt als bronnen van drinkwater en het water niet behandeld of onvoldoende behandeld wordt, kan E. coli in het drinkwater komen."
-    },
-    "standard": "NA",
-    "value": "e_coli"
-  },
-  {
-    "code": "coli",
-    "label": {
-      "en": "Coliform bacteria",
-      "nl": "Coligroep bacteriën"
-    },
-    "description":{
-      "en": "Coliforms are bacteria that are always present in the digestive tracts of animals, including humans, and are found in their wastes. They are also found in plant and soil material.",
-      "nl": "Coliformen zijn bacteriën die altijd aanwezig zijn in de spijsverteringskanalen van dieren, waaronder mensen, en worden gevonden in hun afvalstoffen. Ze worden ook gevonden in plantaardig en bodem materiaal.",
-      "de": "Coliformen sind Bakterien, die immer in den Verdauungstrakt von Tieren, einschließlich Menschen, vorhanden sind und in ihren Abfällen gefunden werden. Sie finden sich auch in Pflanzen- und Bodenmaterial."
-    },
-    "standard": "NA",
-    "value": "coli"
+    "standard": "CAS",
+    "value": "7782-49-2"
   },
   {
     "code": "silicate",
@@ -500,26 +501,36 @@
     "value": "3163-01-7"
   },
   {
-    "code": "beryllium",
+    "code": "silver",
     "label": {
-      "en": "Beryllium"
+      "en": "Silver",
+      "nl": "Zilver"
     },
     "standard": "CAS",
-    "value": "7440-41-7"
+    "value": "7440-22-4"
   },
   {
-    "code": "antimony",
+    "code": "sulfate",
     "label": {
-      "en": "Antimony",
-      "nl": "Antimoon"
+      "de": "Sulfat",
+      "en": "Sulfate",
+      "nl": "Sulfaat"
     },
-    "description":{
-      "en":"Antimony alloys are used in batteries, low-friction metals, cable protection and other products, such as non-combustible materials, paints, ceramics and glass.",
-      "nl": "Antimoon legeringen worden gebruikt in batterijen, metalen met lage wrijving, kabelbescherming en andere producten, zoals onbrandbare materialen, verf, keramiek, glas en aardewerk.",
-      "de": "Antimon- Legierungen werden in Batterien, Metalle mit geringer Reibung, Kabelschutz , und anderen Produkten, wie beispielsweise nicht-brennbaren Materialien, Farben, Keramik, Glas und Töpferware verwendet."
+    "description": {
+      "en": "Sulfates have an anti-digestion effect, even with a laxative content of 1200 mg/L. If mineral water contains more than 1200 mg/L and at the same time high concentrations of minerals such as magnesium, calcium, fluoride, bicarbonate and carbon dioxide, it is called medicinal water. However, infants and patients with diseases of the digestive tract and a tendency to form uric acid stones should have little sulphate (content <240 mg / l). But also water with little sulphate has something good: it is tasted mostly positive. High sulfate contents, on the other hand, are expressed in a sweet to bitter taste.",
+      "de": "Sulfate wirken verdauungsfördernd, ab einem Gehalt von 1200 mg/l sogar abführend. Enthält ein Mineralwasser mehr als 1200 mg/l und gleichzeitig hohe Kontentrationen an Mineralstoffen wie Magnesium, Calcium, Flourid, Hydrogencarbonat sowie Kohlendioxid, wird es als Heilwasser bezeichnet. Säuglinge und Patienten mit Erkrankungen des Verdauungstraktes und Neigung zur Bildung von Harnsäuresteinen sollten jedoch wenig Sulfat zu sich nehmen (Gehalt < 240 mg/l). Doch auch Wasser mit wenig Sulfat hat etwas Gutes: Es wird geschmacklich meist positiv empfunden. Hohe Sulfatgehalte hingegen äußern sich in einem süßen bis bitterem Geschmack.",
+      "nl": "Sulfaat digestie wordt ondersteund bij een niveau van 1200 mg/L ondanks de werking als laxeermiddel. Wanneer water met ten hoogste 1200 mg/L en tegelijkertijd hoge concentraties van mineralen zoals magnesium, calcium, fluoride, waterstof en kooldioxide, wordt aangeduid als geneesmiddel. Echter, kinderen en patiënten met spijsverteringsaandoeningen en neiging tot vorming van urinezuurstenen kunnen beter weinig sulfaat innemen (minder dan 240 mg/L). Maar water met weinig sulfaat heeft iets goeds: het zal meestal beter smaken. Hoge hoeveelheden sulfaat geven een zoete en bittere smaak."
     },
     "standard": "CAS",
-    "value": "7440-36-0"
+    "value": "14808-79-8"
+  },
+  {
+    "code": "tin",
+    "label": {
+      "en": "Tin"
+    },
+    "standard": "CAS",
+    "value": "7440-31-5"
   },
   {
     "code": "trihalomethanes",
@@ -527,12 +538,56 @@
       "en": "Trihalomethanes (THMS)",
       "nl": "Trihalomethanen"
     },
-    "description":{
-      "en":"Trihalomethanes (THM) are a group of four chemicals that are formed along with other disinfection by products when chlorine or other disinfectants used to control microbial contaminants in drinking water react with naturally occurring organic and inorganic matter in water.",
-      "nl":"Trihalomethanen (THM's) zijn het gevolg van de reactie van chloor en/of broom met organische stof die in het water worden behandeld. THM's kunnen in hoge concentraties negatieve gevolgen hebben voor de gezondheid. Veel regeringen stellen grenzen aan de toegestane hoeveelheid in drinkwater.",
-      "de":"Trihalomethane (THM) ist das Ergebnis der Reaktion von Chlor und / oder Brom enthaltenden organische Substanz in dem zu behandelnden Wasser. THM in hohen Konzentrationen kann negative Auswirkungen auf die Gesundheit haben. Viele Regierungen setzen Grenzen für die Menge in Trinkwasser zugelassen."
+    "description": {
+      "en": "Trihalomethanes (THM) are a group of four chemicals that are formed along with other disinfection by products when chlorine or other disinfectants used to control microbial contaminants in drinking water react with naturally occurring organic and inorganic matter in water.",
+      "nl": "Trihalomethanen (THM's) zijn het gevolg van de reactie van chloor en/of broom met organische stof die in het water worden behandeld. THM's kunnen in hoge concentraties negatieve gevolgen hebben voor de gezondheid. Veel regeringen stellen grenzen aan de toegestane hoeveelheid in drinkwater.",
+      "de": "Trihalomethane (THM) ist das Ergebnis der Reaktion von Chlor und / oder Brom enthaltenden organische Substanz in dem zu behandelnden Wasser. THM in hohen Konzentrationen kann negative Auswirkungen auf die Gesundheit haben. Viele Regierungen setzen Grenzen für die Menge in Trinkwasser zugelassen."
     },
     "standard": "NA",
     "value": "trihalomethanes"
+  },
+  {
+    "code": "tritium",
+    "label": {
+      "en": "Tritium"
+    },
+    "standard": "CAS",
+    "value": "10028-17-8"
+  },
+  {
+    "code": "turbidity",
+    "label": {
+      "en": "Turbidity",
+      "nl": "Troebelingsgraad"
+    },
+    "standard": "NA",
+    "value": "turbidity"
+  },
+  {
+    "code": "vanadium",
+    "label": {
+      "en": "Vanadium"
+    },
+    "standard": "CAS",
+    "value": "7440-62-2"
+  },
+  {
+    "code": "watertemperature",
+    "label": {
+      "de": "Wassertemperatuur",
+      "en": "Watertemperature",
+      "nl": "Watertemperatuur"
+    },
+    "standard": "NA",
+    "value": "watertemperature"
+  },
+  {
+    "code": "zinc",
+    "label": {
+      "en": "Zinc",
+      "nl": "Zink"
+    },
+    "standard": "CAS",
+    "value": "7440-66-6"
   }
 ]

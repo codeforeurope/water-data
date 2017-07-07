@@ -12,14 +12,14 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "value": 3,
         "max": 2.8,
         "min": 3.2,
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "value": 0.04,
         "max": 0.04,
         "min": 0.04,
@@ -203,14 +203,14 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "value": 2.7,
         "max": 2.1,
         "min": 3.4,
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "value": 0.05,
         "max": 0.04,
         "min": 0.05,
@@ -393,13 +393,13 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "value": 2.8,
         "max": 2.2,
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "value": 0.04,
         "max": 0.04,
         "uom": "mg/l"
@@ -560,13 +560,13 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "value": 2.2,
         "max": 1.4,
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "value": 0.04,
         "max": 0.03,
         "uom": "mg/l"
@@ -746,14 +746,14 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "value": 2.9,
         "max": 2.1,
         "min": 3.4,
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "value": 0.05,
         "max": 0.05,
         "min": 0.05,
@@ -931,14 +931,14 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "value": 2.8,
         "max": 2.2,
         "min": 3.6,
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "value": 0.05,
         "max": 0.04,
         "min": 0.05,
@@ -1104,167 +1104,6 @@
     ]
   },
   {
-    "name": "Monster jaar 2016",
-    "issued": "2016-12-31T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "aluminum",
-        "value": 4.2,
-        "max": 3.6,
-        "uom": "ug/l"
-      },
-      {
-        "code": "arsine",
-        "value": 2.7,
-        "max": 2.2,
-        "uom": "ug/l"
-      },
-      {
-        "code": "borium",
-        "value": 0.04,
-        "max": 0.04,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 45,
-        "max": 40,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 51,
-        "max": 42,
-        "uom": "mg/l"
-      },
-      {
-        "code": "carbondioxide",
-        "value": 1,
-        "max": 0.6,
-        "uom": "mg/l"
-      },
-      {
-        "code": "conductance",
-        "value": 47.7,
-        "max": 44.1,
-        "uom": "mS/m"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.21,
-        "max": 0.2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 0.01,
-        "max": 0.01,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.03,
-        "max": 0.03,
-        "uom": "ftu"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 172,
-        "max": 150,
-        "uom": "mg/l"
-      },
-      {
-        "code": "mercury",
-        "value": 0.02,
-        "max": 0.02,
-        "uom": "ug/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.47,
-        "max": 1.33,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 8,
-        "max": 6,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 8.6,
-        "max": 7.7,
-        "uom": "mg/l"
-      },
-      {
-        "code": "manganese",
-        "value": 0.01,
-        "max": 0.01,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 51,
-        "max": 45,
-        "uom": "mg/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.02,
-        "max": 0.02,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrite",
-        "value": 0.007,
-        "max": 0.007,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 3.99,
-        "max": 1.63,
-        "uom": "mg/l"
-      },
-      {
-        "code": "oxygen",
-        "value": 9.5,
-        "max": 8.9,
-        "uom": "mg/l"
-      },
-      {
-        "code": "saturation",
-        "value": 0.69,
-        "max": 0.57,
-        "uom": "pH"
-      },
-      {
-        "code": "sulfate",
-        "value": 45,
-        "max": 38,
-        "uom": "mg/l"
-      },
-      {
-        "code": "watertemperature",
-        "value": 12.9,
-        "max": 9.3,
-        "uom": "degC"
-      }
-    ],
-    "sources": [
-      "https://www.dunea.nl/documents/10156/13625/Monster+jaar+2016.pdf"
-    ],
-    "zones": [
-      "den_haag",
-      "rijswijk"
-    ],
-    "plants": [
-      "monster"
-    ]
-  },
-  {
     "name": "Monster jr 2013",
     "issued": "2013-12-31T23:59:00.000Z",
     "year": "2013",
@@ -1276,13 +1115,13 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "value": 2.6,
         "max": 1.6,
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "value": 0.04,
         "max": 0.03,
         "uom": "mg/l"
@@ -1444,6 +1283,167 @@
     ]
   },
   {
+    "name": "Monster jaar 2016",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 4.2,
+        "max": 3.6,
+        "uom": "ug/l"
+      },
+      {
+        "code": "arsenic",
+        "value": 2.7,
+        "max": 2.2,
+        "uom": "ug/l"
+      },
+      {
+        "code": "boron",
+        "value": 0.04,
+        "max": 0.04,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 45,
+        "max": 40,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 51,
+        "max": 42,
+        "uom": "mg/l"
+      },
+      {
+        "code": "carbondioxide",
+        "value": 1,
+        "max": 0.6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 47.7,
+        "max": 44.1,
+        "uom": "mS/m"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.21,
+        "max": 0.2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 0.01,
+        "max": 0.01,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.03,
+        "max": 0.03,
+        "uom": "ftu"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 172,
+        "max": 150,
+        "uom": "mg/l"
+      },
+      {
+        "code": "mercury",
+        "value": 0.02,
+        "max": 0.02,
+        "uom": "ug/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.47,
+        "max": 1.33,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 8,
+        "max": 6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 8.6,
+        "max": 7.7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "manganese",
+        "value": 0.01,
+        "max": 0.01,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 51,
+        "max": 45,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "max": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrite",
+        "value": 0.007,
+        "max": 0.007,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 3.99,
+        "max": 1.63,
+        "uom": "mg/l"
+      },
+      {
+        "code": "oxygen",
+        "value": 9.5,
+        "max": 8.9,
+        "uom": "mg/l"
+      },
+      {
+        "code": "saturation",
+        "value": 0.69,
+        "max": 0.57,
+        "uom": "pH"
+      },
+      {
+        "code": "sulfate",
+        "value": 45,
+        "max": 38,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 12.9,
+        "max": 9.3,
+        "uom": "degC"
+      }
+    ],
+    "sources": [
+      "https://www.dunea.nl/documents/10156/13625/Monster+jaar+2016.pdf"
+    ],
+    "zones": [
+      "den_haag",
+      "rijswijk"
+    ],
+    "plants": [
+      "monster"
+    ]
+  },
+  {
     "name": "Scheveningen 1e kw 2017 VERZENDFILE",
     "issued": "2017-03-31T23:59:00.000Z",
     "year": "2017",
@@ -1456,14 +1456,14 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "value": 1.9,
         "max": 1.7,
         "min": 2.1,
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "value": 0.05,
         "max": 0.05,
         "min": 0.05,
@@ -1650,14 +1650,14 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "value": 2.2,
         "max": 1.3,
         "min": 3.3,
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "value": 0.05,
         "max": 0.05,
         "min": 0.06,
@@ -1843,13 +1843,13 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "value": 2.1,
         "max": 1.6,
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "value": 0.05,
         "max": 0.04,
         "uom": "mg/l"
@@ -2002,194 +2002,6 @@
     ]
   },
   {
-    "name": "Scheveningen jr 2013",
-    "issued": "2013-12-31T23:59:00.000Z",
-    "year": "2013",
-    "observations": [
-      {
-        "code": "aluminum",
-        "value": 3.2,
-        "max": 2.3,
-        "uom": "ug/l"
-      },
-      {
-        "code": "arsine",
-        "value": 1.8,
-        "max": 1.4,
-        "uom": "ug/l"
-      },
-      {
-        "code": "borium",
-        "value": 0.05,
-        "max": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 44,
-        "max": 41,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 51,
-        "max": 48,
-        "uom": "mg/l"
-      },
-      {
-        "code": "carbondioxide",
-        "value": 1.3,
-        "max": 0.9,
-        "uom": "mg/l"
-      },
-      {
-        "code": "conductance",
-        "value": 48.5,
-        "max": 46.8,
-        "uom": "mS/m"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.2,
-        "max": 0.18,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 0.01,
-        "max": 0.01,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.03,
-        "max": 0.03,
-        "uom": "ftu"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 184,
-        "max": 173,
-        "uom": "mg/l"
-      },
-      {
-        "code": "mercury",
-        "value": 0.02,
-        "max": 0.02,
-        "uom": "ug/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.45,
-        "max": 1.36,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 5,
-        "max": 4,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 8.1,
-        "max": 7.5,
-        "uom": "mg/l"
-      },
-      {
-        "code": "manganese",
-        "value": 0.01,
-        "max": 0.01,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 57,
-        "max": 52,
-        "uom": "mg/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.02,
-        "max": 0.02,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrite",
-        "value": 0.007,
-        "max": 0.007,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 5.21,
-        "max": 3.33,
-        "uom": "mg/l"
-      },
-      {
-        "code": "oxygen",
-        "value": 9.5,
-        "max": 8.4,
-        "uom": "mg/l"
-      },
-      {
-        "code": "saturation",
-        "value": 0.65,
-        "max": 0.56,
-        "uom": "pH"
-      },
-      {
-        "code": "sulfate",
-        "value": 42,
-        "max": 39,
-        "uom": "mg/l"
-      },
-      {
-        "code": "watertemperature",
-        "value": 11.7,
-        "max": 9,
-        "uom": "degC"
-      },
-      {
-        "code": "clostridium",
-        "value": 0,
-        "max": 0,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "coli",
-        "value": 0,
-        "max": 0,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "enterococci",
-        "value": 0,
-        "max": 0,
-        "uom": "cfu/dl"
-      }
-    ],
-    "sources": [
-      "https://www.dunea.nl/documents/10156/13625/Scheveningen+jr+2013.pdf"
-    ],
-    "zones": [
-      "wassenaar",
-      "voorschoten",
-      "leidschendam_voorburg",
-      "zoetermeer",
-      "pijnacker_nootdorp",
-      "lansingerland",
-      "zuidplas",
-      "nesselande",
-      "den_haag",
-      "rijswijk",
-      "alphen_aan_de_rijn"
-    ],
-    "plants": [
-      "scheveningen"
-    ]
-  },
-  {
     "name": "Waterkwaliteit Katwijk 2014",
     "issued": "2014-12-31T23:59:00.000Z",
     "year": "2014",
@@ -2202,14 +2014,14 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "value": 3,
         "max": 2.3,
         "min": 3.4,
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "value": 0.02,
         "max": 0.01,
         "min": 0.04,
@@ -2402,6 +2214,194 @@
     ]
   },
   {
+    "name": "Scheveningen jr 2013",
+    "issued": "2013-12-31T23:59:00.000Z",
+    "year": "2013",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 3.2,
+        "max": 2.3,
+        "uom": "ug/l"
+      },
+      {
+        "code": "arsenic",
+        "value": 1.8,
+        "max": 1.4,
+        "uom": "ug/l"
+      },
+      {
+        "code": "boron",
+        "value": 0.05,
+        "max": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 44,
+        "max": 41,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 51,
+        "max": 48,
+        "uom": "mg/l"
+      },
+      {
+        "code": "carbondioxide",
+        "value": 1.3,
+        "max": 0.9,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 48.5,
+        "max": 46.8,
+        "uom": "mS/m"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.2,
+        "max": 0.18,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 0.01,
+        "max": 0.01,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.03,
+        "max": 0.03,
+        "uom": "ftu"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 184,
+        "max": 173,
+        "uom": "mg/l"
+      },
+      {
+        "code": "mercury",
+        "value": 0.02,
+        "max": 0.02,
+        "uom": "ug/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.45,
+        "max": 1.36,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 5,
+        "max": 4,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 8.1,
+        "max": 7.5,
+        "uom": "mg/l"
+      },
+      {
+        "code": "manganese",
+        "value": 0.01,
+        "max": 0.01,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 57,
+        "max": 52,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "max": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrite",
+        "value": 0.007,
+        "max": 0.007,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 5.21,
+        "max": 3.33,
+        "uom": "mg/l"
+      },
+      {
+        "code": "oxygen",
+        "value": 9.5,
+        "max": 8.4,
+        "uom": "mg/l"
+      },
+      {
+        "code": "saturation",
+        "value": 0.65,
+        "max": 0.56,
+        "uom": "pH"
+      },
+      {
+        "code": "sulfate",
+        "value": 42,
+        "max": 39,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 11.7,
+        "max": 9,
+        "uom": "degC"
+      },
+      {
+        "code": "clostridium",
+        "value": 0,
+        "max": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "max": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "enterococci",
+        "value": 0,
+        "max": 0,
+        "uom": "cfu/dl"
+      }
+    ],
+    "sources": [
+      "https://www.dunea.nl/documents/10156/13625/Scheveningen+jr+2013.pdf"
+    ],
+    "zones": [
+      "wassenaar",
+      "voorschoten",
+      "leidschendam_voorburg",
+      "zoetermeer",
+      "pijnacker_nootdorp",
+      "lansingerland",
+      "zuidplas",
+      "nesselande",
+      "den_haag",
+      "rijswijk",
+      "alphen_aan_de_rijn"
+    ],
+    "plants": [
+      "scheveningen"
+    ]
+  },
+  {
     "name": "Waterkwaliteit Monster 2014",
     "issued": "2014-12-31T23:59:00.000Z",
     "year": "2014",
@@ -2414,14 +2414,14 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "value": 3,
         "max": 2.4,
         "min": 4.2,
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "value": 0.02,
         "max": 0.01,
         "min": 0.04,
@@ -2620,14 +2620,14 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "value": 1.9,
         "max": 1.2,
         "min": 2.9,
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "value": 0.03,
         "max": 0.01,
         "min": 0.06,

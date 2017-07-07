@@ -196,7 +196,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 1,
         "min": 1,
@@ -220,7 +220,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 28,
         "min": 28,
@@ -596,7 +596,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 10,
         "value": 1,
         "min": 1,
@@ -620,7 +620,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 500,
         "value": 1,
         "min": 88,
@@ -965,7 +965,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 10,
         "value": 25,
         "min": 0.5,
@@ -1234,7 +1234,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 1,
         "min": 1,
@@ -1258,7 +1258,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 30,
         "min": 30,
@@ -1642,7 +1642,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 1,
         "min": 1,
@@ -1666,7 +1666,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 90,
         "min": 90,
@@ -1852,419 +1852,6 @@
     ],
     "plants": [
       "budel"
-    ]
-  },
-  {
-    "name": "Drinkwaterkwaliteit Dorst 2015",
-    "issued": "2015-12-31T23:59:00.000Z",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "samples": 13,
-        "value": 12.6,
-        "min": 12.3,
-        "max": 12.9,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "samples": 52,
-        "value": 9.3,
-        "min": 8.6,
-        "max": 9.9,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "samples": 52,
-        "value": 0.1,
-        "min": 0.1,
-        "max": 0.11,
-        "uom": "ftu"
-      },
-      {
-        "code": "tritium",
-        "samples": 1,
-        "value": 3,
-        "min": 3,
-        "max": 3,
-        "uom": "Bq/l"
-      },
-      {
-        "code": "acidity",
-        "samples": 51,
-        "value": 7.83,
-        "min": 7.8,
-        "max": 7.88,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "samples": 4,
-        "value": 0.48,
-        "min": 0.45,
-        "max": 0.51,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "samples": 13,
-        "value": 39.29,
-        "min": 38.5,
-        "max": 39.8,
-        "uom": "mS/m"
-      },
-      {
-        "code": "carbondioxide",
-        "samples": 4,
-        "value": 5.9,
-        "min": 5.5,
-        "max": 6,
-        "uom": "mg/l"
-      },
-      {
-        "code": "bicarbonate",
-        "samples": 4,
-        "value": 248,
-        "min": 241,
-        "max": 254,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "samples": 4,
-        "value": 19.8,
-        "min": 18.9,
-        "max": 20.3,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "samples": 4,
-        "value": 2,
-        "min": 2,
-        "max": 2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "samples": 4,
-        "value": 14,
-        "min": 14,
-        "max": 15,
-        "uom": "mg/l"
-      },
-      {
-        "code": "kalium",
-        "samples": 4,
-        "value": 5.1,
-        "min": 5,
-        "max": 5.3,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "samples": 4,
-        "value": 65,
-        "min": 63,
-        "max": 66,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "samples": 4,
-        "value": 7.3,
-        "min": 7.1,
-        "max": 7.3,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "samples": 4,
-        "value": 1.92,
-        "min": 1.88,
-        "max": 1.95,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "samples": 52,
-        "value": 0.03,
-        "min": 0.03,
-        "max": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrite",
-        "samples": 52,
-        "value": 0.01,
-        "min": 0.01,
-        "max": 0.04,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "samples": 4,
-        "value": 2.1,
-        "min": 2,
-        "max": 2.1,
-        "uom": "mg/l"
-      },
-      {
-        "code": "silicate",
-        "samples": 1,
-        "value": 17.7,
-        "min": 17.7,
-        "max": 17.7,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "samples": 52,
-        "value": 10,
-        "min": 10,
-        "max": 10,
-        "uom": "ug/l"
-      },
-      {
-        "code": "manganese",
-        "samples": 52,
-        "value": 10,
-        "min": 10,
-        "max": 10,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "samples": 1,
-        "value": 5,
-        "min": 5,
-        "max": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "antimony",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "arsine",
-        "samples": 4,
-        "value": 5.7,
-        "min": 5.3,
-        "max": 6.1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "barium",
-        "samples": 1,
-        "value": 5,
-        "min": 5,
-        "max": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "beryllium",
-        "samples": 1,
-        "value": 0.5,
-        "min": 0.5,
-        "max": 0.5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "borium",
-        "samples": 1,
-        "value": 71,
-        "min": 71,
-        "max": 71,
-        "uom": "ug/l"
-      },
-      {
-        "code": "cadmium",
-        "samples": 1,
-        "value": 0.1,
-        "min": 0.1,
-        "max": 0.1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "chromium",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "cobalt",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "copper",
-        "samples": 1,
-        "value": 5,
-        "min": 5,
-        "max": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "mercury",
-        "samples": 1,
-        "value": 0.06,
-        "min": 0.06,
-        "max": 0.06,
-        "uom": "ug/l"
-      },
-      {
-        "code": "lead",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "nickel",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "selenium",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "tin",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "vanadium",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "silver",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "zinc",
-        "samples": 1,
-        "value": 5,
-        "min": 5,
-        "max": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "samples": 1,
-        "value": 0.12,
-        "min": 0.12,
-        "max": 0.12,
-        "uom": "mg/l"
-      },
-      {
-        "code": "cyanide",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "pt_co",
-        "samples": 4,
-        "value": 6,
-        "min": 5,
-        "max": 6,
-        "uom": "mg/l"
-      },
-      {
-        "code": "trihalomethanes",
-        "samples": 1,
-        "value": 0.1,
-        "min": 0.1,
-        "max": 0.1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "coli",
-        "samples": 52,
-        "value": 0,
-        "min": 0,
-        "max": 0,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "samples": 52,
-        "value": 0,
-        "min": 0,
-        "max": 0,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "aeromonas",
-        "samples": 4,
-        "value": 1,
-        "min": 0,
-        "max": 3,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "legionella",
-        "samples": 2,
-        "value": 100,
-        "min": 100,
-        "max": 100,
-        "uom": "cfu/l"
-      },
-      {
-        "code": "clostridium",
-        "samples": 4,
-        "value": 0,
-        "min": 0,
-        "max": 0,
-        "uom": "cfu/dl"
-      }
-    ],
-    "year": "2015",
-    "sources": [
-      "https://brabantwater.nl/PompStationInfo/Drinkwaterkwaliteit%20Dorst%202015.pdf"
-    ],
-    "zones": [
-      "breda",
-      "alphen_chaam",
-      "oosterhout",
-      "etten_leur",
-      "moerdijk",
-      "drimmelen"
-    ],
-    "plants": [
-      "dorst"
     ]
   },
   {
@@ -2464,7 +2051,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 1,
         "min": 1,
@@ -2488,7 +2075,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 61,
         "min": 61,
@@ -2647,6 +2234,419 @@
     ],
     "plants": [
       "eindhoven"
+    ]
+  },
+  {
+    "name": "Drinkwaterkwaliteit Dorst 2015",
+    "issued": "2015-12-31T23:59:00.000Z",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "samples": 13,
+        "value": 12.6,
+        "min": 12.3,
+        "max": 12.9,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "samples": 52,
+        "value": 9.3,
+        "min": 8.6,
+        "max": 9.9,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "samples": 52,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.11,
+        "uom": "ftu"
+      },
+      {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "Bq/l"
+      },
+      {
+        "code": "acidity",
+        "samples": 51,
+        "value": 7.83,
+        "min": 7.8,
+        "max": 7.88,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "samples": 4,
+        "value": 0.48,
+        "min": 0.45,
+        "max": 0.51,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "samples": 13,
+        "value": 39.29,
+        "min": 38.5,
+        "max": 39.8,
+        "uom": "mS/m"
+      },
+      {
+        "code": "carbondioxide",
+        "samples": 4,
+        "value": 5.9,
+        "min": 5.5,
+        "max": 6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "bicarbonate",
+        "samples": 4,
+        "value": 248,
+        "min": 241,
+        "max": 254,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "samples": 4,
+        "value": 19.8,
+        "min": 18.9,
+        "max": 20.3,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "samples": 4,
+        "value": 2,
+        "min": 2,
+        "max": 2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "samples": 4,
+        "value": 14,
+        "min": 14,
+        "max": 15,
+        "uom": "mg/l"
+      },
+      {
+        "code": "kalium",
+        "samples": 4,
+        "value": 5.1,
+        "min": 5,
+        "max": 5.3,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "samples": 4,
+        "value": 65,
+        "min": 63,
+        "max": 66,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "samples": 4,
+        "value": 7.3,
+        "min": 7.1,
+        "max": 7.3,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "samples": 4,
+        "value": 1.92,
+        "min": 1.88,
+        "max": 1.95,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "samples": 52,
+        "value": 0.03,
+        "min": 0.03,
+        "max": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrite",
+        "samples": 52,
+        "value": 0.01,
+        "min": 0.01,
+        "max": 0.04,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "samples": 4,
+        "value": 2.1,
+        "min": 2,
+        "max": 2.1,
+        "uom": "mg/l"
+      },
+      {
+        "code": "silicate",
+        "samples": 1,
+        "value": 17.7,
+        "min": 17.7,
+        "max": 17.7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "samples": 52,
+        "value": 10,
+        "min": 10,
+        "max": 10,
+        "uom": "ug/l"
+      },
+      {
+        "code": "manganese",
+        "samples": 52,
+        "value": 10,
+        "min": 10,
+        "max": 10,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "arsenic",
+        "samples": 4,
+        "value": 5.7,
+        "min": 5.3,
+        "max": 6.1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "barium",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "boron",
+        "samples": 1,
+        "value": 71,
+        "min": 71,
+        "max": 71,
+        "uom": "ug/l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "mercury",
+        "samples": 1,
+        "value": 0.06,
+        "min": 0.06,
+        "max": 0.06,
+        "uom": "ug/l"
+      },
+      {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "samples": 1,
+        "value": 0.12,
+        "min": 0.12,
+        "max": 0.12,
+        "uom": "mg/l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "pt_co",
+        "samples": 4,
+        "value": 6,
+        "min": 5,
+        "max": 6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "trihalomethanes",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 4,
+        "value": 1,
+        "min": 0,
+        "max": 3,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu/l"
+      },
+      {
+        "code": "clostridium",
+        "samples": 4,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu/dl"
+      }
+    ],
+    "year": "2015",
+    "sources": [
+      "https://brabantwater.nl/PompStationInfo/Drinkwaterkwaliteit%20Dorst%202015.pdf"
+    ],
+    "zones": [
+      "breda",
+      "alphen_chaam",
+      "oosterhout",
+      "etten_leur",
+      "moerdijk",
+      "drimmelen"
+    ],
+    "plants": [
+      "dorst"
     ]
   },
   {
@@ -2846,7 +2846,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 1,
         "min": 1,
@@ -2870,7 +2870,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 97,
         "min": 97,
@@ -3263,7 +3263,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 1,
         "min": 1,
@@ -3287,7 +3287,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 90,
         "min": 90,
@@ -3677,7 +3677,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 1,
         "min": 1,
@@ -3701,7 +3701,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 23,
         "min": 23,
@@ -4051,7 +4051,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 1,
         "min": 1,
@@ -4075,7 +4075,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 66,
         "min": 66,
@@ -4434,7 +4434,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 1,
         "min": 1,
@@ -4458,7 +4458,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 82,
         "min": 82,
@@ -4843,7 +4843,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 1,
         "min": 1,
@@ -4867,7 +4867,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 4,
         "value": 270,
         "min": 240,
@@ -5257,7 +5257,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 1,
         "min": 1,
@@ -5281,7 +5281,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 5,
         "min": 5,
@@ -5669,7 +5669,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 1,
         "min": 1,
@@ -5693,7 +5693,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 67,
         "min": 67,
@@ -6081,7 +6081,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 1,
         "min": 1,
@@ -6105,7 +6105,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 13,
         "value": 285,
         "min": 250,
@@ -6490,7 +6490,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 1,
         "min": 1,
@@ -6514,7 +6514,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 130,
         "min": 130,
@@ -6902,7 +6902,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 4,
         "value": 5,
         "min": 4.4,
@@ -6926,7 +6926,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 56,
         "min": 56,
@@ -7318,7 +7318,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 2.6,
         "min": 2.6,
@@ -7342,7 +7342,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 17,
         "min": 17,
@@ -7532,6 +7532,411 @@
     ],
     "plants": [
       "prinsenbosch"
+    ]
+  },
+  {
+    "name": "Drinkwaterkwaliteit Schijf 2015",
+    "issued": "2015-12-31T23:59:00.000Z",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "samples": 51,
+        "value": 12,
+        "min": 11.4,
+        "max": 13.1,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "samples": 52,
+        "value": 9.4,
+        "min": 8.7,
+        "max": 10.3,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "samples": 52,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.14,
+        "uom": "ftu"
+      },
+      {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "Bq/l"
+      },
+      {
+        "code": "acidity",
+        "samples": 52,
+        "value": 8.32,
+        "min": 8.16,
+        "max": 8.52,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "samples": 52,
+        "value": 0.65,
+        "min": 0.44,
+        "max": 0.76,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "samples": 52,
+        "value": 40.01,
+        "min": 37.8,
+        "max": 43.9,
+        "uom": "mS/m"
+      },
+      {
+        "code": "carbondioxide",
+        "samples": 34,
+        "value": 1.3,
+        "min": 1,
+        "max": 2.5,
+        "uom": "mg/l"
+      },
+      {
+        "code": "bicarbonate",
+        "samples": 52,
+        "value": 218,
+        "min": 201,
+        "max": 240,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "samples": 4,
+        "value": 34,
+        "min": 30.2,
+        "max": 37.6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "samples": 4,
+        "value": 8,
+        "min": 7,
+        "max": 8,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "samples": 4,
+        "value": 58,
+        "min": 55,
+        "max": 60,
+        "uom": "mg/l"
+      },
+      {
+        "code": "kalium",
+        "samples": 4,
+        "value": 2.1,
+        "min": 1.9,
+        "max": 2.2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "samples": 52,
+        "value": 34,
+        "min": 28,
+        "max": 40,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "samples": 52,
+        "value": 4.6,
+        "min": 3.9,
+        "max": 5.3,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "samples": 52,
+        "value": 1.05,
+        "min": 0.89,
+        "max": 1.2,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "samples": 52,
+        "value": 0.03,
+        "min": 0.03,
+        "max": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrite",
+        "samples": 52,
+        "value": 0.01,
+        "min": 0.01,
+        "max": 0.01,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "samples": 4,
+        "value": 2,
+        "min": 1.9,
+        "max": 2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "silicate",
+        "samples": 1,
+        "value": 22,
+        "min": 22,
+        "max": 22,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "samples": 52,
+        "value": 10,
+        "min": 10,
+        "max": 30,
+        "uom": "ug/l"
+      },
+      {
+        "code": "manganese",
+        "samples": 52,
+        "value": 10,
+        "min": 10,
+        "max": 10,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "arsenic",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "barium",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "boron",
+        "samples": 1,
+        "value": 22,
+        "min": 22,
+        "max": 22,
+        "uom": "ug/l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "mercury",
+        "samples": 1,
+        "value": 0.06,
+        "min": 0.06,
+        "max": 0.06,
+        "uom": "ug/l"
+      },
+      {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "samples": 1,
+        "value": 0.13,
+        "min": 0.13,
+        "max": 0.13,
+        "uom": "mg/l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "pt_co",
+        "samples": 4,
+        "value": 8,
+        "min": 8,
+        "max": 9,
+        "uom": "mg/l"
+      },
+      {
+        "code": "trihalomethanes",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 4,
+        "value": 1,
+        "min": 0,
+        "max": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu/l"
+      },
+      {
+        "code": "clostridium",
+        "samples": 4,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu/dl"
+      }
+    ],
+    "year": "2015",
+    "sources": [
+      "https://brabantwater.nl/PompStationInfo/Drinkwaterkwaliteit%20Schijf%202015.pdf"
+    ],
+    "plants": [
+      "schijf"
     ]
   },
   {
@@ -7739,7 +8144,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 1,
         "min": 1,
@@ -7763,7 +8168,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 31,
         "min": 31,
@@ -7948,411 +8353,6 @@
     ],
     "plants": [
       "roosendaal"
-    ]
-  },
-  {
-    "name": "Drinkwaterkwaliteit Schijf 2015",
-    "issued": "2015-12-31T23:59:00.000Z",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "samples": 51,
-        "value": 12,
-        "min": 11.4,
-        "max": 13.1,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "samples": 52,
-        "value": 9.4,
-        "min": 8.7,
-        "max": 10.3,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "samples": 52,
-        "value": 0.1,
-        "min": 0.1,
-        "max": 0.14,
-        "uom": "ftu"
-      },
-      {
-        "code": "tritium",
-        "samples": 1,
-        "value": 3,
-        "min": 3,
-        "max": 3,
-        "uom": "Bq/l"
-      },
-      {
-        "code": "acidity",
-        "samples": 52,
-        "value": 8.32,
-        "min": 8.16,
-        "max": 8.52,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "samples": 52,
-        "value": 0.65,
-        "min": 0.44,
-        "max": 0.76,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "samples": 52,
-        "value": 40.01,
-        "min": 37.8,
-        "max": 43.9,
-        "uom": "mS/m"
-      },
-      {
-        "code": "carbondioxide",
-        "samples": 34,
-        "value": 1.3,
-        "min": 1,
-        "max": 2.5,
-        "uom": "mg/l"
-      },
-      {
-        "code": "bicarbonate",
-        "samples": 52,
-        "value": 218,
-        "min": 201,
-        "max": 240,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "samples": 4,
-        "value": 34,
-        "min": 30.2,
-        "max": 37.6,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "samples": 4,
-        "value": 8,
-        "min": 7,
-        "max": 8,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "samples": 4,
-        "value": 58,
-        "min": 55,
-        "max": 60,
-        "uom": "mg/l"
-      },
-      {
-        "code": "kalium",
-        "samples": 4,
-        "value": 2.1,
-        "min": 1.9,
-        "max": 2.2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "samples": 52,
-        "value": 34,
-        "min": 28,
-        "max": 40,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "samples": 52,
-        "value": 4.6,
-        "min": 3.9,
-        "max": 5.3,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "samples": 52,
-        "value": 1.05,
-        "min": 0.89,
-        "max": 1.2,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "samples": 52,
-        "value": 0.03,
-        "min": 0.03,
-        "max": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrite",
-        "samples": 52,
-        "value": 0.01,
-        "min": 0.01,
-        "max": 0.01,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "samples": 4,
-        "value": 2,
-        "min": 1.9,
-        "max": 2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "silicate",
-        "samples": 1,
-        "value": 22,
-        "min": 22,
-        "max": 22,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "samples": 52,
-        "value": 10,
-        "min": 10,
-        "max": 30,
-        "uom": "ug/l"
-      },
-      {
-        "code": "manganese",
-        "samples": 52,
-        "value": 10,
-        "min": 10,
-        "max": 10,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "samples": 1,
-        "value": 5,
-        "min": 5,
-        "max": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "antimony",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "arsine",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "barium",
-        "samples": 1,
-        "value": 5,
-        "min": 5,
-        "max": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "beryllium",
-        "samples": 1,
-        "value": 0.5,
-        "min": 0.5,
-        "max": 0.5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "borium",
-        "samples": 1,
-        "value": 22,
-        "min": 22,
-        "max": 22,
-        "uom": "ug/l"
-      },
-      {
-        "code": "cadmium",
-        "samples": 1,
-        "value": 0.1,
-        "min": 0.1,
-        "max": 0.1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "chromium",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "cobalt",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "copper",
-        "samples": 1,
-        "value": 5,
-        "min": 5,
-        "max": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "mercury",
-        "samples": 1,
-        "value": 0.06,
-        "min": 0.06,
-        "max": 0.06,
-        "uom": "ug/l"
-      },
-      {
-        "code": "lead",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "nickel",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "selenium",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "tin",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "vanadium",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "silver",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "zinc",
-        "samples": 1,
-        "value": 5,
-        "min": 5,
-        "max": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "samples": 1,
-        "value": 0.13,
-        "min": 0.13,
-        "max": 0.13,
-        "uom": "mg/l"
-      },
-      {
-        "code": "cyanide",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "pt_co",
-        "samples": 4,
-        "value": 8,
-        "min": 8,
-        "max": 9,
-        "uom": "mg/l"
-      },
-      {
-        "code": "trihalomethanes",
-        "samples": 1,
-        "value": 0.1,
-        "min": 0.1,
-        "max": 0.1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "coli",
-        "samples": 52,
-        "value": 0,
-        "min": 0,
-        "max": 0,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "samples": 52,
-        "value": 0,
-        "min": 0,
-        "max": 0,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "aeromonas",
-        "samples": 4,
-        "value": 1,
-        "min": 0,
-        "max": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "legionella",
-        "samples": 2,
-        "value": 100,
-        "min": 100,
-        "max": 100,
-        "uom": "cfu/l"
-      },
-      {
-        "code": "clostridium",
-        "samples": 4,
-        "value": 0,
-        "min": 0,
-        "max": 0,
-        "uom": "cfu/dl"
-      }
-    ],
-    "year": "2015",
-    "sources": [
-      "https://brabantwater.nl/PompStationInfo/Drinkwaterkwaliteit%20Schijf%202015.pdf"
-    ],
-    "plants": [
-      "schijf"
     ]
   },
   {
@@ -8552,7 +8552,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 1,
         "min": 1,
@@ -8576,7 +8576,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 210,
         "min": 210,
@@ -8973,7 +8973,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 1,
         "min": 1,
@@ -8997,7 +8997,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 38,
         "min": 38,
@@ -9616,7 +9616,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 1,
         "min": 1,
@@ -9640,7 +9640,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 63,
         "min": 63,
@@ -10032,7 +10032,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 1.6,
         "min": 1.6,
@@ -10056,7 +10056,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 47,
         "min": 47,
@@ -10445,7 +10445,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 1,
         "min": 1,
@@ -10469,7 +10469,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 4,
         "value": 285,
         "min": 270,
@@ -10863,7 +10863,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 1,
         "min": 1,
@@ -10887,7 +10887,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 5,
         "min": 5,
@@ -11279,7 +11279,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 1,
         "min": 1,
@@ -11303,7 +11303,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 140,
         "min": 140,
@@ -11748,7 +11748,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 1.6,
         "min": 1.6,
@@ -11772,7 +11772,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 47,
         "min": 47,
@@ -12166,7 +12166,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 1,
         "min": 1,
@@ -12190,7 +12190,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 74,
         "min": 74,
@@ -12529,7 +12529,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 8,
         "value": 1.1,
         "uom": "ug/l"
@@ -12547,7 +12547,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 73,
         "uom": "ug/l"
@@ -12855,7 +12855,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 2,
         "value": 1,
         "min": 1,
@@ -13088,7 +13088,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 0.83,
         "min": 0.83,
@@ -13318,7 +13318,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 10,
         "value": 2,
         "min": 1,
@@ -13548,7 +13548,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 0.5,
         "min": 0.5,
@@ -13779,7 +13779,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 1,
         "min": 1,
@@ -13964,13 +13964,13 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 0.5,
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 280,
         "uom": "ug/l"
@@ -14154,7 +14154,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 2,
         "value": 0.5,
         "uom": "ug/l"
@@ -14370,7 +14370,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 1,
         "min": 1,
@@ -14574,7 +14574,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 3,
         "value": 290,
         "min": 250,
@@ -14798,7 +14798,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 1,
         "min": 1,
@@ -14985,7 +14985,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 4.4,
         "uom": "ug/l"
@@ -15189,7 +15189,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 2.4,
         "uom": "ug/l"
@@ -15207,7 +15207,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 20,
         "uom": "ug/l"
@@ -15474,7 +15474,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 0.5,
         "uom": "ug/l"
@@ -15686,7 +15686,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 0.68,
         "min": 0.68,
@@ -15907,7 +15907,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 0.5,
         "min": 0.5,
@@ -16547,7 +16547,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 0.5,
         "min": 0.5,
@@ -16571,7 +16571,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 61,
         "min": 61,
@@ -16923,7 +16923,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 7,
         "value": 2.69,
         "min": 2.3,
@@ -17152,7 +17152,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 0.5,
         "min": 0.5,
@@ -17160,7 +17160,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 290,
         "min": 290,
@@ -17426,7 +17426,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 0.5,
         "min": 0.5,
@@ -17450,7 +17450,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 5,
         "min": 5,
@@ -17802,7 +17802,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 0.5,
         "min": 0.5,
@@ -18061,7 +18061,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 10,
         "value": 2,
         "min": 1,
@@ -18085,7 +18085,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 500,
         "value": 1,
         "min": 52,
@@ -18415,7 +18415,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 1.5,
         "uom": "ug/l"
@@ -18433,7 +18433,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "borium",
+        "code": "boron",
         "samples": 1,
         "value": 51,
         "uom": "ug/l"
@@ -18737,7 +18737,7 @@
         "uom": "ug/l"
       },
       {
-        "code": "arsine",
+        "code": "arsenic",
         "samples": 1,
         "value": 0.5,
         "min": 0.5,

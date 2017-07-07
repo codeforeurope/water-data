@@ -86,8 +86,8 @@ function parsecsv(filename, cb){
     } else {
       switch (jsonObj.field1) {
         case 'Aluminium': code = 'aluminum'; break;
-        case 'Arseen': code = 'arsine'; break;
-        case 'Boor': code = 'borium'; break;
+        case 'Arseen': code = 'arsenic'; break;
+        case 'Boor': code = 'boron'; break;
         case 'Calcium': code = 'calcium'; break;
         case 'Chloride': code = 'chloride'; break;
         case 'Koolstofdioxide': code = 'carbondioxide'; break;

@@ -7467,6 +7467,1254 @@
     ]
   },
   {
+    "name": "evides-waterkwaliteit-midden-zeeland APR 2016",
+    "issued": "2016-04-30T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 11.4,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 8.7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.05,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 7.81,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.35,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 41.8,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 222,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 56,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 3.9,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.55,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 10,
+        "uom": "ug/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "midden_zeeland"
+    ],
+    "plants": [
+      "huijbergen",
+      "ossendrecht"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-midden-zeeland MEI 2016",
+    "issued": "2016-05-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 11.8,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 8.9,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.05,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 7.81,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.35,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 41.9,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 222,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 29,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 25,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 38,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 55,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 3.8,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.52,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 10,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "value": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.07,
+        "uom": "mg/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "midden_zeeland"
+    ],
+    "plants": [
+      "huijbergen",
+      "ossendrecht"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-midden-zeeland JUN 2016",
+    "issued": "2016-06-30T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 12,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 8.9,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.05,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 7.78,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.34,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 42.1,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 224,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 58,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 3.8,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.61,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 10,
+        "uom": "ug/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "midden_zeeland"
+    ],
+    "plants": [
+      "huijbergen",
+      "ossendrecht"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-midden-zeeland JUL 2016",
+    "issued": "2016-07-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 11.7,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 8.9,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.05,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 7.82,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.34,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 42,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 225,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 53,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 3.7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.46,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 10,
+        "uom": "ug/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "midden_zeeland"
+    ],
+    "plants": [
+      "huijbergen",
+      "ossendrecht"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-midden-zeeland AUG 2016",
+    "issued": "2016-08-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 12.1,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 9.1,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.1,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 7.84,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.36,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 41.5,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 220,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 30,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 24,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 38,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 54,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 3.8,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.5,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 1.9,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 10,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "value": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.12,
+        "uom": "mg/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "midden_zeeland"
+    ],
+    "plants": [
+      "huijbergen",
+      "ossendrecht"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-midden-zeeland SEP 2016",
+    "issued": "2016-09-30T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 12.3,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 8.7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.1,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 7.89,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.38,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 40.6,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 215,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 51,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 4,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.44,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 10,
+        "uom": "ug/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "midden_zeeland"
+    ],
+    "plants": [
+      "huijbergen",
+      "ossendrecht"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-midden-zeeland OKT 2016",
+    "issued": "2016-10-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 11.8,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 9,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.05,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 7.93,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.43,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 40.1,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 214,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 52,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 4.1,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.46,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 6,
+        "uom": "ug/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "midden_zeeland"
+    ],
+    "plants": [
+      "huijbergen",
+      "ossendrecht"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-midden-zeeland NOV 2016",
+    "issued": "2016-11-30T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 11.6,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 9.2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.05,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 7.94,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.45,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 40,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 215,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 27,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 20,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 38,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 53,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 4.1,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.48,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 2.2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 8,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "value": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.08,
+        "uom": "mg/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "midden_zeeland"
+    ],
+    "plants": [
+      "huijbergen",
+      "ossendrecht"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-midden-zeeland DEC 2016",
+    "issued": "2016-12-30T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 11.3,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 9.1,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.05,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 7.95,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.45,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 39.9,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 219,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 52,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 4.2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.47,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 7,
+        "uom": "ug/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "midden_zeeland"
+    ],
+    "plants": [
+      "huijbergen",
+      "ossendrecht"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-midden-zeeland JAN 2017",
+    "issued": "2017-01-31T23:59:00.000Z",
+    "year": "2017",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 11.1,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 9.2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.1,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 7.98,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.46,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 39.9,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 213,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 50,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 4.2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.43,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 6,
+        "uom": "ug/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "midden_zeeland"
+    ],
+    "plants": [
+      "huijbergen",
+      "ossendrecht"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-midden-zeeland FEB 2017",
+    "issued": "2017-02-28T23:59:00.000Z",
+    "year": "2017",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 11.2,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 8.7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.05,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 7.89,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.42,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 40.6,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 221,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 27,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 24,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 34,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 54,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 4.1,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.53,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 1.8,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 6,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "value": 6,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.08,
+        "uom": "mg/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "midden_zeeland"
+    ],
+    "plants": [
+      "huijbergen",
+      "ossendrecht"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-midden-zeeland MRT 2017",
+    "issued": "2017-03-31T23:59:00.000Z",
+    "year": "2017",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 11.3,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 8.7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.05,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 7.9,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.44,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 40.6,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 217,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 57,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 4.3,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.54,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 6,
+        "uom": "ug/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "midden_zeeland"
+    ],
+    "plants": [
+      "huijbergen",
+      "ossendrecht"
+    ]
+  },
+  {
     "name": "evides-waterkwaliteit-kralingen APR 2016",
     "issued": "2016-04-30T23:59:00.000Z",
     "year": "2016",
@@ -9060,1254 +10308,6 @@
     ],
     "plants": [
       "halsteren"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-midden-zeeland APR 2016",
-    "issued": "2016-04-30T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 11.4,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 8.7,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.05,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 7.81,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.35,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 41.8,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 222,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 56,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 3.9,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.55,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 10,
-        "uom": "ug/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 6,
-        "uom": "mg/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "midden_zeeland"
-    ],
-    "plants": [
-      "huijbergen",
-      "ossendrecht"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-midden-zeeland MEI 2016",
-    "issued": "2016-05-31T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 11.8,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 8.9,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.05,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 7.81,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.35,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 41.9,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 222,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 29,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 25,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 38,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 55,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 3.8,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.52,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 10,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "value": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.07,
-        "uom": "mg/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 6,
-        "uom": "mg/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "midden_zeeland"
-    ],
-    "plants": [
-      "huijbergen",
-      "ossendrecht"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-midden-zeeland JUN 2016",
-    "issued": "2016-06-30T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 12,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 8.9,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.05,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 7.78,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.34,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 42.1,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 224,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 58,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 3.8,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.61,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 10,
-        "uom": "ug/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 6,
-        "uom": "mg/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "midden_zeeland"
-    ],
-    "plants": [
-      "huijbergen",
-      "ossendrecht"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-midden-zeeland JUL 2016",
-    "issued": "2016-07-31T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 11.7,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 8.9,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.05,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 7.82,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.34,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 42,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 225,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 53,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 3.7,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.46,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 10,
-        "uom": "ug/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 6,
-        "uom": "mg/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "midden_zeeland"
-    ],
-    "plants": [
-      "huijbergen",
-      "ossendrecht"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-midden-zeeland AUG 2016",
-    "issued": "2016-08-31T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 12.1,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 9.1,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.1,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 7.84,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.36,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 41.5,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 220,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 30,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 24,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 38,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 54,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 3.8,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.5,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 1.9,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 10,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "value": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.12,
-        "uom": "mg/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 6,
-        "uom": "mg/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "midden_zeeland"
-    ],
-    "plants": [
-      "huijbergen",
-      "ossendrecht"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-midden-zeeland SEP 2016",
-    "issued": "2016-09-30T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 12.3,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 8.7,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.1,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 7.89,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.38,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 40.6,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 215,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 51,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 4,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.44,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 10,
-        "uom": "ug/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 6,
-        "uom": "mg/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "midden_zeeland"
-    ],
-    "plants": [
-      "huijbergen",
-      "ossendrecht"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-midden-zeeland OKT 2016",
-    "issued": "2016-10-31T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 11.8,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 9,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.05,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 7.93,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.43,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 40.1,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 214,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 52,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 4.1,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.46,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 6,
-        "uom": "ug/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 7,
-        "uom": "mg/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "midden_zeeland"
-    ],
-    "plants": [
-      "huijbergen",
-      "ossendrecht"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-midden-zeeland NOV 2016",
-    "issued": "2016-11-30T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 11.6,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 9.2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.05,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 7.94,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.45,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 40,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 215,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 27,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 20,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 38,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 53,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 4.1,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.48,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 2.2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 8,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "value": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.08,
-        "uom": "mg/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 7,
-        "uom": "mg/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "midden_zeeland"
-    ],
-    "plants": [
-      "huijbergen",
-      "ossendrecht"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-midden-zeeland DEC 2016",
-    "issued": "2016-12-30T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 11.3,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 9.1,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.05,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 7.95,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.45,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 39.9,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 219,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 52,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 4.2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.47,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 7,
-        "uom": "ug/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 7,
-        "uom": "mg/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "midden_zeeland"
-    ],
-    "plants": [
-      "huijbergen",
-      "ossendrecht"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-midden-zeeland JAN 2017",
-    "issued": "2017-01-31T23:59:00.000Z",
-    "year": "2017",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 11.1,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 9.2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.1,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 7.98,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.46,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 39.9,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 213,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 50,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 4.2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.43,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 6,
-        "uom": "ug/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 6,
-        "uom": "mg/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "midden_zeeland"
-    ],
-    "plants": [
-      "huijbergen",
-      "ossendrecht"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-midden-zeeland FEB 2017",
-    "issued": "2017-02-28T23:59:00.000Z",
-    "year": "2017",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 11.2,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 8.7,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.05,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 7.89,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.42,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 40.6,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 221,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 27,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 24,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 34,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 54,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 4.1,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.53,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 1.8,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 6,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "value": 6,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.08,
-        "uom": "mg/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 6,
-        "uom": "mg/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "midden_zeeland"
-    ],
-    "plants": [
-      "huijbergen",
-      "ossendrecht"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-midden-zeeland MRT 2017",
-    "issued": "2017-03-31T23:59:00.000Z",
-    "year": "2017",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 11.3,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 8.7,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.05,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 7.9,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.44,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 40.6,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 217,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 57,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 4.3,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.54,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 6,
-        "uom": "ug/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 6,
-        "uom": "mg/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "midden_zeeland"
-    ],
-    "plants": [
-      "huijbergen",
-      "ossendrecht"
     ]
   },
   {

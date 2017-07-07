@@ -267,14 +267,14 @@ function parsecsv(filename, cb){
         case 'antimoon':
         case 'Antimoon': code = 'antimony'; break;
         case 'arseen': //Drinkwaterkwaliteit
-        case 'Arseen': code = 'arsine'; break;
+        case 'Arseen': code = 'arsenic'; break;
         // Organische koolstof, totaal
         case 'Barium':
         case 'barium': code = 'barium'; break;
         case 'Beryllium':
         case 'beryllium': code = 'beryllium'; break;
         case 'Boor':
-        case 'boor': code = 'borium'; break;
+        case 'boor': code = 'boron'; break;
         case 'cadmium':
         case 'Cadmium': code = 'cadmium'; break; //Drinkwaterkwaliteit only
         case 'chroom':

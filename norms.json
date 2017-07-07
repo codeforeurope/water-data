@@ -1,11 +1,65 @@
 [
   {
-    "name": "US",
+    "name": "WHO",
+    "description": "List of WHO guidelines for chemicals held in GEMStat",
     "observations": [
+      {"max": 1.5, "uom": "mg/l", "code": "ammonium" },
+      {"min": 6.5, "max": 8, "uom": "pH", "code": "acidity" },
+      {"max": 250, "uom": "mg/l", "code": "chloride" },
+      {"max": 0.3, "uom": "mg/l", "code": "iron" },
+      {"max": 0.01, "uom": "mg/l", "code": "lead" },
+      {"max": 0.01, "uom": "mg/l", "code": "arsenic" },
+      {"min": 2, "uom": "mg/l", "code": "copper" },
+      {"max": 0, "uom": "cfu/dl", "code": "coli" }
+    ],
+    "sources":[
+      "http://www.un.org/waterforlifedecade/pdf/global_drinking_water_quality_index.pdf"
+    ]
+  },
+  {
+    "name": "EU",
+    "description": "EU Drinking Water Directive",
+    "observations":[
+      {"max": 0.5, "uom": "mg/l", "code": "ammonium" },
+      {"min": 6.5, "max": 8, "uom": "pH", "code": "acidity" },
+      {"max": 240, "uom": "mg/l", "code": "chloride" },
+      {"max": 0.2, "uom": "mg/l", "code": "iron" },
+      {"max": 0.01, "uom": "mg/l", "code": "lead" },
+      {"max": 0.01, "uom": "mg/l", "code": "arsenic" },
+      {"min": 2, "uom": "mg/l", "code": "copper" },
+      {"max": 0, "uom": "cfu/dl", "code": "coli" },
+      {"max": 0, "uom": "cfu/dl", "code": "e_coli" },
+      {"max": 0, "uom": "cfu/dl", "code": "enterococci" },
+      {"max": 0, "uom": "cfu/dl", "code": "pseudomonas_aeruginosa" },
+      {"max": 100, "uom": "mg/l", "code": "colony_22c" },
+      {"max": 20, "uom": "mg/l", "code": "colony_37c" },
+      {"max": 200, "uom": "mg/l", "code": "natrium" },
+      {"max": 12, "uom": "mg/l", "code": "kalium" },
+      {"max": 400, "uom": "mg/l", "code": "calcium" },
+      {"max": 60, "uom": "mg/l", "code": "nitrate" },
+      {"max": 60, "uom": "mg/l", "code": "magnesium" },
+      {"max": 0, "uom": "mg/l", "code": "fluoride" },
+      {"max": 240, "uom": "mg/l", "code": "sulfate" }
+    ],
+    "sources": [
+      "http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31998L0083",
+      "http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:31998L0083&from=EN"
+    ]
+  },
+  {
+    "name": "US",
+    "description": "Untited States (USEPA) guidelines",
+    "observations": [
+      {"min": 6.5, "max": 8.5, "uom": "pH", "code": "acidity" },
+      {"max": 250, "uom": "mg/l", "code": "chloride" },
+      {"max": 0.3, "uom": "mg/l", "code": "iron" },
+      {"max": 0.015, "uom": "mg/l", "code": "lead" },
+      {"max": 0.01, "uom": "mg/l", "code": "arsenic" },
+      {"min": 1.3, "uom": "mg/l", "code": "copper" },
+      {"max": 0, "uom": "cfu/dl", "code": "coli" },
       {"max": 200, "uom": "mg/l", "code": "natrium" },
       {"max": 50, "uom": "mg/l", "code": "nitrate" },
       {"max": 0, "uom": "mg/l", "code": "fluoride" },
-      {"max": 250, "uom": "mg/l", "code": "chloride" },
       {"max": 250, "uom": "mg/l", "code": "sulfate" }
     ],
     "sources":[
@@ -15,25 +69,31 @@
     ]
   },
   {
-    "name": "EU",
-    "observations":[
-      {"max": 200, "uom": "mg/l", "code": "natrium" },
-      {"max": 12, "uom": "mg/l", "code": "kalium" },
-      {"max": 400, "uom": "mg/l", "code": "calcium" },
-      {"max": 60, "uom": "mg/l", "code": "nitrate" },
-      {"max": 60, "uom": "mg/l", "code": "magnesium" },
-      {"max": 0, "uom": "mg/l", "code": "fluoride" },
-      {"max": 240, "uom": "mg/l", "code": "chloride" },
-      {"max": 240, "uom": "mg/l", "code": "sulfate" }
+    "name": "AUS",
+    "description": "Australian guidelines",
+    "observations": [
+      {"max": 0.5, "uom": "mg/l", "code": "ammonium" },
+      {"min": 6.5, "max": 8.5, "uom": "pH", "code": "acidity" },
+      {"max": 250, "uom": "mg/l", "code": "chloride" },
+      {"max": 0.3, "uom": "mg/l", "code": "iron" },
+      {"max": 0.01, "uom": "mg/l", "code": "lead" },
+      {"max": 0.007, "uom": "mg/l", "code": "arsenic" },
+      {"min": 2, "uom": "mg/l", "code": "copper" }
+    ],
+    "sources":[
+      "https://www.nhmrc.gov.au/guidelines-publications/eh52",
+      "https://www.nhmrc.gov.au/_files_nhmrc/file/publications/nhmrc_adwg_6_version_3.3_2.pdf",
+      "https://www.nhmrc.gov.au/_files_nhmrc/file/publications/adwg_process_report_2.pdf"
     ]
   },
+
   {
     "name": "NL",
     "description": "Extracted from reports by Brabant Water and Dunea, the Netherlands",
     "observations":[
       {"max": 0.2, "uom": "mg/l", "code": "aluminum" },
       {"min": 7, "max": 9.5, "uom": "pH", "code": "acidity" },
-      {"max": 0.01, "uom": "mg/l", "code": "arsine" },
+      {"max": 0.01, "uom": "mg/l", "code": "arsenic" },
       {"max": 0.5, "uom": "mg/l", "code": "barium" },
       {"max": 150, "uom": "mg/l", "code": "natrium" },
       {"max": 125, "uom": "mS/m", "code": "conductance" },
@@ -56,7 +116,7 @@
       {"max": 50, "uom": "mg/l", "code": "nitrate" },
       {"max": 25, "uom": "degC", "code": "watertemperature" },
       {"max": 0.01, "uom": "mg/l", "code": "selenium" },
-      {"min": -0.2, "uom": "ph", "code": "saturation" },
+      {"min": -0.2, "uom": "pH", "code": "saturation" },
       {"min": 2, "uom": "mg/l", "code": "copper" },
       {"min": 3, "uom": "mg/l", "code": "zinc" },
       {"min": 0.05, "uom": "mg/l", "code": "cyanide" },
