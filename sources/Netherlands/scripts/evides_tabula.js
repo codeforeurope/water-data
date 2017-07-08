@@ -60,7 +60,7 @@ function parsecsv(filename, cb){
       break;
     case filename.indexOf('kralingen') != -1:
       zones = ['kralingen'];
-      zones = ['plants'];
+      zones = ['kralingen'];
       break;
     case filename.indexOf('midden-zeeland') != -1:
       zones = ['midden_zeeland'];

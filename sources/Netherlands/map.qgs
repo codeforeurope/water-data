@@ -3,24 +3,24 @@
   <title></title>
   <autotransaction active="0"/>
   <evaluateDefaultValues active="0"/>
-  <layer-tree-group expanded="1" checked="Qt::Checked" name="">
+  <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
     <customproperties/>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="drinkwater_plants20170428185719580" source="drinkwater_plants.geojson" name="Drinkwater">
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="drinkwater_plants20170428185719580" source="/home/miblon/data/Development/water-data/sources/Netherlands/drinkwater_plants.geojson" name="Drinkwater">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="operators20170428180342981" source="operators.geojson" name="Operators">
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="operators20170428180342981" source="/home/miblon/data/Development/water-data/sources/Netherlands/operators.geojson" name="Operators">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="wastewater_plants20170428185719588" source="wastewater_plants.geojson" name="Wastewater">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="wastewater_plants20170428185719588" source="/home/miblon/data/Development/water-data/sources/Netherlands/wastewater_plants.geojson" name="Wastewater">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="brabantwater20170620093038734" source="zones/brabantwater.geojson" name="brabantwater OGRGeoJSON Polygon">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="brabantwater20170620093038734" source="/home/miblon/data/Development/water-data/zones/brabantwater.json" name="brabantwater OGRGeoJSON Polygon">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="dunea20170620093039114" source="zones/dunea.geojson" name="dunea OGRGeoJSON Polygon">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Unchecked" id="dunea20170620093039114" source="/home/miblon/data/Development/water-data/zones/dunea.geojson" name="dunea OGRGeoJSON Polygon">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="evides20170620093039197" source="zones/evides.geojson" name="evides OGRGeoJSON MultiPolygon">
+    <layer-tree-layer expanded="1" providerKey="ogr" checked="Qt::Checked" id="evides20170620093039197" source="/home/miblon/data/Development/water-data/zones/evides.geojson" name="evides OGRGeoJSON Polygon">
       <customproperties/>
     </layer-tree-layer>
   </layer-tree-group>
@@ -28,10 +28,10 @@
   <mapcanvas>
     <units>meters</units>
     <extent>
-      <xmin>414175.36077108490280807</xmin>
-      <ymin>6616093.51069603022187948</ymin>
-      <xmax>642549.409730653045699</xmax>
-      <ymax>6869848.08430595230311155</ymax>
+      <xmin>451485.75190067099174485</xmin>
+      <ymin>6758706.10636665392667055</ymin>
+      <xmax>508579.26414056302746758</xmax>
+      <ymax>6822144.74976914096623659</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -88,12 +88,12 @@
         <legendlayerfile isInOverview="0" layerid="brabantwater20170620093038734" visible="1"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="dunea OGRGeoJSON Polygon" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="dunea OGRGeoJSON Polygon" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="dunea20170620093039114" visible="1"/>
+        <legendlayerfile isInOverview="0" layerid="dunea20170620093039114" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="evides OGRGeoJSON MultiPolygon" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="evides OGRGeoJSON Polygon" showFeatureCount="0">
       <filegroup open="true" hidden="false">
         <legendlayerfile isInOverview="0" layerid="evides20170620093039197" visible="1"/>
       </filegroup>
@@ -102,7 +102,7 @@
   <projectlayers>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>brabantwater20170620093038734</id>
-      <datasource>./zones/brabantwater.geojson</datasource>
+      <datasource>../../zones/brabantwater.json</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -330,6 +330,7 @@
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="Cantarell,11,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -408,6 +409,12 @@ def my_form_open(dialog, layer, feature):
       <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>3.70001148484000009</xmin>
+        <ymin>50.97917760237000095</ymin>
+        <xmax>7.1282173441700003</xmax>
+        <ymax>53.4834847569799976</ymax>
+      </extent>
       <id>drinkwater_plants20170428185719580</id>
       <datasource>./drinkwater_plants.geojson</datasource>
       <keywordList>
@@ -440,6 +447,9 @@ def my_form_open(dialog, layer, feature):
         <edittype widgetv2type="TextEdit" name="versionid">
           <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
+        <edittype widgetv2type="TextEdit" name="operator">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
         <edittype widgetv2type="TextEdit" name="ijzer_ug_l">
           <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
@@ -459,9 +469,6 @@ def my_form_open(dialog, layer, feature):
           <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
         <edittype widgetv2type="TextEdit" name="kwik_ug_l">
-          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
-        </edittype>
-        <edittype widgetv2type="TextEdit" name="operator">
           <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
         </edittype>
       </edittypes>
@@ -747,8 +754,6 @@ def my_form_open(dialog, layer, feature):
             </layer>
           </symbol>
         </source-symbol>
-        <colorramp type="randomcolors" name="[source]"/>
-        <invertedcolorramp value="0"/>
         <rotation/>
         <sizescale scalemethod="diameter"/>
       </renderer-v2>
@@ -954,14 +959,14 @@ def my_form_open(dialog, layer, feature):
       <aliases>
         <alias field="inspireid" index="0" name=""/>
         <alias field="versionid" index="1" name=""/>
-        <alias field="ijzer_ug_l" index="2" name=""/>
-        <alias field="toc_mg_l" index="3" name=""/>
-        <alias field="name" index="4" name=""/>
-        <alias field="quality_re" index="5" name=""/>
-        <alias field="koper_ug_l" index="6" name=""/>
-        <alias field="lood_ug_l" index="7" name=""/>
-        <alias field="kwik_ug_l" index="8" name=""/>
-        <alias field="operator" index="9" name=""/>
+        <alias field="operator" index="2" name=""/>
+        <alias field="ijzer_ug_l" index="3" name=""/>
+        <alias field="toc_mg_l" index="4" name=""/>
+        <alias field="name" index="5" name=""/>
+        <alias field="quality_re" index="6" name=""/>
+        <alias field="koper_ug_l" index="7" name=""/>
+        <alias field="lood_ug_l" index="8" name=""/>
+        <alias field="kwik_ug_l" index="9" name=""/>
       </aliases>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
@@ -1012,6 +1017,7 @@ def my_form_open(dialog, layer, feature):
       <defaults>
         <default field="inspireid" expression=""/>
         <default field="versionid" expression=""/>
+        <default field="operator" expression=""/>
         <default field="ijzer_ug_l" expression=""/>
         <default field="toc_mg_l" expression=""/>
         <default field="name" expression=""/>
@@ -1019,13 +1025,12 @@ def my_form_open(dialog, layer, feature):
         <default field="koper_ug_l" expression=""/>
         <default field="lood_ug_l" expression=""/>
         <default field="kwik_ug_l" expression=""/>
-        <default field="operator" expression=""/>
       </defaults>
       <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>dunea20170620093039114</id>
-      <datasource>./zones/dunea.geojson</datasource>
+      <datasource>../../zones/dunea.geojson</datasource>
       <keywordList>
         <value></value>
       </keywordList>
@@ -1247,6 +1252,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="Cantarell,11,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -1320,11 +1326,11 @@ def my_form_open(dialog, layer, feature):
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>evides20170620093039197</id>
-      <datasource>./zones/evides.geojson</datasource>
+      <datasource>../../zones/evides.geojson</datasource>
       <keywordList>
         <value></value>
       </keywordList>
-      <layername>evides OGRGeoJSON MultiPolygon</layername>
+      <layername>evides OGRGeoJSON Polygon</layername>
       <srs>
         <spatialrefsys>
           <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
@@ -1548,6 +1554,7 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
           <fontProperties description="Cantarell,11,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
         <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
           <layer pass="0" class="SimpleMarker" locked="0">
@@ -1863,8 +1870,6 @@ def my_form_open(dialog, layer, feature):
             </layer>
           </symbol>
         </source-symbol>
-        <colorramp type="randomcolors" name="[source]"/>
-        <invertedcolorramp value="0"/>
         <rotation/>
         <sizescale scalemethod="diameter"/>
       </renderer-v2>
@@ -2116,6 +2121,12 @@ def my_form_open(dialog, layer, feature):
       <previewExpression></previewExpression>
     </maplayer>
     <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <extent>
+        <xmin>3.3795229</xmin>
+        <ymin>50.81365329999999858</ymin>
+        <xmax>7.17267809999999972</xmax>
+        <ymax>53.47698849999999737</ymax>
+      </extent>
       <id>wastewater_plants20170428185719588</id>
       <datasource>./wastewater_plants.geojson</datasource>
       <keywordList>

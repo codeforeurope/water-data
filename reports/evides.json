@@ -7467,6 +7467,1602 @@
     ]
   },
   {
+    "name": "evides-waterkwaliteit-kralingen APR 2016",
+    "issued": "2016-04-30T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 9.4,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 14,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.05,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 7.92,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.15,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 43.2,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 121,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 56.5,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 53,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 34,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 50,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 7.4,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.56,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 12.1,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 10,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "value": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.19,
+        "uom": "mg/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "trihalomethanes",
+        "value": 4.4,
+        "uom": "ug/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "enterococci",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "kralingen"
+    ],
+    "plants": [
+      "halsteren"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-kralingen MEI 2016",
+    "issued": "2016-05-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 12.9,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 12.5,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.05,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 8.07,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.27,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 42.1,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 127,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 52.5,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 46,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 34,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 46,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 6.7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.41,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 12,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 10,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "value": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.18,
+        "uom": "mg/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "trihalomethanes",
+        "value": 3.9,
+        "uom": "ug/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "enterococci",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "kralingen"
+    ],
+    "plants": [
+      "halsteren"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-kralingen JUN 2016",
+    "issued": "2016-06-30T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 17.4,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 10.2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.05,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 8.02,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.28,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 42.8,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 139,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 51.3,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 43,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 33,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 47,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 6.9,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.45,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 11.6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 10,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "value": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.16,
+        "uom": "mg/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "trihalomethanes",
+        "value": 3,
+        "uom": "ug/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "enterococci",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "kralingen"
+    ],
+    "plants": [
+      "halsteren"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-kralingen JUL 2016",
+    "issued": "2016-07-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 19.7,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 6.8,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.05,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 8.04,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.23,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 40.6,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 128,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 48.1,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 41,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 32,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 43,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 6.6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.33,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 11,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 10,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "value": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.14,
+        "uom": "mg/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "trihalomethanes",
+        "value": 2.8,
+        "uom": "ug/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "enterococci",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "kralingen"
+    ],
+    "plants": [
+      "halsteren"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-kralingen AUG 2016",
+    "issued": "2016-08-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 20.7,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 6.6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.05,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 8.06,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.31,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 41,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 137,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 48.2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 42,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 32,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 46,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 6.8,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.42,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 8.9,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 10,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "value": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.16,
+        "uom": "mg/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "trihalomethanes",
+        "value": 2.6,
+        "uom": "ug/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "enterococci",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "kralingen"
+    ],
+    "plants": [
+      "halsteren"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-kralingen SEP 2016",
+    "issued": "2016-09-30T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 21.2,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 6.3,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.1,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 8.1,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.39,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 42.1,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 145,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 49.4,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 42,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 33,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 48,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.49,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 8.7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 10,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "value": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.19,
+        "uom": "mg/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "trihalomethanes",
+        "value": 2.6,
+        "uom": "ug/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "enterococci",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "kralingen"
+    ],
+    "plants": [
+      "halsteren"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-kralingen OKT 2016",
+    "issued": "2016-10-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 16.4,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 7.7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.1,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 7.99,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.3,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 42.9,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 143,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 51.4,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 43,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 33,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 52,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 7.2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.58,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 8.7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 10,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "value": 1.2,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.18,
+        "uom": "mg/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "trihalomethanes",
+        "value": 2.8,
+        "uom": "ug/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "enterococci",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "kralingen"
+    ],
+    "plants": [
+      "halsteren"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-kralingen NOV 2016",
+    "issued": "2016-11-30T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 11.7,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 9.3,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.05,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 7.89,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.18,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 43.3,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 136,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 54,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 46,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 33,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 52,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 7.5,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.6,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 8.9,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "value": 3,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.16,
+        "uom": "mg/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "trihalomethanes",
+        "value": 3.1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "enterococci",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "kralingen"
+    ],
+    "plants": [
+      "halsteren"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-kralingen DEC 2016",
+    "issued": "2016-12-30T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 7.8,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 10.8,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.05,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 7.83,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.06,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 44.4,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 126,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 56.4,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 49,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 36,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 48,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 7.5,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.52,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 9.6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "value": 1.2,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.19,
+        "uom": "mg/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "trihalomethanes",
+        "value": 3.4,
+        "uom": "ug/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "enterococci",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "kralingen"
+    ],
+    "plants": [
+      "halsteren"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-kralingen JAN 2017",
+    "issued": "2017-01-31T23:59:00.000Z",
+    "year": "2017",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 5.5,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 11.2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.05,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 7.83,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.06,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 45.9,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 123,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 60.4,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 54,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 39,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 49,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 8,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.56,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 10.2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "value": 1.2,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.16,
+        "uom": "mg/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 3,
+        "uom": "mg/l"
+      },
+      {
+        "code": "trihalomethanes",
+        "value": 2.8,
+        "uom": "ug/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "enterococci",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "kralingen"
+    ],
+    "plants": [
+      "halsteren"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-kralingen FEB 2017",
+    "issued": "2017-02-28T23:59:00.000Z",
+    "year": "2017",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 4.4,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 14.2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.1,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 7.84,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.04,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 46.8,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 120,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 62.2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 58,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 40,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 48,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 7.8,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.52,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.06,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 10.9,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "value": 10,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.17,
+        "uom": "mg/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 3,
+        "uom": "mg/l"
+      },
+      {
+        "code": "trihalomethanes",
+        "value": 2.2,
+        "uom": "ug/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "enterococci",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "kralingen"
+    ],
+    "plants": [
+      "halsteren"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-kralingen MRT 2017",
+    "issued": "2017-03-31T23:59:00.000Z",
+    "year": "2017",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 6.4,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 12,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.05,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 7.74,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": -0.06,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 47.8,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 116,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 66.7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 58,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 40,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 50,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 8.2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.59,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 11.8,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "value": 1.2,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.16,
+        "uom": "mg/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "trihalomethanes",
+        "value": 2.3,
+        "uom": "ug/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "enterococci",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "kralingen"
+    ],
+    "plants": [
+      "halsteren"
+    ]
+  },
+  {
     "name": "evides-waterkwaliteit-midden-zeeland APR 2016",
     "issued": "2016-04-30T23:59:00.000Z",
     "year": "2016",
@@ -8712,1602 +10308,6 @@
     "plants": [
       "huijbergen",
       "ossendrecht"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-kralingen APR 2016",
-    "issued": "2016-04-30T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 9.4,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 14,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.05,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 7.92,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.15,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 43.2,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 121,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 56.5,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 53,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 34,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 50,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 7.4,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.56,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 12.1,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 10,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "value": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.19,
-        "uom": "mg/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "trihalomethanes",
-        "value": 4.4,
-        "uom": "ug/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "enterococci",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "plants"
-    ],
-    "plants": [
-      "halsteren"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-kralingen MEI 2016",
-    "issued": "2016-05-31T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 12.9,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 12.5,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.05,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 8.07,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.27,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 42.1,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 127,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 52.5,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 46,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 34,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 46,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 6.7,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.41,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 12,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 10,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "value": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.18,
-        "uom": "mg/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "trihalomethanes",
-        "value": 3.9,
-        "uom": "ug/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "enterococci",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "plants"
-    ],
-    "plants": [
-      "halsteren"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-kralingen JUN 2016",
-    "issued": "2016-06-30T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 17.4,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 10.2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.05,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 8.02,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.28,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 42.8,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 139,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 51.3,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 43,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 33,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 47,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 6.9,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.45,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 11.6,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 10,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "value": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.16,
-        "uom": "mg/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "trihalomethanes",
-        "value": 3,
-        "uom": "ug/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "enterococci",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "plants"
-    ],
-    "plants": [
-      "halsteren"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-kralingen JUL 2016",
-    "issued": "2016-07-31T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 19.7,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 6.8,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.05,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 8.04,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.23,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 40.6,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 128,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 48.1,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 41,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 32,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 43,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 6.6,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.33,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 11,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 10,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "value": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.14,
-        "uom": "mg/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "trihalomethanes",
-        "value": 2.8,
-        "uom": "ug/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "enterococci",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "plants"
-    ],
-    "plants": [
-      "halsteren"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-kralingen AUG 2016",
-    "issued": "2016-08-31T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 20.7,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 6.6,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.05,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 8.06,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.31,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 41,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 137,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 48.2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 42,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 32,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 46,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 6.8,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.42,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 8.9,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 10,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "value": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.16,
-        "uom": "mg/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "trihalomethanes",
-        "value": 2.6,
-        "uom": "ug/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "enterococci",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "plants"
-    ],
-    "plants": [
-      "halsteren"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-kralingen SEP 2016",
-    "issued": "2016-09-30T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 21.2,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 6.3,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.1,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 8.1,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.39,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 42.1,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 145,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 49.4,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 42,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 33,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 48,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 7,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.49,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 8.7,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 10,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "value": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.19,
-        "uom": "mg/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "trihalomethanes",
-        "value": 2.6,
-        "uom": "ug/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "enterococci",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "plants"
-    ],
-    "plants": [
-      "halsteren"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-kralingen OKT 2016",
-    "issued": "2016-10-31T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 16.4,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 7.7,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.1,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 7.99,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.3,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 42.9,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 143,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 51.4,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 43,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 33,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 52,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 7.2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.58,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 8.7,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 10,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "value": 1.2,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.18,
-        "uom": "mg/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "trihalomethanes",
-        "value": 2.8,
-        "uom": "ug/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "enterococci",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "plants"
-    ],
-    "plants": [
-      "halsteren"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-kralingen NOV 2016",
-    "issued": "2016-11-30T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 11.7,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 9.3,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.05,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 7.89,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.18,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 43.3,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 136,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 54,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 46,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 33,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 52,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 7.5,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.6,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 8.9,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "value": 3,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.16,
-        "uom": "mg/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "trihalomethanes",
-        "value": 3.1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "enterococci",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "plants"
-    ],
-    "plants": [
-      "halsteren"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-kralingen DEC 2016",
-    "issued": "2016-12-30T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 7.8,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 10.8,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.05,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 7.83,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.06,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 44.4,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 126,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 56.4,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 49,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 36,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 48,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 7.5,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.52,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 9.6,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "value": 1.2,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.19,
-        "uom": "mg/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "trihalomethanes",
-        "value": 3.4,
-        "uom": "ug/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "enterococci",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "plants"
-    ],
-    "plants": [
-      "halsteren"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-kralingen JAN 2017",
-    "issued": "2017-01-31T23:59:00.000Z",
-    "year": "2017",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 5.5,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 11.2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.05,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 7.83,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.06,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 45.9,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 123,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 60.4,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 54,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 39,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 49,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 8,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.56,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 10.2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "value": 1.2,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.16,
-        "uom": "mg/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 3,
-        "uom": "mg/l"
-      },
-      {
-        "code": "trihalomethanes",
-        "value": 2.8,
-        "uom": "ug/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "enterococci",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "plants"
-    ],
-    "plants": [
-      "halsteren"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-kralingen FEB 2017",
-    "issued": "2017-02-28T23:59:00.000Z",
-    "year": "2017",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 4.4,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 14.2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.1,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 7.84,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.04,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 46.8,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 120,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 62.2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 58,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 40,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 48,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 7.8,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.52,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.06,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 10.9,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "value": 10,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.17,
-        "uom": "mg/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 3,
-        "uom": "mg/l"
-      },
-      {
-        "code": "trihalomethanes",
-        "value": 2.2,
-        "uom": "ug/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "enterococci",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "plants"
-    ],
-    "plants": [
-      "halsteren"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-kralingen MRT 2017",
-    "issued": "2017-03-31T23:59:00.000Z",
-    "year": "2017",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 6.4,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 12,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.05,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 7.74,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": -0.06,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 47.8,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 116,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 66.7,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 58,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 40,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 50,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 8.2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.59,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 11.8,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "value": 1.2,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.16,
-        "uom": "mg/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "trihalomethanes",
-        "value": 2.3,
-        "uom": "ug/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "enterococci",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "plants"
-    ],
-    "plants": [
-      "halsteren"
     ]
   },
   {
