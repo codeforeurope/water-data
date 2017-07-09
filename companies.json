@@ -4,136 +4,142 @@
     "name": "Wüteria Mineralquellen GmbH & Co. KG",
     "url": "http://wueteria.de",
     "country": "DE",
-    "type": "vendor"
+    "type": "Vendor"
   }, {
     "code": "teusser",
     "name": "Teusser Mineralbrunnen Karl Rössle GmbH & Co KG",
     "url": "http://www.teusser.de",
     "country": "DE",
-    "type": "vendor"
+    "type": "Vendor"
   }, {
     "code": "jointhepipe",
     "name": "Join-The-Pipe",
     "url": "http://join-the-pipe.org",
-    "type": "access"
+    "type": "Access"
   }, {
     "code": "vittel",
     "name": "Vittel",
     "url": "http://www.nestle-waters.com/brands/vittel",
-    "type": "vendor"
+    "type": "Vendor"
   }, {
     "code": "volvic",
     "name": "Volvic",
     "url": "http://www.volvic.fr",
     "country": "FR",
-    "type": "vendor"
+    "type": "Vendor"
   }, {
     "code": "evides",
     "name": "Evides",
     "url": "http://www.evides.nl",
     "country": "NL",
-    "type": "provider"
+    "type": "Provider"
   }, {
     "code": "dunea",
     "name": "Dunea",
     "url": "http://www.dunea.nl",
     "country": "NL",
-    "type": "provider"
+    "type": "Provider"
   }, {
     "code": "brabantwater",
     "name": "Brabant Water",
     "url": "http://www.brabantwater.nl",
     "country": "NL",
-    "type": "provider"
+    "type": "Provider"
   }, {
     "code": "oasen",
     "name": "Oasen",
     "url": "http://www.oasen.nl",
     "country": "NL",
-    "type": "provider"
+    "type": "Provider"
   }, {
     "code": "vitens",
     "name": "Vitens",
     "url": "http://www.vitens.nl",
     "country": "NL",
-    "type": "provider"
+    "type": "Provider"
   }, {
     "code": "waternet",
     "name": "Waternet",
     "url": "http://www.waternet.nl",
     "country": "NL",
-    "type": "provider"
+    "type": "Provider"
   }, {
     "code": "wmd",
     "name": "WMD",
     "url": "http://www.wmd.nl",
     "country": "NL",
-    "type": "provider"
+    "type": "Provider"
   }, {
     "code": "waterbedrijfgroningen",
     "name": "Waterbedrijf Groningen",
     "url": "http://www.waterbedrijfgroningen.nl",
     "country": "NL",
-    "type": "provider"
+    "type": "Provider"
   }, {
     "code": "pwn",
     "name": "PWN",
     "url": "http://www.pwn.nl",
     "country": "NL",
-    "type": "provider"
+    "type": "Provider"
+  }, {
+    "code": "wml",
+    "name": "WML",
+    "url": "http://www.wml.nl",
+    "country": "NL",
+    "type": "Provider"
   }, {
     "code": "watergroep",
     "name": "De Watergroep",
     "url": "https://www.dewatergroep.be",
     "country": "BE",
-    "type": "provider"
+    "type": "Provider"
   }, {
     "code": "vivaqua",
     "name": "Vivaqua",
     "url": "http://www.vivaqua.be",
     "country": "BE",
-    "type": "provider"
+    "type": "Provider"
   }, {
     "code": "pidpa",
     "name": "PIDPA",
     "url": "http://www.pidpa.be",
     "country": "BE",
-    "type": "provider"
+    "type": "Provider"
   }, {
     "code": "waterlink",
     "name": "Water-link",
     "url": "http://www.water-link.be",
     "country": "BE",
-    "type": "provider"
+    "type": "Provider"
   }, {
     "code": "farys",
     "name": "Farys",
     "url": "http://www.farys.be",
     "country": "BE",
-    "type": "provider"
+    "type": "Provider"
   }, {
     "code": "aquaelectra",
     "name": "AquaElectra",
     "url": "http://www.aqualectra.com",
     "country": "CW",
-    "type": "provider"
+    "type": "Provider"
   }, {
     "code": "webaruba",
     "name": "WEB N.V.",
     "url": "https://www.webaruba.com",
     "country": "AW",
-    "type": "provider"
+    "type": "Provider"
   }, {
     "code": "nvgebe",
     "name": "NV GEBE",
     "url": "https://www.nvgebe.com",
     "country": "SX",
-    "type": "provider"
+    "type": "Provider"
   }, {
     "code": "webbonaire",
     "name": "Water- en energiebedrijf Bonaire",
     "url": "https://www.webbonaire.com",
     "country": "BQ",
-    "type": "provider"
+    "type": "Provider"
   }
 ]
