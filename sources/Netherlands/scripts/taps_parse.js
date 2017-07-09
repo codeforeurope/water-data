@@ -22,13 +22,19 @@ var kml = new DOMParser().parseFromString(fs.readFileSync('../Drinkwatertappunte
 var converted = tj.kml(kml);
 
 for (i = 0; i < converted.features.length; i++) {
+  //Coordinates may come in 3D, remove Z value.
+  converted.features[i].geometry.coordinates = [
+    converted.features[i].geometry.coordinates[0],
+    converted.features[i].geometry.coordinates[1]
+  ]
   var oasenfeature = {
     type: "Feature",
     geometry: converted.features[i].geometry,
     properties:{
       name: converted.features[i].properties.name,
       operator: "oasen",
-      type: "tap",
+      type: "Tap",
+      access: "Free",
       source: "oasen-taps",
     }
   }
@@ -45,7 +51,8 @@ for (i = 0; i < waternetmarkers.length; i++) {
       "operator": "waternet",
       "description": waternetmarkers[i].attributes.TYPE,
       "id": waternetmarkers[i].attributes.NUMMER,
-      "type": "tap",
+      "type": "Tap",
+      "access": "Free",
       "source": "waternet-taps"
     },
     "geometry": {
@@ -68,7 +75,8 @@ for (i = 0; i < duneamarkers.length; i++) {
       "street": duneamarkers[i].attributes.Adres,
       "city": duneamarkers[i].attributes.Plaats,
       "id": duneamarkers[i].attributes.__OBJECTID,
-      "type": "tap",
+      "type": "Tap",
+      "access": "Free",
       "source": "dunea-taps"
     },
     "geometry": {
@@ -82,19 +90,21 @@ for (i = 0; i < duneamarkers.length; i++) {
 var markers = markerfile.markers;
 
 for (i = 0; i < markers.length; i++) {
-  var type = "unknown";
+  var type = "Unknown";
+  var access = "Free";
   switch(markers[i][4]){
     case 1:
-      type = "outlet";
+      type = "Outlet";
       break;
     case 2:
-      type = "restaurant";
+      type = "Restaurant";
+      access = "Commercial";
       break;
     case 3:
-      type = "tap";
+      type = "Tap";
       break;
     case 4:
-      type = "pump";
+      type = "Pump";
       break;
     default:
       type = markers[i][4];
@@ -130,6 +140,7 @@ for (i = 0; i < markers.length; i++) {
       "id": markers[i][5],
       //"sequence": markers[i][3],
       "type": type,
+      "access": access,
       "source": "jointhepipe-taps"
     },
     "geometry": {
