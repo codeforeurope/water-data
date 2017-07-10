@@ -25,6 +25,8 @@ function parsecsv(filename, cb){
     "name": filename.replace('.csv',''),
     "issued": 'need to extract date and year from filename',
     "year": 'need to extract date and year from filename',
+    "authority": 'hetwaterlaboratorium',
+    "operator": 'dunea',
     "observations": []
   };
   results.sources = ["https://www.dunea.nl/documents/10156/13625/" + filename.replace(/ /g, "+").replace('.csv', '.pdf')];

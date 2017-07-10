@@ -23,6 +23,8 @@ function parsecsv(filename, cb){
   //Grab year
   var results = {
     "name": filename.replace('.csv',''),
+    "authority": 'hetwaterlaboratorium',
+    "operator": 'pwn',
     "issued": 'need to extract date and year from filename',
     "year": 'need to extract date and year from filename',
     "observations": []

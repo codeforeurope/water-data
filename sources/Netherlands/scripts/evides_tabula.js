@@ -78,6 +78,8 @@ function parsecsv(filename, cb){
         "name": filename.replace('.csv','') + ' ' + columns[i],
         "issued": issued[i],
         "year": year[i],
+        "operator": 'evides',
+        "authority": 'evides',
         "observations": [],
         "zones": zones,
         "plants": plants

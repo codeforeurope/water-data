@@ -3,6 +3,8 @@
     "name": "evides-waterkwaliteit-baanhoek APR 2016",
     "issued": "2016-04-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -136,6 +138,8 @@
     "name": "evides-waterkwaliteit-baanhoek MEI 2016",
     "issued": "2016-05-31T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -269,6 +273,8 @@
     "name": "evides-waterkwaliteit-baanhoek JUN 2016",
     "issued": "2016-06-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -402,6 +408,8 @@
     "name": "evides-waterkwaliteit-baanhoek JUL 2016",
     "issued": "2016-07-31T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -535,6 +543,8 @@
     "name": "evides-waterkwaliteit-baanhoek AUG 2016",
     "issued": "2016-08-31T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -668,6 +678,8 @@
     "name": "evides-waterkwaliteit-baanhoek SEP 2016",
     "issued": "2016-09-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -801,6 +813,8 @@
     "name": "evides-waterkwaliteit-baanhoek OKT 2016",
     "issued": "2016-10-31T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -934,6 +948,8 @@
     "name": "evides-waterkwaliteit-baanhoek NOV 2016",
     "issued": "2016-11-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -1067,6 +1083,8 @@
     "name": "evides-waterkwaliteit-baanhoek DEC 2016",
     "issued": "2016-12-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -1200,6 +1218,8 @@
     "name": "evides-waterkwaliteit-baanhoek JAN 2017",
     "issued": "2017-01-31T23:59:00.000Z",
     "year": "2017",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -1333,6 +1353,8 @@
     "name": "evides-waterkwaliteit-baanhoek FEB 2017",
     "issued": "2017-02-28T23:59:00.000Z",
     "year": "2017",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -1466,6 +1488,8 @@
     "name": "evides-waterkwaliteit-baanhoek MRT 2017",
     "issued": "2017-03-31T23:59:00.000Z",
     "year": "2017",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -1596,1600 +1620,11 @@
     ]
   },
   {
-    "name": "evides-waterkwaliteit-berenplaat APR 2016",
-    "issued": "2016-04-30T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 9.8,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 9.9,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.05,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 7.98,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.21,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 43,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 121,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 54.7,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 48,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 33,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 50,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 6.8,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.52,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 12.3,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 10,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "value": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.19,
-        "uom": "mg/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "trihalomethanes",
-        "value": 3.4,
-        "uom": "ug/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "enterococci",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "berenplaat"
-    ],
-    "plants": [
-      "berenplaat"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-berenplaat MEI 2016",
-    "issued": "2016-05-31T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 13.2,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 8.2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.05,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 8.05,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.21,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 42,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 117,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 53.8,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 46,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 36,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 44,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 6.6,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.38,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 11.4,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 10,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "value": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.19,
-        "uom": "mg/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "trihalomethanes",
-        "value": 3.6,
-        "uom": "ug/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "enterococci",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "berenplaat"
-    ],
-    "plants": [
-      "berenplaat"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-berenplaat JUN 2016",
-    "issued": "2016-06-30T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 17.7,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 6.2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.05,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 8.02,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.32,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 43.1,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 139,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 51.2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 45,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 36,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 51,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 7.1,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.57,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 11.8,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 10,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "value": 6,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.19,
-        "uom": "mg/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "trihalomethanes",
-        "value": 3,
-        "uom": "ug/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "enterococci",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "berenplaat"
-    ],
-    "plants": [
-      "berenplaat"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-berenplaat JUL 2016",
-    "issued": "2016-07-31T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 19.6,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 7.2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.03,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 8.05,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.3,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 41.4,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 141,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 51.1,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 43,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 35,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 45,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 6.7,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.4,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 10.8,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 10,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "value": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.18,
-        "uom": "mg/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "trihalomethanes",
-        "value": 2.7,
-        "uom": "ug/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "enterococci",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "berenplaat"
-    ],
-    "plants": [
-      "berenplaat"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-berenplaat AUG 2016",
-    "issued": "2016-08-31T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 20.5,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 7.1,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.03,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 8.07,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.33,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 41.4,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 138,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 48,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 42,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 33,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 48,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 6.9,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.48,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 8.9,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 10,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "value": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.17,
-        "uom": "mg/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "trihalomethanes",
-        "value": 2.6,
-        "uom": "ug/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "enterococci",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "berenplaat"
-    ],
-    "plants": [
-      "berenplaat"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-berenplaat SEP 2016",
-    "issued": "2016-09-30T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 20.8,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 7.1,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.03,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 7.88,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.18,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 42.5,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 146,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 49.5,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 42,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 33,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 49,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 7.2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.51,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 9.8,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 10,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "value": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.19,
-        "uom": "mg/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "trihalomethanes",
-        "value": 2.5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "enterococci",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "berenplaat"
-    ],
-    "plants": [
-      "berenplaat"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-berenplaat OKT 2016",
-    "issued": "2016-10-31T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 16.3,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 7.4,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.03,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 7.93,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.24,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 43.2,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 142,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 52.5,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 44,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 33,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 51,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 7.3,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.58,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 9.1,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 10,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "value": 6,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.17,
-        "uom": "mg/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "trihalomethanes",
-        "value": 2.5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "enterococci",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "berenplaat"
-    ],
-    "plants": [
-      "berenplaat"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-berenplaat NOV 2016",
-    "issued": "2016-11-30T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 11,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 8.8,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.02,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 7.95,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.21,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 43.5,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 130,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 55.8,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 46,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 34,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 51,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 7.6,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.57,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 8.6,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "value": 2,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "trihalomethanes",
-        "value": 3,
-        "uom": "ug/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "enterococci",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "berenplaat"
-    ],
-    "plants": [
-      "berenplaat"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-berenplaat DEC 2016",
-    "issued": "2016-12-30T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 7.5,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 10.1,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.02,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 7.96,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.19,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 44.4,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 128,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 58.1,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 50,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 36,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 47,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 7.4,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.49,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 9.5,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "value": 2,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.21,
-        "uom": "mg/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "trihalomethanes",
-        "value": 3,
-        "uom": "ug/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "enterococci",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "berenplaat"
-    ],
-    "plants": [
-      "berenplaat"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-berenplaat JAN 2017",
-    "issued": "2017-01-31T23:59:00.000Z",
-    "year": "2017",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 4.8,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 11,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.01,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 7.91,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.14,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 46.2,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 125,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 60.4,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 54,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 38,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 49,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 7.8,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.55,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 9.5,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "value": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.18,
-        "uom": "mg/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "trihalomethanes",
-        "value": 2.5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "enterococci",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "berenplaat"
-    ],
-    "plants": [
-      "berenplaat"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-berenplaat FEB 2017",
-    "issued": "2017-02-28T23:59:00.000Z",
-    "year": "2017",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 4.4,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 11.5,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.02,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 7.9,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.11,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 47.3,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 123,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 62.8,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 56,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 40,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 48,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 7.8,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.53,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.06,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 10.7,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "value": 1.2,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.18,
-        "uom": "mg/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "trihalomethanes",
-        "value": 2.1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "enterococci",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "berenplaat"
-    ],
-    "plants": [
-      "berenplaat"
-    ]
-  },
-  {
-    "name": "evides-waterkwaliteit-berenplaat MRT 2017",
-    "issued": "2017-03-31T23:59:00.000Z",
-    "year": "2017",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "value": 6.1,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "value": 10.9,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "value": 0.03,
-        "uom": "ftu"
-      },
-      {
-        "code": "acidity",
-        "value": 7.94,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "value": 0.2,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "value": 47.5,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 118,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 45.1,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 57,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 43,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "value": 56,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 8.5,
-        "uom": "mg/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.05,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 13.5,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "value": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "value": 2,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "value": 0.18,
-        "uom": "mg/l"
-      },
-      {
-        "code": "pt_co",
-        "value": 2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "trihalomethanes",
-        "value": 2.3,
-        "uom": "ug/l"
-      },
-      {
-        "code": "coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "enterococci",
-        "value": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "clostridium",
-        "value": 1,
-        "uom": "cfu/dl"
-      }
-    ],
-    "zones": [
-      "berenplaat"
-    ],
-    "plants": [
-      "berenplaat"
-    ]
-  },
-  {
     "name": "evides-waterkwaliteit-braakman APR 2016",
     "issued": "2016-04-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -3323,6 +1758,8 @@
     "name": "evides-waterkwaliteit-braakman MEI 2016",
     "issued": "2016-05-31T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -3456,6 +1893,8 @@
     "name": "evides-waterkwaliteit-braakman JUN 2016",
     "issued": "2016-06-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -3589,6 +2028,8 @@
     "name": "evides-waterkwaliteit-braakman JUL 2016",
     "issued": "2016-07-31T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -3722,6 +2163,8 @@
     "name": "evides-waterkwaliteit-braakman AUG 2016",
     "issued": "2016-08-31T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -3855,6 +2298,8 @@
     "name": "evides-waterkwaliteit-braakman SEP 2016",
     "issued": "2016-09-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -3988,6 +2433,8 @@
     "name": "evides-waterkwaliteit-braakman OKT 2016",
     "issued": "2016-10-31T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -4121,6 +2568,8 @@
     "name": "evides-waterkwaliteit-braakman NOV 2016",
     "issued": "2016-11-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -4254,6 +2703,8 @@
     "name": "evides-waterkwaliteit-braakman DEC 2016",
     "issued": "2016-12-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -4387,6 +2838,8 @@
     "name": "evides-waterkwaliteit-braakman JAN 2017",
     "issued": "2017-01-31T23:59:00.000Z",
     "year": "2017",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -4520,6 +2973,8 @@
     "name": "evides-waterkwaliteit-braakman FEB 2017",
     "issued": "2017-02-28T23:59:00.000Z",
     "year": "2017",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -4653,6 +3108,8 @@
     "name": "evides-waterkwaliteit-braakman MRT 2017",
     "issued": "2017-03-31T23:59:00.000Z",
     "year": "2017",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -4783,9 +3240,1626 @@
     ]
   },
   {
+    "name": "evides-waterkwaliteit-berenplaat APR 2016",
+    "issued": "2016-04-30T23:59:00.000Z",
+    "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 9.8,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 9.9,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.05,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 7.98,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.21,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 43,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 121,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 54.7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 48,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 33,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 50,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 6.8,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.52,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 12.3,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 10,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "value": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.19,
+        "uom": "mg/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "trihalomethanes",
+        "value": 3.4,
+        "uom": "ug/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "enterococci",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "berenplaat"
+    ],
+    "plants": [
+      "berenplaat"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-berenplaat MEI 2016",
+    "issued": "2016-05-31T23:59:00.000Z",
+    "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 13.2,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 8.2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.05,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 8.05,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.21,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 42,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 117,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 53.8,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 46,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 36,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 44,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 6.6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.38,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 11.4,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 10,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "value": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.19,
+        "uom": "mg/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "trihalomethanes",
+        "value": 3.6,
+        "uom": "ug/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "enterococci",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "berenplaat"
+    ],
+    "plants": [
+      "berenplaat"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-berenplaat JUN 2016",
+    "issued": "2016-06-30T23:59:00.000Z",
+    "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 17.7,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 6.2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.05,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 8.02,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.32,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 43.1,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 139,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 51.2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 45,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 36,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 51,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 7.1,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.57,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 11.8,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 10,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "value": 6,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.19,
+        "uom": "mg/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "trihalomethanes",
+        "value": 3,
+        "uom": "ug/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "enterococci",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "berenplaat"
+    ],
+    "plants": [
+      "berenplaat"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-berenplaat JUL 2016",
+    "issued": "2016-07-31T23:59:00.000Z",
+    "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 19.6,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 7.2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.03,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 8.05,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.3,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 41.4,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 141,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 51.1,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 43,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 35,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 45,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 6.7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.4,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 10.8,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 10,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "value": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.18,
+        "uom": "mg/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "trihalomethanes",
+        "value": 2.7,
+        "uom": "ug/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "enterococci",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "berenplaat"
+    ],
+    "plants": [
+      "berenplaat"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-berenplaat AUG 2016",
+    "issued": "2016-08-31T23:59:00.000Z",
+    "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 20.5,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 7.1,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.03,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 8.07,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.33,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 41.4,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 138,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 48,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 42,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 33,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 48,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 6.9,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.48,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 8.9,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 10,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "value": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.17,
+        "uom": "mg/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "trihalomethanes",
+        "value": 2.6,
+        "uom": "ug/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "enterococci",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "berenplaat"
+    ],
+    "plants": [
+      "berenplaat"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-berenplaat SEP 2016",
+    "issued": "2016-09-30T23:59:00.000Z",
+    "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 20.8,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 7.1,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.03,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 7.88,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.18,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 42.5,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 146,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 49.5,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 42,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 33,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 49,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 7.2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.51,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 9.8,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 10,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "value": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.19,
+        "uom": "mg/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "trihalomethanes",
+        "value": 2.5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "enterococci",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "berenplaat"
+    ],
+    "plants": [
+      "berenplaat"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-berenplaat OKT 2016",
+    "issued": "2016-10-31T23:59:00.000Z",
+    "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 16.3,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 7.4,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.03,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 7.93,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.24,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 43.2,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 142,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 52.5,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 44,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 33,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 51,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 7.3,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.58,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 9.1,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 10,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "value": 6,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.17,
+        "uom": "mg/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "trihalomethanes",
+        "value": 2.5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "enterococci",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "berenplaat"
+    ],
+    "plants": [
+      "berenplaat"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-berenplaat NOV 2016",
+    "issued": "2016-11-30T23:59:00.000Z",
+    "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 11,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 8.8,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.02,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 7.95,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.21,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 43.5,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 130,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 55.8,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 46,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 34,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 51,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 7.6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.57,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 8.6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "value": 2,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "trihalomethanes",
+        "value": 3,
+        "uom": "ug/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "enterococci",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "berenplaat"
+    ],
+    "plants": [
+      "berenplaat"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-berenplaat DEC 2016",
+    "issued": "2016-12-30T23:59:00.000Z",
+    "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 7.5,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 10.1,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.02,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 7.96,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.19,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 44.4,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 128,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 58.1,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 50,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 36,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 47,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 7.4,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.49,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 9.5,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "value": 2,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.21,
+        "uom": "mg/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "trihalomethanes",
+        "value": 3,
+        "uom": "ug/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "enterococci",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "berenplaat"
+    ],
+    "plants": [
+      "berenplaat"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-berenplaat JAN 2017",
+    "issued": "2017-01-31T23:59:00.000Z",
+    "year": "2017",
+    "operator": "evides",
+    "authority": "evides",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 4.8,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 11,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.01,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 7.91,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.14,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 46.2,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 125,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 60.4,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 54,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 38,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 49,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 7.8,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.55,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 9.5,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "value": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.18,
+        "uom": "mg/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "trihalomethanes",
+        "value": 2.5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "enterococci",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "berenplaat"
+    ],
+    "plants": [
+      "berenplaat"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-berenplaat FEB 2017",
+    "issued": "2017-02-28T23:59:00.000Z",
+    "year": "2017",
+    "operator": "evides",
+    "authority": "evides",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 4.4,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 11.5,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.02,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 7.9,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.11,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 47.3,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 123,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 62.8,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 56,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 40,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 48,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 7.8,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.53,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.06,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 10.7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "value": 1.2,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.18,
+        "uom": "mg/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "trihalomethanes",
+        "value": 2.1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "enterococci",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "berenplaat"
+    ],
+    "plants": [
+      "berenplaat"
+    ]
+  },
+  {
+    "name": "evides-waterkwaliteit-berenplaat MRT 2017",
+    "issued": "2017-03-31T23:59:00.000Z",
+    "year": "2017",
+    "operator": "evides",
+    "authority": "evides",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "value": 6.1,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "value": 10.9,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "value": 0.03,
+        "uom": "ftu"
+      },
+      {
+        "code": "acidity",
+        "value": 7.94,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "value": 0.2,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "value": 47.5,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 118,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 45.1,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 57,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 43,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "value": 56,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 8.5,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.05,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 13.5,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "value": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "value": 2,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "value": 0.18,
+        "uom": "mg/l"
+      },
+      {
+        "code": "pt_co",
+        "value": 2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "trihalomethanes",
+        "value": 2.3,
+        "uom": "ug/l"
+      },
+      {
+        "code": "coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "enterococci",
+        "value": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "clostridium",
+        "value": 1,
+        "uom": "cfu/dl"
+      }
+    ],
+    "zones": [
+      "berenplaat"
+    ],
+    "plants": [
+      "berenplaat"
+    ]
+  },
+  {
     "name": "evides-waterkwaliteit-haamstede APR 2016",
     "issued": "2016-04-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -4909,6 +4983,8 @@
     "name": "evides-waterkwaliteit-haamstede MEI 2016",
     "issued": "2016-05-31T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -5037,6 +5113,8 @@
     "name": "evides-waterkwaliteit-haamstede JUN 2016",
     "issued": "2016-06-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -5160,6 +5238,8 @@
     "name": "evides-waterkwaliteit-haamstede JUL 2016",
     "issued": "2016-07-31T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -5283,6 +5363,8 @@
     "name": "evides-waterkwaliteit-haamstede AUG 2016",
     "issued": "2016-08-31T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -5411,6 +5493,8 @@
     "name": "evides-waterkwaliteit-haamstede SEP 2016",
     "issued": "2016-09-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -5534,6 +5618,8 @@
     "name": "evides-waterkwaliteit-haamstede OKT 2016",
     "issued": "2016-10-31T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -5657,6 +5743,8 @@
     "name": "evides-waterkwaliteit-haamstede NOV 2016",
     "issued": "2016-11-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -5785,6 +5873,8 @@
     "name": "evides-waterkwaliteit-haamstede DEC 2016",
     "issued": "2016-12-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -5908,6 +5998,8 @@
     "name": "evides-waterkwaliteit-haamstede JAN 2017",
     "issued": "2017-01-31T23:59:00.000Z",
     "year": "2017",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -6031,6 +6123,8 @@
     "name": "evides-waterkwaliteit-haamstede FEB 2017",
     "issued": "2017-02-28T23:59:00.000Z",
     "year": "2017",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -6159,6 +6253,8 @@
     "name": "evides-waterkwaliteit-haamstede MRT 2017",
     "issued": "2017-03-31T23:59:00.000Z",
     "year": "2017",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -6282,6 +6378,8 @@
     "name": "evides-waterkwaliteit-halsteren APR 2016",
     "issued": "2016-04-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -6376,6 +6474,8 @@
     "name": "evides-waterkwaliteit-halsteren MEI 2016",
     "issued": "2016-05-31T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -6500,6 +6600,8 @@
     "name": "evides-waterkwaliteit-halsteren JUN 2016",
     "issued": "2016-06-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -6594,6 +6696,8 @@
     "name": "evides-waterkwaliteit-halsteren JUL 2016",
     "issued": "2016-07-31T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -6688,6 +6792,8 @@
     "name": "evides-waterkwaliteit-halsteren AUG 2016",
     "issued": "2016-08-31T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -6782,6 +6888,8 @@
     "name": "evides-waterkwaliteit-halsteren SEP 2016",
     "issued": "2016-09-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -6876,6 +6984,8 @@
     "name": "evides-waterkwaliteit-halsteren OKT 2016",
     "issued": "2016-10-31T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -6970,6 +7080,8 @@
     "name": "evides-waterkwaliteit-halsteren NOV 2016",
     "issued": "2016-11-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -7094,6 +7206,8 @@
     "name": "evides-waterkwaliteit-halsteren DEC 2016",
     "issued": "2016-12-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -7188,6 +7302,8 @@
     "name": "evides-waterkwaliteit-halsteren JAN 2017",
     "issued": "2017-01-31T23:59:00.000Z",
     "year": "2017",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -7282,6 +7398,8 @@
     "name": "evides-waterkwaliteit-halsteren FEB 2017",
     "issued": "2017-02-28T23:59:00.000Z",
     "year": "2017",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -7376,6 +7494,8 @@
     "name": "evides-waterkwaliteit-halsteren MRT 2017",
     "issued": "2017-03-31T23:59:00.000Z",
     "year": "2017",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -7470,6 +7590,8 @@
     "name": "evides-waterkwaliteit-kralingen APR 2016",
     "issued": "2016-04-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -7603,6 +7725,8 @@
     "name": "evides-waterkwaliteit-kralingen MEI 2016",
     "issued": "2016-05-31T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -7736,6 +7860,8 @@
     "name": "evides-waterkwaliteit-kralingen JUN 2016",
     "issued": "2016-06-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -7869,6 +7995,8 @@
     "name": "evides-waterkwaliteit-kralingen JUL 2016",
     "issued": "2016-07-31T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -8002,6 +8130,8 @@
     "name": "evides-waterkwaliteit-kralingen AUG 2016",
     "issued": "2016-08-31T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -8135,6 +8265,8 @@
     "name": "evides-waterkwaliteit-kralingen SEP 2016",
     "issued": "2016-09-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -8268,6 +8400,8 @@
     "name": "evides-waterkwaliteit-kralingen OKT 2016",
     "issued": "2016-10-31T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -8401,6 +8535,8 @@
     "name": "evides-waterkwaliteit-kralingen NOV 2016",
     "issued": "2016-11-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -8534,6 +8670,8 @@
     "name": "evides-waterkwaliteit-kralingen DEC 2016",
     "issued": "2016-12-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -8667,6 +8805,8 @@
     "name": "evides-waterkwaliteit-kralingen JAN 2017",
     "issued": "2017-01-31T23:59:00.000Z",
     "year": "2017",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -8800,6 +8940,8 @@
     "name": "evides-waterkwaliteit-kralingen FEB 2017",
     "issued": "2017-02-28T23:59:00.000Z",
     "year": "2017",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -8933,6 +9075,8 @@
     "name": "evides-waterkwaliteit-kralingen MRT 2017",
     "issued": "2017-03-31T23:59:00.000Z",
     "year": "2017",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -9066,6 +9210,8 @@
     "name": "evides-waterkwaliteit-midden-zeeland APR 2016",
     "issued": "2016-04-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -9160,6 +9306,8 @@
     "name": "evides-waterkwaliteit-midden-zeeland MEI 2016",
     "issued": "2016-05-31T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -9284,6 +9432,8 @@
     "name": "evides-waterkwaliteit-midden-zeeland JUN 2016",
     "issued": "2016-06-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -9378,6 +9528,8 @@
     "name": "evides-waterkwaliteit-midden-zeeland JUL 2016",
     "issued": "2016-07-31T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -9472,6 +9624,8 @@
     "name": "evides-waterkwaliteit-midden-zeeland AUG 2016",
     "issued": "2016-08-31T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -9596,6 +9750,8 @@
     "name": "evides-waterkwaliteit-midden-zeeland SEP 2016",
     "issued": "2016-09-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -9690,6 +9846,8 @@
     "name": "evides-waterkwaliteit-midden-zeeland OKT 2016",
     "issued": "2016-10-31T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -9784,6 +9942,8 @@
     "name": "evides-waterkwaliteit-midden-zeeland NOV 2016",
     "issued": "2016-11-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -9908,6 +10068,8 @@
     "name": "evides-waterkwaliteit-midden-zeeland DEC 2016",
     "issued": "2016-12-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -10002,6 +10164,8 @@
     "name": "evides-waterkwaliteit-midden-zeeland JAN 2017",
     "issued": "2017-01-31T23:59:00.000Z",
     "year": "2017",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -10096,6 +10260,8 @@
     "name": "evides-waterkwaliteit-midden-zeeland FEB 2017",
     "issued": "2017-02-28T23:59:00.000Z",
     "year": "2017",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -10220,6 +10386,8 @@
     "name": "evides-waterkwaliteit-midden-zeeland MRT 2017",
     "issued": "2017-03-31T23:59:00.000Z",
     "year": "2017",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -10314,6 +10482,8 @@
     "name": "evides-waterkwaliteit-ouddorp APR 2016",
     "issued": "2016-04-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -10432,6 +10602,8 @@
     "name": "evides-waterkwaliteit-ouddorp MEI 2016",
     "issued": "2016-05-31T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -10555,6 +10727,8 @@
     "name": "evides-waterkwaliteit-ouddorp JUN 2016",
     "issued": "2016-06-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -10683,6 +10857,8 @@
     "name": "evides-waterkwaliteit-ouddorp JUL 2016",
     "issued": "2016-07-31T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -10806,6 +10982,8 @@
     "name": "evides-waterkwaliteit-ouddorp AUG 2016",
     "issued": "2016-08-31T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -10934,6 +11112,8 @@
     "name": "evides-waterkwaliteit-ouddorp SEP 2016",
     "issued": "2016-09-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -11057,6 +11237,8 @@
     "name": "evides-waterkwaliteit-ouddorp OKT 2016",
     "issued": "2016-10-31T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -11180,6 +11362,8 @@
     "name": "evides-waterkwaliteit-ouddorp NOV 2016",
     "issued": "2016-11-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -11308,6 +11492,8 @@
     "name": "evides-waterkwaliteit-ouddorp DEC 2016",
     "issued": "2016-12-30T23:59:00.000Z",
     "year": "2016",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -11431,6 +11617,8 @@
     "name": "evides-waterkwaliteit-ouddorp JAN 2017",
     "issued": "2017-01-31T23:59:00.000Z",
     "year": "2017",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -11554,6 +11742,8 @@
     "name": "evides-waterkwaliteit-ouddorp FEB 2017",
     "issued": "2017-02-28T23:59:00.000Z",
     "year": "2017",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",
@@ -11677,6 +11867,8 @@
     "name": "evides-waterkwaliteit-ouddorp MRT 2017",
     "issued": "2017-03-31T23:59:00.000Z",
     "year": "2017",
+    "operator": "evides",
+    "authority": "evides",
     "observations": [
       {
         "code": "watertemperature",

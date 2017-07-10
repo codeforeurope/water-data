@@ -47,6 +47,8 @@ function parsecsv(filename, cb){
   var results = {
     "name": filename.replace('.csv',''),
     "issued": getIssued(filename),
+    "operator": 'brabantwater',
+    "authority": 'aqualabzuid',
     "observations": []
   };
   if(results.issued){

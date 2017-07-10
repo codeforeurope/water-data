@@ -2,6 +2,8 @@
   {
     "name": "Bergen op Zoom Drinkwaterkwaliteit 2016 .Q3 en 4",
     "issued": "2016-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -402,6 +404,8 @@
   {
     "name": "Budel Drinkwaterkwaliteit 2016 .Q3 en 4",
     "issued": "2016-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -803,6 +807,8 @@
   {
     "name": "Dorst Drinkwaterkwaliteit 2016 .Q3 en 4",
     "issued": "2016-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -1032,6 +1038,8 @@
   {
     "name": "Drinkwaterkwaliteit Bergen op Zoom 2015",
     "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -1448,6 +1456,8 @@
   {
     "name": "Drinkwaterkwaliteit Budel 2015",
     "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -1855,390 +1865,10 @@
     ]
   },
   {
-    "name": "Drinkwaterkwaliteit Eindhoven 2015",
-    "issued": "2015-12-31T23:59:00.000Z",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "samples": 11,
-        "value": 13.7,
-        "min": 13.1,
-        "max": 14.3,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "samples": 44,
-        "value": 8.6,
-        "min": 8,
-        "max": 9.8,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "samples": 44,
-        "value": 0.1,
-        "min": 0.1,
-        "max": 0.37,
-        "uom": "ftu"
-      },
-      {
-        "code": "tritium",
-        "samples": 1,
-        "value": 3,
-        "min": 3,
-        "max": 3,
-        "uom": "Bq/l"
-      },
-      {
-        "code": "acidity",
-        "samples": 44,
-        "value": 8.03,
-        "min": 7.92,
-        "max": 8.15,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "samples": 15,
-        "value": 0.3,
-        "min": 0.17,
-        "max": 0.43,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "samples": 11,
-        "value": 25.93,
-        "min": 25,
-        "max": 26.4,
-        "uom": "mS/m"
-      },
-      {
-        "code": "carbondioxide",
-        "samples": 11,
-        "value": 2.3,
-        "min": 1.5,
-        "max": 2.5,
-        "uom": "mg/l"
-      },
-      {
-        "code": "bicarbonate",
-        "samples": 11,
-        "value": 160,
-        "min": 151,
-        "max": 164,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "samples": 4,
-        "value": 9.5,
-        "min": 8.7,
-        "max": 10.6,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "samples": 4,
-        "value": 8,
-        "min": 7,
-        "max": 8,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "samples": 4,
-        "value": 12,
-        "min": 11,
-        "max": 12,
-        "uom": "mg/l"
-      },
-      {
-        "code": "kalium",
-        "samples": 4,
-        "value": 3.1,
-        "min": 2.9,
-        "max": 3.3,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "samples": 11,
-        "value": 39,
-        "min": 36,
-        "max": 41,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "samples": 4,
-        "value": 5.2,
-        "min": 4.9,
-        "max": 5.7,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "samples": 4,
-        "value": 1.16,
-        "min": 1.1,
-        "max": 1.23,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "samples": 44,
-        "value": 0.03,
-        "min": 0.03,
-        "max": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrite",
-        "samples": 44,
-        "value": 0.01,
-        "min": 0.01,
-        "max": 0.01,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "samples": 4,
-        "value": 1.1,
-        "min": 1,
-        "max": 1.2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "silicate",
-        "samples": 1,
-        "value": 15.7,
-        "min": 15.7,
-        "max": 15.7,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "samples": 44,
-        "value": 10,
-        "min": 10,
-        "max": 10,
-        "uom": "ug/l"
-      },
-      {
-        "code": "manganese",
-        "samples": 44,
-        "value": 10,
-        "min": 10,
-        "max": 10,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "samples": 1,
-        "value": 5,
-        "min": 5,
-        "max": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "antimony",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "arsenic",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "barium",
-        "samples": 1,
-        "value": 20,
-        "min": 20,
-        "max": 20,
-        "uom": "ug/l"
-      },
-      {
-        "code": "beryllium",
-        "samples": 1,
-        "value": 0.5,
-        "min": 0.5,
-        "max": 0.5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "boron",
-        "samples": 1,
-        "value": 61,
-        "min": 61,
-        "max": 61,
-        "uom": "ug/l"
-      },
-      {
-        "code": "cadmium",
-        "samples": 1,
-        "value": 0.1,
-        "min": 0.1,
-        "max": 0.1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "chromium",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "cobalt",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "copper",
-        "samples": 1,
-        "value": 5,
-        "min": 5,
-        "max": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "mercury",
-        "samples": 1,
-        "value": 0.06,
-        "min": 0.06,
-        "max": 0.06,
-        "uom": "ug/l"
-      },
-      {
-        "code": "lead",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "nickel",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "selenium",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "tin",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "vanadium",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "silver",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "zinc",
-        "samples": 1,
-        "value": 5,
-        "min": 5,
-        "max": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "coli",
-        "samples": 47,
-        "value": 0,
-        "min": 0,
-        "max": 0,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "samples": 47,
-        "value": 0,
-        "min": 0,
-        "max": 0,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "aeromonas",
-        "samples": 4,
-        "value": 0,
-        "min": 0,
-        "max": 0,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "legionella",
-        "samples": 2,
-        "value": 100,
-        "min": 100,
-        "max": 100,
-        "uom": "cfu/l"
-      },
-      {
-        "code": "clostridium",
-        "samples": 4,
-        "value": 0,
-        "min": 0,
-        "max": 0,
-        "uom": "cfu/dl"
-      }
-    ],
-    "year": "2015",
-    "sources": [
-      "https://brabantwater.nl/PompStationInfo/Drinkwaterkwaliteit%20Eindhoven%202015.pdf"
-    ],
-    "zones": [
-      "waalre",
-      "eindhoven",
-      "valkenswaard",
-      "son_en_breugel",
-      "geldrop_mierlo",
-      "nuenen_gerwen_en_nederwetten",
-      "veldhoven"
-    ],
-    "plants": [
-      "eindhoven"
-    ]
-  },
-  {
     "name": "Drinkwaterkwaliteit Dorst 2015",
     "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -2650,8 +2280,394 @@
     ]
   },
   {
+    "name": "Drinkwaterkwaliteit Eindhoven 2015",
+    "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "samples": 11,
+        "value": 13.7,
+        "min": 13.1,
+        "max": 14.3,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "samples": 44,
+        "value": 8.6,
+        "min": 8,
+        "max": 9.8,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "samples": 44,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.37,
+        "uom": "ftu"
+      },
+      {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "Bq/l"
+      },
+      {
+        "code": "acidity",
+        "samples": 44,
+        "value": 8.03,
+        "min": 7.92,
+        "max": 8.15,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "samples": 15,
+        "value": 0.3,
+        "min": 0.17,
+        "max": 0.43,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "samples": 11,
+        "value": 25.93,
+        "min": 25,
+        "max": 26.4,
+        "uom": "mS/m"
+      },
+      {
+        "code": "carbondioxide",
+        "samples": 11,
+        "value": 2.3,
+        "min": 1.5,
+        "max": 2.5,
+        "uom": "mg/l"
+      },
+      {
+        "code": "bicarbonate",
+        "samples": 11,
+        "value": 160,
+        "min": 151,
+        "max": 164,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "samples": 4,
+        "value": 9.5,
+        "min": 8.7,
+        "max": 10.6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "samples": 4,
+        "value": 8,
+        "min": 7,
+        "max": 8,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "samples": 4,
+        "value": 12,
+        "min": 11,
+        "max": 12,
+        "uom": "mg/l"
+      },
+      {
+        "code": "kalium",
+        "samples": 4,
+        "value": 3.1,
+        "min": 2.9,
+        "max": 3.3,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "samples": 11,
+        "value": 39,
+        "min": 36,
+        "max": 41,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "samples": 4,
+        "value": 5.2,
+        "min": 4.9,
+        "max": 5.7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "samples": 4,
+        "value": 1.16,
+        "min": 1.1,
+        "max": 1.23,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "samples": 44,
+        "value": 0.03,
+        "min": 0.03,
+        "max": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrite",
+        "samples": 44,
+        "value": 0.01,
+        "min": 0.01,
+        "max": 0.01,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "samples": 4,
+        "value": 1.1,
+        "min": 1,
+        "max": 1.2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "silicate",
+        "samples": 1,
+        "value": 15.7,
+        "min": 15.7,
+        "max": 15.7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "samples": 44,
+        "value": 10,
+        "min": 10,
+        "max": 10,
+        "uom": "ug/l"
+      },
+      {
+        "code": "manganese",
+        "samples": 44,
+        "value": 10,
+        "min": 10,
+        "max": 10,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "arsenic",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "barium",
+        "samples": 1,
+        "value": 20,
+        "min": 20,
+        "max": 20,
+        "uom": "ug/l"
+      },
+      {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "boron",
+        "samples": 1,
+        "value": 61,
+        "min": 61,
+        "max": 61,
+        "uom": "ug/l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "mercury",
+        "samples": 1,
+        "value": 0.06,
+        "min": 0.06,
+        "max": 0.06,
+        "uom": "ug/l"
+      },
+      {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "coli",
+        "samples": 47,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "samples": 47,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 4,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu/l"
+      },
+      {
+        "code": "clostridium",
+        "samples": 4,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu/dl"
+      }
+    ],
+    "year": "2015",
+    "sources": [
+      "https://brabantwater.nl/PompStationInfo/Drinkwaterkwaliteit%20Eindhoven%202015.pdf"
+    ],
+    "zones": [
+      "waalre",
+      "eindhoven",
+      "valkenswaard",
+      "son_en_breugel",
+      "geldrop_mierlo",
+      "nuenen_gerwen_en_nederwetten",
+      "veldhoven"
+    ],
+    "plants": [
+      "eindhoven"
+    ]
+  },
+  {
     "name": "Drinkwaterkwaliteit Genderen 2015",
     "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -3069,6 +3085,8 @@
   {
     "name": "Drinkwaterkwaliteit Haaren 2015",
     "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -3483,6 +3501,8 @@
   {
     "name": "Drinkwaterkwaliteit Helmond 2015",
     "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -3857,6 +3877,8 @@
   {
     "name": "Drinkwaterkwaliteit Lieshout 2015",
     "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -4240,6 +4262,8 @@
   {
     "name": "Drinkwaterkwaliteit Lith 2015",
     "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -4649,6 +4673,8 @@
   {
     "name": "Drinkwaterkwaliteit Loosbroek 2015",
     "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -5063,6 +5089,8 @@
   {
     "name": "Drinkwaterkwaliteit Luyksgestel 2015",
     "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -5475,6 +5503,8 @@
   {
     "name": "Drinkwaterkwaliteit Macharen 2015",
     "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -5887,6 +5917,8 @@
   {
     "name": "Drinkwaterkwaliteit Nuland 2015",
     "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -6296,6 +6328,8 @@
   {
     "name": "Drinkwaterkwaliteit Oirschot 2015",
     "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -6708,6 +6742,8 @@
   {
     "name": "Drinkwaterkwaliteit Oosterhout 2015",
     "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -7124,6 +7160,8 @@
   {
     "name": "Drinkwaterkwaliteit Prinsenbosch 2015",
     "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -7535,413 +7573,10 @@
     ]
   },
   {
-    "name": "Drinkwaterkwaliteit Schijf 2015",
-    "issued": "2015-12-31T23:59:00.000Z",
-    "observations": [
-      {
-        "code": "watertemperature",
-        "samples": 51,
-        "value": 12,
-        "min": 11.4,
-        "max": 13.1,
-        "uom": "degC"
-      },
-      {
-        "code": "oxygen",
-        "samples": 52,
-        "value": 9.4,
-        "min": 8.7,
-        "max": 10.3,
-        "uom": "mg/l"
-      },
-      {
-        "code": "turbidity",
-        "samples": 52,
-        "value": 0.1,
-        "min": 0.1,
-        "max": 0.14,
-        "uom": "ftu"
-      },
-      {
-        "code": "tritium",
-        "samples": 1,
-        "value": 3,
-        "min": 3,
-        "max": 3,
-        "uom": "Bq/l"
-      },
-      {
-        "code": "acidity",
-        "samples": 52,
-        "value": 8.32,
-        "min": 8.16,
-        "max": 8.52,
-        "uom": "pH"
-      },
-      {
-        "code": "saturation",
-        "samples": 52,
-        "value": 0.65,
-        "min": 0.44,
-        "max": 0.76,
-        "uom": "pH"
-      },
-      {
-        "code": "conductance",
-        "samples": 52,
-        "value": 40.01,
-        "min": 37.8,
-        "max": 43.9,
-        "uom": "mS/m"
-      },
-      {
-        "code": "carbondioxide",
-        "samples": 34,
-        "value": 1.3,
-        "min": 1,
-        "max": 2.5,
-        "uom": "mg/l"
-      },
-      {
-        "code": "bicarbonate",
-        "samples": 52,
-        "value": 218,
-        "min": 201,
-        "max": 240,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "samples": 4,
-        "value": 34,
-        "min": 30.2,
-        "max": 37.6,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "samples": 4,
-        "value": 8,
-        "min": 7,
-        "max": 8,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "samples": 4,
-        "value": 58,
-        "min": 55,
-        "max": 60,
-        "uom": "mg/l"
-      },
-      {
-        "code": "kalium",
-        "samples": 4,
-        "value": 2.1,
-        "min": 1.9,
-        "max": 2.2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "calcium",
-        "samples": 52,
-        "value": 34,
-        "min": 28,
-        "max": 40,
-        "uom": "mg/l"
-      },
-      {
-        "code": "magnesium",
-        "samples": 52,
-        "value": 4.6,
-        "min": 3.9,
-        "max": 5.3,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "samples": 52,
-        "value": 1.05,
-        "min": 0.89,
-        "max": 1.2,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "ammonium",
-        "samples": 52,
-        "value": 0.03,
-        "min": 0.03,
-        "max": 0.03,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrite",
-        "samples": 52,
-        "value": 0.01,
-        "min": 0.01,
-        "max": 0.01,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "samples": 4,
-        "value": 2,
-        "min": 1.9,
-        "max": 2,
-        "uom": "mg/l"
-      },
-      {
-        "code": "silicate",
-        "samples": 1,
-        "value": 22,
-        "min": 22,
-        "max": 22,
-        "uom": "mg/l"
-      },
-      {
-        "code": "iron",
-        "samples": 52,
-        "value": 10,
-        "min": 10,
-        "max": 30,
-        "uom": "ug/l"
-      },
-      {
-        "code": "manganese",
-        "samples": 52,
-        "value": 10,
-        "min": 10,
-        "max": 10,
-        "uom": "ug/l"
-      },
-      {
-        "code": "aluminum",
-        "samples": 1,
-        "value": 5,
-        "min": 5,
-        "max": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "antimony",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "arsenic",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "barium",
-        "samples": 1,
-        "value": 5,
-        "min": 5,
-        "max": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "beryllium",
-        "samples": 1,
-        "value": 0.5,
-        "min": 0.5,
-        "max": 0.5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "boron",
-        "samples": 1,
-        "value": 22,
-        "min": 22,
-        "max": 22,
-        "uom": "ug/l"
-      },
-      {
-        "code": "cadmium",
-        "samples": 1,
-        "value": 0.1,
-        "min": 0.1,
-        "max": 0.1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "chromium",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "cobalt",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "copper",
-        "samples": 1,
-        "value": 5,
-        "min": 5,
-        "max": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "mercury",
-        "samples": 1,
-        "value": 0.06,
-        "min": 0.06,
-        "max": 0.06,
-        "uom": "ug/l"
-      },
-      {
-        "code": "lead",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "nickel",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "selenium",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "tin",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "vanadium",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "silver",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "zinc",
-        "samples": 1,
-        "value": 5,
-        "min": 5,
-        "max": 5,
-        "uom": "ug/l"
-      },
-      {
-        "code": "fluoride",
-        "samples": 1,
-        "value": 0.13,
-        "min": 0.13,
-        "max": 0.13,
-        "uom": "mg/l"
-      },
-      {
-        "code": "cyanide",
-        "samples": 1,
-        "value": 1,
-        "min": 1,
-        "max": 1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "pt_co",
-        "samples": 4,
-        "value": 8,
-        "min": 8,
-        "max": 9,
-        "uom": "mg/l"
-      },
-      {
-        "code": "trihalomethanes",
-        "samples": 1,
-        "value": 0.1,
-        "min": 0.1,
-        "max": 0.1,
-        "uom": "ug/l"
-      },
-      {
-        "code": "coli",
-        "samples": 52,
-        "value": 0,
-        "min": 0,
-        "max": 0,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "e_coli",
-        "samples": 52,
-        "value": 0,
-        "min": 0,
-        "max": 0,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "aeromonas",
-        "samples": 4,
-        "value": 1,
-        "min": 0,
-        "max": 1,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "legionella",
-        "samples": 2,
-        "value": 100,
-        "min": 100,
-        "max": 100,
-        "uom": "cfu/l"
-      },
-      {
-        "code": "clostridium",
-        "samples": 4,
-        "value": 0,
-        "min": 0,
-        "max": 0,
-        "uom": "cfu/dl"
-      }
-    ],
-    "year": "2015",
-    "sources": [
-      "https://brabantwater.nl/PompStationInfo/Drinkwaterkwaliteit%20Schijf%202015.pdf"
-    ],
-    "plants": [
-      "schijf"
-    ]
-  },
-  {
     "name": "Drinkwaterkwaliteit Roosendaal 2015",
     "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -8356,8 +7991,417 @@
     ]
   },
   {
+    "name": "Drinkwaterkwaliteit Schijf 2015",
+    "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
+    "observations": [
+      {
+        "code": "watertemperature",
+        "samples": 51,
+        "value": 12,
+        "min": 11.4,
+        "max": 13.1,
+        "uom": "degC"
+      },
+      {
+        "code": "oxygen",
+        "samples": 52,
+        "value": 9.4,
+        "min": 8.7,
+        "max": 10.3,
+        "uom": "mg/l"
+      },
+      {
+        "code": "turbidity",
+        "samples": 52,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.14,
+        "uom": "ftu"
+      },
+      {
+        "code": "tritium",
+        "samples": 1,
+        "value": 3,
+        "min": 3,
+        "max": 3,
+        "uom": "Bq/l"
+      },
+      {
+        "code": "acidity",
+        "samples": 52,
+        "value": 8.32,
+        "min": 8.16,
+        "max": 8.52,
+        "uom": "pH"
+      },
+      {
+        "code": "saturation",
+        "samples": 52,
+        "value": 0.65,
+        "min": 0.44,
+        "max": 0.76,
+        "uom": "pH"
+      },
+      {
+        "code": "conductance",
+        "samples": 52,
+        "value": 40.01,
+        "min": 37.8,
+        "max": 43.9,
+        "uom": "mS/m"
+      },
+      {
+        "code": "carbondioxide",
+        "samples": 34,
+        "value": 1.3,
+        "min": 1,
+        "max": 2.5,
+        "uom": "mg/l"
+      },
+      {
+        "code": "bicarbonate",
+        "samples": 52,
+        "value": 218,
+        "min": 201,
+        "max": 240,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "samples": 4,
+        "value": 34,
+        "min": 30.2,
+        "max": 37.6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "samples": 4,
+        "value": 8,
+        "min": 7,
+        "max": 8,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "samples": 4,
+        "value": 58,
+        "min": 55,
+        "max": 60,
+        "uom": "mg/l"
+      },
+      {
+        "code": "kalium",
+        "samples": 4,
+        "value": 2.1,
+        "min": 1.9,
+        "max": 2.2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "calcium",
+        "samples": 52,
+        "value": 34,
+        "min": 28,
+        "max": 40,
+        "uom": "mg/l"
+      },
+      {
+        "code": "magnesium",
+        "samples": 52,
+        "value": 4.6,
+        "min": 3.9,
+        "max": 5.3,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "samples": 52,
+        "value": 1.05,
+        "min": 0.89,
+        "max": 1.2,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "ammonium",
+        "samples": 52,
+        "value": 0.03,
+        "min": 0.03,
+        "max": 0.03,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrite",
+        "samples": 52,
+        "value": 0.01,
+        "min": 0.01,
+        "max": 0.01,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "samples": 4,
+        "value": 2,
+        "min": 1.9,
+        "max": 2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "silicate",
+        "samples": 1,
+        "value": 22,
+        "min": 22,
+        "max": 22,
+        "uom": "mg/l"
+      },
+      {
+        "code": "iron",
+        "samples": 52,
+        "value": 10,
+        "min": 10,
+        "max": 30,
+        "uom": "ug/l"
+      },
+      {
+        "code": "manganese",
+        "samples": 52,
+        "value": 10,
+        "min": 10,
+        "max": 10,
+        "uom": "ug/l"
+      },
+      {
+        "code": "aluminum",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "antimony",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "arsenic",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "barium",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "beryllium",
+        "samples": 1,
+        "value": 0.5,
+        "min": 0.5,
+        "max": 0.5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "boron",
+        "samples": 1,
+        "value": 22,
+        "min": 22,
+        "max": 22,
+        "uom": "ug/l"
+      },
+      {
+        "code": "cadmium",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "chromium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "cobalt",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "copper",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "mercury",
+        "samples": 1,
+        "value": 0.06,
+        "min": 0.06,
+        "max": 0.06,
+        "uom": "ug/l"
+      },
+      {
+        "code": "lead",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "nickel",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "selenium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "tin",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "vanadium",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "silver",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "zinc",
+        "samples": 1,
+        "value": 5,
+        "min": 5,
+        "max": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "fluoride",
+        "samples": 1,
+        "value": 0.13,
+        "min": 0.13,
+        "max": 0.13,
+        "uom": "mg/l"
+      },
+      {
+        "code": "cyanide",
+        "samples": 1,
+        "value": 1,
+        "min": 1,
+        "max": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "pt_co",
+        "samples": 4,
+        "value": 8,
+        "min": 8,
+        "max": 9,
+        "uom": "mg/l"
+      },
+      {
+        "code": "trihalomethanes",
+        "samples": 1,
+        "value": 0.1,
+        "min": 0.1,
+        "max": 0.1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "e_coli",
+        "samples": 52,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "aeromonas",
+        "samples": 4,
+        "value": 1,
+        "min": 0,
+        "max": 1,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "samples": 2,
+        "value": 100,
+        "min": 100,
+        "max": 100,
+        "uom": "cfu/l"
+      },
+      {
+        "code": "clostridium",
+        "samples": 4,
+        "value": 0,
+        "min": 0,
+        "max": 0,
+        "uom": "cfu/dl"
+      }
+    ],
+    "year": "2015",
+    "sources": [
+      "https://brabantwater.nl/PompStationInfo/Drinkwaterkwaliteit%20Schijf%202015.pdf"
+    ],
+    "plants": [
+      "schijf"
+    ]
+  },
+  {
     "name": "Drinkwaterkwaliteit Schijndel 2015",
     "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -8771,6 +8815,8 @@
   {
     "name": "Drinkwaterkwaliteit Seppe 2015",
     "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -9193,6 +9239,8 @@
   {
     "name": "Drinkwaterkwaliteit Someren 2015",
     "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -9422,6 +9470,8 @@
   {
     "name": "Drinkwaterkwaliteit Son 2015",
     "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -9838,6 +9888,8 @@
   {
     "name": "Drinkwaterkwaliteit Tilburg 2015",
     "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -10251,6 +10303,8 @@
   {
     "name": "Drinkwaterkwaliteit Veghel 2015",
     "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -10669,6 +10723,8 @@
   {
     "name": "Drinkwaterkwaliteit Vessem 2015",
     "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -11085,6 +11141,8 @@
   {
     "name": "Drinkwaterkwaliteit Vlierden 2015",
     "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -11496,6 +11554,8 @@
   {
     "name": "Drinkwaterkwaliteit Vlijmen 2015",
     "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "coli",
@@ -11554,6 +11614,8 @@
   {
     "name": "Drinkwaterkwaliteit Welschap 2015",
     "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -11964,6 +12026,8 @@
   {
     "name": "Drinkwaterkwaliteit Wouw 2015",
     "issued": "2015-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -12383,6 +12447,8 @@
   {
     "name": "Eindhoven Drinkwaterkwaliteit 2016 .Q4",
     "issued": "2016-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -12693,6 +12759,8 @@
   {
     "name": "Genderen Drinkwaterkwaliteit 2016 .Q3 en 4",
     "issued": "2016-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -12926,6 +12994,8 @@
   {
     "name": "Haaren Drinkwaterkwaliteit 2016 .Q4",
     "issued": "2016-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -13156,6 +13226,8 @@
   {
     "name": "Helmond Drinkwaterkwaliteit 2016 .Q3 en 4",
     "issued": "2016-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -13386,6 +13458,8 @@
   {
     "name": "Lieshout Drinkwaterkwaliteit 2016 .Q4",
     "issued": "2016-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -13617,6 +13691,8 @@
   {
     "name": "Lith Drinkwaterkwaliteit 2016 .Q3",
     "issued": "2016-09-30T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -13842,6 +13918,8 @@
   {
     "name": "Loosbroek Drinkwaterkwaliteit 2016 .Q4",
     "issued": "2016-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -14026,6 +14104,8 @@
   {
     "name": "Luijksgestel Drinkwaterkwaliteit 2016 .Q4",
     "issued": "2016-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -14208,6 +14288,8 @@
   {
     "name": "Macharen Drinkwaterkwaliteit 2016 .Q3 en 4",
     "issued": "2016-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -14444,6 +14526,8 @@
   {
     "name": "Nuland Drinkwaterkwaliteit 2016 .Q4",
     "issued": "2016-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -14636,6 +14720,8 @@
   },
   {
     "name": "Oirschot",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -14863,6 +14949,8 @@
   {
     "name": "Oosterhout Drinkwaterkwaliteit 2016 .Q4",
     "issued": "2016-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -15043,6 +15131,8 @@
   {
     "name": "Prinsenbosch Drinkwaterkwaliteit 2016 .Q4",
     "issued": "2016-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -15352,6 +15442,8 @@
   {
     "name": "Roosendaal Drinkwaterkwaliteit 2016 .Q4",
     "issued": "2016-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -15524,6 +15616,8 @@
   {
     "name": "Schijf Drinkwaterkwaliteit 2016 .Q4",
     "issued": "2016-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -15745,6 +15839,8 @@
   {
     "name": "Schijndel Drinkwaterkwaliteit 2016 .Q4",
     "issued": "2016-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -15974,6 +16070,8 @@
   {
     "name": "Seppe Drinkwaterkwaliteit 2016 .Q4",
     "issued": "2016-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -16132,6 +16230,8 @@
   {
     "name": "Someren Drinkwaterkwaliteit 2016 .Q3 en 4",
     "issued": "2016-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -16353,6 +16453,8 @@
   {
     "name": "Son Drinkwaterkwaliteit 2016 .Q4",
     "issued": "2016-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -16761,6 +16863,8 @@
   {
     "name": "Tilburg Drinkwaterkwaliteit 2016 .Q4",
     "issued": "2016-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -16990,6 +17094,8 @@
   {
     "name": "Veghel Drinkwaterkwaliteit 2016 .Q4",
     "issued": "2016-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -17232,6 +17338,8 @@
   {
     "name": "Vessem Drinkwaterkwaliteit 2016 .Q4",
     "issued": "2016-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -17640,6 +17748,8 @@
   {
     "name": "Vlierden Drinkwaterkwaliteit 2016 .Q4",
     "issued": "2016-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -17867,6 +17977,8 @@
   {
     "name": "Vlijmen Drinkwaterkwaliteit 2016 .Q3 en 4",
     "issued": "2016-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -18269,6 +18381,8 @@
   {
     "name": "Welschap Drinkwaterkwaliteit 2016 .Q4",
     "issued": "2016-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",
@@ -18575,6 +18689,8 @@
   {
     "name": "Wouw Drinkwaterkwaliteit 2016 .Q4",
     "issued": "2016-12-31T23:59:00.000Z",
+    "operator": "brabantwater",
+    "authority": "aqualabzuid",
     "observations": [
       {
         "code": "watertemperature",

@@ -141,5 +141,17 @@
     "url": "https://www.webbonaire.com",
     "country": "BQ",
     "type": "Provider"
+  }, {
+    "code": "hetwaterlaboratorium",
+    "name": "Het Waterlaboratorium",
+    "url": "http://www.hetwaterlaboratorium.nl",
+    "country": "NL",
+    "type": "Quality"
+  }, {
+    "code": "aqualabzuid",
+    "name": "Aqualab Zuid",
+    "url": "http://www.aqualab.nl",
+    "country": "NL",
+    "type": "Quality"
   }
 ]

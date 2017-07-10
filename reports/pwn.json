@@ -1,6 +1,8 @@
 [
   {
     "name": "andijk_2014_jaar_0",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2014-12-31T23:59:00.000Z",
     "year": "2014",
     "observations": [
@@ -87,6 +89,8 @@
   },
   {
     "name": "andijk_2015_jaar",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2015-12-31T23:59:00.000Z",
     "year": "2015",
     "observations": [
@@ -173,6 +177,8 @@
   },
   {
     "name": "andijk_2016_1e_kw_internet_pwn_1",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-03-31T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -259,6 +265,8 @@
   },
   {
     "name": "andijk_2016_2e_kw_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-06-30T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -345,6 +353,8 @@
   },
   {
     "name": "andijk_2016_3e_kw_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-09-30T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -431,6 +441,8 @@
   },
   {
     "name": "andijk_2016_4e_kw_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-12-31T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -517,6 +529,8 @@
   },
   {
     "name": "andijk_2016_jaar_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-12-31T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -603,6 +617,8 @@
   },
   {
     "name": "andijk_2017_1e_kw_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2017-03-31T23:59:00.000Z",
     "year": "2017",
     "observations": [
@@ -689,6 +705,8 @@
   },
   {
     "name": "bergen_2014_jaar",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2014-12-31T23:59:00.000Z",
     "year": "2014",
     "observations": [
@@ -775,6 +793,8 @@
   },
   {
     "name": "bergen_2015_jaar",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2015-12-31T23:59:00.000Z",
     "year": "2015",
     "observations": [
@@ -861,6 +881,8 @@
   },
   {
     "name": "bergen_2016_1e_kw_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-03-31T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -947,6 +969,8 @@
   },
   {
     "name": "bergen_2016_2e_kw_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-06-30T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -1033,6 +1057,8 @@
   },
   {
     "name": "bergen_2016_3e_kw_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-09-30T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -1119,6 +1145,8 @@
   },
   {
     "name": "bergen_2016_4e_kw_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-12-31T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -1205,6 +1233,8 @@
   },
   {
     "name": "bergen_2016_jaar_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-12-31T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -1291,6 +1321,8 @@
   },
   {
     "name": "bergen_2017_1e_kw_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2017-03-31T23:59:00.000Z",
     "year": "2017",
     "observations": [
@@ -1377,6 +1409,8 @@
   },
   {
     "name": "laren_2014_jaar",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2014-12-31T23:59:00.000Z",
     "year": "2014",
     "observations": [
@@ -1438,6 +1472,8 @@
   },
   {
     "name": "laren_2015_jaar",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2015-12-31T23:59:00.000Z",
     "year": "2015",
     "observations": [
@@ -1524,6 +1560,8 @@
   },
   {
     "name": "laren_2016_1e_kw_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-03-31T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -1585,6 +1623,8 @@
   },
   {
     "name": "laren_2016_2e_kw_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-06-30T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -1651,6 +1691,8 @@
   },
   {
     "name": "laren_2016_3e_kw_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-09-30T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -1717,6 +1759,8 @@
   },
   {
     "name": "laren_2016_4e_kw_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-12-31T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -1783,6 +1827,8 @@
   },
   {
     "name": "laren_2016_jaar_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-12-31T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -1849,6 +1895,8 @@
   },
   {
     "name": "laren_2017_1e_kw_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2017-03-31T23:59:00.000Z",
     "year": "2017",
     "observations": [
@@ -1910,6 +1958,8 @@
   },
   {
     "name": "leiduin_2014_jaar",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2014-12-31T23:59:00.000Z",
     "year": "2014",
     "observations": [
@@ -1996,6 +2046,8 @@
   },
   {
     "name": "leiduin_2015_jaar",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2015-12-31T23:59:00.000Z",
     "year": "2015",
     "observations": [
@@ -2082,6 +2134,8 @@
   },
   {
     "name": "leiduin_2016_1e_kw_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-03-31T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -2168,6 +2222,8 @@
   },
   {
     "name": "leiduin_2016_2e_kw_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-06-30T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -2254,6 +2310,8 @@
   },
   {
     "name": "leiduin_2016_3e_kw_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-09-30T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -2340,6 +2398,8 @@
   },
   {
     "name": "leiduin_2016_4e_kw_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-12-31T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -2426,6 +2486,8 @@
   },
   {
     "name": "leiduin_2016_jaar_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-12-31T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -2512,6 +2574,8 @@
   },
   {
     "name": "leiduin_2017_1e_kw_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2017-03-31T23:59:00.000Z",
     "year": "2017",
     "observations": [
@@ -2598,6 +2662,8 @@
   },
   {
     "name": "mensink_2014_jaar",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2014-12-31T23:59:00.000Z",
     "year": "2014",
     "observations": [
@@ -2685,6 +2751,8 @@
   },
   {
     "name": "mensink_2015_jaar",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2015-12-31T23:59:00.000Z",
     "year": "2015",
     "observations": [
@@ -2772,6 +2840,8 @@
   },
   {
     "name": "mensink_2016_1e_kw_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-03-31T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -2859,6 +2929,8 @@
   },
   {
     "name": "mensink_2016_2e_kw_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-06-30T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -2946,6 +3018,8 @@
   },
   {
     "name": "mensink_2016_3e_kw_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-09-30T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -3033,6 +3107,8 @@
   },
   {
     "name": "mensink_2016_4e_kw_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-12-31T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -3120,6 +3196,8 @@
   },
   {
     "name": "mensink_2016_jaar_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-12-31T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -3207,6 +3285,8 @@
   },
   {
     "name": "mensink_2017_1e_kw_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2017-03-31T23:59:00.000Z",
     "year": "2017",
     "observations": [
@@ -3294,6 +3374,8 @@
   },
   {
     "name": "weesperkarspel_2014_jaar",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2014-12-31T23:59:00.000Z",
     "year": "2014",
     "observations": [
@@ -3380,6 +3462,8 @@
   },
   {
     "name": "weesperkarspel_2015_jaar",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2015-12-31T23:59:00.000Z",
     "year": "2015",
     "observations": [
@@ -3466,6 +3550,8 @@
   },
   {
     "name": "weesperkarspel_2016_1e_kw_internet_pwn_0",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-03-31T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -3552,6 +3638,8 @@
   },
   {
     "name": "weesperkarspel_2016_2e_kw_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-06-30T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -3638,6 +3726,8 @@
   },
   {
     "name": "weesperkarspel_2016_3e_kw_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-09-30T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -3724,6 +3814,8 @@
   },
   {
     "name": "weesperkarspel_2016_4e_kw_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-12-31T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -3810,6 +3902,8 @@
   },
   {
     "name": "weesperkarspel_2016_jaar_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2016-12-31T23:59:00.000Z",
     "year": "2016",
     "observations": [
@@ -3896,6 +3990,8 @@
   },
   {
     "name": "weesperkarspel_2017_1e_kw_internet_pwn",
+    "authority": "hetwaterlaboratorium",
+    "operator": "pwn",
     "issued": "2017-03-31T23:59:00.000Z",
     "year": "2017",
     "observations": [
