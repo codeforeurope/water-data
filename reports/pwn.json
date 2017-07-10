@@ -1,0 +1,3983 @@
+[
+  {
+    "name": "andijk_2014_jaar_0",
+    "issued": "2014-12-31T23:59:00.000Z",
+    "year": "2014",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 38,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 117,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 72.7,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 141,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.46,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 13,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 107,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 4.7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 99,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 12.9,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/andijk_2014_jaar_0.pdf"
+    ],
+    "zones": [
+      "andijk"
+    ],
+    "plants": [
+      "andijk"
+    ]
+  },
+  {
+    "name": "andijk_2015_jaar",
+    "issued": "2015-12-31T23:59:00.000Z",
+    "year": "2015",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 1.3,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 35,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 128,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 74.9,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 141,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.4,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 13,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 112,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 5.33,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 89,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 11.8,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/andijk_2015_jaar.pdf"
+    ],
+    "zones": [
+      "andijk"
+    ],
+    "plants": [
+      "andijk"
+    ]
+  },
+  {
+    "name": "andijk_2016_1e_kw_internet_pwn_1",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 33,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 139,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 79.6,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 151,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.35,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 13,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 124,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 6.47,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 91,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 5.9,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/andijk_2016_1e_kw_internet_pwn_1.pdf"
+    ],
+    "zones": [
+      "andijk"
+    ],
+    "plants": [
+      "andijk"
+    ]
+  },
+  {
+    "name": "andijk_2016_2e_kw_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 2,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 35,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 130,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 74.9,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 143,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.36,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 12,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 110,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 6.78,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 84,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 13.7,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/andijk_2016_2e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "andijk"
+    ],
+    "plants": [
+      "andijk"
+    ]
+  },
+  {
+    "name": "andijk_2016_3e_kw_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 2,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 35,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 114,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 68.4,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 131,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.37,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 12,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 98,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 3.29,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 81,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 19.7,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/andijk_2016_3e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "andijk"
+    ],
+    "plants": [
+      "andijk"
+    ]
+  },
+  {
+    "name": "andijk_2016_4e_kw_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 36,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 122,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 69.8,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 133,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.4,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 12,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 99,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 1.78,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 80,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 9.9,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/andijk_2016_4e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "andijk"
+    ],
+    "plants": [
+      "andijk"
+    ]
+  },
+  {
+    "name": "andijk_2016_jaar_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 1.3,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 35,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 126,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 73.2,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 139,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.37,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 12,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 109,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 4.72,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 85,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 12.3,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/andijk_2016_jaar_internet_pwn.pdf"
+    ],
+    "zones": [
+      "andijk"
+    ],
+    "plants": [
+      "andijk"
+    ]
+  },
+  {
+    "name": "andijk_2017_1e_kw_internet_pwn",
+    "issued": "need to extract date and year from filename",
+    "year": "need to extract date and year from filename",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 35,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 133,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 75,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 143,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.38,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 12,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 109,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 3.75,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 80,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 4.6,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/andijk_2017_1e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "andijk"
+    ],
+    "plants": [
+      "andijk"
+    ]
+  },
+  {
+    "name": "bergen_2014_jaar",
+    "issued": "2014-12-31T23:59:00.000Z",
+    "year": "2014",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 48,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 71,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 48.7,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 151,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.49,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 50,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 2.64,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 36,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 12.5,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/bergen_2014_jaar.pdf"
+    ],
+    "zones": [
+      "bergen"
+    ],
+    "plants": [
+      "bergen"
+    ]
+  },
+  {
+    "name": "bergen_2015_jaar",
+    "issued": "2015-12-31T23:59:00.000Z",
+    "year": "2015",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 1.2,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 45,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 67,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 46.8,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 145,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.39,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 50,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 2.6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 35,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 12.6,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/bergen_2015_jaar.pdf"
+    ],
+    "zones": [
+      "bergen"
+    ],
+    "plants": [
+      "bergen"
+    ]
+  },
+  {
+    "name": "bergen_2016_1e_kw_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 44,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 70,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 47.4,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 141,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.38,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 52,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 3.28,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 36,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 9.8,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/bergen_2016_1e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "bergen"
+    ],
+    "plants": [
+      "bergen"
+    ]
+  },
+  {
+    "name": "bergen_2016_3e_kw_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 2,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 44,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 64,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 46.1,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 152,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.37,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 51,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 1.65,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 33,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 15.8,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/bergen_2016_3e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "bergen"
+    ],
+    "plants": [
+      "bergen"
+    ]
+  },
+  {
+    "name": "bergen_2016_2e_kw_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 43,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 68,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 47.5,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 142,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.36,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 51,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 4.24,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 38,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 11.6,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/bergen_2016_2e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "bergen"
+    ],
+    "plants": [
+      "bergen"
+    ]
+  },
+  {
+    "name": "bergen_2016_4e_kw_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 41,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 66,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 45.6,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 147,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.29,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 50,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 1.11,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 32,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 13.4,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/bergen_2016_4e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "bergen"
+    ],
+    "plants": [
+      "bergen"
+    ]
+  },
+  {
+    "name": "bergen_2016_jaar_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 1.3,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 43,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 67,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 47,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 146,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.35,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 51,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 2.62,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 35,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 12.6,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/bergen_2016_jaar_internet_pwn.pdf"
+    ],
+    "zones": [
+      "bergen"
+    ],
+    "plants": [
+      "bergen"
+    ]
+  },
+  {
+    "name": "bergen_2017_1e_kw_internet_pwn",
+    "issued": "need to extract date and year from filename",
+    "year": "need to extract date and year from filename",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 46,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 68,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 48.2,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 152,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.43,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 52,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 2.45,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 37,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 9.2,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/bergen_2017_1e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "bergen"
+    ],
+    "plants": [
+      "bergen"
+    ]
+  },
+  {
+    "name": "laren_2014_jaar",
+    "issued": "2014-12-31T23:59:00.000Z",
+    "year": "2014",
+    "observations": [
+      {
+        "code": "calcium",
+        "value": 49,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 35,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 144,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.4,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 4,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 11,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0.01,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/laren_2014_jaar.pdf"
+    ],
+    "zones": [
+      "laren_weesperkarspel"
+    ],
+    "plants": [
+      "laren"
+    ]
+  },
+  {
+    "name": "laren_2015_jaar",
+    "issued": "2015-12-31T23:59:00.000Z",
+    "year": "2015",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 2.1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 49,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 34,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 34.8,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 140,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.39,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 4,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 22,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 23,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 10.8,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/laren_2015_jaar.pdf"
+    ],
+    "zones": [
+      "laren_weesperkarspel"
+    ],
+    "plants": [
+      "laren"
+    ]
+  },
+  {
+    "name": "laren_2016_1e_kw_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "calcium",
+        "value": 49,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 34.7,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 138,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.39,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 4,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 9.4,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/laren_2016_1e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "laren_weesperkarspel"
+    ],
+    "plants": [
+      "laren"
+    ]
+  },
+  {
+    "name": "laren_2016_2e_kw_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "calcium",
+        "value": 47,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 44,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 35.7,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 144,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.34,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 4,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 11.1,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/laren_2016_2e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "laren_weesperkarspel"
+    ],
+    "plants": [
+      "laren"
+    ]
+  },
+  {
+    "name": "laren_2016_3e_kw_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "calcium",
+        "value": 49,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 29,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 35.4,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 143,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.41,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 4,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 12.7,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/laren_2016_3e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "laren_weesperkarspel"
+    ],
+    "plants": [
+      "laren"
+    ]
+  },
+  {
+    "name": "laren_2016_4e_kw_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "calcium",
+        "value": 48,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 32,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 34.9,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 147,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.36,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 4,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 10.6,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/laren_2016_4e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "laren_weesperkarspel"
+    ],
+    "plants": [
+      "laren"
+    ]
+  },
+  {
+    "name": "laren_2017_1e_kw_internet_pwn",
+    "issued": "need to extract date and year from filename",
+    "year": "need to extract date and year from filename",
+    "observations": [
+      {
+        "code": "calcium",
+        "value": 49,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 34.8,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 144,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.4,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 4,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 9.2,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/laren_2017_1e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "laren_weesperkarspel"
+    ],
+    "plants": [
+      "laren"
+    ]
+  },
+  {
+    "name": "laren_2016_jaar_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "calcium",
+        "value": 48,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 33,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 35.2,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 143,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.37,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 4,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 10.9,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/laren_2016_jaar_internet_pwn.pdf"
+    ],
+    "zones": [
+      "laren_weesperkarspel"
+    ],
+    "plants": [
+      "laren"
+    ]
+  },
+  {
+    "name": "leiduin_2015_jaar",
+    "issued": "2015-12-31T23:59:00.000Z",
+    "year": "2015",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 1.9,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 41,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 77,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 54.1,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 167,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.41,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 10,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 67,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 3.36,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 43,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 12.7,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 100,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/leiduin_2015_jaar.pdf"
+    ],
+    "zones": [
+      "mensink_leiduin"
+    ],
+    "plants": [
+      "leiduin"
+    ]
+  },
+  {
+    "name": "leiduin_2014_jaar",
+    "issued": "2014-12-31T23:59:00.000Z",
+    "year": "2014",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 2,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 44,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 78,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 54.9,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 175,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.49,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 10,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 68,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 3.23,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 44,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 13.3,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/leiduin_2014_jaar.pdf"
+    ],
+    "zones": [
+      "mensink_leiduin"
+    ],
+    "plants": [
+      "leiduin"
+    ]
+  },
+  {
+    "name": "leiduin_2016_1e_kw_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 38,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 80,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 55.7,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 161,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.33,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 10,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 73,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 5.05,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 47,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 8.5,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 100,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/leiduin_2016_1e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "mensink_leiduin"
+    ],
+    "plants": [
+      "leiduin"
+    ]
+  },
+  {
+    "name": "leiduin_2016_2e_kw_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 2,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 39,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 76,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 53.8,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 161,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.37,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 9,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 67,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 4.65,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 46,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 14.5,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 100,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/leiduin_2016_2e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "mensink_leiduin"
+    ],
+    "plants": [
+      "leiduin"
+    ]
+  },
+  {
+    "name": "leiduin_2016_4e_kw_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 41,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 69,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 52.9,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 179,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.39,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 9,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 66,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 2.57,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 42,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 11.3,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 100,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/leiduin_2016_4e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "mensink_leiduin"
+    ],
+    "plants": [
+      "leiduin"
+    ]
+  },
+  {
+    "name": "leiduin_2016_3e_kw_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 2,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 41,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 69,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 52.2,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 172,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.41,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 10,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 66,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 2.16,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 41,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 17.8,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 100,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/leiduin_2016_3e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "mensink_leiduin"
+    ],
+    "plants": [
+      "leiduin"
+    ]
+  },
+  {
+    "name": "leiduin_2016_jaar_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 1.7,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 40,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 74,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 54,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 168,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.38,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 9,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 68,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 3.61,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 45,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 13.1,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 100,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/leiduin_2016_jaar_internet_pwn.pdf"
+    ],
+    "zones": [
+      "mensink_leiduin"
+    ],
+    "plants": [
+      "leiduin"
+    ]
+  },
+  {
+    "name": "leiduin_2017_1e_kw_internet_pwn",
+    "issued": "need to extract date and year from filename",
+    "year": "need to extract date and year from filename",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 40,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 79,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 56.3,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 165,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.4,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 10,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 73,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 4.05,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 48,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 9,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 100,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/leiduin_2017_1e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "mensink_leiduin"
+    ],
+    "plants": [
+      "leiduin"
+    ]
+  },
+  {
+    "name": "mensink_2014_jaar",
+    "issued": "2014-12-31T23:59:00.000Z",
+    "year": "2014",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 44,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 81,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 54.1,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 154,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.47,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 9,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 62,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 4.36,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 45,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 13.3,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/mensink_2014_jaar.pdf"
+    ],
+    "zones": [
+      "mensink",
+      "mensink_leiduin"
+    ],
+    "plants": [
+      "mensink"
+    ]
+  },
+  {
+    "name": "mensink_2015_jaar",
+    "issued": "2015-12-31T23:59:00.000Z",
+    "year": "2015",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 44,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 88,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 56,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 154,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.48,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 9,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 67,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 4.35,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 47,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 9.7,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/mensink_2015_jaar.pdf"
+    ],
+    "zones": [
+      "mensink",
+      "mensink_leiduin"
+    ],
+    "plants": [
+      "mensink"
+    ]
+  },
+  {
+    "name": "mensink_2016_1e_kw_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 35,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 97,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 58.8,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 138,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.3,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 10,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 80,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 4.79,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 51,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 10.1,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/mensink_2016_1e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "mensink",
+      "mensink_leiduin"
+    ],
+    "plants": [
+      "mensink"
+    ]
+  },
+  {
+    "name": "mensink_2016_2e_kw_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 37,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 82,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 55.7,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 143,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.3,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 9,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 68,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 6.07,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 47,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 10.5,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/mensink_2016_2e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "mensink",
+      "mensink_leiduin"
+    ],
+    "plants": [
+      "mensink"
+    ]
+  },
+  {
+    "name": "mensink_2016_3e_kw_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 39,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 84,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 53.9,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 155,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.36,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 9,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 73,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 2.5,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 48,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 15.7,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/mensink_2016_3e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "mensink",
+      "mensink_leiduin"
+    ],
+    "plants": [
+      "mensink"
+    ]
+  },
+  {
+    "name": "mensink_2016_4e_kw_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 39,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 90,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 55.5,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 155,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.31,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 9,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 72,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 1.78,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 44,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 15.3,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/mensink_2016_4e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "mensink",
+      "mensink_leiduin"
+    ],
+    "plants": [
+      "mensink"
+    ]
+  },
+  {
+    "name": "mensink_2016_jaar_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 35,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 97,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 58.8,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 138,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.3,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 10,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 80,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 4.79,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 51,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 10.1,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/mensink_2016_jaar_internet_pwn.pdf"
+    ],
+    "zones": [
+      "mensink",
+      "mensink_leiduin"
+    ],
+    "plants": [
+      "mensink"
+    ]
+  },
+  {
+    "name": "mensink_2017_1e_kw_internet_pwn",
+    "issued": "need to extract date and year from filename",
+    "year": "need to extract date and year from filename",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 1,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 38,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 93,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 58.7,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 150,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.35,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 10,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 79,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 3.99,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 54,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 9.5,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/mensink_2017_1e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "mensink",
+      "mensink_leiduin"
+    ],
+    "plants": [
+      "mensink"
+    ]
+  },
+  {
+    "name": "weesperkarspel_2014_jaar",
+    "issued": "2014-12-31T23:59:00.000Z",
+    "year": "2014",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 49,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 68,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 48.6,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 199,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.5,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 53,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 5.19,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 4.2,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 13,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/weesperkarspel_2014_jaar.pdf"
+    ],
+    "zones": [
+      "laren_weesperkarspel"
+    ],
+    "plants": [
+      "weesperkarspel"
+    ]
+  },
+  {
+    "name": "weesperkarspel_2015_jaar",
+    "issued": "2015-12-31T23:59:00.000Z",
+    "year": "2015",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 4.5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 44,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 70,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 47.4,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 183,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.37,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 55,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 5.13,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 6.1,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 12,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 100,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/weesperkarspel_2015_jaar.pdf"
+    ],
+    "zones": [
+      "laren_weesperkarspel"
+    ],
+    "plants": [
+      "weesperkarspel"
+    ]
+  },
+  {
+    "name": "weesperkarspel_2016_1e_kw_internet_pwn_0",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 3,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 44,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 68,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 46.7,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 176,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.36,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 53,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 6.54,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 5.7,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 100,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/weesperkarspel_2016_1e_kw_internet_pwn_0.pdf"
+    ],
+    "zones": [
+      "laren_weesperkarspel"
+    ],
+    "plants": [
+      "weesperkarspel"
+    ]
+  },
+  {
+    "name": "weesperkarspel_2016_2e_kw_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 3,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 45,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 67,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 47,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 188,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 53,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 14,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 100,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/weesperkarspel_2016_2e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "laren_weesperkarspel"
+    ],
+    "plants": [
+      "weesperkarspel"
+    ]
+  },
+  {
+    "name": "weesperkarspel_2016_3e_kw_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 5,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 44,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 64,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 46.4,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 187,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.39,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 53,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 3.76,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 19.5,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 100,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/weesperkarspel_2016_3e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "laren_weesperkarspel"
+    ],
+    "plants": [
+      "weesperkarspel"
+    ]
+  },
+  {
+    "name": "weesperkarspel_2016_4e_kw_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 4,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 44,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 65,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 46.5,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 188,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.36,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 51,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 4.27,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 5,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 9.8,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 100,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/weesperkarspel_2016_4e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "laren_weesperkarspel"
+    ],
+    "plants": [
+      "weesperkarspel"
+    ]
+  },
+  {
+    "name": "weesperkarspel_2016_jaar_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 3.8,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 44,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 66,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 47,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 185,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.37,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 52,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 5.1,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 12.2,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 100,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/weesperkarspel_2016_jaar_internet_pwn.pdf"
+    ],
+    "zones": [
+      "laren_weesperkarspel"
+    ],
+    "plants": [
+      "weesperkarspel"
+    ]
+  },
+  {
+    "name": "weesperkarspel_2017_1e_kw_internet_pwn",
+    "issued": "need to extract date and year from filename",
+    "year": "need to extract date and year from filename",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 2,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 45,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 61,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 47.3,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 197,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.39,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 56,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 6.4,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 7,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 4.8,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 100,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/weesperkarspel_2017_1e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "laren_weesperkarspel"
+    ],
+    "plants": [
+      "weesperkarspel"
+    ]
+  }
+]
