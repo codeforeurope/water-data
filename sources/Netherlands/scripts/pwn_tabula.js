@@ -38,7 +38,7 @@ function parsecsv(filename, cb){
       results.year = '2015';
       results.issued = "2015-12-31T23:59:00.000Z";
       break;
-    case (filename.indexOf('2016') != -1 && filename.indexOf('kw') != -1):
+    case (filename.indexOf('2016') != -1 && filename.indexOf('kw') == -1):
       results.year = '2016';
       results.issued = "2016-12-31T23:59:00.000Z";
       break;

@@ -173,7 +173,7 @@
   },
   {
     "name": "andijk_2016_1e_kw_internet_pwn_1",
-    "issued": "2016-12-31T23:59:00.000Z",
+    "issued": "2016-03-31T23:59:00.000Z",
     "year": "2016",
     "observations": [
       {
@@ -259,7 +259,7 @@
   },
   {
     "name": "andijk_2016_2e_kw_internet_pwn",
-    "issued": "2016-12-31T23:59:00.000Z",
+    "issued": "2016-06-30T23:59:00.000Z",
     "year": "2016",
     "observations": [
       {
@@ -345,7 +345,7 @@
   },
   {
     "name": "andijk_2016_3e_kw_internet_pwn",
-    "issued": "2016-12-31T23:59:00.000Z",
+    "issued": "2016-09-30T23:59:00.000Z",
     "year": "2016",
     "observations": [
       {
@@ -517,8 +517,8 @@
   },
   {
     "name": "andijk_2016_jaar_internet_pwn",
-    "issued": "need to extract date and year from filename",
-    "year": "need to extract date and year from filename",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
     "observations": [
       {
         "code": "aluminum",
@@ -861,7 +861,7 @@
   },
   {
     "name": "bergen_2016_1e_kw_internet_pwn",
-    "issued": "2016-12-31T23:59:00.000Z",
+    "issued": "2016-03-31T23:59:00.000Z",
     "year": "2016",
     "observations": [
       {
@@ -947,7 +947,7 @@
   },
   {
     "name": "bergen_2016_2e_kw_internet_pwn",
-    "issued": "2016-12-31T23:59:00.000Z",
+    "issued": "2016-06-30T23:59:00.000Z",
     "year": "2016",
     "observations": [
       {
@@ -1033,7 +1033,7 @@
   },
   {
     "name": "bergen_2016_3e_kw_internet_pwn",
-    "issued": "2016-12-31T23:59:00.000Z",
+    "issued": "2016-09-30T23:59:00.000Z",
     "year": "2016",
     "observations": [
       {
@@ -1205,8 +1205,8 @@
   },
   {
     "name": "bergen_2016_jaar_internet_pwn",
-    "issued": "need to extract date and year from filename",
-    "year": "need to extract date and year from filename",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
     "observations": [
       {
         "code": "aluminum",
@@ -1524,7 +1524,7 @@
   },
   {
     "name": "laren_2016_1e_kw_internet_pwn",
-    "issued": "2016-12-31T23:59:00.000Z",
+    "issued": "2016-03-31T23:59:00.000Z",
     "year": "2016",
     "observations": [
       {
@@ -1585,7 +1585,7 @@
   },
   {
     "name": "laren_2016_2e_kw_internet_pwn",
-    "issued": "2016-12-31T23:59:00.000Z",
+    "issued": "2016-06-30T23:59:00.000Z",
     "year": "2016",
     "observations": [
       {
@@ -1651,7 +1651,7 @@
   },
   {
     "name": "laren_2016_3e_kw_internet_pwn",
-    "issued": "2016-12-31T23:59:00.000Z",
+    "issued": "2016-09-30T23:59:00.000Z",
     "year": "2016",
     "observations": [
       {
@@ -1783,8 +1783,8 @@
   },
   {
     "name": "laren_2016_jaar_internet_pwn",
-    "issued": "need to extract date and year from filename",
-    "year": "need to extract date and year from filename",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
     "observations": [
       {
         "code": "calcium",
@@ -2082,7 +2082,7 @@
   },
   {
     "name": "leiduin_2016_1e_kw_internet_pwn",
-    "issued": "2016-12-31T23:59:00.000Z",
+    "issued": "2016-03-31T23:59:00.000Z",
     "year": "2016",
     "observations": [
       {
@@ -2167,94 +2167,8 @@
     ]
   },
   {
-    "name": "leiduin_2016_3e_kw_internet_pwn",
-    "issued": "2016-12-31T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "aluminum",
-        "value": 2,
-        "uom": "ug/l"
-      },
-      {
-        "code": "calcium",
-        "value": 41,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 69,
-        "uom": "mg/l"
-      },
-      {
-        "code": "conductance",
-        "value": 52.2,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 172,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.41,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 10,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 66,
-        "uom": "mg/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.02,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 2.16,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 41,
-        "uom": "mg/l"
-      },
-      {
-        "code": "watertemperature",
-        "value": 17.8,
-        "uom": "degC"
-      },
-      {
-        "code": "coli",
-        "value": 0,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "legionella",
-        "value": 100,
-        "uom": "cfu/l"
-      }
-    ],
-    "sources": [
-      "https://www.pwn.nl/sites/default/files/leiduin_2016_3e_kw_internet_pwn.pdf"
-    ],
-    "zones": [
-      "mensink_leiduin"
-    ],
-    "plants": [
-      "leiduin"
-    ]
-  },
-  {
     "name": "leiduin_2016_2e_kw_internet_pwn",
-    "issued": "2016-12-31T23:59:00.000Z",
+    "issued": "2016-06-30T23:59:00.000Z",
     "year": "2016",
     "observations": [
       {
@@ -2330,6 +2244,92 @@
     ],
     "sources": [
       "https://www.pwn.nl/sites/default/files/leiduin_2016_2e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "mensink_leiduin"
+    ],
+    "plants": [
+      "leiduin"
+    ]
+  },
+  {
+    "name": "leiduin_2016_3e_kw_internet_pwn",
+    "issued": "2016-09-30T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 2,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 41,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 69,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 52.2,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 172,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.41,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 10,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 66,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 2.16,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 41,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 17.8,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 100,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/leiduin_2016_3e_kw_internet_pwn.pdf"
     ],
     "zones": [
       "mensink_leiduin"
@@ -2426,8 +2426,8 @@
   },
   {
     "name": "leiduin_2016_jaar_internet_pwn",
-    "issued": "need to extract date and year from filename",
-    "year": "need to extract date and year from filename",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
     "observations": [
       {
         "code": "aluminum",
@@ -2772,7 +2772,7 @@
   },
   {
     "name": "mensink_2016_1e_kw_internet_pwn",
-    "issued": "2016-12-31T23:59:00.000Z",
+    "issued": "2016-03-31T23:59:00.000Z",
     "year": "2016",
     "observations": [
       {
@@ -2859,7 +2859,7 @@
   },
   {
     "name": "mensink_2016_2e_kw_internet_pwn",
-    "issued": "2016-12-31T23:59:00.000Z",
+    "issued": "2016-06-30T23:59:00.000Z",
     "year": "2016",
     "observations": [
       {
@@ -2946,7 +2946,7 @@
   },
   {
     "name": "mensink_2016_3e_kw_internet_pwn",
-    "issued": "2016-12-31T23:59:00.000Z",
+    "issued": "2016-09-30T23:59:00.000Z",
     "year": "2016",
     "observations": [
       {
@@ -3120,8 +3120,8 @@
   },
   {
     "name": "mensink_2016_jaar_internet_pwn",
-    "issued": "need to extract date and year from filename",
-    "year": "need to extract date and year from filename",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
     "observations": [
       {
         "code": "aluminum",
@@ -3466,7 +3466,7 @@
   },
   {
     "name": "weesperkarspel_2016_1e_kw_internet_pwn_0",
-    "issued": "2016-12-31T23:59:00.000Z",
+    "issued": "2016-03-31T23:59:00.000Z",
     "year": "2016",
     "observations": [
       {
@@ -3552,7 +3552,7 @@
   },
   {
     "name": "weesperkarspel_2016_2e_kw_internet_pwn",
-    "issued": "2016-12-31T23:59:00.000Z",
+    "issued": "2016-06-30T23:59:00.000Z",
     "year": "2016",
     "observations": [
       {
@@ -3638,7 +3638,7 @@
   },
   {
     "name": "weesperkarspel_2016_3e_kw_internet_pwn",
-    "issued": "2016-12-31T23:59:00.000Z",
+    "issued": "2016-09-30T23:59:00.000Z",
     "year": "2016",
     "observations": [
       {
@@ -3810,8 +3810,8 @@
   },
   {
     "name": "weesperkarspel_2016_jaar_internet_pwn",
-    "issued": "need to extract date and year from filename",
-    "year": "need to extract date and year from filename",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
     "observations": [
       {
         "code": "aluminum",
