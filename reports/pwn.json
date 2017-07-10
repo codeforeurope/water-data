@@ -517,8 +517,8 @@
   },
   {
     "name": "andijk_2016_jaar_internet_pwn",
-    "issued": "2016-12-31T23:59:00.000Z",
-    "year": "2016",
+    "issued": "need to extract date and year from filename",
+    "year": "need to extract date and year from filename",
     "observations": [
       {
         "code": "aluminum",
@@ -603,8 +603,8 @@
   },
   {
     "name": "andijk_2017_1e_kw_internet_pwn",
-    "issued": "need to extract date and year from filename",
-    "year": "need to extract date and year from filename",
+    "issued": "2017-03-31T23:59:00.000Z",
+    "year": "2017",
     "observations": [
       {
         "code": "aluminum",
@@ -946,92 +946,6 @@
     ]
   },
   {
-    "name": "bergen_2016_3e_kw_internet_pwn",
-    "issued": "2016-12-31T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "aluminum",
-        "value": 2,
-        "uom": "ug/l"
-      },
-      {
-        "code": "calcium",
-        "value": 44,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 64,
-        "uom": "mg/l"
-      },
-      {
-        "code": "conductance",
-        "value": 46.1,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 152,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.37,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 6,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 51,
-        "uom": "mg/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.02,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 1.65,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 33,
-        "uom": "mg/l"
-      },
-      {
-        "code": "watertemperature",
-        "value": 15.8,
-        "uom": "degC"
-      },
-      {
-        "code": "coli",
-        "value": 0,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "legionella",
-        "value": 8,
-        "uom": "cfu/l"
-      }
-    ],
-    "sources": [
-      "https://www.pwn.nl/sites/default/files/bergen_2016_3e_kw_internet_pwn.pdf"
-    ],
-    "zones": [
-      "bergen"
-    ],
-    "plants": [
-      "bergen"
-    ]
-  },
-  {
     "name": "bergen_2016_2e_kw_internet_pwn",
     "issued": "2016-12-31T23:59:00.000Z",
     "year": "2016",
@@ -1109,6 +1023,92 @@
     ],
     "sources": [
       "https://www.pwn.nl/sites/default/files/bergen_2016_2e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "bergen"
+    ],
+    "plants": [
+      "bergen"
+    ]
+  },
+  {
+    "name": "bergen_2016_3e_kw_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 2,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 44,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 64,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 46.1,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 152,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.37,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 6,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 51,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 1.65,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 33,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 15.8,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 8,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/bergen_2016_3e_kw_internet_pwn.pdf"
     ],
     "zones": [
       "bergen"
@@ -1205,8 +1205,8 @@
   },
   {
     "name": "bergen_2016_jaar_internet_pwn",
-    "issued": "2016-12-31T23:59:00.000Z",
-    "year": "2016",
+    "issued": "need to extract date and year from filename",
+    "year": "need to extract date and year from filename",
     "observations": [
       {
         "code": "aluminum",
@@ -1291,8 +1291,8 @@
   },
   {
     "name": "bergen_2017_1e_kw_internet_pwn",
-    "issued": "need to extract date and year from filename",
-    "year": "need to extract date and year from filename",
+    "issued": "2017-03-31T23:59:00.000Z",
+    "year": "2017",
     "observations": [
       {
         "code": "aluminum",
@@ -1782,70 +1782,9 @@
     ]
   },
   {
-    "name": "laren_2017_1e_kw_internet_pwn",
+    "name": "laren_2016_jaar_internet_pwn",
     "issued": "need to extract date and year from filename",
     "year": "need to extract date and year from filename",
-    "observations": [
-      {
-        "code": "calcium",
-        "value": 49,
-        "uom": "mg/l"
-      },
-      {
-        "code": "conductance",
-        "value": 34.8,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 144,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.4,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 4,
-        "uom": "mg/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.02,
-        "uom": "mg/l"
-      },
-      {
-        "code": "watertemperature",
-        "value": 9.2,
-        "uom": "degC"
-      },
-      {
-        "code": "coli",
-        "value": 0,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "legionella",
-        "value": 8,
-        "uom": "cfu/l"
-      }
-    ],
-    "sources": [
-      "https://www.pwn.nl/sites/default/files/laren_2017_1e_kw_internet_pwn.pdf"
-    ],
-    "zones": [
-      "laren_weesperkarspel"
-    ],
-    "plants": [
-      "laren"
-    ]
-  },
-  {
-    "name": "laren_2016_jaar_internet_pwn",
-    "issued": "2016-12-31T23:59:00.000Z",
-    "year": "2016",
     "observations": [
       {
         "code": "calcium",
@@ -1909,48 +1848,33 @@
     ]
   },
   {
-    "name": "leiduin_2015_jaar",
-    "issued": "2015-12-31T23:59:00.000Z",
-    "year": "2015",
+    "name": "laren_2017_1e_kw_internet_pwn",
+    "issued": "2017-03-31T23:59:00.000Z",
+    "year": "2017",
     "observations": [
       {
-        "code": "aluminum",
-        "value": 1.9,
-        "uom": "ug/l"
-      },
-      {
         "code": "calcium",
-        "value": 41,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 77,
+        "value": 49,
         "uom": "mg/l"
       },
       {
         "code": "conductance",
-        "value": 54.1,
+        "value": 34.8,
         "uom": "mS/m"
       },
       {
         "code": "bicarbonate",
-        "value": 167,
+        "value": 144,
         "uom": "mg/l"
       },
       {
         "code": "hardness",
-        "value": 1.41,
+        "value": 1.4,
         "uom": "mmol/l"
       },
       {
         "code": "magnesium",
-        "value": 10,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 67,
+        "value": 4,
         "uom": "mg/l"
       },
       {
@@ -1959,18 +1883,8 @@
         "uom": "mg/l"
       },
       {
-        "code": "nitrate",
-        "value": 3.36,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 43,
-        "uom": "mg/l"
-      },
-      {
         "code": "watertemperature",
-        "value": 12.7,
+        "value": 9.2,
         "uom": "degC"
       },
       {
@@ -1980,18 +1894,18 @@
       },
       {
         "code": "legionella",
-        "value": 100,
+        "value": 8,
         "uom": "cfu/l"
       }
     ],
     "sources": [
-      "https://www.pwn.nl/sites/default/files/leiduin_2015_jaar.pdf"
+      "https://www.pwn.nl/sites/default/files/laren_2017_1e_kw_internet_pwn.pdf"
     ],
     "zones": [
-      "mensink_leiduin"
+      "laren_weesperkarspel"
     ],
     "plants": [
-      "leiduin"
+      "laren"
     ]
   },
   {
@@ -2081,6 +1995,92 @@
     ]
   },
   {
+    "name": "leiduin_2015_jaar",
+    "issued": "2015-12-31T23:59:00.000Z",
+    "year": "2015",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 1.9,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 41,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 77,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 54.1,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 167,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.41,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 10,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 67,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 3.36,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 43,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 12.7,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 100,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/leiduin_2015_jaar.pdf"
+    ],
+    "zones": [
+      "mensink_leiduin"
+    ],
+    "plants": [
+      "leiduin"
+    ]
+  },
+  {
     "name": "leiduin_2016_1e_kw_internet_pwn",
     "issued": "2016-12-31T23:59:00.000Z",
     "year": "2016",
@@ -2158,6 +2158,92 @@
     ],
     "sources": [
       "https://www.pwn.nl/sites/default/files/leiduin_2016_1e_kw_internet_pwn.pdf"
+    ],
+    "zones": [
+      "mensink_leiduin"
+    ],
+    "plants": [
+      "leiduin"
+    ]
+  },
+  {
+    "name": "leiduin_2016_3e_kw_internet_pwn",
+    "issued": "2016-12-31T23:59:00.000Z",
+    "year": "2016",
+    "observations": [
+      {
+        "code": "aluminum",
+        "value": 2,
+        "uom": "ug/l"
+      },
+      {
+        "code": "calcium",
+        "value": 41,
+        "uom": "mg/l"
+      },
+      {
+        "code": "chloride",
+        "value": 69,
+        "uom": "mg/l"
+      },
+      {
+        "code": "conductance",
+        "value": 52.2,
+        "uom": "mS/m"
+      },
+      {
+        "code": "bicarbonate",
+        "value": 172,
+        "uom": "mg/l"
+      },
+      {
+        "code": "hardness",
+        "value": 1.41,
+        "uom": "mmol/l"
+      },
+      {
+        "code": "magnesium",
+        "value": 10,
+        "uom": "mg/l"
+      },
+      {
+        "code": "natrium",
+        "value": 66,
+        "uom": "mg/l"
+      },
+      {
+        "code": "ammonium",
+        "value": 0.02,
+        "uom": "mg/l"
+      },
+      {
+        "code": "nitrate",
+        "value": 2.16,
+        "uom": "mg/l"
+      },
+      {
+        "code": "sulfate",
+        "value": 41,
+        "uom": "mg/l"
+      },
+      {
+        "code": "watertemperature",
+        "value": 17.8,
+        "uom": "degC"
+      },
+      {
+        "code": "coli",
+        "value": 0,
+        "uom": "cfu/dl"
+      },
+      {
+        "code": "legionella",
+        "value": 100,
+        "uom": "cfu/l"
+      }
+    ],
+    "sources": [
+      "https://www.pwn.nl/sites/default/files/leiduin_2016_3e_kw_internet_pwn.pdf"
     ],
     "zones": [
       "mensink_leiduin"
@@ -2339,95 +2425,9 @@
     ]
   },
   {
-    "name": "leiduin_2016_3e_kw_internet_pwn",
-    "issued": "2016-12-31T23:59:00.000Z",
-    "year": "2016",
-    "observations": [
-      {
-        "code": "aluminum",
-        "value": 2,
-        "uom": "ug/l"
-      },
-      {
-        "code": "calcium",
-        "value": 41,
-        "uom": "mg/l"
-      },
-      {
-        "code": "chloride",
-        "value": 69,
-        "uom": "mg/l"
-      },
-      {
-        "code": "conductance",
-        "value": 52.2,
-        "uom": "mS/m"
-      },
-      {
-        "code": "bicarbonate",
-        "value": 172,
-        "uom": "mg/l"
-      },
-      {
-        "code": "hardness",
-        "value": 1.41,
-        "uom": "mmol/l"
-      },
-      {
-        "code": "magnesium",
-        "value": 10,
-        "uom": "mg/l"
-      },
-      {
-        "code": "natrium",
-        "value": 66,
-        "uom": "mg/l"
-      },
-      {
-        "code": "ammonium",
-        "value": 0.02,
-        "uom": "mg/l"
-      },
-      {
-        "code": "nitrate",
-        "value": 2.16,
-        "uom": "mg/l"
-      },
-      {
-        "code": "sulfate",
-        "value": 41,
-        "uom": "mg/l"
-      },
-      {
-        "code": "watertemperature",
-        "value": 17.8,
-        "uom": "degC"
-      },
-      {
-        "code": "coli",
-        "value": 0,
-        "uom": "cfu/dl"
-      },
-      {
-        "code": "legionella",
-        "value": 100,
-        "uom": "cfu/l"
-      }
-    ],
-    "sources": [
-      "https://www.pwn.nl/sites/default/files/leiduin_2016_3e_kw_internet_pwn.pdf"
-    ],
-    "zones": [
-      "mensink_leiduin"
-    ],
-    "plants": [
-      "leiduin"
-    ]
-  },
-  {
     "name": "leiduin_2016_jaar_internet_pwn",
-    "issued": "2016-12-31T23:59:00.000Z",
-    "year": "2016",
+    "issued": "need to extract date and year from filename",
+    "year": "need to extract date and year from filename",
     "observations": [
       {
         "code": "aluminum",
@@ -2512,8 +2512,8 @@
   },
   {
     "name": "leiduin_2017_1e_kw_internet_pwn",
-    "issued": "need to extract date and year from filename",
-    "year": "need to extract date and year from filename",
+    "issued": "2017-03-31T23:59:00.000Z",
+    "year": "2017",
     "observations": [
       {
         "code": "aluminum",
@@ -3120,8 +3120,8 @@
   },
   {
     "name": "mensink_2016_jaar_internet_pwn",
-    "issued": "2016-12-31T23:59:00.000Z",
-    "year": "2016",
+    "issued": "need to extract date and year from filename",
+    "year": "need to extract date and year from filename",
     "observations": [
       {
         "code": "aluminum",
@@ -3207,8 +3207,8 @@
   },
   {
     "name": "mensink_2017_1e_kw_internet_pwn",
-    "issued": "need to extract date and year from filename",
-    "year": "need to extract date and year from filename",
+    "issued": "2017-03-31T23:59:00.000Z",
+    "year": "2017",
     "observations": [
       {
         "code": "aluminum",
@@ -3810,8 +3810,8 @@
   },
   {
     "name": "weesperkarspel_2016_jaar_internet_pwn",
-    "issued": "2016-12-31T23:59:00.000Z",
-    "year": "2016",
+    "issued": "need to extract date and year from filename",
+    "year": "need to extract date and year from filename",
     "observations": [
       {
         "code": "aluminum",
@@ -3896,8 +3896,8 @@
   },
   {
     "name": "weesperkarspel_2017_1e_kw_internet_pwn",
-    "issued": "need to extract date and year from filename",
-    "year": "need to extract date and year from filename",
+    "issued": "2017-03-31T23:59:00.000Z",
+    "year": "2017",
     "observations": [
       {
         "code": "aluminum",

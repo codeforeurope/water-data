@@ -38,27 +38,27 @@ function parsecsv(filename, cb){
       results.year = '2015';
       results.issued = "2015-12-31T23:59:00.000Z";
       break;
-    case filename.indexOf('2016') != -1:
+    case (filename.indexOf('2016') != -1 && filename.indexOf('kw') != -1):
       results.year = '2016';
       results.issued = "2016-12-31T23:59:00.000Z";
       break;
     case filename.indexOf('2016') != -1 && filename.indexOf('1e_kw') != -1:
-      results.year = '2017';
-      results.issued = "2017-03-31T23:59:00.000Z";
+      results.year = '2016';
+      results.issued = "2016-03-31T23:59:00.000Z";
       break;
     case filename.indexOf('2016') != -1 && filename.indexOf('2e_kw') != -1:
-      results.year = '2017';
-      results.issued = "2017-06-30T23:59:00.000Z";
+      results.year = '2016';
+      results.issued = "2016-06-30T23:59:00.000Z";
       break;
     case filename.indexOf('2016') != -1 && filename.indexOf('3e_kw') != -1:
-      results.year = '2017';
-      results.issued = "2017-09-30T23:59:00.000Z";
+      results.year = '2016';
+      results.issued = "2016-09-30T23:59:00.000Z";
       break;
     case filename.indexOf('2016') != -1 && filename.indexOf('4e_kw') != -1:
-      results.year = '2017';
-      results.issued = "2017-12-31T23:59:00.000Z";
+      results.year = '2016';
+      results.issued = "2016-12-31T23:59:00.000Z";
       break;
-    case filename.indexOf('2017') != -1 && filename.indexOf('1e kw') != -1:
+    case filename.indexOf('2017') != -1 && filename.indexOf('1e_kw') != -1:
       results.year = '2017';
       results.issued = "2017-03-31T23:59:00.000Z";
       break;
