@@ -103,7 +103,7 @@ request(url, function(error, response, html){
           code: processCode(row[0].children[0].data),
           uom: processUom(row[1].children[0].data),
           min: processValue(row[2].children[0].data),
-          average: processValue(row[3].children[0].data),
+          value: processValue(row[3].children[0].data),
           max: processValue(row[4].children[0].data)
         };
 
