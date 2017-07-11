@@ -148,7 +148,7 @@ request(url, function(error, response, html){
           results.issued = "2017-03-31T23:59:00.000Z";
           break;
       }
-      fs.writeFile('../../../reports/waternet.json', JSON.stringify(results, null,2), 'utf8', function(err,result){
+      fs.writeFile('../../../reports/waternet.json', JSON.stringify([results], null,2), 'utf8', function(err,result){
          console.log("Write waternet.json");
       });
     });
