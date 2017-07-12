@@ -143,9 +143,10 @@ function parsecsv(filename, cb){
       if(uom !== 'MISSING' && code !== 'MISSING'){
         results.observations.push({
           "code": code,
+          "min": processValue(jsonObj.field3),
           "value": processValue(jsonObj.field4),
-          "max": processValue(jsonObj.field3),
-          "min": processValue(jsonObj.field5),
+          "max": processValue(jsonObj.field5),
+
           "uom": uom
         });
       }

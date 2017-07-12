@@ -8,170 +8,170 @@
     "observations": [
       {
         "code": "aluminum",
+        "min": 2,
         "value": 2,
         "max": 2,
-        "min": 2,
         "uom": "ug/l"
       },
       {
         "code": "arsenic",
+        "min": 2.8,
         "value": 3,
-        "max": 2.8,
-        "min": 3.2,
+        "max": 3.2,
         "uom": "ug/l"
       },
       {
         "code": "boron",
+        "min": 0.04,
         "value": 0.04,
         "max": 0.04,
-        "min": 0.04,
         "uom": "mg/l"
       },
       {
         "code": "calcium",
+        "min": 42,
         "value": 43,
-        "max": 42,
-        "min": 44,
+        "max": 44,
         "uom": "mg/l"
       },
       {
         "code": "chloride",
+        "min": 47,
         "value": 48,
-        "max": 47,
-        "min": 49,
+        "max": 49,
         "uom": "mg/l"
       },
       {
         "code": "carbondioxide",
+        "min": 0.8,
         "value": 0.9,
-        "max": 0.8,
-        "min": 1,
+        "max": 1,
         "uom": "mg/l"
       },
       {
         "code": "conductance",
+        "min": 47.2,
         "value": 48.7,
-        "max": 47.2,
-        "min": 51.4,
+        "max": 51.4,
         "uom": "mS/m"
       },
       {
         "code": "fluoride",
+        "min": 0.18,
         "value": 0.18,
-        "max": 0.18,
-        "min": 0.19,
+        "max": 0.19,
         "uom": "mg/l"
       },
       {
         "code": "iron",
+        "min": 0.01,
         "value": 0.01,
         "max": 0.01,
-        "min": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "turbidity",
+        "min": 0.03,
         "value": 0.03,
-        "max": 0.03,
-        "min": 0.07,
+        "max": 0.07,
         "uom": "ftu"
       },
       {
         "code": "bicarbonate",
+        "min": 172,
         "value": 174,
-        "max": 172,
-        "min": 181,
+        "max": 181,
         "uom": "mg/l"
       },
       {
         "code": "mercury",
+        "min": 0.02,
         "value": 0.02,
         "max": 0.02,
-        "min": 0.02,
         "uom": "ug/l"
       },
       {
         "code": "hardness",
+        "min": 1.42,
         "value": 1.44,
-        "max": 1.42,
-        "min": 1.47,
+        "max": 1.47,
         "uom": "mmol/l"
       },
       {
         "code": "pt_co",
+        "min": 4,
         "value": 5,
-        "max": 4,
-        "min": 5,
+        "max": 5,
         "uom": "mg/l"
       },
       {
         "code": "magnesium",
+        "min": 8.2,
         "value": 8.7,
-        "max": 8.2,
-        "min": 9.2,
+        "max": 9.2,
         "uom": "mg/l"
       },
       {
         "code": "manganese",
+        "min": 0.01,
         "value": 0.01,
         "max": 0.01,
-        "min": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "natrium",
+        "min": 51,
         "value": 55,
-        "max": 51,
-        "min": 58,
+        "max": 58,
         "uom": "mg/l"
       },
       {
         "code": "ammonium",
+        "min": 0.02,
         "value": 0.02,
         "max": 0.02,
-        "min": 0.02,
         "uom": "mg/l"
       },
       {
         "code": "nitrite",
+        "min": 0.007,
         "value": 0.007,
         "max": 0.007,
-        "min": 0.007,
         "uom": "mg/l"
       },
       {
         "code": "nitrate",
+        "min": 4.28,
         "value": 5.38,
-        "max": 4.28,
-        "min": 6.65,
+        "max": 6.65,
         "uom": "mg/l"
       },
       {
         "code": "oxygen",
+        "min": 10.7,
         "value": 10.7,
         "max": 10.7,
-        "min": 10.7,
         "uom": "mg/l"
       },
       {
         "code": "saturation",
+        "min": 0.79,
         "value": 0.79,
         "max": 0.79,
-        "min": 0.79,
         "uom": "pH"
       },
       {
         "code": "sulfate",
+        "min": 47,
         "value": 49,
-        "max": 47,
-        "min": 51,
+        "max": 51,
         "uom": "mg/l"
       },
       {
         "code": "watertemperature",
+        "min": 10.2,
         "value": 11.8,
-        "max": 10.2,
-        "min": 13.8,
+        "max": 13.8,
         "uom": "degC"
       }
     ],
@@ -201,170 +201,170 @@
     "observations": [
       {
         "code": "aluminum",
+        "min": 1.4,
         "value": 2.2,
-        "max": 1.4,
-        "min": 3,
+        "max": 3,
         "uom": "ug/l"
       },
       {
         "code": "arsenic",
+        "min": 2.1,
         "value": 2.7,
-        "max": 2.1,
-        "min": 3.4,
+        "max": 3.4,
         "uom": "ug/l"
       },
       {
         "code": "boron",
+        "min": 0.04,
         "value": 0.05,
-        "max": 0.04,
-        "min": 0.05,
+        "max": 0.05,
         "uom": "mg/l"
       },
       {
         "code": "calcium",
+        "min": 41,
         "value": 44,
-        "max": 41,
-        "min": 49,
+        "max": 49,
         "uom": "mg/l"
       },
       {
         "code": "chloride",
+        "min": 44,
         "value": 51,
-        "max": 44,
-        "min": 60,
+        "max": 60,
         "uom": "mg/l"
       },
       {
         "code": "carbondioxide",
+        "min": 0.7,
         "value": 1,
-        "max": 0.7,
-        "min": 1.3,
+        "max": 1.3,
         "uom": "mg/l"
       },
       {
         "code": "conductance",
+        "min": 45.7,
         "value": 48.2,
-        "max": 45.7,
-        "min": 51.1,
+        "max": 51.1,
         "uom": "mS/m"
       },
       {
         "code": "fluoride",
+        "min": 0.2,
         "value": 0.22,
-        "max": 0.2,
-        "min": 0.23,
+        "max": 0.23,
         "uom": "mg/l"
       },
       {
         "code": "iron",
+        "min": 0.01,
         "value": 0.01,
         "max": 0.01,
-        "min": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "turbidity",
+        "min": 0.03,
         "value": 0.03,
-        "max": 0.03,
-        "min": 0.07,
+        "max": 0.07,
         "uom": "ftu"
       },
       {
         "code": "bicarbonate",
+        "min": 160,
         "value": 173,
-        "max": 160,
-        "min": 180,
+        "max": 180,
         "uom": "mg/l"
       },
       {
         "code": "mercury",
+        "min": 0.02,
         "value": 0.02,
         "max": 0.02,
-        "min": 0.02,
         "uom": "ug/l"
       },
       {
         "code": "hardness",
+        "min": 1.36,
         "value": 1.44,
-        "max": 1.36,
-        "min": 1.56,
+        "max": 1.56,
         "uom": "mmol/l"
       },
       {
         "code": "pt_co",
+        "min": 5,
         "value": 6,
-        "max": 5,
-        "min": 7,
+        "max": 7,
         "uom": "mg/l"
       },
       {
         "code": "magnesium",
+        "min": 7.8,
         "value": 8.4,
-        "max": 7.8,
-        "min": 9.1,
+        "max": 9.1,
         "uom": "mg/l"
       },
       {
         "code": "manganese",
+        "min": 0.01,
         "value": 0.01,
         "max": 0.01,
-        "min": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "natrium",
+        "min": 50,
         "value": 53,
-        "max": 50,
-        "min": 58,
+        "max": 58,
         "uom": "mg/l"
       },
       {
         "code": "ammonium",
+        "min": 0.02,
         "value": 0.02,
-        "max": 0.02,
-        "min": 0.03,
+        "max": 0.03,
         "uom": "mg/l"
       },
       {
         "code": "nitrite",
+        "min": 0.007,
         "value": 0.007,
         "max": 0.007,
-        "min": 0.007,
         "uom": "mg/l"
       },
       {
         "code": "nitrate",
+        "min": 2.51,
         "value": 4.76,
-        "max": 2.51,
-        "min": 7.2,
+        "max": 7.2,
         "uom": "mg/l"
       },
       {
         "code": "oxygen",
+        "min": 9.8,
         "value": 10.1,
-        "max": 9.8,
-        "min": 10.6,
+        "max": 10.6,
         "uom": "mg/l"
       },
       {
         "code": "saturation",
+        "min": 0.55,
         "value": 0.67,
-        "max": 0.55,
-        "min": 0.74,
+        "max": 0.74,
         "uom": "pH"
       },
       {
         "code": "sulfate",
+        "min": 40,
         "value": 44,
-        "max": 40,
-        "min": 48,
+        "max": 48,
         "uom": "mg/l"
       },
       {
         "code": "watertemperature",
+        "min": 9.5,
         "value": 12.6,
-        "max": 9.5,
-        "min": 16.1,
+        "max": 16.1,
         "uom": "degC"
       }
     ],
@@ -394,146 +394,146 @@
     "observations": [
       {
         "code": "aluminum",
+        "min": 2,
         "value": 2.5,
-        "max": 2,
         "uom": "ug/l"
       },
       {
         "code": "arsenic",
+        "min": 2.2,
         "value": 2.8,
-        "max": 2.2,
         "uom": "ug/l"
       },
       {
         "code": "boron",
+        "min": 0.04,
         "value": 0.04,
-        "max": 0.04,
         "uom": "mg/l"
       },
       {
         "code": "calcium",
+        "min": 38,
         "value": 44,
-        "max": 38,
         "uom": "mg/l"
       },
       {
         "code": "chloride",
+        "min": 40,
         "value": 50,
-        "max": 40,
         "uom": "mg/l"
       },
       {
         "code": "carbondioxide",
+        "min": 0.7,
         "value": 1,
-        "max": 0.7,
         "uom": "mg/l"
       },
       {
         "code": "conductance",
+        "min": 43.8,
         "value": 47.3,
-        "max": 43.8,
         "uom": "mS/m"
       },
       {
         "code": "fluoride",
+        "min": 0.19,
         "value": 0.2,
-        "max": 0.19,
         "uom": "mg/l"
       },
       {
         "code": "iron",
+        "min": 0.01,
         "value": 0.01,
-        "max": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "turbidity",
+        "min": 0.03,
         "value": 0.03,
-        "max": 0.03,
         "uom": "ftu"
       },
       {
         "code": "bicarbonate",
+        "min": 157,
         "value": 172,
-        "max": 157,
         "uom": "mg/l"
       },
       {
         "code": "mercury",
+        "min": 0.02,
         "value": 0.02,
-        "max": 0.02,
         "uom": "ug/l"
       },
       {
         "code": "hardness",
+        "min": 1.28,
         "value": 1.45,
-        "max": 1.28,
         "uom": "mmol/l"
       },
       {
         "code": "pt_co",
+        "min": 5,
         "value": 6,
-        "max": 5,
         "uom": "mg/l"
       },
       {
         "code": "magnesium",
+        "min": 7.8,
         "value": 8.5,
-        "max": 7.8,
         "uom": "mg/l"
       },
       {
         "code": "manganese",
+        "min": 0.01,
         "value": 0.01,
-        "max": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "natrium",
+        "min": 44,
         "value": 51,
-        "max": 44,
         "uom": "mg/l"
       },
       {
         "code": "ammonium",
+        "min": 0.02,
         "value": 0.02,
-        "max": 0.02,
         "uom": "mg/l"
       },
       {
         "code": "nitrite",
+        "min": 0.007,
         "value": 0.007,
-        "max": 0.007,
         "uom": "mg/l"
       },
       {
         "code": "nitrate",
+        "min": 1.66,
         "value": 5.19,
-        "max": 1.66,
         "uom": "mg/l"
       },
       {
         "code": "oxygen",
+        "min": 9.2,
         "value": 10.1,
-        "max": 9.2,
         "uom": "mg/l"
       },
       {
         "code": "saturation",
+        "min": 0.65,
         "value": 0.67,
-        "max": 0.65,
         "uom": "pH"
       },
       {
         "code": "sulfate",
+        "min": 38,
         "value": 44,
-        "max": 38,
         "uom": "mg/l"
       },
       {
         "code": "watertemperature",
+        "min": 9.6,
         "value": 13.2,
-        "max": 9.6,
         "uom": "degC"
       }
     ],
@@ -563,164 +563,164 @@
     "observations": [
       {
         "code": "aluminum",
+        "min": 1.6,
         "value": 2,
-        "max": 1.6,
         "uom": "ug/l"
       },
       {
         "code": "arsenic",
+        "min": 1.4,
         "value": 2.2,
-        "max": 1.4,
         "uom": "ug/l"
       },
       {
         "code": "boron",
+        "min": 0.03,
         "value": 0.04,
-        "max": 0.03,
         "uom": "mg/l"
       },
       {
         "code": "calcium",
+        "min": 42,
         "value": 45,
-        "max": 42,
         "uom": "mg/l"
       },
       {
         "code": "chloride",
+        "min": 45,
         "value": 49,
-        "max": 45,
         "uom": "mg/l"
       },
       {
         "code": "carbondioxide",
+        "min": 0.8,
         "value": 1.2,
-        "max": 0.8,
         "uom": "mg/l"
       },
       {
         "code": "conductance",
+        "min": 45.3,
         "value": 47.2,
-        "max": 45.3,
         "uom": "mS/m"
       },
       {
         "code": "fluoride",
+        "min": 0.19,
         "value": 0.21,
-        "max": 0.19,
         "uom": "mg/l"
       },
       {
         "code": "iron",
+        "min": 0.01,
         "value": 0.01,
-        "max": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "turbidity",
+        "min": 0.03,
         "value": 0.03,
-        "max": 0.03,
         "uom": "ftu"
       },
       {
         "code": "bicarbonate",
+        "min": 163,
         "value": 178,
-        "max": 163,
         "uom": "mg/l"
       },
       {
         "code": "mercury",
+        "min": 0.02,
         "value": 0.02,
-        "max": 0.02,
         "uom": "ug/l"
       },
       {
         "code": "hardness",
+        "min": 1.41,
         "value": 1.46,
-        "max": 1.41,
         "uom": "mmol/l"
       },
       {
         "code": "pt_co",
+        "min": 5,
         "value": 6,
-        "max": 5,
         "uom": "mg/l"
       },
       {
         "code": "magnesium",
+        "min": 7.6,
         "value": 8.1,
-        "max": 7.6,
         "uom": "mg/l"
       },
       {
         "code": "manganese",
+        "min": 0.01,
         "value": 0.01,
-        "max": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "natrium",
+        "min": 48,
         "value": 53,
-        "max": 48,
         "uom": "mg/l"
       },
       {
         "code": "ammonium",
+        "min": 0.02,
         "value": 0.02,
-        "max": 0.02,
         "uom": "mg/l"
       },
       {
         "code": "nitrite",
+        "min": 0.007,
         "value": 0.007,
-        "max": 0.007,
         "uom": "mg/l"
       },
       {
         "code": "nitrate",
+        "min": 3.06,
         "value": 5.48,
-        "max": 3.06,
         "uom": "mg/l"
       },
       {
         "code": "oxygen",
+        "min": 9.3,
         "value": 10,
-        "max": 9.3,
         "uom": "mg/l"
       },
       {
         "code": "saturation",
+        "min": 0.53,
         "value": 0.65,
-        "max": 0.53,
         "uom": "pH"
       },
       {
         "code": "sulfate",
+        "min": 38,
         "value": 42,
-        "max": 38,
         "uom": "mg/l"
       },
       {
         "code": "watertemperature",
+        "min": 7.8,
         "value": 11.9,
-        "max": 7.8,
         "uom": "degC"
       },
       {
         "code": "clostridium",
+        "min": 0,
         "value": 0,
-        "max": 0,
         "uom": "cfu/dl"
       },
       {
         "code": "coli",
+        "min": 0,
         "value": 0,
-        "max": 0,
         "uom": "cfu/dl"
       },
       {
         "code": "enterococci",
+        "min": 0,
         "value": 0,
-        "max": 0,
         "uom": "cfu/dl"
       }
     ],
@@ -750,170 +750,170 @@
     "observations": [
       {
         "code": "aluminum",
+        "min": 3.7,
         "value": 3.7,
         "max": 3.7,
-        "min": 3.7,
         "uom": "ug/l"
       },
       {
         "code": "arsenic",
+        "min": 2.1,
         "value": 2.9,
-        "max": 2.1,
-        "min": 3.4,
+        "max": 3.4,
         "uom": "ug/l"
       },
       {
         "code": "boron",
+        "min": 0.05,
         "value": 0.05,
         "max": 0.05,
-        "min": 0.05,
         "uom": "mg/l"
       },
       {
         "code": "calcium",
+        "min": 44,
         "value": 49,
-        "max": 44,
-        "min": 65,
+        "max": 65,
         "uom": "mg/l"
       },
       {
         "code": "chloride",
+        "min": 48,
         "value": 49,
-        "max": 48,
-        "min": 50,
+        "max": 50,
         "uom": "mg/l"
       },
       {
         "code": "carbondioxide",
+        "min": 0.7,
         "value": 1,
-        "max": 0.7,
-        "min": 1.7,
+        "max": 1.7,
         "uom": "mg/l"
       },
       {
         "code": "conductance",
+        "min": 48.3,
         "value": 50.2,
-        "max": 48.3,
-        "min": 51.4,
+        "max": 51.4,
         "uom": "mS/m"
       },
       {
         "code": "fluoride",
+        "min": 0.19,
         "value": 0.19,
         "max": 0.19,
-        "min": 0.19,
         "uom": "mg/l"
       },
       {
         "code": "iron",
+        "min": 0.01,
         "value": 0.01,
-        "max": 0.01,
-        "min": 0.02,
+        "max": 0.02,
         "uom": "mg/l"
       },
       {
         "code": "turbidity",
+        "min": 0.03,
         "value": 0.03,
         "max": 0.03,
-        "min": 0.03,
         "uom": "ftu"
       },
       {
         "code": "bicarbonate",
+        "min": 170,
         "value": 180,
-        "max": 170,
-        "min": 203,
+        "max": 203,
         "uom": "mg/l"
       },
       {
         "code": "mercury",
+        "min": 0.02,
         "value": 0.02,
         "max": 0.02,
-        "min": 0.02,
         "uom": "ug/l"
       },
       {
         "code": "hardness",
+        "min": 1.45,
         "value": 1.59,
-        "max": 1.45,
-        "min": 2.03,
+        "max": 2.03,
         "uom": "mmol/l"
       },
       {
         "code": "pt_co",
+        "min": 6,
         "value": 6,
-        "max": 6,
-        "min": 7,
+        "max": 7,
         "uom": "mg/l"
       },
       {
         "code": "magnesium",
+        "min": 8.5,
         "value": 9.1,
-        "max": 8.5,
-        "min": 9.8,
+        "max": 9.8,
         "uom": "mg/l"
       },
       {
         "code": "manganese",
+        "min": 0.01,
         "value": 0.01,
         "max": 0.01,
-        "min": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "natrium",
+        "min": 53,
         "value": 55,
-        "max": 53,
-        "min": 58,
+        "max": 58,
         "uom": "mg/l"
       },
       {
         "code": "ammonium",
+        "min": 0.02,
         "value": 0.02,
         "max": 0.02,
-        "min": 0.02,
         "uom": "mg/l"
       },
       {
         "code": "nitrite",
+        "min": 0.007,
         "value": 0.007,
         "max": 0.007,
-        "min": 0.007,
         "uom": "mg/l"
       },
       {
         "code": "nitrate",
+        "min": 6.02,
         "value": 6.02,
         "max": 6.02,
-        "min": 6.02,
         "uom": "mg/l"
       },
       {
         "code": "oxygen",
+        "min": 10,
         "value": 10,
         "max": 10,
-        "min": 10,
         "uom": "mg/l"
       },
       {
         "code": "saturation",
+        "min": 0.81,
         "value": 0.86,
-        "max": 0.81,
-        "min": 0.91,
+        "max": 0.91,
         "uom": "pH"
       },
       {
         "code": "sulfate",
+        "min": 49,
         "value": 52,
-        "max": 49,
-        "min": 56,
+        "max": 56,
         "uom": "mg/l"
       },
       {
         "code": "watertemperature",
+        "min": 8.6,
         "value": 10.2,
-        "max": 8.6,
-        "min": 12.4,
+        "max": 12.4,
         "uom": "degC"
       }
     ],
@@ -937,170 +937,170 @@
     "observations": [
       {
         "code": "aluminum",
+        "min": 3.4,
         "value": 4.3,
-        "max": 3.4,
-        "min": 5.6,
+        "max": 5.6,
         "uom": "ug/l"
       },
       {
         "code": "arsenic",
+        "min": 2.2,
         "value": 2.8,
-        "max": 2.2,
-        "min": 3.6,
+        "max": 3.6,
         "uom": "ug/l"
       },
       {
         "code": "boron",
+        "min": 0.04,
         "value": 0.05,
-        "max": 0.04,
-        "min": 0.05,
+        "max": 0.05,
         "uom": "mg/l"
       },
       {
         "code": "calcium",
+        "min": 43,
         "value": 46,
-        "max": 43,
-        "min": 51,
+        "max": 51,
         "uom": "mg/l"
       },
       {
         "code": "chloride",
+        "min": 45,
         "value": 51,
-        "max": 45,
-        "min": 61,
+        "max": 61,
         "uom": "mg/l"
       },
       {
         "code": "carbondioxide",
+        "min": 0.5,
         "value": 0.9,
-        "max": 0.5,
-        "min": 1.3,
+        "max": 1.3,
         "uom": "mg/l"
       },
       {
         "code": "conductance",
+        "min": 46.5,
         "value": 48.6,
-        "max": 46.5,
-        "min": 50.7,
+        "max": 50.7,
         "uom": "mS/m"
       },
       {
         "code": "fluoride",
+        "min": 0.21,
         "value": 0.23,
-        "max": 0.21,
-        "min": 0.24,
+        "max": 0.24,
         "uom": "mg/l"
       },
       {
         "code": "iron",
+        "min": 0.01,
         "value": 0.01,
         "max": 0.01,
-        "min": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "turbidity",
+        "min": 0.03,
         "value": 0.03,
-        "max": 0.03,
-        "min": 0.18,
+        "max": 0.18,
         "uom": "ftu"
       },
       {
         "code": "bicarbonate",
+        "min": 163,
         "value": 173,
-        "max": 163,
-        "min": 180,
+        "max": 180,
         "uom": "mg/l"
       },
       {
         "code": "mercury",
+        "min": 0.02,
         "value": 0.02,
         "max": 0.02,
-        "min": 0.02,
         "uom": "ug/l"
       },
       {
         "code": "hardness",
+        "min": 1.42,
         "value": 1.51,
-        "max": 1.42,
-        "min": 1.63,
+        "max": 1.63,
         "uom": "mmol/l"
       },
       {
         "code": "pt_co",
+        "min": 6,
         "value": 8,
-        "max": 6,
-        "min": 10,
+        "max": 10,
         "uom": "mg/l"
       },
       {
         "code": "magnesium",
+        "min": 8.2,
         "value": 8.6,
-        "max": 8.2,
-        "min": 9.3,
+        "max": 9.3,
         "uom": "mg/l"
       },
       {
         "code": "manganese",
+        "min": 0.01,
         "value": 0.01,
         "max": 0.01,
-        "min": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "natrium",
+        "min": 47,
         "value": 52,
-        "max": 47,
-        "min": 59,
+        "max": 59,
         "uom": "mg/l"
       },
       {
         "code": "ammonium",
+        "min": 0.02,
         "value": 0.02,
-        "max": 0.02,
-        "min": 0.03,
+        "max": 0.03,
         "uom": "mg/l"
       },
       {
         "code": "nitrite",
+        "min": 0.007,
         "value": 0.007,
         "max": 0.007,
-        "min": 0.007,
         "uom": "mg/l"
       },
       {
         "code": "nitrate",
+        "min": 1.82,
         "value": 4.04,
-        "max": 1.82,
-        "min": 6.53,
+        "max": 6.53,
         "uom": "mg/l"
       },
       {
         "code": "oxygen",
+        "min": 8.7,
         "value": 9.5,
-        "max": 8.7,
-        "min": 10.2,
+        "max": 10.2,
         "uom": "mg/l"
       },
       {
         "code": "saturation",
+        "min": 0.63,
         "value": 0.77,
-        "max": 0.63,
-        "min": 0.91,
+        "max": 0.91,
         "uom": "pH"
       },
       {
         "code": "sulfate",
+        "min": 41,
         "value": 46,
-        "max": 41,
-        "min": 49,
+        "max": 49,
         "uom": "mg/l"
       },
       {
         "code": "watertemperature",
+        "min": 8.5,
         "value": 12.4,
-        "max": 8.5,
-        "min": 16.4,
+        "max": 16.4,
         "uom": "degC"
       }
     ],
@@ -1124,146 +1124,146 @@
     "observations": [
       {
         "code": "aluminum",
+        "min": 3.6,
         "value": 4.2,
-        "max": 3.6,
         "uom": "ug/l"
       },
       {
         "code": "arsenic",
+        "min": 2.2,
         "value": 2.7,
-        "max": 2.2,
         "uom": "ug/l"
       },
       {
         "code": "boron",
+        "min": 0.04,
         "value": 0.04,
-        "max": 0.04,
         "uom": "mg/l"
       },
       {
         "code": "calcium",
+        "min": 40,
         "value": 45,
-        "max": 40,
         "uom": "mg/l"
       },
       {
         "code": "chloride",
+        "min": 42,
         "value": 51,
-        "max": 42,
         "uom": "mg/l"
       },
       {
         "code": "carbondioxide",
+        "min": 0.6,
         "value": 1,
-        "max": 0.6,
         "uom": "mg/l"
       },
       {
         "code": "conductance",
+        "min": 44.1,
         "value": 47.7,
-        "max": 44.1,
         "uom": "mS/m"
       },
       {
         "code": "fluoride",
+        "min": 0.2,
         "value": 0.21,
-        "max": 0.2,
         "uom": "mg/l"
       },
       {
         "code": "iron",
+        "min": 0.01,
         "value": 0.01,
-        "max": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "turbidity",
+        "min": 0.03,
         "value": 0.03,
-        "max": 0.03,
         "uom": "ftu"
       },
       {
         "code": "bicarbonate",
+        "min": 150,
         "value": 172,
-        "max": 150,
         "uom": "mg/l"
       },
       {
         "code": "mercury",
+        "min": 0.02,
         "value": 0.02,
-        "max": 0.02,
         "uom": "ug/l"
       },
       {
         "code": "hardness",
+        "min": 1.33,
         "value": 1.47,
-        "max": 1.33,
         "uom": "mmol/l"
       },
       {
         "code": "pt_co",
+        "min": 6,
         "value": 8,
-        "max": 6,
         "uom": "mg/l"
       },
       {
         "code": "magnesium",
+        "min": 7.7,
         "value": 8.6,
-        "max": 7.7,
         "uom": "mg/l"
       },
       {
         "code": "manganese",
+        "min": 0.01,
         "value": 0.01,
-        "max": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "natrium",
+        "min": 45,
         "value": 51,
-        "max": 45,
         "uom": "mg/l"
       },
       {
         "code": "ammonium",
+        "min": 0.02,
         "value": 0.02,
-        "max": 0.02,
         "uom": "mg/l"
       },
       {
         "code": "nitrite",
+        "min": 0.007,
         "value": 0.007,
-        "max": 0.007,
         "uom": "mg/l"
       },
       {
         "code": "nitrate",
+        "min": 1.63,
         "value": 3.99,
-        "max": 1.63,
         "uom": "mg/l"
       },
       {
         "code": "oxygen",
+        "min": 8.9,
         "value": 9.5,
-        "max": 8.9,
         "uom": "mg/l"
       },
       {
         "code": "saturation",
+        "min": 0.57,
         "value": 0.69,
-        "max": 0.57,
         "uom": "pH"
       },
       {
         "code": "sulfate",
+        "min": 38,
         "value": 45,
-        "max": 38,
         "uom": "mg/l"
       },
       {
         "code": "watertemperature",
+        "min": 9.3,
         "value": 12.9,
-        "max": 9.3,
         "uom": "degC"
       }
     ],
@@ -1287,164 +1287,164 @@
     "observations": [
       {
         "code": "aluminum",
+        "min": 4.9,
         "value": 5.4,
-        "max": 4.9,
         "uom": "ug/l"
       },
       {
         "code": "arsenic",
+        "min": 1.6,
         "value": 2.6,
-        "max": 1.6,
         "uom": "ug/l"
       },
       {
         "code": "boron",
+        "min": 0.03,
         "value": 0.04,
-        "max": 0.03,
         "uom": "mg/l"
       },
       {
         "code": "calcium",
+        "min": 42,
         "value": 45,
-        "max": 42,
         "uom": "mg/l"
       },
       {
         "code": "chloride",
+        "min": 45,
         "value": 48,
-        "max": 45,
         "uom": "mg/l"
       },
       {
         "code": "carbondioxide",
+        "min": 0.6,
         "value": 1,
-        "max": 0.6,
         "uom": "mg/l"
       },
       {
         "code": "conductance",
+        "min": 45.5,
         "value": 46.9,
-        "max": 45.5,
         "uom": "mS/m"
       },
       {
         "code": "fluoride",
+        "min": 0.21,
         "value": 0.22,
-        "max": 0.21,
         "uom": "mg/l"
       },
       {
         "code": "iron",
+        "min": 0.01,
         "value": 0.01,
-        "max": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "turbidity",
+        "min": 0.03,
         "value": 0.03,
-        "max": 0.03,
         "uom": "ftu"
       },
       {
         "code": "bicarbonate",
+        "min": 162,
         "value": 173,
-        "max": 162,
         "uom": "mg/l"
       },
       {
         "code": "mercury",
+        "min": 0.02,
         "value": 0.02,
-        "max": 0.02,
         "uom": "ug/l"
       },
       {
         "code": "hardness",
+        "min": 1.36,
         "value": 1.47,
-        "max": 1.36,
         "uom": "mmol/l"
       },
       {
         "code": "pt_co",
+        "min": 6,
         "value": 7,
-        "max": 6,
         "uom": "mg/l"
       },
       {
         "code": "magnesium",
+        "min": 7.4,
         "value": 8.3,
-        "max": 7.4,
         "uom": "mg/l"
       },
       {
         "code": "manganese",
+        "min": 0.01,
         "value": 0.01,
-        "max": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "natrium",
+        "min": 47,
         "value": 51,
-        "max": 47,
         "uom": "mg/l"
       },
       {
         "code": "ammonium",
+        "min": 0.02,
         "value": 0.02,
-        "max": 0.02,
         "uom": "mg/l"
       },
       {
         "code": "nitrite",
+        "min": 0.007,
         "value": 0.007,
-        "max": 0.007,
         "uom": "mg/l"
       },
       {
         "code": "nitrate",
+        "min": 1.96,
         "value": 4.27,
-        "max": 1.96,
         "uom": "mg/l"
       },
       {
         "code": "oxygen",
+        "min": 8.7,
         "value": 9.5,
-        "max": 8.7,
         "uom": "mg/l"
       },
       {
         "code": "saturation",
+        "min": 0.49,
         "value": 0.73,
-        "max": 0.49,
         "uom": "pH"
       },
       {
         "code": "sulfate",
+        "min": 41,
         "value": 44,
-        "max": 41,
         "uom": "mg/l"
       },
       {
         "code": "watertemperature",
+        "min": 7.8,
         "value": 11.8,
-        "max": 7.8,
         "uom": "degC"
       },
       {
         "code": "clostridium",
+        "min": 0,
         "value": 0,
-        "max": 0,
         "uom": "cfu/dl"
       },
       {
         "code": "coli",
+        "min": 0,
         "value": 0,
-        "max": 0,
         "uom": "cfu/dl"
       },
       {
         "code": "enterococci",
+        "min": 0,
         "value": 0,
-        "max": 0,
         "uom": "cfu/dl"
       }
     ],
@@ -1468,170 +1468,170 @@
     "observations": [
       {
         "code": "aluminum",
+        "min": 2.3,
         "value": 2.3,
         "max": 2.3,
-        "min": 2.3,
         "uom": "ug/l"
       },
       {
         "code": "arsenic",
+        "min": 1.7,
         "value": 1.9,
-        "max": 1.7,
-        "min": 2.1,
+        "max": 2.1,
         "uom": "ug/l"
       },
       {
         "code": "boron",
+        "min": 0.05,
         "value": 0.05,
         "max": 0.05,
-        "min": 0.05,
         "uom": "mg/l"
       },
       {
         "code": "calcium",
+        "min": 41,
         "value": 42,
-        "max": 41,
-        "min": 42,
+        "max": 42,
         "uom": "mg/l"
       },
       {
         "code": "chloride",
+        "min": 52,
         "value": 53,
-        "max": 52,
-        "min": 54,
+        "max": 54,
         "uom": "mg/l"
       },
       {
         "code": "carbondioxide",
+        "min": 1,
         "value": 1.2,
-        "max": 1,
-        "min": 1.3,
+        "max": 1.3,
         "uom": "mg/l"
       },
       {
         "code": "conductance",
+        "min": 49.4,
         "value": 50.1,
-        "max": 49.4,
-        "min": 50.5,
+        "max": 50.5,
         "uom": "mS/m"
       },
       {
         "code": "fluoride",
+        "min": 0.17,
         "value": 0.18,
-        "max": 0.17,
-        "min": 0.18,
+        "max": 0.18,
         "uom": "mg/l"
       },
       {
         "code": "iron",
+        "min": 0.01,
         "value": 0.01,
         "max": 0.01,
-        "min": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "turbidity",
+        "min": 0.03,
         "value": 0.03,
         "max": 0.03,
-        "min": 0.03,
         "uom": "ftu"
       },
       {
         "code": "bicarbonate",
+        "min": 177,
         "value": 183,
-        "max": 177,
-        "min": 188,
+        "max": 188,
         "uom": "mg/l"
       },
       {
         "code": "mercury",
+        "min": 0.02,
         "value": 0.02,
         "max": 0.02,
-        "min": 0.02,
         "uom": "ug/l"
       },
       {
         "code": "hardness",
+        "min": 1.37,
         "value": 1.4,
-        "max": 1.37,
-        "min": 1.42,
+        "max": 1.42,
         "uom": "mmol/l"
       },
       {
         "code": "pt_co",
+        "min": 5,
         "value": 5,
         "max": 5,
-        "min": 5,
         "uom": "mg/l"
       },
       {
         "code": "magnesium",
+        "min": 8.2,
         "value": 8.6,
-        "max": 8.2,
-        "min": 8.8,
+        "max": 8.8,
         "uom": "mg/l"
       },
       {
         "code": "manganese",
+        "min": 0.01,
         "value": 0.01,
         "max": 0.01,
-        "min": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "natrium",
+        "min": 57,
         "value": 61,
-        "max": 57,
-        "min": 63,
+        "max": 63,
         "uom": "mg/l"
       },
       {
         "code": "ammonium",
+        "min": 0.02,
         "value": 0.02,
         "max": 0.02,
-        "min": 0.02,
         "uom": "mg/l"
       },
       {
         "code": "nitrite",
+        "min": 0.007,
         "value": 0.007,
         "max": 0.007,
-        "min": 0.007,
         "uom": "mg/l"
       },
       {
         "code": "nitrate",
+        "min": 4.25,
         "value": 4.54,
-        "max": 4.25,
-        "min": 4.94,
+        "max": 4.94,
         "uom": "mg/l"
       },
       {
         "code": "oxygen",
+        "min": 9.7,
         "value": 9.7,
         "max": 9.7,
-        "min": 9.7,
         "uom": "mg/l"
       },
       {
         "code": "saturation",
+        "min": 0.62,
         "value": 0.69,
-        "max": 0.62,
-        "min": 0.73,
+        "max": 0.73,
         "uom": "pH"
       },
       {
         "code": "sulfate",
+        "min": 46,
         "value": 47,
-        "max": 46,
-        "min": 48,
+        "max": 48,
         "uom": "mg/l"
       },
       {
         "code": "watertemperature",
+        "min": 10.7,
         "value": 11.2,
-        "max": 10.7,
-        "min": 12.1,
+        "max": 12.1,
         "uom": "degC"
       }
     ],
@@ -1664,170 +1664,170 @@
     "observations": [
       {
         "code": "aluminum",
+        "min": 1.9,
         "value": 3.1,
-        "max": 1.9,
-        "min": 4.1,
+        "max": 4.1,
         "uom": "ug/l"
       },
       {
         "code": "arsenic",
+        "min": 1.3,
         "value": 2.2,
-        "max": 1.3,
-        "min": 3.3,
+        "max": 3.3,
         "uom": "ug/l"
       },
       {
         "code": "boron",
+        "min": 0.05,
         "value": 0.05,
-        "max": 0.05,
-        "min": 0.06,
+        "max": 0.06,
         "uom": "mg/l"
       },
       {
         "code": "calcium",
+        "min": 41,
         "value": 44,
-        "max": 41,
-        "min": 49,
+        "max": 49,
         "uom": "mg/l"
       },
       {
         "code": "chloride",
+        "min": 46,
         "value": 53,
-        "max": 46,
-        "min": 59,
+        "max": 59,
         "uom": "mg/l"
       },
       {
         "code": "carbondioxide",
+        "min": 0.6,
         "value": 1.1,
-        "max": 0.6,
-        "min": 1.6,
+        "max": 1.6,
         "uom": "mg/l"
       },
       {
         "code": "conductance",
+        "min": 46.7,
         "value": 49.1,
-        "max": 46.7,
-        "min": 51.9,
+        "max": 51.9,
         "uom": "mS/m"
       },
       {
         "code": "fluoride",
+        "min": 0.18,
         "value": 0.2,
-        "max": 0.18,
-        "min": 0.22,
+        "max": 0.22,
         "uom": "mg/l"
       },
       {
         "code": "iron",
+        "min": 0.01,
         "value": 0.01,
         "max": 0.01,
-        "min": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "turbidity",
+        "min": 0.03,
         "value": 0.03,
-        "max": 0.03,
-        "min": 0.08,
+        "max": 0.08,
         "uom": "ftu"
       },
       {
         "code": "bicarbonate",
+        "min": 170,
         "value": 180,
-        "max": 170,
-        "min": 187,
+        "max": 187,
         "uom": "mg/l"
       },
       {
         "code": "mercury",
+        "min": 0.02,
         "value": 0.02,
         "max": 0.02,
-        "min": 0.02,
         "uom": "ug/l"
       },
       {
         "code": "hardness",
+        "min": 1.34,
         "value": 1.43,
-        "max": 1.34,
-        "min": 1.58,
+        "max": 1.58,
         "uom": "mmol/l"
       },
       {
         "code": "pt_co",
+        "min": 4,
         "value": 5,
-        "max": 4,
-        "min": 6,
+        "max": 6,
         "uom": "mg/l"
       },
       {
         "code": "magnesium",
+        "min": 7.7,
         "value": 8.2,
-        "max": 7.7,
-        "min": 9.1,
+        "max": 9.1,
         "uom": "mg/l"
       },
       {
         "code": "manganese",
+        "min": 0.01,
         "value": 0.01,
         "max": 0.01,
-        "min": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "natrium",
+        "min": 53,
         "value": 58,
-        "max": 53,
-        "min": 63,
+        "max": 63,
         "uom": "mg/l"
       },
       {
         "code": "ammonium",
+        "min": 0.02,
         "value": 0.02,
-        "max": 0.02,
-        "min": 0.03,
+        "max": 0.03,
         "uom": "mg/l"
       },
       {
         "code": "nitrite",
+        "min": 0.007,
         "value": 0.007,
         "max": 0.007,
-        "min": 0.007,
         "uom": "mg/l"
       },
       {
         "code": "nitrate",
+        "min": 3.01,
         "value": 4.86,
-        "max": 3.01,
-        "min": 6.68,
+        "max": 6.68,
         "uom": "mg/l"
       },
       {
         "code": "oxygen",
+        "min": 9.4,
         "value": 9.8,
-        "max": 9.4,
-        "min": 10.2,
+        "max": 10.2,
         "uom": "mg/l"
       },
       {
         "code": "saturation",
+        "min": 0.6,
         "value": 0.69,
-        "max": 0.6,
-        "min": 0.82,
+        "max": 0.82,
         "uom": "pH"
       },
       {
         "code": "sulfate",
+        "min": 42,
         "value": 44,
-        "max": 42,
-        "min": 47,
+        "max": 47,
         "uom": "mg/l"
       },
       {
         "code": "watertemperature",
+        "min": 10,
         "value": 12.3,
-        "max": 10,
-        "min": 15.2,
+        "max": 15.2,
         "uom": "degC"
       }
     ],
@@ -1860,146 +1860,146 @@
     "observations": [
       {
         "code": "aluminum",
+        "min": 2.2,
         "value": 2.8,
-        "max": 2.2,
         "uom": "ug/l"
       },
       {
         "code": "arsenic",
+        "min": 1.6,
         "value": 2.1,
-        "max": 1.6,
         "uom": "ug/l"
       },
       {
         "code": "boron",
+        "min": 0.04,
         "value": 0.05,
-        "max": 0.04,
         "uom": "mg/l"
       },
       {
         "code": "calcium",
+        "min": 38,
         "value": 43,
-        "max": 38,
         "uom": "mg/l"
       },
       {
         "code": "chloride",
+        "min": 45,
         "value": 52,
-        "max": 45,
         "uom": "mg/l"
       },
       {
         "code": "carbondioxide",
+        "min": 0.8,
         "value": 1.2,
-        "max": 0.8,
         "uom": "mg/l"
       },
       {
         "code": "conductance",
+        "min": 44.9,
         "value": 48.6,
-        "max": 44.9,
         "uom": "mS/m"
       },
       {
         "code": "fluoride",
+        "min": 0.18,
         "value": 0.19,
-        "max": 0.18,
         "uom": "mg/l"
       },
       {
         "code": "iron",
+        "min": 0.01,
         "value": 0.01,
-        "max": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "turbidity",
+        "min": 0.03,
         "value": 0.03,
-        "max": 0.03,
         "uom": "ftu"
       },
       {
         "code": "bicarbonate",
+        "min": 169,
         "value": 181,
-        "max": 169,
         "uom": "mg/l"
       },
       {
         "code": "mercury",
+        "min": 0.02,
         "value": 0.02,
-        "max": 0.02,
         "uom": "ug/l"
       },
       {
         "code": "hardness",
+        "min": 1.27,
         "value": 1.42,
-        "max": 1.27,
         "uom": "mmol/l"
       },
       {
         "code": "pt_co",
+        "min": 4,
         "value": 5,
-        "max": 4,
         "uom": "mg/l"
       },
       {
         "code": "magnesium",
+        "min": 7.7,
         "value": 8.3,
-        "max": 7.7,
         "uom": "mg/l"
       },
       {
         "code": "manganese",
+        "min": 0.01,
         "value": 0.01,
-        "max": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "natrium",
+        "min": 51,
         "value": 56,
-        "max": 51,
         "uom": "mg/l"
       },
       {
         "code": "ammonium",
+        "min": 0.02,
         "value": 0.02,
-        "max": 0.02,
         "uom": "mg/l"
       },
       {
         "code": "nitrite",
+        "min": 0.007,
         "value": 0.007,
-        "max": 0.007,
         "uom": "mg/l"
       },
       {
         "code": "nitrate",
+        "min": 2.51,
         "value": 4.7,
-        "max": 2.51,
         "uom": "mg/l"
       },
       {
         "code": "oxygen",
+        "min": 9.2,
         "value": 9.7,
-        "max": 9.2,
         "uom": "mg/l"
       },
       {
         "code": "saturation",
+        "min": 0.55,
         "value": 0.63,
-        "max": 0.55,
         "uom": "pH"
       },
       {
         "code": "sulfate",
+        "min": 40,
         "value": 44,
-        "max": 40,
         "uom": "mg/l"
       },
       {
         "code": "watertemperature",
+        "min": 10.6,
         "value": 12.6,
-        "max": 10.6,
         "uom": "degC"
       }
     ],
@@ -2032,164 +2032,164 @@
     "observations": [
       {
         "code": "aluminum",
+        "min": 2.3,
         "value": 3.2,
-        "max": 2.3,
         "uom": "ug/l"
       },
       {
         "code": "arsenic",
+        "min": 1.4,
         "value": 1.8,
-        "max": 1.4,
         "uom": "ug/l"
       },
       {
         "code": "boron",
+        "min": 0.03,
         "value": 0.05,
-        "max": 0.03,
         "uom": "mg/l"
       },
       {
         "code": "calcium",
+        "min": 41,
         "value": 44,
-        "max": 41,
         "uom": "mg/l"
       },
       {
         "code": "chloride",
+        "min": 48,
         "value": 51,
-        "max": 48,
         "uom": "mg/l"
       },
       {
         "code": "carbondioxide",
+        "min": 0.9,
         "value": 1.3,
-        "max": 0.9,
         "uom": "mg/l"
       },
       {
         "code": "conductance",
+        "min": 46.8,
         "value": 48.5,
-        "max": 46.8,
         "uom": "mS/m"
       },
       {
         "code": "fluoride",
+        "min": 0.18,
         "value": 0.2,
-        "max": 0.18,
         "uom": "mg/l"
       },
       {
         "code": "iron",
+        "min": 0.01,
         "value": 0.01,
-        "max": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "turbidity",
+        "min": 0.03,
         "value": 0.03,
-        "max": 0.03,
         "uom": "ftu"
       },
       {
         "code": "bicarbonate",
+        "min": 173,
         "value": 184,
-        "max": 173,
         "uom": "mg/l"
       },
       {
         "code": "mercury",
+        "min": 0.02,
         "value": 0.02,
-        "max": 0.02,
         "uom": "ug/l"
       },
       {
         "code": "hardness",
+        "min": 1.36,
         "value": 1.45,
-        "max": 1.36,
         "uom": "mmol/l"
       },
       {
         "code": "pt_co",
+        "min": 4,
         "value": 5,
-        "max": 4,
         "uom": "mg/l"
       },
       {
         "code": "magnesium",
+        "min": 7.5,
         "value": 8.1,
-        "max": 7.5,
         "uom": "mg/l"
       },
       {
         "code": "manganese",
+        "min": 0.01,
         "value": 0.01,
-        "max": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "natrium",
+        "min": 52,
         "value": 57,
-        "max": 52,
         "uom": "mg/l"
       },
       {
         "code": "ammonium",
+        "min": 0.02,
         "value": 0.02,
-        "max": 0.02,
         "uom": "mg/l"
       },
       {
         "code": "nitrite",
+        "min": 0.007,
         "value": 0.007,
-        "max": 0.007,
         "uom": "mg/l"
       },
       {
         "code": "nitrate",
+        "min": 3.33,
         "value": 5.21,
-        "max": 3.33,
         "uom": "mg/l"
       },
       {
         "code": "oxygen",
+        "min": 8.4,
         "value": 9.5,
-        "max": 8.4,
         "uom": "mg/l"
       },
       {
         "code": "saturation",
+        "min": 0.56,
         "value": 0.65,
-        "max": 0.56,
         "uom": "pH"
       },
       {
         "code": "sulfate",
+        "min": 39,
         "value": 42,
-        "max": 39,
         "uom": "mg/l"
       },
       {
         "code": "watertemperature",
+        "min": 9,
         "value": 11.7,
-        "max": 9,
         "uom": "degC"
       },
       {
         "code": "clostridium",
+        "min": 0,
         "value": 0,
-        "max": 0,
         "uom": "cfu/dl"
       },
       {
         "code": "coli",
+        "min": 0,
         "value": 0,
-        "max": 0,
         "uom": "cfu/dl"
       },
       {
         "code": "enterococci",
+        "min": 0,
         "value": 0,
-        "max": 0,
         "uom": "cfu/dl"
       }
     ],
@@ -2222,191 +2222,191 @@
     "observations": [
       {
         "code": "aluminum",
+        "min": 2.9,
         "value": 3,
-        "max": 2.9,
-        "min": 3.2,
+        "max": 3.2,
         "uom": "ug/l"
       },
       {
         "code": "arsenic",
+        "min": 2.3,
         "value": 3,
-        "max": 2.3,
-        "min": 3.4,
+        "max": 3.4,
         "uom": "ug/l"
       },
       {
         "code": "boron",
+        "min": 0.01,
         "value": 0.02,
-        "max": 0.01,
-        "min": 0.04,
+        "max": 0.04,
         "uom": "mg/l"
       },
       {
         "code": "calcium",
+        "min": 42,
         "value": 44,
-        "max": 42,
-        "min": 48,
+        "max": 48,
         "uom": "mg/l"
       },
       {
         "code": "chloride",
+        "min": 43,
         "value": 48,
-        "max": 43,
-        "min": 51,
+        "max": 51,
         "uom": "mg/l"
       },
       {
         "code": "carbondioxide",
+        "min": 0.8,
         "value": 1.1,
-        "max": 0.8,
-        "min": 1.5,
+        "max": 1.5,
         "uom": "mg/l"
       },
       {
         "code": "conductance",
+        "min": 45.1,
         "value": 46.8,
-        "max": 45.1,
-        "min": 48.3,
+        "max": 48.3,
         "uom": "mS/m"
       },
       {
         "code": "fluoride",
+        "min": 0.19,
         "value": 0.22,
-        "max": 0.19,
-        "min": 0.24,
+        "max": 0.24,
         "uom": "mg/l"
       },
       {
         "code": "iron",
+        "min": 0.01,
         "value": 0.01,
         "max": 0.01,
-        "min": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "turbidity",
+        "min": 0.03,
         "value": 0.03,
-        "max": 0.03,
-        "min": 0.07,
+        "max": 0.07,
         "uom": "ftu"
       },
       {
         "code": "bicarbonate",
+        "min": 163,
         "value": 177,
-        "max": 163,
-        "min": 186,
+        "max": 186,
         "uom": "mg/l"
       },
       {
         "code": "mercury",
+        "min": 0.02,
         "value": 0.02,
         "max": 0.02,
-        "min": 0.02,
         "uom": "ug/l"
       },
       {
         "code": "hardness",
+        "min": 1.35,
         "value": 1.44,
-        "max": 1.35,
-        "min": 1.53,
+        "max": 1.53,
         "uom": "mmol/l"
       },
       {
         "code": "pt_co",
+        "min": 5,
         "value": 6,
-        "max": 5,
-        "min": 7,
+        "max": 7,
         "uom": "mg/l"
       },
       {
         "code": "magnesium",
+        "min": 7.5,
         "value": 8,
-        "max": 7.5,
-        "min": 8.5,
+        "max": 8.5,
         "uom": "mg/l"
       },
       {
         "code": "manganese",
+        "min": 0.01,
         "value": 0.01,
         "max": 0.01,
-        "min": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "natrium",
+        "min": 47,
         "value": 50,
-        "max": 47,
-        "min": 53,
+        "max": 53,
         "uom": "mg/l"
       },
       {
         "code": "ammonium",
+        "min": 0.02,
         "value": 0.02,
         "max": 0.02,
-        "min": 0.02,
         "uom": "mg/l"
       },
       {
         "code": "nitrite",
+        "min": 0.007,
         "value": 0.007,
         "max": 0.007,
-        "min": 0.007,
         "uom": "mg/l"
       },
       {
         "code": "nitrate",
+        "min": 1.96,
         "value": 4.42,
-        "max": 1.96,
-        "min": 7.54,
+        "max": 7.54,
         "uom": "mg/l"
       },
       {
         "code": "oxygen",
+        "min": 9.4,
         "value": 9.8,
-        "max": 9.4,
-        "min": 10.1,
+        "max": 10.1,
         "uom": "mg/l"
       },
       {
         "code": "saturation",
+        "min": 0.66,
         "value": 0.7,
-        "max": 0.66,
-        "min": 0.74,
+        "max": 0.74,
         "uom": "pH"
       },
       {
         "code": "sulfate",
+        "min": 37,
         "value": 42,
-        "max": 37,
-        "min": 46,
+        "max": 46,
         "uom": "mg/l"
       },
       {
         "code": "watertemperature",
+        "min": 9.3,
         "value": 12.9,
-        "max": 9.3,
-        "min": 16.7,
+        "max": 16.7,
         "uom": "degC"
       },
       {
         "code": "clostridium",
+        "min": 0,
         "value": 0,
         "max": 0,
-        "min": 0,
         "uom": "cfu/dl"
       },
       {
         "code": "coli",
+        "min": 0,
         "value": 0.01,
-        "max": 0,
-        "min": 1,
+        "max": 1,
         "uom": "cfu/dl"
       },
       {
         "code": "enterococci",
+        "min": 0,
         "value": 0,
         "max": 0,
-        "min": 0,
         "uom": "cfu/dl"
       }
     ],
@@ -2436,191 +2436,191 @@
     "observations": [
       {
         "code": "aluminum",
+        "min": 3.8,
         "value": 4.6,
-        "max": 3.8,
-        "min": 6.1,
+        "max": 6.1,
         "uom": "ug/l"
       },
       {
         "code": "arsenic",
+        "min": 2.4,
         "value": 3,
-        "max": 2.4,
-        "min": 4.2,
+        "max": 4.2,
         "uom": "ug/l"
       },
       {
         "code": "boron",
+        "min": 0.01,
         "value": 0.02,
-        "max": 0.01,
-        "min": 0.04,
+        "max": 0.04,
         "uom": "mg/l"
       },
       {
         "code": "calcium",
+        "min": 44,
         "value": 47,
-        "max": 44,
-        "min": 49,
+        "max": 49,
         "uom": "mg/l"
       },
       {
         "code": "chloride",
+        "min": 44,
         "value": 49,
-        "max": 44,
-        "min": 53,
+        "max": 53,
         "uom": "mg/l"
       },
       {
         "code": "carbondioxide",
+        "min": 0.6,
         "value": 1,
-        "max": 0.6,
-        "min": 1.5,
+        "max": 1.5,
         "uom": "mg/l"
       },
       {
         "code": "conductance",
+        "min": 45.7,
         "value": 47.5,
-        "max": 45.7,
-        "min": 48.6,
+        "max": 48.6,
         "uom": "mS/m"
       },
       {
         "code": "fluoride",
+        "min": 0.21,
         "value": 0.22,
-        "max": 0.21,
-        "min": 0.25,
+        "max": 0.25,
         "uom": "mg/l"
       },
       {
         "code": "iron",
+        "min": 0.01,
         "value": 0.01,
         "max": 0.01,
-        "min": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "turbidity",
+        "min": 0.03,
         "value": 0.03,
-        "max": 0.03,
-        "min": 0.08,
+        "max": 0.08,
         "uom": "ftu"
       },
       {
         "code": "bicarbonate",
+        "min": 160,
         "value": 175,
-        "max": 160,
-        "min": 183,
+        "max": 183,
         "uom": "mg/l"
       },
       {
         "code": "mercury",
+        "min": 0.02,
         "value": 0.02,
         "max": 0.02,
-        "min": 0.02,
         "uom": "ug/l"
       },
       {
         "code": "hardness",
+        "min": 1.41,
         "value": 1.5,
-        "max": 1.41,
-        "min": 1.58,
+        "max": 1.58,
         "uom": "mmol/l"
       },
       {
         "code": "pt_co",
+        "min": 7,
         "value": 8,
-        "max": 7,
-        "min": 11,
+        "max": 11,
         "uom": "mg/l"
       },
       {
         "code": "magnesium",
+        "min": 7.6,
         "value": 8.2,
-        "max": 7.6,
-        "min": 8.9,
+        "max": 8.9,
         "uom": "mg/l"
       },
       {
         "code": "manganese",
+        "min": 0.01,
         "value": 0.01,
         "max": 0.01,
-        "min": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "natrium",
+        "min": 45,
         "value": 51,
-        "max": 45,
-        "min": 56,
+        "max": 56,
         "uom": "mg/l"
       },
       {
         "code": "ammonium",
+        "min": 0.02,
         "value": 0.02,
         "max": 0.02,
-        "min": 0.02,
         "uom": "mg/l"
       },
       {
         "code": "nitrite",
+        "min": 0.007,
         "value": 0.007,
         "max": 0.007,
-        "min": 0.007,
         "uom": "mg/l"
       },
       {
         "code": "nitrate",
+        "min": 1.49,
         "value": 3.94,
-        "max": 1.49,
-        "min": 7.12,
+        "max": 7.12,
         "uom": "mg/l"
       },
       {
         "code": "oxygen",
+        "min": 8.7,
         "value": 9.3,
-        "max": 8.7,
-        "min": 9.8,
+        "max": 9.8,
         "uom": "mg/l"
       },
       {
         "code": "saturation",
+        "min": 0.52,
         "value": 0.73,
-        "max": 0.52,
-        "min": 0.87,
+        "max": 0.87,
         "uom": "pH"
       },
       {
         "code": "sulfate",
+        "min": 41,
         "value": 45,
-        "max": 41,
-        "min": 52,
+        "max": 52,
         "uom": "mg/l"
       },
       {
         "code": "watertemperature",
+        "min": 8.9,
         "value": 13,
-        "max": 8.9,
-        "min": 17,
+        "max": 17,
         "uom": "degC"
       },
       {
         "code": "clostridium",
+        "min": 0,
         "value": 0,
         "max": 0,
-        "min": 0,
         "uom": "cfu/dl"
       },
       {
         "code": "coli",
+        "min": 0,
         "value": 0.01,
-        "max": 0,
-        "min": 1,
+        "max": 1,
         "uom": "cfu/dl"
       },
       {
         "code": "enterococci",
+        "min": 0,
         "value": 0,
         "max": 0,
-        "min": 0,
         "uom": "cfu/dl"
       }
     ],
@@ -2644,191 +2644,191 @@
     "observations": [
       {
         "code": "aluminum",
+        "min": 2.8,
         "value": 3.5,
-        "max": 2.8,
-        "min": 4.4,
+        "max": 4.4,
         "uom": "ug/l"
       },
       {
         "code": "arsenic",
+        "min": 1.2,
         "value": 1.9,
-        "max": 1.2,
-        "min": 2.9,
+        "max": 2.9,
         "uom": "ug/l"
       },
       {
         "code": "boron",
+        "min": 0.01,
         "value": 0.03,
-        "max": 0.01,
-        "min": 0.06,
+        "max": 0.06,
         "uom": "mg/l"
       },
       {
         "code": "calcium",
+        "min": 40,
         "value": 44,
-        "max": 40,
-        "min": 47,
+        "max": 47,
         "uom": "mg/l"
       },
       {
         "code": "chloride",
+        "min": 48,
         "value": 51,
-        "max": 48,
-        "min": 54,
+        "max": 54,
         "uom": "mg/l"
       },
       {
         "code": "carbondioxide",
+        "min": 1,
         "value": 1.2,
-        "max": 1,
-        "min": 1.5,
+        "max": 1.5,
         "uom": "mg/l"
       },
       {
         "code": "conductance",
+        "min": 47.6,
         "value": 48.4,
-        "max": 47.6,
-        "min": 49.4,
+        "max": 49.4,
         "uom": "mS/m"
       },
       {
         "code": "fluoride",
+        "min": 0.19,
         "value": 0.2,
-        "max": 0.19,
-        "min": 0.22,
+        "max": 0.22,
         "uom": "mg/l"
       },
       {
         "code": "iron",
+        "min": 0.01,
         "value": 0.01,
         "max": 0.01,
-        "min": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "turbidity",
+        "min": 0.03,
         "value": 0.03,
-        "max": 0.03,
-        "min": 0.04,
+        "max": 0.04,
         "uom": "ftu"
       },
       {
         "code": "bicarbonate",
+        "min": 173,
         "value": 181,
-        "max": 173,
-        "min": 186,
+        "max": 186,
         "uom": "mg/l"
       },
       {
         "code": "mercury",
+        "min": 0.02,
         "value": 0.02,
         "max": 0.02,
-        "min": 0.02,
         "uom": "ug/l"
       },
       {
         "code": "hardness",
+        "min": 1.33,
         "value": 1.43,
-        "max": 1.33,
-        "min": 1.5,
+        "max": 1.5,
         "uom": "mmol/l"
       },
       {
         "code": "pt_co",
+        "min": 2,
         "value": 5,
-        "max": 2,
-        "min": 6,
+        "max": 6,
         "uom": "mg/l"
       },
       {
         "code": "magnesium",
+        "min": 7.6,
         "value": 8,
-        "max": 7.6,
-        "min": 8.6,
+        "max": 8.6,
         "uom": "mg/l"
       },
       {
         "code": "manganese",
+        "min": 0.01,
         "value": 0.01,
         "max": 0.01,
-        "min": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "natrium",
+        "min": 52,
         "value": 57,
-        "max": 52,
-        "min": 62,
+        "max": 62,
         "uom": "mg/l"
       },
       {
         "code": "ammonium",
+        "min": 0.02,
         "value": 0.02,
-        "max": 0.02,
-        "min": 0.03,
+        "max": 0.03,
         "uom": "mg/l"
       },
       {
         "code": "nitrite",
+        "min": 0.007,
         "value": 0.007,
         "max": 0.007,
-        "min": 0.007,
         "uom": "mg/l"
       },
       {
         "code": "nitrate",
+        "min": 3.23,
         "value": 4.61,
-        "max": 3.23,
-        "min": 6.33,
+        "max": 6.33,
         "uom": "mg/l"
       },
       {
         "code": "oxygen",
+        "min": 9,
         "value": 9.7,
-        "max": 9,
-        "min": 10.3,
+        "max": 10.3,
         "uom": "mg/l"
       },
       {
         "code": "saturation",
+        "min": 0.54,
         "value": 0.64,
-        "max": 0.54,
-        "min": 0.71,
+        "max": 0.71,
         "uom": "pH"
       },
       {
         "code": "sulfate",
+        "min": 41,
         "value": 44,
-        "max": 41,
-        "min": 50,
+        "max": 50,
         "uom": "mg/l"
       },
       {
         "code": "watertemperature",
+        "min": 8.4,
         "value": 12.3,
-        "max": 8.4,
-        "min": 15,
+        "max": 15,
         "uom": "degC"
       },
       {
         "code": "clostridium",
+        "min": 0,
         "value": 0,
         "max": 0,
-        "min": 0,
         "uom": "cfu/dl"
       },
       {
         "code": "coli",
+        "min": 0,
         "value": 0.01,
-        "max": 0,
-        "min": 2,
+        "max": 2,
         "uom": "cfu/dl"
       },
       {
         "code": "enterococci",
+        "min": 0,
         "value": 0,
         "max": 0,
-        "min": 0,
         "uom": "cfu/dl"
       }
     ],
