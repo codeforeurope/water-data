@@ -1,0 +1,272 @@
+[
+  {
+    "Hooge Boom": {
+      "municipalities": [
+        "Nieuwkoop",
+        "Alphen aan den Rijn",
+        "Bodegraven-Reeuwijk",
+        "Woerden"
+      ],
+      "alternatives": [
+        "Aardam",
+        "Aarlanderveen (zuidelijk deel - Dorpstraat vanaf de kerk)",
+        "Bodegraven ten noorden van de spoorlijn",
+        "De Hoef",
+        "Driebruggen",
+        "Kamerik",
+        "Korteraar",
+        "Langeraar",
+        "Nieuwerbrug",
+        "Nieuwkoop",
+        "Nieuwveen",
+        "Noorden",
+        "Papenveer",
+        "Ter Aar ten oosten van de Oostkanaalweg",
+        "Vrouwenakker",
+        "Waarder",
+        "Woerden (Oasen levert aan een klein deel van Woerden drinkwater)",
+        "Woerdense Verlaat",
+        "Zegveld (Oasen levert aan een klein deel van Zegveld drinkwater)",
+        "Zevenhoven"
+      ],
+      "report": "https://www.oasen.nl/assets/uploads/Kwaliteitgegevens_Hooge-Boom-Kamerik_ZHB_0.pdf",
+      "gradation": 1,
+      "observations": [
+        {
+          "code": "hardness",
+          "value": 6.8,
+          "uom": "dH"
+        }
+      ]
+    },
+    "De Steeg": {
+      "municipalities": [
+        "Alphen aan den Rijn",
+        "Kaag en Braassem",
+        "Leiderdorp",
+        "Nieuwkoop",
+        "Teylingen",
+        "Zoetermeer",
+        "Zoeterwoude"
+      ],
+      "alternatives": [
+        "Aarlanderveen (noordelijk deel)",
+        "Alphen aan den Rijn",
+        "Benthuizen",
+        "Hazerswoude (Dorp en Rijndijk)",
+        "Hoogmade",
+        "Koudekerk aan den Rijn",
+        "Leiderdorp",
+        "Leimuiden",
+        "Nieuwe Wetering",
+        "Oud Ade",
+        "Oude Wetering",
+        "Rijnsaterwoude",
+        "Rijpwetering",
+        "Roelofarendsveen",
+        "Ter Aar ten westen van de Oostkanaalweg",
+        "Warmond",
+        "Woubrugge",
+        "Zoetermeer (twee huishoudens: Slootweg 1 en 2)",
+        "Zoeterwoude (Dorp en Rijndijk)",
+        "Zwammerdam"
+      ],
+      "report": "https://www.oasen.nl/assets/uploads/Kwaliteitgegevens_De%20Steeg_ZSL_0.pdf",
+      "gradation": 1,
+      "observations": [
+        {
+          "code": "hardness",
+          "value": 6.8,
+          "uom": "dH"
+        }
+      ]
+    },
+    "De Laak": {
+      "municipalities": [
+        "Geldermalsen",
+        "Zederik",
+        "Giessenlanden",
+        "Molenwaard",
+        "Culemborg",
+        "Gorinchem",
+        "Vianen",
+        "Hardinxveld-Giessendam",
+        "Leerdam",
+        "Sliedrecht",
+        "Krimpenerwaard",
+        "Lingewaal"
+      ],
+      "alternatives": [
+        "Acquoy (Oasen levert aan een deel van Acquoy drinkwater)",
+        "Ameide",
+        "Arkel",
+        "Bleskensgraaf",
+        "Brandwijk",
+        "Culemborg (Oasen levert aan een deel van Culemborg drinkwater)",
+        "Dalem",
+        "Everdingen",
+        "Giessenburg",
+        "Gorinchem",
+        "Goudriaan",
+        "Groot-Ammers",
+        "Hagestein",
+        "Hardinxveld-Giessendam",
+        "Hei- en Boeicop",
+        "Hoogblokland",
+        "Hoornaar",
+        "Kedichem",
+        "Langerak",
+        "Leerbroek",
+        "Leerdam",
+        "Lexmond",
+        "Meerkerk",
+        "Molenaarsgraaf",
+        "Nieuw-Lekkerland",
+        "Nieuwland",
+        "Nieuwpoort",
+        "Noordeloos",
+        "Oosterwijk",
+        "Ottoland",
+        "Oud-Alblas",
+        "Schelluinen",
+        "Schoonrewoerd",
+        "Sliedrecht (en De Grienden)",
+        "Streefkerk",
+        "Tienhoven",
+        "Vianen",
+        "Vlist",
+        "Vuren (Oasen levert aan een klein deel van Vuren drinkwater)",
+        "Waal",
+        "Wijngaarden",
+        "Zederik",
+        "Zijderveld"
+      ],
+      "report": "https://www.oasen.nl/assets/uploads/Kwaliteitgegevens_De-Laak-Lexmond_ZLA.pdf",
+      "gradation": 1,
+      "observations": [
+        {
+          "code": "hardness",
+          "value": 6.9,
+          "uom": "dH"
+        }
+      ]
+    },
+    "De Put": {
+      "municipalities": [
+        "Alblasserdam",
+        "Molenwaard",
+        "Papendrecht"
+      ],
+      "alternatives": [
+        "Alblasserdam",
+        "Kinderdijk",
+        "Papendrecht"
+      ],
+      "report": "https://www.oasen.nl/assets/uploads/Kwaliteitgegevens_SPS-Alblasserdam_DAD.pdf",
+      "gradation": 2,
+      "observations": [
+        {
+          "code": "hardness",
+          "value": 9.9,
+          "uom": "dH"
+        }
+      ]
+    },
+    "Rodenhuis": {
+      "municipalities": [
+        "Krimpenerwaard",
+        "Bodegraven-Reeuwijk",
+        "Alphen aan den Rijn",
+        "Gouda",
+        "Zuidplas",
+        "Oudewater",
+        "Waddinxveen"
+      ],
+      "alternatives": [
+        "Ammerstol",
+        "Bergambacht",
+        "Berkenwoude",
+        "Bodegraven ten zuiden van de spoorlijn",
+        "Boskoop",
+        "Gouda",
+        "Gouderak",
+        "Haastrecht",
+        "Moordrecht",
+        "Oudewater (Oasen levert aan een klein deel van Oudewater drinkwater)",
+        "Reeuwijk (Brug en Dorp)",
+        "Stolwijk",
+        "Waddinxveen"
+      ],
+      "report": "https://www.oasen.nl/assets/uploads/Kwaliteitgegevens_Rodenhuis-Bergambacht_ZRH_0.pdf",
+      "gradation": 1,
+      "observations": [
+        {
+          "code": "hardness",
+          "value": 7.1,
+          "uom": "dH"
+        }
+      ]
+    },
+    "Reijerwaard": {
+      "municipalities": [
+        "Hendrik-Ido-Ambacht ",
+        "Ridderkerk"
+      ],
+      "alternatives": [
+        "Hendrik-Ido-Ambacht (ten noorden van de Weteringsingel)",
+        "Ridderkerk"
+      ],
+      "report": "https://www.oasen.nl/assets/uploads/Kwaliteitgegevens_Reijerwaard-Ridderkerk_ZRD.pdf",
+      "gradation": 2,
+      "observations": [
+        {
+          "code": "hardness",
+          "value": 8.7,
+          "uom": "dH"
+        }
+      ]
+    },
+    "Baanhoek": {
+      "municipalities": [
+        "Hendrik-Ido-Ambacht",
+        "Krimpenerwaard",
+        "Zwijndrecht"
+      ],
+      "alternatives": [
+        "Hendrik-Ido-Ambacht (ten zuiden van de Weteringsingel)",
+        "Schoonhoven",
+        "Zwijndrecht"
+      ],
+      "report": "https://www.oasen.nl/assets/uploads/Kwaliteitgegevens_Elzengors-Evides-Zwijndrecht_DZD_0.pdf",
+      "gradation": 2,
+      "observations": [
+        {
+          "code": "hardness",
+          "value": 8.4,
+          "uom": "dH"
+        }
+      ]
+    },
+    "Schuwacht": {
+      "municipalities": [
+        "Krimpenerwaard",
+        "Krimpen aan den IJssel"
+      ],
+      "alternatives": [
+        "Krimpen aan de Lek",
+        "Krimpen aan den IJssel",
+        "Lekkerkerk",
+        "Ouderkerk aan den IJssel"
+      ],
+      "report": "https://www.oasen.nl/assets/uploads/Kwaliteitgegevens_Lekkerkerk_ZLK.PDF",
+      "gradation": 3,
+      "observations": [
+        {
+          "code": "hardness",
+          "value": 13.7,
+          "uom": "dH"
+        }
+      ]
+    }
+  }
+]
