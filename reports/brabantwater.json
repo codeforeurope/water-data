@@ -409,24 +409,24 @@
     "observations": [
       {
         "code": "watertemperature",
-        "samples": 25,
-        "value": 6,
+        "samples": 6,
+        "value": 14.1,
         "min": 13.6,
         "max": 14.7,
         "uom": "degC"
       },
       {
         "code": "oxygen",
-        "samples": 2,
-        "value": 26,
+        "samples": 26,
+        "value": 9.82,
         "min": 9.4,
         "max": 10.3,
         "uom": "mg/l"
       },
       {
         "code": "turbidity",
-        "samples": 1,
-        "value": 26,
+        "samples": 26,
+        "value": 0.25,
         "min": 0.18,
         "max": 0.37,
         "uom": "ftu"
@@ -449,16 +449,16 @@
       },
       {
         "code": "saturation",
-        "samples": -0.2,
-        "value": 7,
+        "samples": 7,
+        "value": 0.09,
         "min": 0.07,
         "max": 0.13,
         "uom": "pH"
       },
       {
         "code": "conductance",
-        "samples": 125,
-        "value": 6,
+        "samples": 6,
+        "value": 24.17,
         "min": 24,
         "max": 25,
         "uom": "mS/m"
@@ -473,32 +473,32 @@
       },
       {
         "code": "bicarbonate",
-        "samples": 60,
-        "value": 6,
+        "samples": 6,
+        "value": 163.33,
         "min": 160,
         "max": 170,
         "uom": "mg/l"
       },
       {
         "code": "chloride",
-        "samples": 150,
-        "value": 1,
+        "samples": 1,
+        "value": 4.8,
         "min": 4.8,
         "max": 4.8,
         "uom": "mg/l"
       },
       {
         "code": "sulfate",
-        "samples": 150,
-        "value": 1,
+        "samples": 1,
+        "value": 4.9,
         "min": 4.9,
         "max": 4.9,
         "uom": "mg/l"
       },
       {
         "code": "natrium",
-        "samples": 150,
-        "value": 1,
+        "samples": 1,
+        "value": 11,
         "min": 11,
         "max": 11,
         "uom": "mg/l"
@@ -530,30 +530,30 @@
       {
         "code": "hardness",
         "samples": 1,
-        "value": 1,
+        "value": 1.1,
         "min": 1.1,
         "max": 1.1,
         "uom": "mmol/l"
       },
       {
         "code": "ammonium",
-        "samples": 0.2,
-        "value": 26,
+        "samples": 26,
+        "value": 0.03,
         "min": 0.03,
         "max": 0.03,
         "uom": "mg/l"
       },
       {
         "code": "nitrite",
-        "samples": 0.1,
-        "value": 26,
+        "samples": 26,
+        "value": 0.01,
         "min": 0.01,
         "max": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "nitrate",
-        "samples": 50,
+        "samples": 1,
         "value": 1,
         "min": 1,
         "max": 1,
@@ -569,31 +569,31 @@
       },
       {
         "code": "iron",
-        "samples": 200,
-        "value": 26,
+        "samples": 26,
+        "value": 20.77,
         "min": 16,
         "max": 25,
         "uom": "ug/l"
       },
       {
         "code": "manganese",
-        "samples": 50,
-        "value": 26,
+        "samples": 26,
+        "value": 10,
         "min": 10,
         "max": 10,
         "uom": "ug/l"
       },
       {
         "code": "aluminum",
-        "samples": 200,
-        "value": 1,
+        "samples": 1,
+        "value": 5,
         "min": 5,
         "max": 5,
         "uom": "ug/l"
       },
       {
         "code": "antimony",
-        "samples": 5,
+        "samples": 1,
         "value": 1,
         "min": 1,
         "max": 1,
@@ -601,7 +601,7 @@
       },
       {
         "code": "arsenic",
-        "samples": 10,
+        "samples": 1,
         "value": 1,
         "min": 1,
         "max": 1,
@@ -625,23 +625,23 @@
       },
       {
         "code": "boron",
-        "samples": 500,
-        "value": 1,
+        "samples": 1,
+        "value": 88,
         "min": 88,
         "max": 88,
         "uom": "ug/l"
       },
       {
         "code": "cadmium",
-        "samples": 5,
-        "value": 1,
+        "samples": 1,
+        "value": 0.1,
         "min": 0.1,
         "max": 0.1,
         "uom": "ug/l"
       },
       {
         "code": "chromium",
-        "samples": 50,
+        "samples": 1,
         "value": 1,
         "min": 1,
         "max": 1,
@@ -657,8 +657,8 @@
       },
       {
         "code": "copper",
-        "samples": 2000,
-        "value": 1,
+        "samples": 1,
+        "value": 5,
         "min": 5,
         "max": 5,
         "uom": "ug/l"
@@ -666,14 +666,14 @@
       {
         "code": "mercury",
         "samples": 1,
-        "value": 1,
+        "value": 0.06,
         "min": 0.06,
         "max": 0.06,
         "uom": "ug/l"
       },
       {
         "code": "lead",
-        "samples": 10,
+        "samples": 1,
         "value": 1,
         "min": 1,
         "max": 1,
@@ -681,7 +681,7 @@
       },
       {
         "code": "nickel",
-        "samples": 20,
+        "samples": 1,
         "value": 1,
         "min": 1,
         "max": 1,
@@ -689,7 +689,7 @@
       },
       {
         "code": "selenium",
-        "samples": 10,
+        "samples": 1,
         "value": 1,
         "min": 1,
         "max": 1,
@@ -721,8 +721,8 @@
       },
       {
         "code": "zinc",
-        "samples": 3000,
-        "value": 1,
+        "samples": 1,
+        "value": 5,
         "min": 5,
         "max": 5,
         "uom": "ug/l"
@@ -730,14 +730,14 @@
       {
         "code": "fluoride",
         "samples": 1,
-        "value": 1,
+        "value": 0.11,
         "min": 0.11,
         "max": 0.11,
         "uom": "mg/l"
       },
       {
         "code": "cyanide",
-        "samples": 50,
+        "samples": 1,
         "value": 1,
         "min": 1,
         "max": 1,
@@ -753,40 +753,40 @@
       },
       {
         "code": "pt_co",
-        "samples": 20,
-        "value": 1,
+        "samples": 1,
+        "value": 4.6,
         "min": 4.6,
         "max": 4.6,
         "uom": "mg/l"
       },
       {
         "code": "trihalomethanes",
-        "samples": 25,
-        "value": 1,
+        "samples": 1,
+        "value": 0.1,
         "min": 0.1,
         "max": 0.1,
         "uom": "ug/l"
       },
       {
         "code": "coli",
-        "samples": 1,
-        "value": 26,
+        "samples": 26,
+        "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu/dl"
       },
       {
         "code": "e_coli",
-        "samples": 1,
-        "value": 26,
+        "samples": 26,
+        "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu/dl"
       },
       {
         "code": "aeromonas",
-        "samples": 1000,
-        "value": 1,
+        "samples": 1,
+        "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu/dl"
@@ -812,24 +812,24 @@
     "observations": [
       {
         "code": "watertemperature",
-        "samples": 25,
-        "value": 7,
+        "samples": 7,
+        "value": 12.71,
         "min": 12.5,
         "max": 13.1,
         "uom": "degC"
       },
       {
         "code": "oxygen",
-        "samples": 2,
-        "value": 25,
+        "samples": 25,
+        "value": 9.16,
         "min": 8.6,
         "max": 9.6,
         "uom": "mg/l"
       },
       {
         "code": "turbidity",
-        "samples": 1,
-        "value": 25,
+        "samples": 25,
+        "value": 0.1,
         "min": 0.1,
         "max": 0.13,
         "uom": "ftu"
@@ -844,16 +844,16 @@
       },
       {
         "code": "saturation",
-        "samples": -0.2,
-        "value": 2,
+        "samples": 2,
+        "value": 0.45,
         "min": 0.43,
         "max": 0.46,
         "uom": "pH"
       },
       {
         "code": "conductance",
-        "samples": 125,
-        "value": 7,
+        "samples": 7,
+        "value": 39.71,
         "min": 38,
         "max": 41,
         "uom": "mS/m"
@@ -868,32 +868,32 @@
       },
       {
         "code": "bicarbonate",
-        "samples": 60,
-        "value": 2,
+        "samples": 2,
+        "value": 250,
         "min": 250,
         "max": 250,
         "uom": "mg/l"
       },
       {
         "code": "chloride",
-        "samples": 150,
-        "value": 2,
+        "samples": 2,
+        "value": 22.5,
         "min": 22,
         "max": 23,
         "uom": "mg/l"
       },
       {
         "code": "sulfate",
-        "samples": 150,
-        "value": 2,
+        "samples": 2,
+        "value": 2.4,
         "min": 2.2,
         "max": 2.6,
         "uom": "mg/l"
       },
       {
         "code": "natrium",
-        "samples": 150,
-        "value": 2,
+        "samples": 2,
+        "value": 14.5,
         "min": 14,
         "max": 15,
         "uom": "mg/l"
@@ -924,56 +924,56 @@
       },
       {
         "code": "hardness",
-        "samples": 1,
-        "value": 2,
+        "samples": 2,
+        "value": 1.85,
         "min": 1.8,
         "max": 1.9,
         "uom": "mmol/l"
       },
       {
         "code": "ammonium",
-        "samples": 0.2,
-        "value": 25,
+        "samples": 25,
+        "value": 0.03,
         "min": 0.03,
         "max": 0.03,
         "uom": "mg/l"
       },
       {
         "code": "nitrite",
-        "samples": 0.1,
-        "value": 25,
+        "samples": 25,
+        "value": 0.01,
         "min": 0.01,
         "max": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "nitrate",
-        "samples": 50,
-        "value": 2,
+        "samples": 2,
+        "value": 3.35,
         "min": 2.3,
         "max": 4.4,
         "uom": "mg/l"
       },
       {
         "code": "iron",
-        "samples": 200,
-        "value": 25,
+        "samples": 25,
+        "value": 10,
         "min": 10,
         "max": 20,
         "uom": "ug/l"
       },
       {
         "code": "manganese",
-        "samples": 50,
-        "value": 25,
+        "samples": 25,
+        "value": 10,
         "min": 10,
         "max": 5,
         "uom": "ug/l"
       },
       {
         "code": "arsenic",
-        "samples": 10,
-        "value": 25,
+        "samples": 25,
+        "value": 1.31,
         "min": 0.5,
         "max": 4.7,
         "uom": "ug/l"
@@ -988,32 +988,32 @@
       },
       {
         "code": "pt_co",
-        "samples": 20,
-        "value": 2,
+        "samples": 2,
+        "value": 5.55,
         "min": 5.5,
         "max": 5.6,
         "uom": "mg/l"
       },
       {
         "code": "coli",
-        "samples": 1,
-        "value": 25,
+        "samples": 25,
+        "value": 0.04,
         "min": 0,
         "max": 1,
         "uom": "cfu/dl"
       },
       {
         "code": "e_coli",
-        "samples": 1,
-        "value": 25,
+        "samples": 25,
+        "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu/dl"
       },
       {
         "code": "aeromonas",
-        "samples": 1000,
-        "value": 2,
+        "samples": 2,
+        "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu/dl"
@@ -13231,8 +13231,8 @@
     "observations": [
       {
         "code": "watertemperature",
-        "samples": 25,
-        "value": 7,
+        "samples": 7,
+        "value": 12.26,
         "min": 11.8,
         "max": 13.1,
         "uom": "degC"
@@ -13247,16 +13247,16 @@
       },
       {
         "code": "turbidity",
-        "samples": 1,
-        "value": 52,
+        "samples": 52,
+        "value": 0.1,
         "min": 0.1,
         "max": 0.24,
         "uom": "ftu"
       },
       {
         "code": "acidity",
-        "samples": 9.5,
-        "value": 26,
+        "samples": 26,
+        "value": 7.67,
         "min": 7.62,
         "max": 7.72,
         "uom": "pH"
@@ -13271,8 +13271,8 @@
       },
       {
         "code": "conductance",
-        "samples": 125,
-        "value": 7,
+        "samples": 7,
+        "value": 35.57,
         "min": 33,
         "max": 36,
         "uom": "mS/m"
@@ -13295,24 +13295,24 @@
       },
       {
         "code": "chloride",
-        "samples": 150,
-        "value": 2,
+        "samples": 2,
+        "value": 19.5,
         "min": 19,
         "max": 20,
         "uom": "mg/l"
       },
       {
         "code": "sulfate",
-        "samples": 150,
-        "value": 2,
+        "samples": 2,
+        "value": 20.5,
         "min": 20,
         "max": 21,
         "uom": "mg/l"
       },
       {
         "code": "natrium",
-        "samples": 150,
-        "value": 2,
+        "samples": 2,
+        "value": 11,
         "min": 11,
         "max": 11,
         "uom": "mg/l"
@@ -13351,48 +13351,48 @@
       },
       {
         "code": "ammonium",
-        "samples": 0.2,
-        "value": 26,
+        "samples": 26,
+        "value": 0.03,
         "min": 0.03,
         "max": 0.03,
         "uom": "mg/l"
       },
       {
         "code": "nitrite",
-        "samples": 0.1,
-        "value": 26,
+        "samples": 26,
+        "value": 0.01,
         "min": 0.01,
         "max": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "nitrate",
-        "samples": 50,
-        "value": 2,
+        "samples": 2,
+        "value": 2.5,
         "min": 2.5,
         "max": 2.5,
         "uom": "mg/l"
       },
       {
         "code": "iron",
-        "samples": 200,
-        "value": 26,
+        "samples": 26,
+        "value": 10,
         "min": 10,
         "max": 20,
         "uom": "ug/l"
       },
       {
         "code": "manganese",
-        "samples": 50,
-        "value": 26,
+        "samples": 26,
+        "value": 10,
         "min": 10,
         "max": 10,
         "uom": "ug/l"
       },
       {
         "code": "arsenic",
-        "samples": 10,
-        "value": 2,
+        "samples": 2,
+        "value": 1,
         "min": 1,
         "max": 1,
         "uom": "ug/l"
@@ -13407,32 +13407,32 @@
       },
       {
         "code": "pt_co",
-        "samples": 20,
-        "value": 2,
+        "samples": 2,
+        "value": 9.35,
         "min": 9.2,
         "max": 9.5,
         "uom": "mg/l"
       },
       {
         "code": "coli",
-        "samples": 1,
-        "value": 52,
+        "samples": 52,
+        "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu/dl"
       },
       {
         "code": "e_coli",
-        "samples": 1,
-        "value": 52,
+        "samples": 52,
+        "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu/dl"
       },
       {
         "code": "aeromonas",
-        "samples": 1000,
-        "value": 14,
+        "samples": 14,
+        "value": 2,
         "min": 0,
         "max": 8,
         "uom": "cfu/dl"
@@ -16235,8 +16235,8 @@
     "observations": [
       {
         "code": "watertemperature",
-        "samples": 25,
-        "value": 7,
+        "samples": 7,
+        "value": 14.01,
         "min": 13.8,
         "max": 15,
         "uom": "degC"
@@ -16251,16 +16251,16 @@
       },
       {
         "code": "turbidity",
-        "samples": 1,
-        "value": 26,
+        "samples": 26,
+        "value": 0.1,
         "min": 0.1,
         "max": 0.16,
         "uom": "ftu"
       },
       {
         "code": "acidity",
-        "samples": 9.5,
-        "value": 26,
+        "samples": 26,
+        "value": 7.61,
         "min": 7.52,
         "max": 7.66,
         "uom": "pH"
@@ -16275,8 +16275,8 @@
       },
       {
         "code": "conductance",
-        "samples": 125,
-        "value": 7,
+        "samples": 7,
+        "value": 31,
         "min": 31,
         "max": 31,
         "uom": "mS/m"
@@ -16299,24 +16299,24 @@
       },
       {
         "code": "chloride",
-        "samples": 150,
-        "value": 2,
+        "samples": 2,
+        "value": 8.35,
         "min": 7.8,
         "max": 8.9,
         "uom": "mg/l"
       },
       {
         "code": "sulfate",
-        "samples": 150,
-        "value": 2,
+        "samples": 2,
+        "value": 1,
         "min": 1,
         "max": 1,
         "uom": "mg/l"
       },
       {
         "code": "natrium",
-        "samples": 150,
-        "value": 2,
+        "samples": 2,
+        "value": 14,
         "min": 14,
         "max": 14,
         "uom": "mg/l"
@@ -16355,40 +16355,40 @@
       },
       {
         "code": "ammonium",
-        "samples": 0.2,
-        "value": 26,
+        "samples": 26,
+        "value": 0.03,
         "min": 0.03,
         "max": 0.03,
         "uom": "mg/l"
       },
       {
         "code": "nitrite",
-        "samples": 0.1,
-        "value": 26,
+        "samples": 26,
+        "value": 0.01,
         "min": 0.01,
         "max": 0.01,
         "uom": "mg/l"
       },
       {
         "code": "nitrate",
-        "samples": 50,
-        "value": 2,
+        "samples": 2,
+        "value": 2.6,
         "min": 1.3,
         "max": 3.9,
         "uom": "mg/l"
       },
       {
         "code": "iron",
-        "samples": 200,
-        "value": 26,
+        "samples": 26,
+        "value": 10,
         "min": 10,
         "max": 10,
         "uom": "ug/l"
       },
       {
         "code": "manganese",
-        "samples": 50,
-        "value": 26,
+        "samples": 26,
+        "value": 10,
         "min": 10,
         "max": 13,
         "uom": "ug/l"
@@ -16403,32 +16403,32 @@
       },
       {
         "code": "pt_co",
-        "samples": 20,
-        "value": 2,
+        "samples": 2,
+        "value": 3.05,
         "min": 2.7,
         "max": 3.4,
         "uom": "mg/l"
       },
       {
         "code": "coli",
-        "samples": 1,
-        "value": 26,
+        "samples": 26,
+        "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu/dl"
       },
       {
         "code": "e_coli",
-        "samples": 1,
-        "value": 26,
+        "samples": 26,
+        "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu/dl"
       },
       {
         "code": "aeromonas",
-        "samples": 1000,
-        "value": 2,
+        "samples": 2,
+        "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu/dl"
@@ -17982,24 +17982,24 @@
     "observations": [
       {
         "code": "watertemperature",
-        "samples": 25,
-        "value": 7,
+        "samples": 7,
+        "value": 12.37,
         "min": 11.9,
         "max": 12.9,
         "uom": "degC"
       },
       {
         "code": "oxygen",
-        "samples": 2,
-        "value": 26,
+        "samples": 26,
+        "value": 8.66,
         "min": 8.3,
         "max": 9,
         "uom": "mg/l"
       },
       {
         "code": "turbidity",
-        "samples": 1,
-        "value": 26,
+        "samples": 26,
+        "value": 0.13,
         "min": 0.1,
         "max": 0.26,
         "uom": "ftu"
@@ -18022,16 +18022,16 @@
       },
       {
         "code": "saturation",
-        "samples": -0.2,
-        "value": 15,
+        "samples": 15,
+        "value": 0.04,
         "min": 0.01,
         "max": 0.08,
         "uom": "pH"
       },
       {
         "code": "conductance",
-        "samples": 125,
-        "value": 13,
+        "samples": 13,
+        "value": 29.69,
         "min": 29,
         "max": 30,
         "uom": "mS/m"
@@ -18046,32 +18046,32 @@
       },
       {
         "code": "bicarbonate",
-        "samples": 60,
-        "value": 13,
+        "samples": 13,
+        "value": 156.92,
         "min": 150,
         "max": 170,
         "uom": "mg/l"
       },
       {
         "code": "chloride",
-        "samples": 150,
-        "value": 2,
+        "samples": 2,
+        "value": 15,
         "min": 15,
         "max": 15,
         "uom": "mg/l"
       },
       {
         "code": "sulfate",
-        "samples": 150,
-        "value": 2,
+        "samples": 2,
+        "value": 18,
         "min": 17,
         "max": 19,
         "uom": "mg/l"
       },
       {
         "code": "natrium",
-        "samples": 150,
-        "value": 2,
+        "samples": 2,
+        "value": 13.5,
         "min": 13,
         "max": 14,
         "uom": "mg/l"
@@ -18102,32 +18102,32 @@
       },
       {
         "code": "hardness",
-        "samples": 1,
-        "value": 2,
+        "samples": 2,
+        "value": 1.35,
         "min": 1.3,
         "max": 1.4,
         "uom": "mmol/l"
       },
       {
         "code": "ammonium",
-        "samples": 0.2,
-        "value": 26,
+        "samples": 26,
+        "value": 0.03,
         "min": 0.03,
         "max": 0.12,
         "uom": "mg/l"
       },
       {
         "code": "nitrite",
-        "samples": 0.1,
-        "value": 26,
+        "samples": 26,
+        "value": 0.01,
         "min": 0.01,
         "max": 0.02,
         "uom": "mg/l"
       },
       {
         "code": "nitrate",
-        "samples": 50,
-        "value": 2,
+        "samples": 2,
+        "value": 2.45,
         "min": 2.2,
         "max": 2.7,
         "uom": "mg/l"
@@ -18142,31 +18142,31 @@
       },
       {
         "code": "iron",
-        "samples": 200,
-        "value": 26,
+        "samples": 26,
+        "value": 17.04,
         "min": 12,
         "max": 23,
         "uom": "ug/l"
       },
       {
         "code": "manganese",
-        "samples": 50,
-        "value": 26,
+        "samples": 26,
+        "value": 10,
         "min": 10,
         "max": 10,
         "uom": "ug/l"
       },
       {
         "code": "aluminum",
-        "samples": 200,
-        "value": 1,
+        "samples": 1,
+        "value": 5,
         "min": 5,
         "max": 5,
         "uom": "ug/l"
       },
       {
         "code": "antimony",
-        "samples": 5,
+        "samples": 1,
         "value": 1,
         "min": 1,
         "max": 1,
@@ -18174,8 +18174,8 @@
       },
       {
         "code": "arsenic",
-        "samples": 10,
-        "value": 2,
+        "samples": 2,
+        "value": 1,
         "min": 1,
         "max": 1,
         "uom": "ug/l"
@@ -18198,23 +18198,23 @@
       },
       {
         "code": "boron",
-        "samples": 500,
-        "value": 1,
+        "samples": 1,
+        "value": 52,
         "min": 52,
         "max": 52,
         "uom": "ug/l"
       },
       {
         "code": "cadmium",
-        "samples": 5,
-        "value": 1,
+        "samples": 1,
+        "value": 0.1,
         "min": 0.1,
         "max": 0.1,
         "uom": "ug/l"
       },
       {
         "code": "chromium",
-        "samples": 50,
+        "samples": 1,
         "value": 1,
         "min": 1,
         "max": 1,
@@ -18230,8 +18230,8 @@
       },
       {
         "code": "copper",
-        "samples": 2000,
-        "value": 1,
+        "samples": 1,
+        "value": 5,
         "min": 5,
         "max": 5,
         "uom": "ug/l"
@@ -18239,14 +18239,14 @@
       {
         "code": "mercury",
         "samples": 1,
-        "value": 1,
+        "value": 0.06,
         "min": 0.06,
         "max": 0.06,
         "uom": "ug/l"
       },
       {
         "code": "lead",
-        "samples": 10,
+        "samples": 1,
         "value": 1,
         "min": 1,
         "max": 1,
@@ -18254,7 +18254,7 @@
       },
       {
         "code": "nickel",
-        "samples": 20,
+        "samples": 1,
         "value": 1,
         "min": 1,
         "max": 1,
@@ -18262,7 +18262,7 @@
       },
       {
         "code": "selenium",
-        "samples": 10,
+        "samples": 1,
         "value": 1,
         "min": 1,
         "max": 1,
@@ -18294,8 +18294,8 @@
       },
       {
         "code": "zinc",
-        "samples": 3000,
-        "value": 1,
+        "samples": 1,
+        "value": 5,
         "min": 5,
         "max": 5,
         "uom": "ug/l"
@@ -18303,14 +18303,14 @@
       {
         "code": "fluoride",
         "samples": 1,
-        "value": 1,
+        "value": 0.09,
         "min": 0.09,
         "max": 0.09,
         "uom": "mg/l"
       },
       {
         "code": "cyanide",
-        "samples": 50,
+        "samples": 1,
         "value": 1,
         "min": 1,
         "max": 1,
@@ -18326,40 +18326,40 @@
       },
       {
         "code": "pt_co",
-        "samples": 20,
-        "value": 2,
+        "samples": 2,
+        "value": 7.35,
         "min": 7.3,
         "max": 7.4,
         "uom": "mg/l"
       },
       {
         "code": "trihalomethanes",
-        "samples": 25,
-        "value": 1,
+        "samples": 1,
+        "value": 0.1,
         "min": 0.1,
         "max": 0.1,
         "uom": "ug/l"
       },
       {
         "code": "coli",
-        "samples": 1,
-        "value": 52,
+        "samples": 52,
+        "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu/dl"
       },
       {
         "code": "e_coli",
-        "samples": 1,
-        "value": 52,
+        "samples": 52,
+        "value": 0,
         "min": 0,
         "max": 0,
         "uom": "cfu/dl"
       },
       {
         "code": "aeromonas",
-        "samples": 1000,
-        "value": 26,
+        "samples": 26,
+        "value": 68.73,
         "min": 16,
         "max": 230,
         "uom": "cfu/dl"

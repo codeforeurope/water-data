@@ -18,6 +18,25 @@ function processValue(value){
   var res = value.replace(",", ".");
   return parseFloat(res);
 }
+function processUom(uom){
+  uom = uom.replace(encoding='utf-8');
+  switch (true) {
+    case uom.indexOf('°C') != -1: return 'degC';
+    case uom.indexOf('FTE') != -1: return 'ftu';
+    case uom.indexOf('pH') != -1: return 'pH';
+    case uom.indexOf('SI') != -1: return 'pH';
+    case uom.indexOf('Bq/l') != -1: return 'Bq/l';
+    case uom.indexOf('mS/m') != -1: return 'mS/m';
+    case uom.indexOf('kve/l') != -1: return 'cfu/l';
+    case uom.indexOf('kve/ml') != -1: return 'cfu/ml';
+    case uom.indexOf('kve/100 ml') != -1: return 'cfu/dl';
+    case uom.indexOf('μg/l') != -1: return 'ug/l';
+    case uom.indexOf('mmol/l') != -1: return 'mmol/l';
+    case uom.indexOf('mg/l') != -1: return 'mg/l';
+    default:
+      return 'MISSING';
+  }
+}
 
 function getIssued(value){
   //Year and issued
@@ -331,23 +350,7 @@ function parsecsv(filename, cb){
         default:
           code = 'MISSING';
       }
-      switch (true) {
-        case jsonObj.EENHEID.indexOf('°C') != -1: uom = 'degC'; break;
-        case jsonObj.EENHEID.indexOf('FTE') != -1: uom = 'ftu'; break;
-        case jsonObj.EENHEID.indexOf('pH') != -1: uom = 'pH'; break;
-        case jsonObj.EENHEID.indexOf('SI') != -1: uom = 'pH'; break;
-        case jsonObj.EENHEID.indexOf('Bq/l') != -1: uom = 'Bq/l'; break;
-        case jsonObj.EENHEID.indexOf('mS/m') != -1: uom = 'mS/m'; break;
-        case jsonObj.EENHEID.indexOf('kve/l') != -1: uom = 'cfu/l'; break;
-        case jsonObj.EENHEID.indexOf('kve/ml') != -1: uom = 'cfu/ml'; break;
-        case jsonObj.EENHEID.indexOf('kve/100 ml') != -1: uom = 'cfu/dl'; break;
-        case jsonObj.EENHEID.indexOf('μg/l') != -1: uom = 'ug/l'; break;
-        case jsonObj.EENHEID.indexOf('mmol/l') != -1: uom = 'mmol/l'; break;
-        case jsonObj.EENHEID.indexOf('mg/l') != -1: uom = 'mg/l'; break;
-        default:
-          uom = 'MISSING';
-      }
-
+      uom = processUom(jsonObj.EENHEID);
       if(uom !== 'MISSING' && code !== 'MISSING') {
         if(filename.indexOf('Drinkwaterkwaliteit') != -1) {
           // Split field 4
@@ -399,6 +402,16 @@ function parsecsv(filename, cb){
               "value": processValue(values3[1]),
               "min": processValue(values3[2]),
               "max": processValue(values3[3]),
+              "uom": uom
+            };
+          }
+          if(values2.length === 3 && values3.length === 2){
+            observation = {
+              "code": code,
+              "samples": processValue(values2[1]),
+              "value": processValue(values2[2]),
+              "min": processValue(values3[0]),
+              "max": processValue(values3[1]),
               "uom": uom
             };
           }
