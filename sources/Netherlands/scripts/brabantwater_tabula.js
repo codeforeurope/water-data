@@ -405,6 +405,16 @@ function parsecsv(filename, cb){
               "uom": uom
             };
           }
+          if(values2.length === 4 && values3.length === 2){
+            observation = {
+              "code": code,
+              "samples": processValue(values2[2]),
+              "value": processValue(values2[3]),
+              "min": processValue(values3[0]),
+              "max": processValue(values3[1]),
+              "uom": uom
+            };
+          }
           if(values2.length === 3 && values3.length === 2){
             observation = {
               "code": code,
