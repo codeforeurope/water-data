@@ -88,14 +88,16 @@ var results = {
   "sources":[url]
 };
 request(url, function(error, response, html){
+  console.log("processing");
+  console.log(error);
   if(!error){
     var title;
     var $ = cheerio.load(html);
-    $('#waterkwaliteit caption').filter(function(){
+    $('table caption').filter(function(){
       var data = $(this);
       results.name = data[0].children[0].data;
 
-      $('#waterkwaliteit > tbody > tr').filter(function(){
+      $('table > tbody > tr').filter(function(){
         var data = $(this);
         //console.log(data.children().length);
         var row = data.children();
@@ -147,8 +149,12 @@ request(url, function(error, response, html){
           results.year = '2017';
           results.issued = "2017-03-31T23:59:00.000Z";
           break;
+        case results.name.indexOf('2018') != -1 && results.name.indexOf('1e kwartaal') != -1:
+          results.year = '2018';
+          results.issued = "2018-03-31T23:59:00.000Z";
+          break;
       }
-      fs.writeFile('../../../reports/waternet.json', JSON.stringify([results], null,2), 'utf8', function(err,result){
+      fs.writeFile('../../../reports/waternet-q1-2018.json', JSON.stringify([results], null,2), 'utf8', function(err,result){
          console.log("Write waternet.json");
       });
     });

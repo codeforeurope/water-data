@@ -1,4 +1,232 @@
-[
+[{
+    "name": "Meetresultaten waterkwaliteit 1e kwartaal 2018",
+    "issued": "2018-03-31T23:59:00.000Z",
+    "year": "2018",
+    "authority": "waternet",
+    "operator": "waternet",
+    "observations": [
+      {
+        "code": "aluminum",
+        "uom": "ug/l",
+        "min": 1,
+        "value": 1.2,
+        "max": 2.4
+      },
+      {
+        "code": "arsenic",
+        "uom": "ug/l",
+        "min": 0.5,
+        "value": 0.9,
+        "max": 2
+      },
+      {
+        "code": "boron",
+        "uom": "mg/l",
+        "min": 0.02,
+        "value": 0.03,
+        "max": 0.04
+      },
+      {
+        "code": "calcium",
+        "uom": "mg/l",
+        "min": 36,
+        "value": 43,
+        "max": 52
+      },
+      {
+        "code": "chloride",
+        "uom": "mg/l",
+        "min": 54,
+        "value": 64,
+        "max": 76
+      },
+      {
+        "code": "carbondioxide",
+        "uom": "mg/l",
+        "min": 2.2,
+        "value": 2.8,
+        "max": 3.5
+      },
+      {
+        "code": "conductance",
+        "uom": "mS/m",
+        "min": 44.1,
+        "value": 51.3,
+        "max": 55.2
+      },
+      {
+        "code": "fluoride",
+        "uom": "mg/l",
+        "min": 0.05,
+        "value": 0.09,
+        "max": 0.12
+      },
+      {
+        "code": "iron",
+        "uom": "mg/l",
+        "min": 0.01,
+        "value": 0.01,
+        "max": 0.01
+      },
+      {
+        "code": "turbidity",
+        "uom": "ftu",
+        "min": 0.03,
+        "value": 0.04,
+        "max": 0.76
+      },
+      {
+        "code": "bicarbonate",
+        "uom": "mg/l",
+        "min": 172,
+        "value": 184,
+        "max": 223
+      },
+      {
+        "code": "mercury",
+        "uom": "ug/l",
+        "min": 0.02,
+        "value": 0.02,
+        "max": 0.02
+      },
+      {
+        "code": "hardness",
+        "uom": "mmol/l",
+        "min": 1.24,
+        "value": 1.38,
+        "max": 1.56
+      },
+      {
+        "code": "pt_co",
+        "uom": "mg/l",
+        "min": 1,
+        "value": 2,
+        "max": 3
+      },
+      {
+        "code": "magnesium",
+        "uom": "mg/l",
+        "min": 6.1,
+        "value": 7.8,
+        "max": 9.7
+      },
+      {
+        "code": "manganese",
+        "uom": "mg/l",
+        "min": 0.01,
+        "value": 0.01,
+        "max": 0.01
+      },
+      {
+        "code": "natrium",
+        "uom": "mg/l",
+        "min": 46,
+        "value": 60,
+        "max": 75
+      },
+      {
+        "code": "ammonium",
+        "uom": "mg/l",
+        "min": 0.02,
+        "value": 0.02,
+        "max": 0.02
+      },
+      {
+        "code": "nitrite",
+        "uom": "mg/l",
+        "min": 0.007,
+        "value": 0.007,
+        "max": 0.013
+      },
+      {
+        "code": "nitrate",
+        "uom": "mg/l",
+        "min": 4.71,
+        "value": 6.02,
+        "max": 7.32
+      },
+      {
+        "code": "oxygen",
+        "uom": "mg/l",
+        "min": 9.4,
+        "value": 12.2,
+        "max": 15.9
+      },
+      {
+        "code": "selenium",
+        "uom": "ug/l",
+        "min": 0.5,
+        "value": 0.5,
+        "max": 0.5
+      },
+      {
+        "code": "saturation",
+        "uom": "pH",
+        "min": 0.18,
+        "value": 0.31,
+        "max": 0.48
+      },
+      {
+        "code": "sulfate",
+        "uom": "mg/l",
+        "min": 7,
+        "value": 26,
+        "max": 45
+      },
+      {
+        "code": "watertemperature",
+        "uom": "degC",
+        "min": 1.5,
+        "value": 6.6,
+        "max": 9.8
+      },
+      {
+        "code": "aeromonas",
+        "uom": "cfu/dl",
+        "min": 0,
+        "value": 0,
+        "max": 3
+      },
+      {
+        "code": "clostridium",
+        "uom": "cfu/dl",
+        "min": 0,
+        "value": 0,
+        "max": 0
+      },
+      {
+        "code": "coli",
+        "uom": "cfu/dl",
+        "min": 0,
+        "value": 0,
+        "max": 1
+      },
+      {
+        "code": "enterococci",
+        "uom": "cfu/dl",
+        "min": 0,
+        "value": 0,
+        "max": 0
+      },
+      {
+        "code": "legionella",
+        "uom": "cfu/l",
+        "min": 100,
+        "value": 100,
+        "max": 100
+      }
+    ],
+    "zones": [
+      "waternet",
+      "heemskerk"
+    ],
+    "plants": [
+      "leiduin"
+    ],
+    "sources": [
+      "https://www.waternet.nl/ons-water/drinkwater/kwaliteit-van-ons-drinkwater/"
+    ]
+  },
   {
     "name": "Meetresultaten waterkwaliteit 1e kwartaal 2017",
     "issued": "2017-03-31T23:59:00.000Z",
